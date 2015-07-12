@@ -49,11 +49,12 @@ BT Sync 如今出到 2.0 版本。但是功能有限制——最多只能添加1
 
 俺共享的 PDF 格式电子书， '''无需密码''' 即可阅读。如果你无法打开 PDF 文件或者打开过程中提示输入密码，那应该是你的 PDF 阅读器 '''版本不够新''' 。用如下几款软件可以正常阅读。
 
-* Acrobat Reader 7.0 或者更高的版本（Acrobat Reader 太臃肿，不推荐）
-* Foxit Reader 3.1.0 或者更高的版本（绿色软件，推荐使用）
-* PDF-XChange Viewer 2.0 或者更高的版本（绿色软件，推荐使用）
-* 如果你用 Chrome 浏览器，把 PDF 文件直接拖到 Chrome 窗口里，就可以看
-* 如果你用 Firefox 浏览器（版本 >= 19.0），把 PDF 文件直接拖到 Firefox 窗口里，就可以看
+* [https://en.wikipedia.org/wiki/Sumatra_PDF Sumatra PDF] 2.0 或者更高版本（绿色软件，除了支持 PDF，还支持其它格式，强烈推荐使用）
+* [https://en.wikipedia.org/wiki/Foxit_Reader Foxit Reader] 3.1.0 或者更高的版本（绿色软件，推荐使用）
+* [https://en.wikipedia.org/wiki/PDF-XChange_Viewer PDF-XChange Viewer] 2.0 或者更高的版本（绿色软件，推荐使用）
+* [https://en.wikipedia.org/wiki/Adobe_Acrobat Acrobat Reader] 7.0 或者更高的版本（Acrobat Reader 太臃肿，不推荐）
+* 如果你使用 Chrome 浏览器，把 PDF 文件直接拖到 Chrome 窗口里，就可以看
+* 如果你使用 Firefox 浏览器（版本 >= 19.0），把 PDF 文件直接拖到 Firefox 窗口里，就可以看
 
 <h3>EPUB 格式</h3>
 
