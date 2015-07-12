@@ -1238,9 +1238,9 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 高级宏观经济学 || Advanced Macroeconomics || (美) [https://en.wikipedia.org/wiki/David_Romer David Romer] || 简体PDF(第2版 扫描版) || 2014-07-15 || [http://goo.gl/6RivOe 简介]
 |-
-| 中级微观经济学 || Intermediate Microeconomics || (美) [https://en.wikipedia.org/wiki/Hal_Varian Hal Varian / 范里安] || 简体PDF(第8版) || 2015-07-12 || [http://goo.gl/mfhQZY 简介]
+| 中级微观经济学 || Intermediate Microeconomics || (美) [https://en.wikipedia.org/wiki/Hal_Varian 范里安] || 简体PDF(第8版) || 2015-07-12 || [http://goo.gl/mfhQZY 简介]
 |-
-| 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian Hal Varian / 范里安] || 简体PDF(第3版) || 2014-07-15 || [http://goo.gl/LDZYqw 简介]
+| 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian 范里安] || 简体PDF(第3版) || 2014-07-15 || [http://goo.gl/LDZYqw 简介]
 |-
 | 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [http://goo.gl/ejlYr5 简介]
 |-
@@ -1261,6 +1261,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 | 自由选择<br>——个人声明<br>''其它中文名：''<br>选择的自由 || Free to Choose<br>——A personal statement || (美) [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-03-24<br>2013-09-13<br>2015-02-14<br>2013-04-09 || [http://goo.gl/TEymaB 简介]
 |-
 | 资本主义与自由 || Capitalism and Freedom || (美) [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF<br>简体MOBI || 2014-02-13<br>2015-02-14 || [http://goo.gl/wmfmJE 简介]
+|-
+| 对我们生活的误测<br>——为什么 GDP 增长不等于社会进步 || Mismeasuring Our Lives<br>——Why GDP Doesn't Add Up || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E6%96%AF%E8%92%82%E6%A0%BC%E5%88%A9%E8%8C%A8 约瑟夫·斯蒂格利茨]<br>(印度) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF(扫描版) || 2015-07-12 || [http://goo.gl/cIi959 简介]
 |-
 | 充满灵性的经济学 || Economics from the Heart<br>——A Samuelson Sampler || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 萨缪尔森] || 简体PDF(扫描版) || 2013-04-09 || [http://goo.gl/mY3e9r 简介]
 |-
