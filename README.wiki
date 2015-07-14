@@ -430,7 +430,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 文革研究 || N/A || (多人) || 简体PDF || 2012-04-06 || [http://goo.gl/Zksp1c 简介]
 |-
-| 周恩来文革讲话集(1966-1975) || N/A || 周恩来 || 简体TXT || 2014-03-20 || [http://goo.gl/UyoK5m 简介]
+| 周恩来文革讲话集 || N/A || 周恩来 || 简体TXT<br>简体PDF(拍照版) || 2014-03-20<br>2015-07-14 || [http://goo.gl/UyoK5m 简介]
 |-
 | 红卫兵档案 || N/A || 吴过 || 简体PDF || 2012-04-06 || [http://goo.gl/SAZldd 简介]
 |-
