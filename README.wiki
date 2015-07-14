@@ -236,6 +236,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 极权主义的起源 || The Origins of Totalitarianism || (美) [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || 简体PDF<br>简体CHM<br>简体MOBI || 2012-10-06<br>2012-10-14<br>2014-02-23 || [http://goo.gl/NUhGJg 简介]
 |-
+| 极权主义民主的起源 || The Origins of Totalitarian Democracy || (以) [https://en.wikipedia.org/wiki/Jacob_Talmon 雅各布·塔尔蒙] || 简体PDF(扫描版) || 2015-07-14 || [http://goo.gl/ID3XpW 简介]
+|-
 | 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions About Uncertain Democracies || (阿根廷) [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈]<br>(美) [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF(扫描版) || 2013-08-21 || [http://goo.gl/GtLlHy 简介]
 |-
 | 新常识<br>——一党专制的性质与后果 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体PDF<br>简体EPUB || 2013-10-19<br>2014-03-29 || [http://goo.gl/fYtRUx 简介]
