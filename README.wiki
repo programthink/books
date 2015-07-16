@@ -677,6 +677,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 胡汉民自传 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E6%BC%A2%E6%B0%91 胡汉民] || 繁體DJVU(竪排掃描版) || 2015-07-16 || [http://goo.gl/Hz2W60 简介]
 |-
 | 白崇禧回忆录 || [https://zh.wikipedia.org/wiki/%E7%99%BD%E5%B4%87%E7%A6%A7 白崇禧] || 简体PDF(扫描版) || 2015-07-16 || [http://goo.gl/rADGmP 简介]
+|-
+| 成败之鉴<br>——陈立夫回忆录 || [https://zh.wikipedia.org/wiki/%E9%99%B3%E7%AB%8B%E5%A4%AB 陈立夫] || 繁體PDF(竪排掃描版) || 2015-07-16 || [http://goo.gl/VioJtc 简介]
 |}
 
 ==== 1.3.2.3 太子党关系网络 ====
