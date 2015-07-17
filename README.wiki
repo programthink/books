@@ -1465,7 +1465,7 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 菊与刀 || The Chrysanthemum and the Sword || (美) [https://zh.wikipedia.org/wiki/%E9%B2%81%E6%80%9D%C2%B7%E6%9C%AC%E5%B0%BC%E8%BF%AA%E5%85%8B%E7%89%B9 本尼迪克特] || 简体PDF || 2014-01-09 || [http://goo.gl/tFc6Q2 简介]
+| 菊与刀<br>''其它中文名：''<br>菊花与刀 || The Chrysanthemum and the Sword || (美) [https://zh.wikipedia.org/wiki/%E9%B2%81%E6%80%9D%C2%B7%E6%9C%AC%E5%B0%BC%E8%BF%AA%E5%85%8B%E7%89%B9 本尼迪克特] || 简体PDF<br>简体EPUB(增订版) || 2014-01-09<br>2015-07-17 || [http://goo.gl/tFc6Q2 简介]
 |}
 
 ----
