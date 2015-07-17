@@ -674,6 +674,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 蒋经国自述 || [https://zh.wikipedia.org/wiki/%E8%94%A3%E7%B6%93%E5%9C%8B 蒋经国] || 简体PDF || 2015-02-09 || [http://goo.gl/TRbT6g 简介]
 |-
+| 我在苏联的生活 || [https://zh.wikipedia.org/wiki/%E8%94%A3%E7%B6%93%E5%9C%8B 蒋经国] || 繁體PDF(竪排掃描版) || 2015-07-17 || [http://goo.gl/RcfyIg 简介]
+|-
 | 胡汉民自传 || [https://zh.wikipedia.org/wiki/%E8%83%A1%E6%BC%A2%E6%B0%91 胡汉民] || 繁體DJVU(竪排掃描版) || 2015-07-16 || [http://goo.gl/Hz2W60 简介]
 |-
 | 白崇禧回忆录 || [https://zh.wikipedia.org/wiki/%E7%99%BD%E5%B4%87%E7%A6%A7 白崇禧] || 简体PDF(扫描版) || 2015-07-16 || [http://goo.gl/rADGmP 简介]
