@@ -1194,7 +1194,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 希腊城邦制度<br>——读希腊史笔记 || N/A || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || 简体PDF<br>简体MOBI || 2013-02-07<br>2015-02-13 || [http://goo.gl/7UnfRU 简介]
 |-
-| 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF || 2013-02-07 || [http://goo.gl/Kv4Ltu 简介]
+| 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版) || 2013-02-07<br>2015-07-18 || [http://goo.gl/Kv4Ltu 简介]
 |}
 
 == 3.5 古罗马 ==
