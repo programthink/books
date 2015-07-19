@@ -1421,7 +1421,7 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 中国人的性格<br>''其它中文名：''<br>中国人的素质 || Chinese Characteristics || (美) [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 阿瑟·史密斯] (中文名：明恩溥) || 简体PDF<br>简体EPUB<br>简体TXT || 2011-02-09<br>2013-09-13<br>2012-03-19 || [http://goo.gl/jKNM50 简介]
+| 中国人的性格<br>''其它中文名：''<br>中国人的素质 || Chinese Characteristics || (美) [https://zh.wikipedia.org/wiki/%E6%98%8E%E6%81%A9%E6%BA%A5 阿瑟·史密斯] (中文名：明恩溥) || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2011-02-09<br>2013-09-13<br>2015-07-19<br>2012-03-19 || [http://goo.gl/jKNM50 简介]
 |-
 | 丑陋的中国人 || N/A || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏杨] (原名：郭定生) || 简体TXT || 2012-10-06 || [http://goo.gl/MPB7iM 简介]
 |-
