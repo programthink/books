@@ -516,6 +516,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 战后中共夺取东北始末 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 繁體PDF || 2012-12-11 || [http://goo.gl/IRVAvk 简介]
 |-
+| 陈诚先生回忆录<br>——国共战争 || N/A || [https://zh.wikipedia.org/wiki/%E9%99%B3%E8%AA%A0 陈诚] || 繁體PDF || 2015-07-19 || [http://goo.gl/hdQz3G 简介]
+|-
 | 大江大海 一九四九 || Big River, Big Sea || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || 简体PDF<br>简体EPUB<br>繁體PDF(豎排掃描版) || 2013-01-17<br>2013-09-13<br>2012-11-17 || [http://goo.gl/Yqcjy0 简介]
 |}
 
