@@ -176,6 +176,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 自由史论 || The History of Freedom and Other Essays || (英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] || 简体PDF(扫描版) || 2014-07-27 || [http://goo.gl/aOPps4 简介]
 |-
+| 古典自由主义<br>——入门读物 || Libertarianism<br>——A Primer || (美) [https://en.wikipedia.org/wiki/David_Boaz 大卫·鲍兹] || 英文PDF || 2015-07-19 || [http://goo.gl/e3HrTV 简介]
+|-
 | 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || (法) [https://en.wikipedia.org/wiki/Benjamin_Constant 贡斯当] || 简体PDF(扫描版)<br>简体MOBI || 2014-06-22<br>2015-05-11 || [http://goo.gl/TK9odN 简介]
 |-
 | 欧洲自由主义史 || The History of European Liberalism || (意) [https://en.wikipedia.org/wiki/Guido_De_Ruggiero Guido De Ruggiero] || 简体PDF(扫描版) || 2015-01-12 || [http://goo.gl/y9esrP 简介]
