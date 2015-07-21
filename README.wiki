@@ -1927,14 +1927,10 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 
 == 10.4 操作系统 ==
 
-=== 10.4.1 UNIX 和 Linux ===
+=== 10.4.1 使用教程 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
-|-
-| UNIX 操作系统设计 || The Design of the UNIX Operating System || (美) Maurice Bach || 简体PDF<br>英文PDF || 2013-10-21<br>2015-05-12 || [http://goo.gl/6Cki8r 简介]
-|-
-| 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF(第3版)<br>英文CHM(第3版) || 2013-12-06<br>2013-10-21 || [http://goo.gl/AnEhsC 简介]
 |-
 | Shell 脚本学习指南 || Classic Shell Scripting || Arnold Robbins<br>Nelson Beebe || 简体PDF(扫描版) || 2014-05-18 || [http://goo.gl/xtayXE 简介]
 |-
@@ -1943,6 +1939,16 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 鸟哥的 Linux 私房菜 || N/A || 鸟哥 || 简体PDF || 2013-12-06 || [http://goo.gl/kxwsXH 简介]
 |-
 | Linux 从入门到精通 || N/A || N/A || 简体PDF(扫描版) || 2013-12-06 || [http://goo.gl/KtGsEM 简介]
+|}
+
+=== 10.4.2 操作系统原理 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| UNIX 操作系统设计 || The Design of the UNIX Operating System || (美) Maurice Bach || 简体PDF<br>英文PDF || 2013-10-21<br>2015-05-12 || [http://goo.gl/6Cki8r 简介]
+|-
+| 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF(第3版)<br>英文CHM(第3版) || 2013-12-06<br>2013-10-21 || [http://goo.gl/AnEhsC 简介]
 |}
 
 == 10.5 网络 ==
