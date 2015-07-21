@@ -1720,7 +1720,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| C 程序设计语言 || The C Programming Language || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体EPUB || 2015-07-21 || [http://goo.gl/yFaJ8Q 简介]
+| C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体EPUB || 2015-07-21 || [http://goo.gl/yFaJ8Q 简介]
 |-
 | 21世纪 C 语言技巧 || 21st Century C<br>——C Tips from the New School || Ben Klemens || 简体EPUB || 2015-07-21 || [http://goo.gl/bvNRHV 简介]
 |}
@@ -1730,7 +1730,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| C++ 程序设计语言 || The C++ Programming Language (TCPPPL) || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF(特别版)<br>简体PDF(特别版 扫描版) || 2013-10-21<br>2013-10-29 || [http://goo.gl/3R591j 简介]
+| C++ 程序设计语言 || The C++ Programming Language<br>''知名缩写：''TCPPPL || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF(特别版)<br>简体PDF(特别版 扫描版) || 2013-10-21<br>2013-10-29 || [http://goo.gl/3R591j 简介]
 |-
 | Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (第3版) || 2013-10-21 || [http://goo.gl/z0x2kQ 简介]
 |-
@@ -1814,9 +1814,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| UNIX 编程艺术 || The Art of UNIX Programming (TAOUP) || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] || 简体PDF || 2013-10-20 || [http://goo.gl/ztgZsZ 简介]
+| UNIX 编程艺术 || The Art of UNIX Programming<br>''知名缩写：''TAOUP || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] || 简体PDF || 2013-10-20 || [http://goo.gl/ztgZsZ 简介]
 |-
-| UNIX 环境高级编程 || Advanced Programming in the UNIX Environment (APUE) || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯]<br>Stephen Rago || 简体PDF(第2版 扫描版)<br>英文PDF(第3版)<br>英文CHM(第2版) || 2014-05-13<br>2013-11-14<br>2013-10-21 || [http://goo.gl/IOMr5t 简介]
+| UNIX 环境高级编程 || Advanced Programming in the UNIX Environment<br>''知名缩写：''APUE || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯]<br>Stephen Rago || 简体PDF(第2版 扫描版)<br>英文PDF(第3版)<br>英文CHM(第2版) || 2014-05-13<br>2013-11-14<br>2013-10-21 || [http://goo.gl/IOMr5t 简介]
 |-
 | UNIX 系统编程 || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins<br>Steven Robbins || 英文CHM || 2013-10-21 || [http://goo.gl/PoSWKs 简介]
 |}
@@ -1852,7 +1852,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 软件随想录 || More Joel on Software || (美) [https://en.wikipedia.org/wiki/Joel_Spolsky Joel Spolsky] || 简体PDF(扫描版)<br>英文PDF || 2015-02-17<br>2015-01-11 || [http://goo.gl/ymMubS 简介]
 |-
-| 计算机程序的构造和解释 || Structure and Interpretation of Computer Programs || (美) [https://en.wikipedia.org/wiki/Harold_Abelson Harold Abelson]<br>(美) [https://en.wikipedia.org/wiki/Gerald_Jay_Sussman Gerald Jay Sussman] || 简体PDF(第2版 扫描版) || 2015-07-20 || [http://goo.gl/JX21mr 简介]
+| 计算机程序的构造和解释 || Structure and Interpretation of Computer Programs<br>''知名缩写：''SICP || (美) [https://en.wikipedia.org/wiki/Harold_Abelson Harold Abelson]<br>(美) [https://en.wikipedia.org/wiki/Gerald_Jay_Sussman Gerald Jay Sussman] || 简体PDF(第2版 扫描版) || 2015-07-20 || [http://goo.gl/JX21mr 简介]
 |}
 
 == 10.2 黑客文化 ==
