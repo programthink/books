@@ -1715,7 +1715,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 
 （本类别放置“具体编程语言相关”的编程类电子书）
 
-==== 10.1.2.1 C++ ====
+==== 10.1.2.1 C ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| C 程序设计语言 || The C Programming Language || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体EPUB || 2015-07-21 || [http://goo.gl/yFaJ8Q 简介]
+|}
+
+==== 10.1.2.2 C++ ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1741,7 +1749,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 大规模 C++ 程序设计 || Large-Scale C++ Software Design || John Lakos || 简体PDF(扫描版) || 2013-10-30 || [http://goo.gl/90vxXF 简介]
 |}
 
-==== 10.1.2.2 Python ====
+==== 10.1.2.3 Python ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1757,7 +1765,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 像计算机科学家一样思考 Python || Think Python<br>——How to Think Like a Computer Scientist || (美) [https://en.wikipedia.org/wiki/Allen_B._Downey Allen Downey] || 英文PDF || 2015-01-11 || [http://goo.gl/ugHVaz 简介]
 |}
 
-==== 10.1.2.3 Java ====
+==== 10.1.2.4 Java ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1765,7 +1773,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Java 编程思想 || Thinking in Java || (美) [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF(第4版)<br>简体PDF(第4版 扫描版) || 2013-10-21<br>2014-05-18 || [http://goo.gl/FDH9PW 简介]
 |}
 
-==== 10.1.2.4 Lisp ====
+==== 10.1.2.5 Lisp ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1777,7 +1785,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Basic Lisp Techniques || Basic Lisp Techniques || David Cooper || 英文PDF || 2015-01-11 || [http://goo.gl/RlZKp8 简介]
 |}
 
-==== 10.1.2.5 (其它) ====
+==== 10.1.2.6 (其它) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
