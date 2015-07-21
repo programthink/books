@@ -1878,7 +1878,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 密码学原理与实践 || Cryptography<br>——Theory and Practice || (加) [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF(第2版 扫描版)<br>英文CHM || 2013-10-21<br>2013-10-30 || [http://goo.gl/lU4rDA 简介]
 |-
-| 应用密码学<br>——协议、算法与C源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || (美) [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF(第2版 扫描版)<br>英文PDF(第2版) || 2013-11-26<br>2013-10-21 || [http://goo.gl/isnQom 简介]
+| 应用密码学<br>——协议、算法与 C 源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || (美) [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF(第2版 扫描版)<br>简体EPUB(第2版)<br>英文PDF(第2版) || 2013-11-26<br>2015-07-21<br>2013-10-21 || [http://goo.gl/isnQom 简介]
 |-
 | 密码编码学与网络安全<br>——原理与实践 || Cryptography and Network Security<br>——Principles and Practice || (美) [https://en.wikipedia.org/wiki/William_Stallings William Stallings] || 简体PDF(第3版 扫描版)<br>英文PDF(第5版) || 2013-11-18<br>2013-11-18 || [http://goo.gl/5h5vN7 简介]
 |}
