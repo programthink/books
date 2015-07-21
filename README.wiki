@@ -1903,6 +1903,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Arch Linux 官方安全手册 || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || N/A || [https://wiki.archlinux.org/index.php/security 英文WEB] || N/A || N/A
 |-
 | Gentoo 官方安全手册 || Gentoo Security Handbook || N/A || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文WEB] || N/A || N/A
+|-
+| Violent Python || Violent Python<br>——A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers || TJ O'Connor || 英文EPUB(第1版) || 2015-07-21 || [http://goo.gl/NvYio4 简介]
 |}
 
 === 10.3.4 入侵 ===
