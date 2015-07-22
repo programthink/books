@@ -739,7 +739,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 中国政府如何控制媒体<br>——中国人权研究报告 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF || 2013-01-13 || [http://goo.gl/AR4y4t 简介]
 |}
 
-=== 1.3.6 愚民教育 ===
+=== 1.3.6 教育问题 ===
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -771,7 +771,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 东突厥斯坦独立运动<br>——1930年代至1940年代 || N/A || 王柯 || 简体EPUB<br>简体MOBI || 2014-03-28<br>2014-03-28 || [http://goo.gl/tkmffH 简介]
 |}
 
-=== 1.3.8 司法黑暗 ===
+=== 1.3.8 司法问题 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -785,10 +785,12 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 狱后杂谈 || N/A || [https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E6%87%BF 欧阳懿] || 简体TXT || 2014-02-22 || [http://goo.gl/VQYSv9 简介]
 |}
 
-=== 1.3.9 环境污染和食品安全 ===
+=== 1.3.9 环境问题 ===
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 灾变论<br>——寻找另外一个中国 || [https://zh.wikipedia.org/wiki/%E4%BB%BB%E4%B8%8D%E5%AF%90 任不寐] || 简体HTML || 2015-02-15 || [http://goo.gl/uVRHcX 简介]
 |-
 | 中国冥路<br>——中国每年非常死亡480万 || 北明 || 繁體PDF || 2015-02-17 || [http://goo.gl/czsAeY 简介]
 |-
@@ -827,8 +829,6 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 通往比傻帝国 || N/A || [https://zh.wikipedia.org/wiki/%E5%86%89%E4%BA%91%E9%A3%9E 冉云飞] || 简体PDF(扫描版) || 2013-06-22 || [http://goo.gl/Kpl5a7 简介]
 |-
 | 不服从的江湖 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体PDF(扫描版) || 2013-05-19 || [http://goo.gl/Afi2tt 简介]
-|-
-| 灾变论<br>——寻找另外一个中国 || N/A || [https://zh.wikipedia.org/wiki/%E4%BB%BB%E4%B8%8D%E5%AF%90 任不寐] || 简体HTML || 2015-02-15 || [http://goo.gl/uVRHcX 简介]
 |-
 | 中国近百年人权思想 || N/A || 杜钢建 || 繁體EPUB<br>繁體MOBI || 2014-05-04<br>2014-05-04 || [http://goo.gl/9IJmJt 简介]
 |-
