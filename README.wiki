@@ -794,6 +794,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 灾变论<br>——寻找另外一个中国 || [https://zh.wikipedia.org/wiki/%E4%BB%BB%E4%B8%8D%E5%AF%90 任不寐] || 简体HTML || 2015-02-15 || [http://goo.gl/uVRHcX 简介]
 |-
+| 人口<br>——中国的悬剑 || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF || 2015-07-22 || [http://goo.gl/7Ustqv 简介]
+|-
 | 中国冥路<br>——中国每年非常死亡480万 || 北明 || 繁體PDF || 2015-02-17 || [http://goo.gl/czsAeY 简介]
 |-
 | 民以何食为天<br>——中国食品安全现状调查 || [https://zh.wikipedia.org/wiki/%E5%91%A8%E5%8B%8D 周勍] || 简体PDF(扫描版) || 2014-01-09 || [http://goo.gl/328y19 简介]
