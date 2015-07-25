@@ -264,7 +264,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || (美) [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || 简体PDF<br>简体MOBI<br>英文PDF || 2012-08-16<br>2015-02-17<br>2012-08-16 || [http://goo.gl/CxM7Ds 简介]
+| 从独裁到民主<br>——解放运动的概念框架 || From Dictatorship to Democracy || (美) [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || 简体PDF<br>简体MOBI<br>英文PDF<br>英文EPUB<br>英文MOBI || 2012-08-16<br>2015-02-17<br>2012-08-16<br>2015-07-25<br>2015-07-25 || [http://goo.gl/CxM7Ds 简介]
 |-
 | 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || (美) [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || 简体PDF<br>繁體PDF(掃描版) || 2013-03-16<br>2013-02-02 || [http://goo.gl/15iQKl 简介]
 |-
