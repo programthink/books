@@ -136,7 +136,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 历史的终结及最后之人 || The End of History and the Last Man || (美) [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 福山] || 简体PDF<br>简体EPUB || 2013-01-01<br>2013-09-13 || [http://goo.gl/0C1A8d 简介]
 |-
-| 联邦党人文集<br>''其它中文名：''<br>美国宪法原理 || The Federalist Papers || (美) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿]<br>(美) [https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E8%BF%AA%E9%80%8A 詹姆斯·麦迪逊]<br>(美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%B0%E4%BC%8A 约翰·杰伊] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2013-11-27<br>2014-01-09<br>2015-05-11 || [http://goo.gl/HqJha6 简介]
+| 联邦党人文集<br>''其它中文名：''<br>联邦主义论文集<br>美国宪法原理 || The Federalist Papers || (美) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿]<br>(美) [https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E8%BF%AA%E9%80%8A 詹姆斯·麦迪逊]<br>(美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%B0%E4%BC%8A 约翰·杰伊] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2013-11-27<br>2014-01-09<br>2015-05-11 || [http://goo.gl/HqJha6 简介]
 |-
 | 民主的历程<br>——公元前508年-1993年 || Democracy<br>——The unfinished journey 508 BC - 1993 AD || (英) [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 约翰·邓恩] (主编) || 简体PDF(扫描版) || 2014-06-22 || [http://goo.gl/G7OYA2 简介]
 |-
@@ -1640,6 +1640,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 第二次世界大战回忆录 || The Second World War || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体PDF(大字版)<br>简体EPUB<br>简体HTML || 2015-07-18<br>2013-09-14<br>2013-03-22 || [http://goo.gl/tIQUpS 简介]
 |-
 | 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || (美) Hans Jacobsen || 简体CHM || 2013-08-22 || [http://goo.gl/GLomWp 简介]
+|-
+| 大东亚战争全史 || The Complete History of the Great East Asia War || (日) [https://zh.wikipedia.org/wiki/%E6%9C%8D%E9%83%A8%E5%8D%93%E5%9B%9B%E9%83%8E 服部卓四郎] || 简体PDF(扫描版) || 2015-09-17 || [http://goo.gl/llJPmj 简介]
 |}
 
 ==== 9.2.1.2 中国战场 ====
@@ -1760,9 +1762,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体EPUB || 2015-07-21 || [http://goo.gl/yFaJ8Q 简介]
+| C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 英文EPUB || 2015-07-21 || [http://goo.gl/yFaJ8Q 简介]
 |-
-| 21世纪 C 语言技巧 || 21st Century C<br>——C Tips from the New School || Ben Klemens || 简体EPUB || 2015-07-21 || [http://goo.gl/bvNRHV 简介]
+| 21世纪 C 语言技巧 || 21st Century C<br>——C Tips from the New School || Ben Klemens || 英文EPUB || 2015-07-21 || [http://goo.gl/bvNRHV 简介]
 |}
 
 ==== 10.1.2.2 C++ ====
@@ -1928,7 +1930,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 密码学原理与实践 || Cryptography<br>——Theory and Practice || (加) [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF(第2版 扫描版)<br>英文CHM || 2013-10-21<br>2013-10-30 || [http://goo.gl/lU4rDA 简介]
 |-
-| 应用密码学<br>——协议、算法与 C 源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || (美) [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF(第2版 扫描版)<br>简体EPUB(第2版)<br>英文PDF(第2版) || 2013-11-26<br>2015-07-21<br>2013-10-21 || [http://goo.gl/isnQom 简介]
+| 应用密码学<br>——协议、算法与 C 源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || (美) [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF(第2版 扫描版)<br>英文EPUB(第2版)<br>英文PDF(第2版) || 2013-11-26<br>2015-07-21<br>2013-10-21 || [http://goo.gl/isnQom 简介]
 |-
 | 密码编码学与网络安全<br>——原理与实践 || Cryptography and Network Security<br>——Principles and Practice || (美) [https://en.wikipedia.org/wiki/William_Stallings William Stallings] || 简体PDF(第3版 扫描版)<br>英文PDF(第5版) || 2013-11-18<br>2013-11-18 || [http://goo.gl/5h5vN7 简介]
 |}
