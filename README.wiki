@@ -1670,7 +1670,15 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 大东亚战争全史 || The Complete History of the Great East Asia War || (日) [https://zh.wikipedia.org/wiki/%E6%9C%8D%E9%83%A8%E5%8D%93%E5%9B%9B%E9%83%8E 服部卓四郎] || 简体PDF(扫描版) || 2015-09-17 || [http://goo.gl/llJPmj 简介]
 |}
 
-==== 9.2.1.2 中国战场 ====
+==== 9.2.1.2 太平洋战场 ====
+
+{|
+! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 袭击珍珠港 || (日) [https://zh.wikipedia.org/wiki/%E6%B8%8A%E7%94%B0%E7%BE%8E%E6%B4%A5%E9%9B%84 渊田美津雄] || 简体PDF(扫描版) || 2015-10-25 || [http://goo.gl/zZMAhz 简介]
+|}
+
+==== 9.2.1.3 中国战场 ====
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
