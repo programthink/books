@@ -1442,6 +1442,8 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 娱乐至死 || Amusing Ourselves to Death || (美) [https://en.wikipedia.org/wiki/Neil_Postman 尼尔·波兹曼] || 简体PDF<br>简体MOBI || 2015-01-07<br>2015-02-13 || [https://goo.gl/2IKMzV 简介]
+|-
+| 引爆点 || The Tipping Point<br>——How Little Things Can Make a Big Difference || (加) [https://en.wikipedia.org/wiki/Malcolm_Gladwell 马尔科姆·格拉德威尔] || 简体PDF || 2015-11-04 || [https://goo.gl/0DZarh 简介]
 |}
 
 == 6.2 (其它) ==
