@@ -1357,7 +1357,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 货币金融学 || Economics of Money, Banking, and Financial Markets || (美) [https://en.wikipedia.org/wiki/Frederic_Mishkin 弗雷德里克·米什金] || 简体PDF(第9版 扫描版)<br>英文PDF(第7版 扫描版) || 2015-02-08<br>2015-01-11 || [https://goo.gl/X67GFF 简介]
 |-
-| 期权、期货及其他衍生品 || Options, Futures and Other Derivatives || (加) [https://en.wikipedia.org/wiki/John_C._Hull 约翰·赫尔] || 简体PDF(扫描版) || 2015-01-11 || [https://goo.gl/2LDjOu 简介]
+| 期权、期货及其他衍生品 || Options, Futures and Other Derivatives || (加) [https://en.wikipedia.org/wiki/John_C._Hull 约翰·赫尔] || 简体PDF(第7版 扫描版)<br>英文PDF(第7版 扫描版) || 2015-01-11<br>2015-11-04 || [https://goo.gl/2LDjOu 简介]
 |-
 | 默顿·米勒论金融衍生工具 || Merton Miller on Derivatives || (美) [https://en.wikipedia.org/wiki/Merton_Miller 默顿·米勒] || 简体PDF(扫描版) || 2015-01-11 || [https://goo.gl/ficxbl 简介]
 |}
