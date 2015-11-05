@@ -1842,6 +1842,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ 必知必会 || C++ Gotchas<br>——Avoiding Common Problems in Coding and Design || (美) Stephen Dewhurst || 英文CHM || 2015-11-05 || [https://goo.gl/dqzc4I 简介]
 |-
+| STL 源码剖析 || The Annotated STL Sources || [https://zh.wikipedia.org/wiki/%E4%BE%AF%E4%BF%8A%E5%82%91_%28%E4%BD%9C%E5%AE%B6%29 侯捷] || 简体PDF(扫描版) || 2015-11-05 || [https://goo.gl/zUAxI7 简介]
+|-
 | 大规模 C++ 程序设计 || Large-Scale C++ Software Design || John Lakos || 简体PDF(扫描版) || 2013-10-30 || [https://goo.gl/90vxXF 简介]
 |}
 
