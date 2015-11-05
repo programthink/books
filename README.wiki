@@ -1443,7 +1443,7 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 |-
 | 娱乐至死 || Amusing Ourselves to Death || (美) [https://en.wikipedia.org/wiki/Neil_Postman 尼尔·波兹曼] || 简体PDF<br>简体MOBI || 2015-01-07<br>2015-02-13 || [https://goo.gl/2IKMzV 简介]
 |-
-| 引爆点 || The Tipping Point<br>——How Little Things Can Make a Big Difference || (加) [https://en.wikipedia.org/wiki/Malcolm_Gladwell 马尔科姆·格拉德威尔] || 简体PDF || 2015-11-04 || [https://goo.gl/0DZarh 简介]
+| 引爆点<br>''其它中文名：''<br>引爆流行 || The Tipping Point<br>——How Little Things Can Make a Big Difference || (加) [https://en.wikipedia.org/wiki/Malcolm_Gladwell 马尔科姆·格拉德威尔] || 简体PDF(扫描版) || 2015-11-04 || [https://goo.gl/0DZarh 简介]
 |}
 
 == 6.2 (其它) ==
@@ -1839,6 +1839,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | C++ Templates 全览 || C++ Templates<br>——The Complete Guide || David Vandevoorde<br>Nicolai Josuttis || 英文CHM || 2015-05-12 || [https://goo.gl/EogVO6 简介]
 |-
 | C++ 语言的设计和演化 || The Design and Evolution of C++ || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 简体PDF(扫描版) || 2013-10-25 || [https://goo.gl/im8osn 简介]
+|-
+| C++ 必知必会 || C++ Gotchas<br>——Avoiding Common Problems in Coding and Design || (美) Stephen Dewhurst || 英文CHM || 2015-11-05 || [https://goo.gl/dqzc4I 简介]
 |-
 | 大规模 C++ 程序设计 || Large-Scale C++ Software Design || John Lakos || 简体PDF(扫描版) || 2013-10-30 || [https://goo.gl/90vxXF 简介]
 |}
