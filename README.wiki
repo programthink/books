@@ -1800,7 +1800,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 代码大全<br>''其它中文名：''<br>软件建构之道 || Code Complete || (美) [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 英文CHM (第2版)<br>简体PDF || 2013-10-20<br>2013-10-20 || [https://goo.gl/eAYVDW 简介]
 |-
-| 人件 || Peopleware<br>——Productive Projects and Teams || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>(美) [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF<br>英文PDF || 2013-10-20<br>2013-10-20 || [https://goo.gl/g66CXb 简介]
+| 人件 || Peopleware<br>——Productive Projects and Teams || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>(美) [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF(第2版)<br>简体PDF(第2版 扫描版)<br>英文PDF(第2版) || 2015-11-07<br>2013-10-20<br>2013-10-20 || [https://goo.gl/g66CXb 简介]
 |-
 | 最后期限 || The Deadline<br>——A Novel about Project Management || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF || 2013-10-20 || [https://goo.gl/WEAwML 简介]
 |}
