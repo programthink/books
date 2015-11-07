@@ -1816,6 +1816,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 英文PDF<br>英文EPUB || 2015-11-07<br>2015-07-21 || [https://goo.gl/yFaJ8Q 简介]
 |-
+| C 陷阱与缺陷 || C Traps and Pitfalls || (美) [https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer) Andrew Koenig] || 英文PDF || 2015-11-07 || [https://goo.gl/7iGrh4 简介]
+|-
 | 21世纪 C 语言技巧 || 21st Century C<br>——C Tips from the New School || Ben Klemens || 英文EPUB || 2015-07-21 || [https://goo.gl/bvNRHV 简介]
 |}
 
