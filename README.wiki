@@ -1883,7 +1883,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Java 性能优化权威指南 || Java Performance || Charlie Hunt<br>Binu John || 英文PDF(第1版) || 2015-11-08 || [https://goo.gl/68W5bE 简介]
 |}
 
-==== 10.1.2.5 Lisp ====
+==== 10.1.2.5 JavaScript ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| JavaScript 权威指南 || JavaScript<br>——The Definitive Guide || David Flanagan || 英文PDF(第6版) || 2015-11-08 || [https://goo.gl/wKVP8P 简介]
+|}
+
+==== 10.1.2.6 Lisp ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1897,7 +1905,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Basic Lisp Techniques || Basic Lisp Techniques || David Cooper || 英文PDF || 2015-01-11 || [https://goo.gl/RlZKp8 简介]
 |}
 
-==== 10.1.2.6 (其它) ====
+==== 10.1.2.7 (其它) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
