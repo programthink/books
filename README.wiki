@@ -2060,7 +2060,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Linux 与 UNIX Shell 编程指南 || Linux and UNIX Shell Programming || David Tansley || 简体PDF(扫描版) || 2013-12-06 || [https://goo.gl/yiMzqf 简介]
 |-
-| 鸟哥的 Linux 私房菜 || N/A || 鸟哥 || 简体PDF || 2013-12-06 || [https://goo.gl/kxwsXH 简介]
+| 鸟哥的 Linux 私房菜 || N/A || 鸟哥 || 简体PDF<br>简体MOBI || 2013-12-06<br>2015-11-08 || [https://goo.gl/kxwsXH 简介]
 |-
 | Linux 从入门到精通 || N/A || N/A || 简体PDF(扫描版) || 2013-12-06 || [https://goo.gl/KtGsEM 简介]
 |}
