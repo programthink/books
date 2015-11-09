@@ -603,6 +603,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 新发现的毛泽东<br>——仆人眼中的伟人 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || 简体PDF || 2012-04-05 || [https://goo.gl/aRzmrj 简介]
 |-
 | 毛泽东<br>——鲜为人知的故事 || Mao<br>——The Unknown Story || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E6%88%8E 张戎] (原名：张二鸿) || 简体PDF || 2013-08-01 || [https://goo.gl/GZwddT 简介]
+|-
+| 毛主席用兵真如神？ || N/A || [https://zh.wikipedia.org/wiki/%E8%98%86%E7%AC%9B_(%E4%BD%9C%E5%AE%B6) 芦笛] || 繁體PDF || 2015-11-09 || [https://goo.gl/vwxASj 简介]
 |}
 
 ===== 1.3.2.1.2 周恩来 =====
