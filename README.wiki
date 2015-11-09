@@ -1392,6 +1392,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists from Marx to Keynes || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 熊彼得] || 简体PDF(扫描版) || 2013-04-09 || [https://goo.gl/e86jjl 简介]
+|-
+| 思想者的足迹<br>——五十位重要的西方经济学家 || Fifty Major Economists || (美) [https://en.wikipedia.org/wiki/Steven_Pressman_%28economist%29 史蒂文·普雷斯曼] || 简体PDF(扫描版) || 2015-11-09 || [https://goo.gl/rFYmo7 简介]
 |}
 
 == 4.5 博弈论 ==
