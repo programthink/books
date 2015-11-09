@@ -824,6 +824,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 单刃毒剑<br>——中国当代民族主义批判 || A Single Blade and Toxic Sword<br>——Critique on Comtempory Chinese Nationalism || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF || 2012-12-09 || [https://goo.gl/KyjsCf 简介]
 |-
+| 容忍与自由<br>——胡适演讲集 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9 胡适] || 简体MOBI || 2015-11-09 || [https://goo.gl/uQlZyo 简介]
+|-
 | 数人头胜过砍人头 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 繁體PDF || 2013-03-16 || [https://goo.gl/U26byj 简介]
 |-
 | 犬儒病<br>——当代中国精神危机 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF || 2013-04-13 || [https://goo.gl/ouXJJx 简介]
