@@ -1625,7 +1625,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 幸福之路 || The Conquest of Happiness || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] || 简体EPUB || 2014-06-20 || [https://goo.gl/nWPiq0 简介]
 |-
-| 道德情操论 || The Theory of Moral Sentiments || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体PDF<br>简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-01-12<br>2015-02-13 || [https://goo.gl/TTTVsl 简介]
+| 道德情操论 || The Theory of Moral Sentiments || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-01-12<br>2015-11-10<br>2015-02-13 || [https://goo.gl/TTTVsl 简介]
 |}
 
 == 8.8 科学哲学 ==
