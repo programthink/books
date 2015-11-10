@@ -1462,6 +1462,8 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 黑天鹅<br>——如何应对不可知的未来 || The Black Swan<br>——The Impact of the Highly Improbable || (黎巴嫩) [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] || 简体PDF<br>简体MOBI || 2014-01-09<br>2015-02-13 || [https://goo.gl/YlS5on 简介]
+|-
+| 社会学的基本概念 || Basic Concepts in Sociology || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF 马克斯·韦伯] || 简体PDF(扫描版) || 2015-11-09 || [https://goo.gl/FtjGYH 简介]
 |}
 
 ----
