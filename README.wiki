@@ -1615,7 +1615,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 简单的逻辑学 || Being Logical<br>——A Guide to Good Thinking || (美) 丹尼斯·麦克伦尼 || 简体PDF(扫描版)<br>简体MOBI || 2015-01-07<br>2015-02-13 || [https://goo.gl/32I2WC 简介]
+| 简单的逻辑学 || Being Logical<br>——A Guide to Good Thinking || (美) 丹尼斯·麦克伦尼 || 简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2015-01-07<br>2015-02-13<br>2015-11-10 || [https://goo.gl/32I2WC 简介]
 |}
 
 == 8.7 伦理学 ==
