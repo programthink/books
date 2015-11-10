@@ -486,7 +486,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 阳谋 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体CHM || 2013-01-13<br>2012-11-17 || [https://goo.gl/HRurP3 简介]
 |-
-| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 简体PDF<br>简体TXT || 2013-02-05<br>2012-12-09 || [https://goo.gl/vuKNkb 简介]
+| 往事并不如烟 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 繁體EPUB<br>简体PDF<br>简体TXT || 2015-11-10<br>2013-02-05<br>2012-12-09 || [https://goo.gl/vuKNkb 简介]
 |-
 | 还原1957 || 魏紫丹 (原名：魏立言) || 繁體PDF || 2015-02-17 || [https://goo.gl/AKDbw1 简介]
 |-
