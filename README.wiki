@@ -818,6 +818,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 中国民主革命之路<br>——中国民主化运动百题问答 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%82%B3%E7%AB%A0 王炳章] || 简体PDF || 2015-11-12 || [https://goo.gl/xwaWUm 简介]
+|-
 | 如何推翻中共 || 高光俊 || 简体PDF || 2015-01-12 || [https://goo.gl/4sGl0U 简介]
 |}
 
