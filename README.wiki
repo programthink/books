@@ -701,7 +701,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 这是俺花了不少时间整理的，包括十多张详细的网状图，涵盖几百个权贵家族。
 
-通过此文档，可以直观体会到天朝就是一个“权贵资本主义社会”。更多详情请看[http://program-think.blogspot.com/2015/02/Princelings.html 这里]。
+通过此文档，可以直观体会到天朝就是一个“权贵资本主义社会”。更多详情请看[https://program-think.blogspot.com/2015/02/Princelings.html 这里]。
 
 === 1.3.3 社会阶层和贫富分化 ===
 
@@ -1028,7 +1028,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF || 2015-02-23 || [https://goo.gl/PIVSvX 简介]
 |-
-| 清醒思考的艺术<br>——你最好让别人去犯的52种思维错误 || The Art of Thinking Clearly || (瑞士) [https://en.wikipedia.org/wiki/Rolf_Dobelli 罗尔夫·多贝里] || 简体PDF(扫描版) || 2014-07-15 || [https://goo.gl/2FL77l 简介]
+| 清醒思考的艺术<br>——你最好让别人去犯的52种思维错误 || The Art of Thinking Clearly || (瑞士) [https://en.wikipedia.org/wiki/Rolf_Dobelli 罗尔夫·多贝里] || 简体PDF(扫描版)<br>英文PDF<br>英文EPUB || 2014-07-15<br>2015-11-13<br>2015-11-13 || [https://goo.gl/2FL77l 简介]
 |-
 | 统计陷阱 || How to Lie with Statistics || (美) [https://en.wikipedia.org/wiki/Darrell_Huff 达莱尔·哈夫] || 简体PDF || 2015-02-16 || [https://goo.gl/GVkLml 简介]
 |}
