@@ -1026,7 +1026,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 思考，快与慢 || Thinking, Fast and Slow || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC 丹尼尔·卡尼曼] || 简体EPUB<br>简体MOBI || 2015-11-10<br>2014-07-15 || [https://goo.gl/bGppFW 简介]
 |-
-| 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF || 2015-02-23 || [https://goo.gl/PIVSvX 简介]
+| 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF<br>简体MOBI || 2015-02-23<br>2015-11-14 || [https://goo.gl/PIVSvX 简介]
 |-
 | 清醒思考的艺术<br>——你最好让别人去犯的52种思维错误 || The Art of Thinking Clearly || (瑞士) [https://en.wikipedia.org/wiki/Rolf_Dobelli 罗尔夫·多贝里] || 简体PDF(扫描版)<br>英文PDF<br>英文EPUB || 2014-07-15<br>2015-11-13<br>2015-11-13 || [https://goo.gl/2FL77l 简介]
 |-
