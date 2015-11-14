@@ -186,7 +186,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 弥尔顿] || 简体PDF<br>简体MOBI || 2014-02-03<br>2015-05-11 || [https://goo.gl/u0t3F5 简介]
 |-
-| 给你所爱的人以自由 || N/A || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF(大字版) || 2013-10-26<br>2013-11-26 || [https://goo.gl/xM3ZiF 简介]
+| 给你所爱的人以自由 || N/A || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF(大字版)<br>简体EPUB<br>简体MOBI || 2013-10-26<br>2013-11-26<br>2015-11-14<br>2015-11-14 || [https://goo.gl/xM3ZiF 简介]
 |}
 
 === 1.1.3 资本主义 ===
