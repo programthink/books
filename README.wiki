@@ -2015,6 +2015,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 黑客与画家 || Hackers and Painters || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2013-10-30 || [https://goo.gl/872FgJ 简介]
 |-
 | 黑客<br>——计算机革命的英雄 || Hackers<br>——Heroes of the Computer Revolution || (美) [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF(25周年纪念版 扫描版)<br>简体MOBI(25周年纪念版)<br>简体EPUB<br>英文PDF || 2014-01-28<br>2015-07-20<br>2015-07-20<br>2015-05-12 || [https://goo.gl/7qCAmT 简介]
+|-
+| 乐者为王<br>——自由软件 Linux 之父李纳斯·托沃兹自述 || Just for Fun<br>——The Story of an Accidental Revolutionary || (芬兰) [https://en.wikipedia.org/wiki/Linus_Torvalds Linus Torvalds] || 简体EPUB || 2015-11-15 || [https://goo.gl/NTqun8 简介]
 |}
 
 == 10.3 信息安全 ==
