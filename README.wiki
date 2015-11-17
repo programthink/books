@@ -1902,7 +1902,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Java 编程思想 || Thinking in Java || (美) [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF(第4版)<br>简体PDF(第4版 扫描版) || 2013-10-21<br>2014-05-18 || [https://goo.gl/FDH9PW 简介]
 |-
-| Effective Java || Effective Java || (美) [https://en.wikipedia.org/wiki/Joshua_Bloch Joshua Bloch] || 英文PDF(第1版) || 2015-11-07 || [https://goo.gl/mPnCVt 简介]
+| Effective Java || Effective Java || (美) [https://en.wikipedia.org/wiki/Joshua_Bloch Joshua Bloch] || 英文PDF(第2版)<br>英文PDF(第1版) || 2015-11-17<br>2015-11-07 || [https://goo.gl/mPnCVt 简介]
 |-
 | Java 性能优化权威指南 || Java Performance || Charlie Hunt<br>Binu John || 英文PDF(第1版) || 2015-11-08 || [https://goo.gl/68W5bE 简介]
 |}
