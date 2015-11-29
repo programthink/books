@@ -242,7 +242,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions About Uncertain Democracies || (阿根廷) [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈]<br>(美) [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF(扫描版) || 2013-08-21 || [https://goo.gl/GtLlHy 简介]
 |-
-| 新常识<br>——一党专制的性质与后果 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体PDF<br>简体EPUB || 2013-10-19<br>2014-03-29 || [https://goo.gl/fYtRUx 简介]
+| 新常识<br>——一党专制的性质与后果 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体PDF<br>简体EPUB (精校版) || 2013-10-19<br>2015-11-29 || [https://goo.gl/fYtRUx 简介]
 |}
 
 === 1.1.7 外交和国际关系 ===
