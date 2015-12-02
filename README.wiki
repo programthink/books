@@ -1652,6 +1652,8 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 科学发现的逻辑 || The Logic of Scientific Discovery || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体HTML<br>简体MOBI || 2014-06-20<br>2015-02-13 || [https://goo.gl/SYE5B9 简介]
 |-
 | 猜想与反驳<br>——科学知识的增长 || Conjectures and Refutations<br>——The Growth of Scientific Knowledge || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体EPUB || 2015-02-15 || [https://goo.gl/pDqOg9 简介]
+|-
+| 牛津通识读本：科学哲学 || Philosophy of Science || Samir Okasha || 简体EPUB<br>简体AZW3 || 2015-12-02<br>2015-12-02 || [https://goo.gl/XcxbmM 简介]
 |}
 
 == 8.9 美学 ==
