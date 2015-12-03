@@ -1602,6 +1602,8 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 无尽的探索<br>——卡尔·波普尔自传 || Unended Quest<br>——An Intellectual Autobiography || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体EPUB || 2015-02-15 || [https://goo.gl/W76pse 简介]
 |-
 | 牛津通识读本：康德 || Kant || (英) [https://en.wikipedia.org/wiki/Roger_Scruton Roger Scruton] || 简体EPUB<br>简体AZW3 || 2015-12-03<br>2015-12-03 || [https://goo.gl/Plo5Ft 简介]
+|-
+| 牛津通识读本：尼采 || Nietzsche || Michael Tanner || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://goo.gl/goR4J7 简介]
 |}
 
 == 8.4 形而上学 ==
