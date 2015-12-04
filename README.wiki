@@ -1608,6 +1608,8 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 牛津通识读本：笛卡尔 || Descartes || Tom Sorell || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://goo.gl/UFg33Z 简介]
 |-
 | 牛津通识读本：叔本华 || Schopenhauer || (英) [https://en.wikipedia.org/wiki/Christopher_Janaway Christopher Janaway] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://goo.gl/WZIlwM 简介]
+|-
+| 牛津通识读本：维特根斯坦 || Wittgenstein || (英) [https://en.wikipedia.org/wiki/A._C._Grayling A. C. Grayling] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://goo.gl/Tv71e0 简介]
 |}
 
 == 8.4 形而上学 ==
