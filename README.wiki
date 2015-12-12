@@ -124,11 +124,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 论民主 || On Democracy || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%C2%B7%E9%81%93%E7%88%BE 罗伯特·道尔] || 简体PDF(扫描版) || 2014-06-22 || [https://goo.gl/7e8E09 简介]
 |-
-| 牛津通识读本：民主 || Democracy || (英) [https://en.wikipedia.org/wiki/Bernard_Crick Bernard Crick] || 英文PDF || 2015-12-11 || [https://goo.gl/MGC3Zc 简介]
-|-
 | 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] || 简体PDF<br>简体MOBI || 2013-05-30<br>2015-11-14 || [https://goo.gl/nYBwdP 简介]
 |-
 | 民主 || Democracy || (美) [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] || 简体PDF(扫描版) || 2015-02-09 || [https://goo.gl/vsoi0n 简介]
+|-
+| 牛津通识读本：民主 || Democracy || (英) [https://en.wikipedia.org/wiki/Bernard_Crick Bernard Crick] || 英文PDF || 2015-12-11 || [https://goo.gl/MGC3Zc 简介]
 |-
 | 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF || 2013-08-22 || [https://goo.gl/0Nc9uY 简介]
 |-
@@ -873,26 +873,46 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 == 1.4 美国 ==
 
+=== 1.4.1 政治制度 ===
+
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 论美国的民主<br>''其它中文名：''<br>民主在美国 || Democracy in America || (法) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF(上下卷)<br>简体MOBI || 2012-10-06<br>2013-05-13 || [https://goo.gl/DSV1Wh 简介]
 |-
-| 常识 || Common Sense || (美) [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9 托马斯·潘恩] || 简体EPUB || 2014-05-23 || [https://goo.gl/MMHhY0 简介]
-|-
-| 民主的细节<br>——美国当代政治观察随笔 || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || [https://goo.gl/aq9azA 简介]
-|-
-| 言论的边界<br>——美国宪法第一修正案简史 || Freedom for the Thought That We Hate<br>——A Biography of the First Amendment || (美) [https://en.wikipedia.org/wiki/Anthony_Lewis 安东尼·刘易斯] || 简体EPUB || 2015-11-20 || [https://goo.gl/6jX9qa 简介]
-|-
 | 牛津通识读本：美国总统制 || The American Presidency || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones Charles O. Jones] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://goo.gl/JT7obr 简介]
 |-
 | 牛津通识读本：美国最高法院 || The U.S. Supreme Court || (美) [https://en.wikipedia.org/wiki/Linda_Greenhouse Linda Greenhouse] || 简体EPUB<br>简体AZW3 || 2015-12-05<br>2015-12-05 || [https://goo.gl/nb2XtT 简介]
 |-
-| 宪法的精神<br>——美国联邦最高法院200年经典判例选读 || N/A || 北京大学法学院司法研究中心 || 简体PDF(扫描版) || 2015-01-12 || [https://goo.gl/OPuhDZ 简介]
+| 言论的边界<br>——美国宪法第一修正案简史 || Freedom for the Thought That We Hate<br>——A Biography of the First Amendment || (美) [https://en.wikipedia.org/wiki/Anthony_Lewis 安东尼·刘易斯] || 简体EPUB || 2015-11-20 || [https://goo.gl/6jX9qa 简介]
 |-
 | 美国宪政历程<br>——影响美国的25个司法大案 || N/A || 任东来<br>等 || 简体PDF(扫描版)<br>简体MOBI || 2013-11-26<br>2014-02-23 || [https://goo.gl/o0tvJX 简介]
 |-
-| 危机<br>——美国国家安全局透视 || N/A || (未知) || 简体PDF || 2013-06-18 || [https://goo.gl/8KdkE1 简介]
+| 宪法的精神<br>——美国联邦最高法院200年经典判例选读 || N/A || 北京大学法学院司法研究中心 || 简体PDF(扫描版) || 2015-01-12 || [https://goo.gl/OPuhDZ 简介]
+|}
+
+=== 1.4.2 政治人物 ===
+
+{|
+! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|}
+
+=== 1.4.3 棱镜门 ===
+
+{|
+! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 危机<br>——美国国家安全局透视 || (未知) || 简体PDF || 2013-06-18 || [https://goo.gl/8KdkE1 简介]
+|}
+
+=== 1.4.4 (其它) ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 常识 || Common Sense || (美) [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9 托马斯·潘恩] || 简体EPUB || 2014-05-23 || [https://goo.gl/MMHhY0 简介]
+|-
+| 民主的细节<br>——美国当代政治观察随笔 || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || [https://goo.gl/aq9azA 简介]
 |}
 
 == 1.5 苏联 ==
