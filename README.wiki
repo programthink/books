@@ -894,7 +894,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 === 1.4.2 政治人物 ===
 
 {|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：林肯 || Lincoln || (美) [https://en.wikipedia.org/wiki/Allen_C._Guelzo Allen Guelzo] || 英文PDF || 2015-12-12 || [https://goo.gl/kGedUm 简介]
 |}
 
 === 1.4.3 棱镜门 ===
