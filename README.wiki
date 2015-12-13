@@ -936,6 +936,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 苏联解体亲历记 || N/A || (美) 小杰克·马特洛克 || 简体PDF(扫描版) || 2013-07-07 || [https://goo.gl/IV6I0B 简介]
 |-
+| 牛津通识读本：俄国革命 || The Russian Revolution || S. A. Smith || 英文PDF || 2015-12-13 || [https://goo.gl/vceA6O 简介]
+|-
 | 一个大国的崛起与崩溃<br>——苏联历史专题研究（1917-1991） || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] (主编) || 简体PDF(扫描版) || 2015-11-03 || [https://goo.gl/nmn7Ho 简介]
 |-
 | 苏联兴亡史纲 || N/A || 陈之骅<br>等 || 简体PDF(扫描版) || 2013-01-01 || [https://goo.gl/UnV35V 简介]
