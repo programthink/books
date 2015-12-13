@@ -983,7 +983,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 苏联的心灵<br>——共产主义时代的俄国文化 || The Soviet Mind<br>——Russian Culture under Communism || (英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2013-08-21 || [https://goo.gl/IEoJGX 简介]
 |}
 
-== 1.6 法国 ==
+== 1.6 英国 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：英国政治 || British Politics || (英) [https://en.wikipedia.org/wiki/Tony_Wright_(Cannock_Chase_MP) Tony Wright] || 英文PDF || 2015-12-13 || [https://goo.gl/cw4uJS 简介]
+|}
+
+== 1.7 法国 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -993,7 +1001,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 法国大革命的起源 || Origins of the French Revolution || (英) [https://en.wikipedia.org/wiki/William_Doyle_(historian) William Doyle] || 繁體PDF(掃描版) || 2013-11-26 || [https://goo.gl/KrILCF 简介]
 |}
 
-== 1.7 北朝鲜 ==
+== 1.8 北朝鲜 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1009,7 +1017,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 平壤<br>——朝鲜之旅 || Pyongyang<br>——A Journey in North Korea || (加) [https://en.wikipedia.org/wiki/Guy_Delisle Guy Delisle] || 简体PDF(漫画 扫描版) || 2013-03-30 || [https://goo.gl/Gg6g5k 简介]
 |}
 
-== 1.8 捷克斯洛伐克 ==
+== 1.9 捷克斯洛伐克 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1021,7 +1029,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 严寒来自克里姆林宫 || Frost comes from Kremlin || (捷克) [https://zh.wikipedia.org/wiki/%E5%85%B9%E5%BE%B7%E6%B6%85%E5%85%8B%C2%B7%E5%A7%86%E6%9E%97%E7%BA%B3%E6%97%A5 姆林纳日] || 简体PDF(扫描版) || 2014-07-12 || [https://goo.gl/13iWcg 简介]
 |}
 
-== 1.9 罗马尼亚 ==
+== 1.10 罗马尼亚 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1033,7 +1041,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 黑信封 || The Black Envelope || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版) || 2014-05-04 || [https://goo.gl/oJ4ZbZ 简介]
 |}
 
-== 1.10 (其它国家) ==
+== 1.11 (其它国家) ==
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
