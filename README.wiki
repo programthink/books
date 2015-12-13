@@ -882,6 +882,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 牛津通识读本：美国总统制 || The American Presidency || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones Charles O. Jones] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://goo.gl/JT7obr 简介]
 |-
+| 牛津通识读本：美国国会 || The U.S. Congress || (美) [https://en.wikipedia.org/wiki/Donald_A._Ritchie Donald Ritchie] || 英文PDF || 2015-12-13 || [https://goo.gl/FVbX4C 简介]
+|-
 | 牛津通识读本：美国最高法院 || The U.S. Supreme Court || (美) [https://en.wikipedia.org/wiki/Linda_Greenhouse Linda Greenhouse] || 简体EPUB<br>简体AZW3 || 2015-12-05<br>2015-12-05 || [https://goo.gl/nb2XtT 简介]
 |-
 | 牛津通识读本：美国政党和选举 || American Political Parties and Elections || L. Sandy Maisel || 英文PDF || 2015-12-12 || [https://goo.gl/JJtbLh 简介]
