@@ -980,6 +980,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 苏联真相<br>——对101个重要问题的思考 || N/A || 陆南泉<br>等 || 简体PDF(上中下 扫描版) || 2013-01-01 || [https://goo.gl/0JwL7v 简介]
 |-
+| 牛津通识读本：苏联 || The Soviet Union || Stephen Lovell || 英文PDF || 2015-12-13 || [https://goo.gl/MQaagW 简介]
+|-
 | 苏联的心灵<br>——共产主义时代的俄国文化 || The Soviet Mind<br>——Russian Culture under Communism || (英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2013-08-21 || [https://goo.gl/IEoJGX 简介]
 |}
 
