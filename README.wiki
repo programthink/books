@@ -1425,6 +1425,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 经济为什么会崩溃<br>——鱼、美元与经济学的故事 || How an Economy Grows and Why It Crashes || (美) [https://en.wikipedia.org/wiki/Peter_Schiff 彼得·希夫]<br>(美) 安德鲁·希夫 || 简体PDF(扫描版) || 2014-03-31 || [https://goo.gl/vJHfcd 简介]
 |-
+| 牛津通识读本：大众经济学 || Economics || (英) [https://en.wikipedia.org/wiki/Partha_Dasgupta Partha Dasgupta] || 简体EPUB<br>简体AZW3 || 2015-12-14<br>2015-12-14 || [https://goo.gl/I4eOeR 简介]
+|-
 | 生活中的经济学 || N/A || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-09<br>2013-09-13<br>2015-02-14 || [https://goo.gl/oA9syq 简介]
 |}
 
