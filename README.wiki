@@ -1182,6 +1182,8 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体EPUB || 2015-01-07 || [https://goo.gl/CkHNTH 简介]
 |-
+| 牛津通识读本：生活中的心理学 || Psychology || Gillian Butler<br>Freda McManus || 简体EPUB<br>简体AZW3 || 2015-12-14<br>2015-12-14 || [https://goo.gl/yLHvgn 简介]
+|-
 | 如何变得有思想<br>——阮一峰博文集 || N/A || 阮一峰 || 简体EPUB || 2015-05-12 || [https://goo.gl/rd7emX 简介]
 |}
 
