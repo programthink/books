@@ -1845,9 +1845,11 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 === 9.2.4 冷战 ===
 
 {|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 冰与火之歌<br>——回首冷战军事对抗史 || 《现代兵器》杂志社 || 简体PDF(扫描版) || 2015-02-17 || [https://goo.gl/UtHMyS 简介]
+| 冰与火之歌<br>——回首冷战军事对抗史 || N/A || 《现代兵器》杂志社 || 简体PDF(扫描版) || 2015-02-17 || [https://goo.gl/UtHMyS 简介]
+|-
+| 牛津通识读本：冷战 || The Cold War || (美) [https://en.wikipedia.org/wiki/Robert_J._McMahon_(historian) Robert McMahon] || 英文PDF || 2015-12-14 || [https://goo.gl/VDVPwx 简介]
 |}
 
 == 9.3 古代军事史 ==
