@@ -1867,6 +1867,14 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 汉尼拔战争 || N/A || 王乃新 || 简体PDF(扫描版) || 2013-02-05 || [https://goo.gl/hrEYVr 简介]
 |}
 
+== 9.4 武器 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：核武器 || Nuclear Weapons || Joseph Siracusa || 英文PDF || 2015-12-14 || [https://goo.gl/YGj9BL 简介]
+|}
+
 ----
 
 = 10 IT =
