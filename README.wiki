@@ -1343,7 +1343,15 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 牛津通识读本：大萧条与新经济政策 || The Great Depression and New Deal || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway Eric Rauchway] || 英文PDF || 2015-12-15 || [https://goo.gl/SSBcB8 简介]
 |}
 
-== 3.7 法国 ==
+== 3.7 英国 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：十八世纪的英国 || Eighteenth-Century Britain || (英) [https://en.wikipedia.org/wiki/Paul_Langford Paul Langford] || 英文PDF || 2015-12-15 || [https://goo.gl/G6NUhY 简介]
+|}
+
+== 3.8 法国 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1351,7 +1359,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 法国文明史<br>——自罗马帝国败落起 || History of civilization in France<br>——From the fall of the Roman Empire || (法) [https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E7%B4%A2%E7%93%A6%C2%B7%E5%9F%BA%E4%BD%90 弗朗索瓦·基佐] || 简体PDF(扫描版) || 2015-11-03 || [https://goo.gl/xJSfMN 简介]
 |}
 
-== 3.8 德国 ==
+== 3.9 德国 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
