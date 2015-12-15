@@ -1335,7 +1335,15 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 内战记 || Commentaries on the Civil War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 恺撒] || 简体PDF(扫描版)<br>简体HTML || 2015-07-11<br>2014-06-22 || [https://goo.gl/QsnDgo 简介]
 |}
 
-== 3.6 法国 ==
+== 3.6 美国 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：大萧条与新经济政策 || The Great Depression and New Deal || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway Eric Rauchway] || 英文PDF || 2015-12-15 || [https://goo.gl/SSBcB8 简介]
+|}
+
+== 3.7 法国 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1343,7 +1351,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 法国文明史<br>——自罗马帝国败落起 || History of civilization in France<br>——From the fall of the Roman Empire || (法) [https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E7%B4%A2%E7%93%A6%C2%B7%E5%9F%BA%E4%BD%90 弗朗索瓦·基佐] || 简体PDF(扫描版) || 2015-11-03 || [https://goo.gl/xJSfMN 简介]
 |}
 
-== 3.7 德国 ==
+== 3.8 德国 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
