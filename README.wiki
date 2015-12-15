@@ -1351,6 +1351,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 牛津通识读本：十八世纪的英国 || Eighteenth-Century Britain || (英) [https://en.wikipedia.org/wiki/Paul_Langford Paul Langford] || 英文PDF || 2015-12-15 || [https://goo.gl/G6NUhY 简介]
 |-
 | 牛津通识读本：十九世纪的英国 || Nineteenth-Century Britain || (英) [https://en.wikipedia.org/wiki/Chris_Harvie Christopher Harvie]<br>(英) [https://en.wikipedia.org/wiki/Colin_Matthew Colin Matthew] || 英文PDF || 2015-12-15 || [https://goo.gl/UJT0FS 简介]
+|-
+| 牛津通识读本：二十世纪的英国 || Twentieth-Century Britain || (英) [https://en.wikipedia.org/wiki/Kenneth_O._Morgan Kenneth Morgan] || 英文PDF || 2015-12-15 || [https://goo.gl/OKJqiq 简介]
 |}
 
 == 3.8 法国 ==
