@@ -1219,6 +1219,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 你一定爱读的极简欧洲史<br>——为什么欧洲对现代文明的影响这么深 || The Shortest History of Europe || (澳) [https://en.wikipedia.org/wiki/John_Hirst_%28historian%29 约翰·赫斯特] || 简体PDF(扫描版)<br>简体MOBI || 2014-07-28<br>2015-05-11 || [https://goo.gl/rXMMLS 简介]
 |-
 | 战后欧洲史 || Postwar<br>——A History of Europe Since 1945 || (美) [https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E6%9C%B1%E7%89%B9 托尼·朱特] || 简体PDF(扫描版) || 2014-08-11 || [https://goo.gl/Zfc3XN 简介]
+|-
+| 牛津通识读本：十字军 || The Crusades || (英) [https://et.wikipedia.org/wiki/Christopher_Tyerman Christopher Tyerman] || 英文PDF || 2015-12-15 || [https://goo.gl/oYx6rJ 简介]
 |}
 
 == 3.3 中国 ==
