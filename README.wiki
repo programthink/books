@@ -1333,7 +1333,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 罗马盛衰原因论 || Considerations on the Causes of the Grandeur and Decadence of the Romans || (法) [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF<br>简体PDF(扫描版) || 2013-02-07<br>2015-07-11 || [https://goo.gl/ADBZVX 简介]
 |-
-| 高卢战记 || Commentaries on the Gallic War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 恺撒] || 简体PDF(扫描版)<br>简体HTML<br>简体MOBI || 2015-07-11<br>2014-06-22<br>2015-02-08 || [https://goo.gl/LJS2jt 简介]
+| 高卢战记 || Commentaries on the Gallic War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 恺撒] || 简体PDF(扫描版)<br>简体HTML<br>简体MOBI<br>简体TXT || 2015-07-11<br>2014-06-22<br>2015-02-08<br>2016-04-30 || [https://goo.gl/LJS2jt 简介]
 |-
 | 内战记 || Commentaries on the Civil War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 恺撒] || 简体PDF(扫描版)<br>简体HTML || 2015-07-11<br>2014-06-22 || [https://goo.gl/QsnDgo 简介]
 |}
