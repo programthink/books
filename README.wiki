@@ -1241,7 +1241,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 潜规则<br>——中国历史中的真实游戏 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || 简体PDF<br>简体EPUB<br>简体CHM<br>简体MOBI<br>简体TXT || 2013-02-27<br>2013-09-13<br>2013-02-07<br>2014-02-23<br>2016-04-30 || [https://goo.gl/8Nefb4 简介]
 |-
-| 血酬定律<br>——中国历史中的生存游戏 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || 简体PDF<br>简体MOBI<br>简体TXT || 2014-01-09<br>2014-02-23<br>2013-08-22 || [https://goo.gl/h99ssK 简介]
+| 血酬定律<br>——中国历史中的生存游戏 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || 简体PDF<br>简体MOBI<br>简体TXT || 2014-01-09<br>2014-02-23<br>2016-04-30 || [https://goo.gl/h99ssK 简介]
 |-
 | 兴盛与危机<br>——论中国社会超稳定结构 || N/A || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛]<br>刘青峰 || 简体PDF || 2013-02-07 || [https://goo.gl/yGdztz 简介]
 |-
