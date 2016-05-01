@@ -1117,7 +1117,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 社会性动物 || The Social Animal || (美) 埃利奥特·阿伦森 || 简体PDF<br>简体MOBI || 2014-01-09<br>2014-02-23 || [https://goo.gl/s4FxAS 简介]
+| 社会性动物 || The Social Animal || (美) 埃利奥特·阿伦森 || 简体PDF<br>简体MOBI<br>简体TXT || 2014-01-09<br>2014-02-23<br>2016-05-01 || [https://goo.gl/s4FxAS 简介]
 |-
 | 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || (法) [https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E 古斯塔夫·勒庞] || 简体PDF(扫描版)<br>简体MOBI || 2012-12-29<br>2014-02-23 || [https://goo.gl/Glqfol 简介]
 |-
