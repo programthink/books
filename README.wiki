@@ -701,7 +701,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 我在苏联的生活 || N/A || [https://zh.wikipedia.org/wiki/%E8%94%A3%E7%B6%93%E5%9C%8B 蒋经国] || 繁體PDF(竪排掃描版) || 2015-07-17 || [https://goo.gl/RcfyIg 简介]
 |-
-| 蒋经国传 || Biography of Chiang Ching-Kuo || [https://zh.wikipedia.org/wiki/%E5%8A%89%E5%AE%9C%E8%89%AF 江南] (原名：刘宜良) || 简体PDF(扫描版) || 2015-11-21 || [https://goo.gl/kciGp8 简介]
+| 蒋经国传 || Biography of Chiang Ching-Kuo || [https://zh.wikipedia.org/wiki/%E5%8A%89%E5%AE%9C%E8%89%AF 江南] (原名：刘宜良) || 简体PDF(扫描版)<br>简体TXT || 2015-11-21<br>2016-05-01 || [https://goo.gl/kciGp8 简介]
 |-
 | 胡汉民自传 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E6%BC%A2%E6%B0%91 胡汉民] || 繁體DJVU(竪排掃描版) || 2015-07-16 || [https://goo.gl/Hz2W60 简介]
 |-
