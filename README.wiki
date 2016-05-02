@@ -1107,7 +1107,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 梦的解析<br>''其它中文名：''<br>释梦 || The Interpretation of Dreams || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || 简体PDF<br>英文PDF || 2012-12-29<br>2013-04-14 || [https://goo.gl/73PCBo 简介]
 |-
-| 精神分析引论 || A General Introduction to Psychoanalysis || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || 简体PDF<br>简体EPUB || 2012-12-29<br>2013-04-16 || [https://goo.gl/bRgaRa 简介]
+| 精神分析引论 || A General Introduction to Psychoanalysis || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || 简体PDF<br>简体EPUB<br>简体TXT || 2012-12-29<br>2013-04-16<br>2016-05-02 || [https://goo.gl/bRgaRa 简介]
 |-
 | 身份的焦虑 || Status Anxiety || (瑞士) [https://en.wikipedia.org/wiki/Alain_de_Botton 阿兰·德波顿] || 简体PDF(扫描版) || 2014-07-15 || [https://goo.gl/eeiW00 简介]
 |}
