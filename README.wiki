@@ -1482,7 +1482,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 格雷厄姆-多德都市的超级投资者们 || The Superinvestors of Graham-and-Doddsville || (美) [https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9 沃伦·巴菲特] || 简体TXT<br>英文PDF(扫描版) || 2015-05-24<br>2015-05-24 || [https://goo.gl/93dkYx 简介]
 |-
-| 非理性繁荣 || Irrational Exuberance || (美) [https://en.wikipedia.org/wiki/Robert_J._Shiller Robert Shiller] || 简体PDF(扫描版) || 2014-05-23 || [https://goo.gl/nLY9hO 简介]
+| 非理性繁荣 || Irrational Exuberance || (美) [https://en.wikipedia.org/wiki/Robert_J._Shiller 罗伯特·希勒] || 简体PDF(扫描版)<br>简体TXT || 2014-05-23<br>2016-05-02 || [https://goo.gl/nLY9hO 简介]
 |-
 | 金融炼金术 || The Alchemy of Finance || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 乔治·索罗斯] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-29<br>2013-09-13<br>2015-05-10 || [https://goo.gl/SIW1dT 简介]
 |}
