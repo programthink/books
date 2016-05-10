@@ -1664,7 +1664,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 苏菲的世界 || Sophie's World || (挪威) [https://zh.wikipedia.org/wiki/%E5%96%AC%E6%96%AF%E5%9D%A6%C2%B7%E8%B3%88%E5%BE%B7 乔斯坦·贾德] || 简体PDF(精校版 无删节)<br>简体EPUB(精校版 无删节)<br>简体MOBI(精校版 无删节) || 2015-12-24<br>2015-12-24<br>2015-12-24 || [https://goo.gl/uLo2sB 简介]
 |-
-| 哲学问题 || The Problems of Philosophy || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-02-13<br>2015-02-13 || [https://goo.gl/c5B9Fb 简介]
+| 哲学问题 || The Problems of Philosophy || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2014-06-20<br>2015-02-13<br>2015-02-13<br>2016-05-10 || [https://goo.gl/c5B9Fb 简介]
 |}
 
 == 8.2 哲学史 ==
