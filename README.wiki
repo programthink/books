@@ -1672,7 +1672,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 西方哲学史 || A History of Western Philosophy || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] || 简体PDF<br>简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-01-12<br>2015-02-13 || [https://goo.gl/VeL9St 简介]
+| 西方哲学史 || A History of Western Philosophy || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] || 简体PDF<br>简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2014-06-20<br>2015-01-12<br>2015-02-13<br>2016-05-11 || [https://goo.gl/VeL9St 简介]
 |-
 | 中国哲学简史 || A Short History of Chinese Philosophy || [https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 冯友兰] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-02-13<br>2015-02-13 || [https://goo.gl/MeCxqs 简介]
 |-
