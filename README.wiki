@@ -169,7 +169,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 自由及其背叛<br>——人类自由的六个敌人 || Freedom and Its Betrayal<br>——Six Enemies of Human Liberty || (英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2014-05-23 || [https://goo.gl/dxl0EP 简介]
 |-
-| 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 罗尔斯] || 简体PDF(扫描版)<br>简体EPUB || 2013-05-23<br>2013-09-13 || [https://goo.gl/j5Lzkn 简介]
+| 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 罗尔斯] || 简体PDF(扫描版)<br>简体EPUB<br>简体TXT || 2013-05-23<br>2013-09-13<br>2016-05-14 || [https://goo.gl/j5Lzkn 简介]
 |-
 | 政治自由主义 || Political Liberalism || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 罗尔斯] || 简体HTML<br>简体MOBI || 2013-01-17<br>2015-05-11 || [https://goo.gl/B6Y9pe 简介]
 |-
