@@ -1400,7 +1400,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 国富论<br>''其它中文名：''<br>国民财富的性质和原因 || The Wealth of Nations || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体CHM<br>简体MOBI || 2013-04-09<br>2015-02-14 || [https://goo.gl/UKlCBO 简介]
+| 国富论<br>''其它中文名：''<br>国民财富的性质和原因 || The Wealth of Nations || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体CHM<br>简体MOBI<br>简体TXT || 2013-04-09<br>2015-02-14<br>2016-05-15 || [https://goo.gl/UKlCBO 简介]
 |-
 | 经济学 || Economics || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 萨缪尔森]<br>(美) [https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 诺德豪斯] || 简体PDF(第18版 扫描版) || 2014-02-13 || [https://goo.gl/2ry1in 简介]
 |-
