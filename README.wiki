@@ -1271,7 +1271,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 民国人物过眼录 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF(扫描版) || 2014-02-21 || [https://goo.gl/PWSxql 简介]
 |-
-| 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || (美) [https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B Philip Kuhn] (中文名：孔飞力) || 简体PDF(扫描版) || 2014-05-23 || [https://goo.gl/0CLu5f 简介]
+| 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || (美) [https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B Philip Kuhn] (中文名：孔飞力) || 简体PDF(扫描版)<br>简体TXT || 2014-05-23<br>2016-05-15 || [https://goo.gl/0CLu5f 简介]
 |-
 | 那一次，我们挨打了<br>——中英第一次鸦片战争全景解读 || N/A || 端木赐香 (原名：李桂枝) || 简体TXT || 2015-07-12 || [https://goo.gl/ZCyBJk 简介]
 |-
