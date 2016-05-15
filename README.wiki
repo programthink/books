@@ -1855,6 +1855,14 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 一寸山河一寸血 || (多人) || 简体PDF(纪录片解说词) || 2015-07-22 || [https://goo.gl/GzKwhj 简介]
 |}
 
+==== 9.2.1.4 东欧战场 ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 失去的胜利<br>''其它中文名：''<br>曼施泰因元帅战争回忆录 || Lost Victories<br>——The War Memoirs of Hitler's Most Brilliant General || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E6%9B%BC%E6%96%BD%E5%9D%A6%E5%9B%A0 曼施泰因] || 简体TXT || 2016-05-16 || [https://goo.gl/650oXX 简介]
+|}
+
 === 9.2.2 韩战 ===
 
 {|
