@@ -1513,7 +1513,15 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 | 剪刀、石头、布<br>——趣味博弈论 || Rock, Paper, Scissors<br>——Game Theory in Everyday Life || (英) Len Fisher || 简体PDF(扫描版) || 2014-04-06 || [https://goo.gl/IesRNM 简介]
 |}
 
-== 4.6 (其它) ==
+== 4.6 营销 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 定位 || Positioning<br>——The Battle for Your Mind || (美) [https://en.wikipedia.org/wiki/Jack_Trout 杰克·特劳特]<br>(美) [https://en.wikipedia.org/wiki/Al_Ries 阿尔·里斯] || 简体TXT || 2016-05-16 || [https://goo.gl/I48PbC 简介]
+|}
+
+== 4.7 (其它) ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
