@@ -1265,6 +1265,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 论中国<br>——中国新史 || China<br>——A New History || (美) [https://zh.wikipedia.org/wiki/%E8%B2%BB%E6%AD%A3%E6%B8%85 费正清] || 繁體PDF(竪排掃描版) || 2015-02-08 || [https://goo.gl/S8nJwA 简介]
 |-
+| 帝国落日<br>——晚清大变局 || N/A || [https://zh.wikipedia.org/wiki/%E8%A2%81%E4%BC%9F%E6%97%B6 袁伟时] || 简体TXT || 2016-05-16 || [https://goo.gl/6eg7wl 简介]
+|-
 | 袁氏当国 || N/A || [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2015-02-09<br>2015-02-09<br>2016-04-30 || [https://goo.gl/zPVLKX 简介]
 |-
 | 重说中国近代史 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || [https://goo.gl/fTZnyN 简介]
@@ -1912,7 +1914,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 美国内战 || The Civil War || (美) 乔弗里·瓦德 || 简体TXT || 2016-05-15 || [https://goo.gl/44CGl4 简介]
+| 美国内战 || The Civil War<br>——An Illustrated History || (美) [https://en.wikipedia.org/wiki/Geoffrey_Ward 乔弗里·瓦德] || 简体TXT || 2016-05-15 || [https://goo.gl/44CGl4 简介]
 |}
 
 == 9.3 古代军事史 ==
