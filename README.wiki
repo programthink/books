@@ -1424,6 +1424,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 个人主义与经济秩序 || Individualism and Economic Order || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-10<br>2013-09-13<br>2015-02-14 || [https://goo.gl/8GoZrW 简介]
 |-
+| 经济发展理论 || The Theory of Economic Development || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 熊彼特] || 简体TXT || 2016-05-17 || [https://goo.gl/f6fqmG 简介]
+|-
 | 市场经济<br>——大师们的思考 || The Market Economy<br>——A Reader || (美) 詹姆斯·多蒂<br>(美) 德威特·李 || 简体PDF(扫描版) || 2013-04-09 || [https://goo.gl/54AN6y 简介]
 |-
 | 以自由看待发展 || Development as Freedom || (印度) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF(扫描版) || 2013-04-09 || [https://goo.gl/zloecR 简介]
