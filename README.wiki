@@ -941,6 +941,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 帝国的消亡<br>——当代俄罗斯的教训 || Collapse of an Empire<br>——Lessons for Modern Russia || (俄) [https://en.wikipedia.org/wiki/Yegor_Gaidar 盖达尔] || 简体PDF(扫描版) || 2015-01-12 || [https://goo.gl/02MeoJ 简介]
 |-
+| 大国悲剧<br>——苏联解体的前因后果 || N/A || (俄) [https://en.wikipedia.org/wiki/Nikolai_Ryzhkov 雷日科夫] || 简体TXT || 2016-05-17 || [https://goo.gl/0kcjOh 简介]
+|-
 | 帝国<br>——俄罗斯五十年 || Imperium || (波) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 卡普钦斯基] || 繁體PDF(豎排掃描版) || 2013-11-26 || [https://goo.gl/CezZLn 简介]
 |-
 | 苏联解体亲历记 || N/A || (美) 小杰克·马特洛克 || 简体PDF(扫描版) || 2013-07-07 || [https://goo.gl/IV6I0B 简介]
