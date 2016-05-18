@@ -1532,7 +1532,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 世界是平的<br>——21世纪简史 || The World Is Flat<br>——A Brief History of the Twenty-first Century || (美) [https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%A6%AC%E6%96%AF%C2%B7%E4%BD%9B%E9%87%8C%E6%9B%BC 托马斯·弗里德曼] || 简体PDF(大字版)<br>简体MOBI || 2014-01-09<br>2015-05-10 || [https://goo.gl/Kxnnhz 简介]
 |-
-| 蓝海战略<br>——超越产业竞争，开创全新市场 || Blue Ocean Strategy || (韩) [https://en.wikipedia.org/wiki/W._Chan_Kim 金伟灿]<br>勒妮·莫博涅 || 简体PDF<br>简体MOBI || 2013-12-31<br>2015-05-10 || [https://goo.gl/C1M0eS 简介]
+| 蓝海战略<br>——超越产业竞争，开创全新市场 || Blue Ocean Strategy || (韩) [https://en.wikipedia.org/wiki/W._Chan_Kim 金伟灿]<br>勒妮·莫博涅 || 简体PDF<br>简体MOBI<br>简体TXT || 2013-12-31<br>2015-05-10<br>2016-05-18 || [https://goo.gl/C1M0eS 简介]
 |}
 
 ----
