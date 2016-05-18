@@ -727,7 +727,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 中国社会各阶层分析 || N/A || [https://zh.wikipedia.org/wiki/%E6%A2%81%E6%99%93%E5%A3%B0 梁晓声] || 简体PDF(扫描版) || 2012-12-10 || [https://goo.gl/Xuhanj 简介]
 |-
-| 中国农民调查 || Will the Boat Sink the Water?<br>——The Life of China's Peasants || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%A1%82%E6%A3%A3 陈桂棣]<br>[https://zh.wikipedia.org/wiki/%E5%90%B3%E6%98%A5%E6%A1%83 吴春桃] || 简体PDF || 2015-11-15 || [https://goo.gl/CWIWc9 简介]
+| 中国农民调查 || Will the Boat Sink the Water?<br>——The Life of China's Peasants || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%A1%82%E6%A3%A3 陈桂棣]<br>[https://zh.wikipedia.org/wiki/%E5%90%B3%E6%98%A5%E6%A1%83 吴春桃] || 简体PDF<br>简体TXT || 2015-11-15<br>2016-05-18 || [https://goo.gl/CWIWc9 简介]
 |-
 | 上帝是红色的<br>——中国十字架地下寻访录 || God Is Red<br>——The Secret Story of How Christianity Survived and Flourished in Communist China || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体EPUB || 2013-05-01<br>2014-03-29 || [https://goo.gl/vf6GmS 简介]
 |-
