@@ -1921,6 +1921,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 牛津通识读本：第一次世界大战 || The First World War || (英) [https://en.wikipedia.org/wiki/Michael_Howard_(historian) Michael Howard] || 英文PDF || 2015-12-15 || [https://goo.gl/4lepj0 简介]
+|-
+| 第一次世界大战回忆录 || The World Crisis || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体TXT || 2016-05-19 || [https://goo.gl/STMNDf 简介]
 |}
 
 === 9.2.6 南北战争 ===
