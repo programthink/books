@@ -149,6 +149,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 宪政主义<br>——观念与制度的转捩 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体PDF(扫描版) || 2013-05-19 || [https://goo.gl/Ysf3eg 简介]
 |-
+| 各国民权运动史 || N/A || 董之学 || 繁體PDF(竪排掃描版) || 2016-07-15 || [https://goo.gl/VoeWlu 简介]
+|-
 | 罗伯特议事规则 || Robert's Rules of Order || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A6%AC%E4%B8%81%C2%B7%E7%BE%85%E4%BC%AF%E7%89%B9 亨利·马丁·罗伯特]<br>等 || 简体MOBI || 2015-05-12 || [https://goo.gl/Q6NcXW 简介]
 |-
 | 可操作的民主<br>——罗伯特议事规则下乡全纪录 || N/A || 寇延丁<br>袁天鹏 || 简体PDF(扫描版)<br>简体EPUB || 2015-05-12<br>2015-11-14 || [https://goo.gl/cGKYkJ 简介]
