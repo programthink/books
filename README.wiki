@@ -803,6 +803,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 中国冤案录 || China's Unjust Court Cases || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体MOBI(三卷合集)<br>简体PDF(第2卷) || 2014-02-23<br>2013-05-01 || [https://goo.gl/lDkVau 简介]
 |-
+| 遭遇警察<br>——中国维权第一线亲历记录 || In the Shadow of the Rising Dragon<br>——Stories of Repression in the New China || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%B8%94 徐友渔]<br>[https://zh.wikipedia.org/wiki/%E5%8D%8E%E6%B3%BD 华泽] || 简体PDF || 2016-12-08 || [https://goo.gl/BcjrvL 简介]
+|-
 | 昨夜雨骤风狂 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B3%E5%BC%98%E9%81%94 吴弘达] || 简体PDF || 2013-05-13 || [https://goo.gl/eOdhG2 简介]
 |-
 | 大国寡民 || N/A || 卢跃刚 || 简体PDF || 2014-02-05 || [https://goo.gl/gRiWrB 简介]
