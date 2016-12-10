@@ -1084,6 +1084,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 瓦文萨自传 || (波兰) [https://zh.wikipedia.org/wiki/%E8%8E%B1%E8%B5%AB%C2%B7%E7%93%A6%E6%96%87%E8%90%A8 瓦文萨] || 简体PDF(扫描版) || 2016-12-10 || [https://goo.gl/UVFptd 简介]
 |}
 
 == 1.13 (其它国家) ==
