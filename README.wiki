@@ -1048,16 +1048,12 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 逃出14号劳改营<br>——从人间炼狱到自由世界的脱北者传奇 || Escape from Camp 14<br>——One Man's Remarkable Odyssey From North Korea to Freedom in the West || (韩) [https://zh.wikipedia.org/wiki/%E7%94%B3%E4%B8%9C%E8%B5%AB 申东赫] || 繁體EPUB || 2016-07-18 || [https://goo.gl/BV1nQ7 简介]
 |}
 
-== 1.9 捷克斯洛伐克 ==
+== 1.9 东德 ==
 
 {|
-! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 哈维尔文集 || N/A || (捷克) [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] || 简体PDF || 2013-03-22 || [https://goo.gl/NDN4gi 简介]
-|-
-| 杜布切克回忆录 || N/A || (捷克) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%C2%B7%E6%9D%9C%E5%B8%83%E5%88%87%E5%85%8B 杜布切克] || 简体PDF(扫描版) || 2014-07-12 || [https://goo.gl/IhePjX 简介]
-|-
-| 严寒来自克里姆林宫 || Frost comes from Kremlin || (捷克) [https://zh.wikipedia.org/wiki/%E5%85%B9%E5%BE%B7%E6%B6%85%E5%85%8B%C2%B7%E5%A7%86%E6%9E%97%E7%BA%B3%E6%97%A5 姆林纳日] || 简体PDF(扫描版) || 2014-07-12 || [https://goo.gl/13iWcg 简介]
+| 大墙倾倒之际<br>——克伦茨回忆录 || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E8%B4%A1%C2%B7%E5%85%8B%E4%BC%A6%E8%8C%A8 埃贡·克伦茨] || 简体PDF(扫描版) || 2016-12-10 || [https://goo.gl/Yy4VU5 简介]
 |}
 
 == 1.10 罗马尼亚 ==
@@ -1072,7 +1068,25 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 黑信封 || The Black Envelope || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版) || 2014-05-04 || [https://goo.gl/oJ4ZbZ 简介]
 |}
 
-== 1.11 (其它国家) ==
+== 1.11 捷克斯洛伐克 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 哈维尔文集 || N/A || (捷克) [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] || 简体PDF || 2013-03-22 || [https://goo.gl/NDN4gi 简介]
+|-
+| 杜布切克回忆录 || N/A || (捷克) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%C2%B7%E6%9D%9C%E5%B8%83%E5%88%87%E5%85%8B 杜布切克] || 简体PDF(扫描版) || 2014-07-12 || [https://goo.gl/IhePjX 简介]
+|-
+| 严寒来自克里姆林宫 || Frost comes from Kremlin || (捷克) [https://zh.wikipedia.org/wiki/%E5%85%B9%E5%BE%B7%E6%B6%85%E5%85%8B%C2%B7%E5%A7%86%E6%9E%97%E7%BA%B3%E6%97%A5 姆林纳日] || 简体PDF(扫描版) || 2014-07-12 || [https://goo.gl/13iWcg 简介]
+|}
+
+== 1.12 波兰 ==
+
+{|
+! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|}
+
+== 1.13 (其它国家) ==
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
