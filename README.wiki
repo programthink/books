@@ -984,7 +984,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 斯大林秘书回忆录 || N/A || (苏) 波利斯·巴让诺夫 || 简体PDF(扫描版) || 2015-11-19 || [https://goo.gl/RnT8pT 简介]
 |}
 
-=== 1.5.3 大清洗和古拉格 ===
+=== 1.5.3 大清洗与古拉格 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1915,6 +1915,14 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 失去的胜利<br>''其它中文名：''<br>曼施泰因元帅战争回忆录 || Lost Victories<br>——The War Memoirs of Hitler's Most Brilliant General || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E6%9B%BC%E6%96%BD%E5%9D%A6%E5%9B%A0 曼施泰因] || 简体TXT || 2016-05-16 || [https://goo.gl/650oXX 简介]
+|}
+
+==== 9.2.1.5 西欧战场 ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版) || 2016-12-11 || [https://goo.gl/TmB14P 简介]
 |}
 
 === 9.2.2 韩战 ===
