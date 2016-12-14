@@ -533,7 +533,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 1949年<br>——中国知识分子的私人记录 || N/A || [https://zh.wikipedia.org/wiki/%E5%82%85%E5%9B%BD%E6%B6%8C 傅国涌] || 简体PDF(扫描版) || 2013-03-14 || [https://goo.gl/KqE0ZX 简介]
+| 1949年<br>——中国知识分子的私人记录 || N/A || [https://zh.wikipedia.org/wiki/%E5%82%85%E5%9B%BD%E6%B6%8C 傅国涌] || 简体PDF(扫描版)<br>简体PDF || 2013-03-14<br>2016-12-14 || [https://goo.gl/KqE0ZX 简介]
 |-
 | 战后中共夺取东北始末 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 繁體PDF || 2012-12-11 || [https://goo.gl/IRVAvk 简介]
 |-
