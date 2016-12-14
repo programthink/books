@@ -445,7 +445,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 上山下乡<br>——一个美国人眼中的中国知青运动 || Up to the Mountains and Down to the Villages<br>——The Transfer of Youth from Urban to Rural China || (美) 托马斯·伯恩斯坦 || 简体PDF(扫描版) || 2015-11-09 || [https://goo.gl/SidJ7k 简介]
 |-
-| 失落的一代<br>——中国的上山下乡运动(1968-1980) || The Lost Generation<br>——The Rustification of Chinese Youth (1968-1980) || (法) [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 潘鸣啸] || 简体PDF(扫描版)<br>简体EPUB || 2013-08-11<br>2014-05-18 || [https://goo.gl/32nj7B 简介]
+| 失落的一代<br>——中国的上山下乡运动(1968-1980) || The Lost Generation<br>——The Rustification of Chinese Youth (1968-1980) || (法) [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 潘鸣啸] || 简体PDF(扫描版)<br>简体EPUB<br>简体PDF || 2013-08-11<br>2014-05-18<br>2016-12-14 || [https://goo.gl/32nj7B 简介]
 |-
 | 文化大革命研究资料 || N/A || 国防大学党史党建政工教研室 || 简体PDF(上中下 扫描版) || 2013-11-30 || [https://goo.gl/aiVtvP 简介]
 |-
