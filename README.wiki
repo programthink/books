@@ -489,7 +489,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 辉煌的幻灭<br>——人民公社警示录 || 康健 || 简体CHM<br>简体HTML || 2012-10-05<br>2012-10-06 || [https://goo.gl/KSZg4Y 简介]
 |-
-| 夹边沟记事 || 杨显惠 || 简体PDF(扫描版) || 2013-03-22 || [https://goo.gl/Oz2QES 简介]
+| 夹边沟记事 || 杨显惠 || 简体PDF(扫描版)<br>简体PDF || 2013-03-22<br>2016-12-14 || [https://goo.gl/Oz2QES 简介]
 |-
 | 定西孤儿院纪事 || 杨显惠 || 简体PDF(扫描版) || 2013-03-08 || [https://goo.gl/vhdMfC 简介]
 |}
