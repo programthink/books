@@ -505,7 +505,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 还原1957 || 魏紫丹 (原名：魏立言) || 繁體PDF || 2015-02-17 || [https://goo.gl/AKDbw1 简介]
 |-
-| 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || 简体HTML || 2012-11-17 || [https://goo.gl/DjFmC8 简介]
+| 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || 简体PDF<br>简体HTML || 2016-12-14<br>2012-11-17 || [https://goo.gl/DjFmC8 简介]
 |-
 | 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭] (原名：彭令昭) || 简体PDF || 2013-02-01 || [https://goo.gl/ubOF70 简介]
 |-
