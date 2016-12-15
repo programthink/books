@@ -116,7 +116,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 == 1.1 政治理论 ==
 
-=== 1.1.1 民主和宪政 ===
+=== 1.1.1 民主与宪政 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -236,7 +236,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 牛津通识读本：社会主义 || Socialism || Michael Newman || 英文PDF || 2015-12-13 || [https://goo.gl/uvz0wi 简介]
 |}
 
-=== 1.1.6 极权主义和威权主义 ===
+=== 1.1.6 极权主义与威权主义 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -252,7 +252,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 新常识<br>——一党专制的性质与后果 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体PDF<br>简体EPUB (精校版) || 2013-10-19<br>2015-11-29 || [https://goo.gl/fYtRUx 简介]
 |}
 
-=== 1.1.7 外交和国际关系 ===
+=== 1.1.7 外交与国际关系 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -474,7 +474,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 血的神话<br>——1967年湖南道县文革大屠杀纪实 || N/A || 谭合成 || 简体PDF || 2015-05-12 || [https://goo.gl/JsKdvc 简介]
 |}
 
-==== 1.3.1.4 “大跃进”和大饥荒时期 ====
+==== 1.3.1.4 “大跃进”与大饥荒时期 ====
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -542,7 +542,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 大江大海 一九四九 || Big River, Big Sea || [https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%87%89%E5%8F%B0 龙应台] || 简体PDF<br>简体EPUB<br>繁體PDF(豎排掃描版) || 2013-01-17<br>2013-09-13<br>2012-11-17 || [https://goo.gl/Yqcjy0 简介]
 |}
 
-==== 1.3.1.8 延安和八年抗战时期 ====
+==== 1.3.1.8 延安与八年抗战时期 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -720,7 +720,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 通过此文档，可以直观体会到天朝就是一个“权贵资本主义社会”。更多详情请看[https://program-think.blogspot.com/2015/02/Princelings.html 这里]。
 
-=== 1.3.3 社会阶层和贫富分化 ===
+=== 1.3.3 社会阶层与贫富分化 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -752,7 +752,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 编译局言情录<br>——一朝忽觉京梦醒，半世浮沉雨打萍 || 常艳 || 简体PDF || 2012-12-24 || [https://goo.gl/d9RMnY 简介]
 |}
 
-=== 1.3.5 中宣部和言论审查 ===
+=== 1.3.5 中宣部与言论审查 ===
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1771,7 +1771,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 第一哲学沉思集 || Meditations on First Philosophy || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%84%BF 笛卡尔] || 简体PDF<br>简体TXT || 2014-06-20<br>2016-05-10 || [https://goo.gl/727UGA 简介]
 |}
 
-== 8.5 知识论和认识论 ==
+== 8.5 知识论与认识论 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2168,7 +2168,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 简体PDF(扫描版) || 2015-05-12 || [https://goo.gl/eW7MZb 简介]
 |}
 
-=== 10.1.3 算法和数据结构 ===
+=== 10.1.3 算法与数据结构 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2184,7 +2184,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 
 （本类别放置“具体操作系统相关”的编程类电子书）
 
-==== 10.1.4.1 UNIX 和 Linux ====
+==== 10.1.4.1 UNIX 与 Linux ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2236,7 +2236,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 编程人生<br>——15位软件先驱访谈录 || Coders at work || Peter Seibel || 英文PDF || 2015-11-08 || [https://goo.gl/pOUhxj 简介]
 |}
 
-== 10.2 黑客文化和开源文化 ==
+== 10.2 黑客文化与开源文化 ==
 
 （考虑到“黑客”一词已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚：“黑客/Hacker”与“骇客/Cracker”是有天壤之别的）
 
