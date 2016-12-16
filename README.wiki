@@ -1311,7 +1311,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 帝国落日<br>——晚清大变局 || N/A || [https://zh.wikipedia.org/wiki/%E8%A2%81%E4%BC%9F%E6%97%B6 袁伟时] || 简体TXT || 2016-05-16 || [https://goo.gl/6eg7wl 简介]
 |-
-| 走出帝制<br>——从晚清到民国历史的回望 || N/A || [https://zh.wikipedia.org/wiki/%E7%A7%A6%E6%99%96 秦晖] || 简体PDF(大字版)<br>简体TXT || 2016-07-14<br>2016-05-20 || [https://goo.gl/prbniK 简介]
+| 走出帝制<br>——从晚清到民国历史的回望 || N/A || [https://zh.wikipedia.org/wiki/%E7%A7%A6%E6%99%96 秦晖] || 简体EPUB<br>简体PDF(大字版)<br>简体TXT || 2016-12-16<br>2016-07-14<br>2016-05-20 || [https://goo.gl/prbniK 简介]
 |-
 | 袁氏当国 || N/A || [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2015-02-09<br>2015-02-09<br>2016-04-30 || [https://goo.gl/zPVLKX 简介]
 |-
