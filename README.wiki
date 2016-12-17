@@ -1796,7 +1796,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 简单的逻辑学 || Being Logical<br>——A Guide to Good Thinking || (美) 丹尼斯·麦克伦尼 || 简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2015-01-07<br>2015-02-13<br>2015-11-10 || [https://goo.gl/32I2WC 简介]
 |-
-| 牛津通识读本：简明逻辑学 || Logic || (英) [https://en.wikipedia.org/wiki/Graham_Priest Graham Priest] || 简体EPUB<br>简体AZW3 || 2015-12-14<br>2015-12-14 || [https://goo.gl/SvzRI6 简介]
+| 牛津通识读本：简明逻辑学 || Logic || (英) [https://en.wikipedia.org/wiki/Graham_Priest Graham Priest] || 简体EPUB<br>简体AZW3<br>英文PDF(扫描版) || 2015-12-14<br>2015-12-14<br>2016-12-17 || [https://goo.gl/SvzRI6 简介]
 |}
 
 == 8.7 伦理学 ==
