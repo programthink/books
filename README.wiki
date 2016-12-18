@@ -1305,7 +1305,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || (法) [https://en.wikipedia.org/wiki/Alain_Peyrefitte Alain Peyrefitte] || 简体PDF(扫描版) || 2014-05-23 || [https://goo.gl/aBXcos 简介]
 |-
-| 追寻现代中国 || The Search for Modern China || (英) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 繁體PDF<br>简体EPUB || 2014-06-22<br>2014-06-22 || [https://goo.gl/JOjbrj 简介]
+| 追寻现代中国 || The Search for Modern China || (英) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 繁體PDF<br>简体EPUB<br>简体PDF || 2014-06-22<br>2014-06-22<br>2016-12-18 || [https://goo.gl/JOjbrj 简介]
 |-
 | 论中国<br>——中国新史 || China<br>——A New History || (美) [https://zh.wikipedia.org/wiki/%E8%B2%BB%E6%AD%A3%E6%B8%85 费正清] || 繁體PDF(竪排掃描版) || 2015-02-08 || [https://goo.gl/S8nJwA 简介]
 |-
