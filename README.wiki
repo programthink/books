@@ -469,6 +469,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 第二种忠诚 || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || 简体PDF || 2013-03-09 || [https://goo.gl/lloAYP 简介]
 |-
+| 历史的代价<br>——文革死亡档案 || N/A || 金石开 || 简体PDF(扫描版) || 2016-12-19 || [https://goo.gl/6w4GNr 简介]
+|-
 | 文革三大屠杀案 || N/A || (多人) || 简体PDF || 2015-02-17 || [https://goo.gl/Q46EHW 简介]
 |-
 | 血的神话<br>——1967年湖南道县文革大屠杀纪实 || N/A || 谭合成 || 简体PDF || 2015-05-12 || [https://goo.gl/JsKdvc 简介]
