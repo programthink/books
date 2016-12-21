@@ -2171,6 +2171,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | ANSI Common Lisp || ANSI Common Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 英文PDF<br>[http://acl.readthedocs.org/en/latest/zhCN/index.html 简体WEB]<br>[http://acl.readthedocs.org/en/latest/zhTW/index.html 繁體WEB] || 2015-01-11<br>N/A<br>N/A || [https://goo.gl/IrFlD2 简介]
 |-
+| Common Lisp<br>——The Language || Common Lisp<br>——The Language || (美) [https://en.wikipedia.org/wiki/Guy_L._Steele Guy Steele] || 英文PDF(第2版)<br>[http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html 英文WEB] || 2016-12-21<br>N/A || [https://goo.gl/dXgTZx 简介]
+|-
 | On Lisp<br>——Advanced Techniques for Common Lisp || On Lisp<br>——Advanced Techniques for Common Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 英文PDF || 2015-01-11 || [https://goo.gl/cCMbtU 简介]
 |-
 | Lisp 之根源 || The Roots of Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PDF<br>[http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html 简体WEB] || 2016-12-12<br>N/A || [https://goo.gl/e4ZQnz 简介]
