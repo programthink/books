@@ -2280,6 +2280,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 乐者为王<br>——自由软件 Linux 之父李纳斯·托沃兹自述<br>''其它中文名：''<br>只是为了好玩<br>——Linux 之父林纳斯自传 || Just for Fun<br>——The Story of an Accidental Revolutionary || (芬兰) [https://en.wikipedia.org/wiki/Linus_Torvalds Linus Torvalds] || 简体EPUB<br>简体PDF(扫描版) || 2015-11-15<br>2016-12-12 || [https://goo.gl/NTqun8 简介]
 |-
 | 自由文化 || Free Culture<br>——How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity || (美) [https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%96%87%E5%8C%96 劳伦斯·莱斯格] || 英文PDF || 2015-12-09 || [https://goo.gl/oLpgd0 简介]
+|-
+| 制造开源软件<br>——如何成功运营自由软件项目 || Producing Open Source Software<br>——How to Run a Successful Free Software Project || [https://en.wikipedia.org/wiki/Karl_Fogel Karl Fogel] || 英文PDF<br>[http://producingoss.com/en 英文WEB]<br>[http://producingoss.com/zh 简体WEB] || 2016-12-21<br>N/A<br>N/A || [https://goo.gl/EVqFfW 简介]
 |}
 
 == 10.3 信息安全 ==
