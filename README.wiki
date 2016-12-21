@@ -2275,6 +2275,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 黑客<br>——计算机革命的英雄 || Hackers<br>——Heroes of the Computer Revolution || (美) [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF(25周年纪念版 扫描版)<br>简体MOBI(25周年纪念版)<br>简体EPUB<br>英文PDF || 2014-01-28<br>2015-07-20<br>2015-07-20<br>2015-05-12 || [https://goo.gl/7qCAmT 简介]
 |-
+| Free as in Freedom<br>——Richard Stallman 的自由软件运动 || Free as in Freedom<br>——Richard Stallman's Crusade for Free Software || (美) Sam Williams || 英文PDF(第2版)<br>[http://www.oreilly.com/openbook/freedom/index.html 英文WEB] || 2016-12-21<br>N/A || [https://goo.gl/IdtTfS 简介]
+|-
 | 乐者为王<br>——自由软件 Linux 之父李纳斯·托沃兹自述<br>''其它中文名：''<br>只是为了好玩<br>——Linux 之父林纳斯自传 || Just for Fun<br>——The Story of an Accidental Revolutionary || (芬兰) [https://en.wikipedia.org/wiki/Linus_Torvalds Linus Torvalds] || 简体EPUB<br>简体PDF(扫描版) || 2015-11-15<br>2016-12-12 || [https://goo.gl/NTqun8 简介]
 |-
 | 自由文化 || Free Culture<br>——How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity || (美) [https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%96%87%E5%8C%96 劳伦斯·莱斯格] || 英文PDF || 2015-12-09 || [https://goo.gl/oLpgd0 简介]
