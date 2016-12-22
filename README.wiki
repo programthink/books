@@ -2243,10 +2243,18 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ 网络编程 || C++ Network Programming || (美) [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] || 英文CHM(卷1)<br>英文CHM(卷2) || 2013-10-21<br>2013-10-21 || [https://goo.gl/pnMQzA 简介]
 |-
-| Twisted Network Programming Essentials || Twisted Network Programming Essentials || Abe Fettig<br>(美) [https://en.wikipedia.org/wiki/Jessica_McKellar Jessica McKellar] || 英文CHM(第1版) || 2016-12-22 || [https://goo.gl/rA6O7C 简介]
+| Twisted Network Programming Essentials || Twisted Network Programming Essentials<br>——Developing With Python's Event-driven Framework || Abe Fettig<br>(美) [https://en.wikipedia.org/wiki/Jessica_McKellar Jessica McKellar] || 英文CHM(第1版) || 2016-12-22 || [https://goo.gl/rA6O7C 简介]
 |}
 
-=== 10.1.6 (其它) ===
+=== 10.1.6 Web 相关 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| RESTful Web Services || RESTful Web Services || Leonard Richardson<br>(美) [https://en.wikipedia.org/wiki/Sam_Ruby Sam Ruby] || 英文PDF<br>[https://www.crummy.com/writing/RESTful-Web-Services/html/ 英文WEB] || 2016-12-22<br>N/A || [https://goo.gl/Ekpj66 简介]
+|}
+
+=== 10.1.7 (其它) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
