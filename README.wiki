@@ -177,6 +177,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 无政府、国家与乌托邦 || Anarchy, State, and Utopia || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [https://goo.gl/rDAxkr 简介]
 |-
+| 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米瑟斯] || 简体PDF || 2016-12-23 || [https://goo.gl/3jfdKc 简介]
+|-
 | 自由史论 || The History of Freedom and Other Essays || (英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] || 简体PDF(扫描版) || 2014-07-27 || [https://goo.gl/aOPps4 简介]
 |-
 | 古典自由主义<br>——入门读物 || Libertarianism<br>——A Primer || (美) [https://en.wikipedia.org/wiki/David_Boaz 大卫·鲍兹] || 英文PDF || 2015-07-19 || [https://goo.gl/e3HrTV 简介]
@@ -231,7 +233,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14 || [https://goo.gl/F7ZJ3S 简介]
 |-
-| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://goo.gl/t1Jnzn 简介]
+| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://goo.gl/t1Jnzn 简介]
 |-
 | 牛津通识读本：社会主义 || Socialism || Michael Newman || 英文PDF || 2015-12-13 || [https://goo.gl/uvz0wi 简介]
 |}
