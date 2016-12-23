@@ -840,6 +840,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 追问阳光财政<br>——2009公民税权手册 || 传知行研究所 || 简体PDF || 2015-07-22 || [https://goo.gl/g7pnjo 简介]
+|-
+| 2017年，起来中国<br>——酷刑下的维权律师高智晟自述 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%99%BA%E6%99%9F 高智晟] || 繁體PDF || 2016-12-23 || [https://goo.gl/470qAg 简介]
 |}
 
 === 1.3.11 民运与革命 ===
