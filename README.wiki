@@ -171,13 +171,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 自由及其背叛<br>——人类自由的六个敌人 || Freedom and Its Betrayal<br>——Six Enemies of Human Liberty || (英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2014-05-23 || [https://goo.gl/dxl0EP 简介]
 |-
+| 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米瑟斯] || 简体PDF || 2016-12-23 || [https://goo.gl/3jfdKc 简介]
+|-
 | 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 罗尔斯] || 简体PDF(扫描版)<br>简体EPUB<br>简体TXT || 2013-05-23<br>2013-09-13<br>2016-05-14 || [https://goo.gl/j5Lzkn 简介]
 |-
 | 政治自由主义 || Political Liberalism || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 罗尔斯] || 简体HTML<br>简体MOBI || 2013-01-17<br>2015-05-11 || [https://goo.gl/B6Y9pe 简介]
 |-
 | 无政府、国家与乌托邦 || Anarchy, State, and Utopia || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [https://goo.gl/rDAxkr 简介]
-|-
-| 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米瑟斯] || 简体PDF || 2016-12-23 || [https://goo.gl/3jfdKc 简介]
 |-
 | 自由史论 || The History of Freedom and Other Essays || (英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] || 简体PDF(扫描版) || 2014-07-27 || [https://goo.gl/aOPps4 简介]
 |-
@@ -493,13 +493,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF || 2012-10-05 || [https://goo.gl/rXwegU 简介]
 |-
+| 农村人民公社史 || 罗平汉 || 简体PDF(扫描版) || 2016-12-19 || [https://goo.gl/OsNxSk 简介]
+|-
 | 辉煌的幻灭<br>——人民公社警示录 || 康健 || 简体CHM<br>简体HTML || 2012-10-05<br>2012-10-06 || [https://goo.gl/KSZg4Y 简介]
 |-
 | 夹边沟记事 || 杨显惠 || 简体PDF(扫描版)<br>简体PDF || 2013-03-22<br>2016-12-14 || [https://goo.gl/Oz2QES 简介]
 |-
 | 定西孤儿院纪事<br>——实录饥饿的绝境 || 杨显惠 || 简体PDF(扫描版)<br>简体PDF || 2013-03-08<br>2016-12-14 || [https://goo.gl/vhdMfC 简介]
-|-
-| 农村人民公社史 || 罗平汉 || 简体PDF(扫描版) || 2016-12-19 || [https://goo.gl/OsNxSk 简介]
 |}
 
 ==== 1.3.1.5 “反右”运动 ====
@@ -2097,9 +2097,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 英文PDF<br>英文EPUB || 2015-11-07<br>2015-07-21 || [https://goo.gl/yFaJ8Q 简介]
 |-
-| C 陷阱与缺陷 || C Traps and Pitfalls || (美) [https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer) Andrew Koenig] || 简体PDF(扫描版)<br>英文PDF || 2015-11-15<br>2015-11-07 || [https://goo.gl/7iGrh4 简介]
-|-
 | The GNU C Programming Tutorial || The GNU C Programming Tutorial || (英) [https://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist) Mark Burgess] || 英文PDF<br>[http://crasseux.com/books/ctutorial/ 英文WEB] || 2016-12-21<br>N/A || [https://goo.gl/jSEmFk 简介]
+|-
+| C 陷阱与缺陷 || C Traps and Pitfalls || (美) [https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer) Andrew Koenig] || 简体PDF(扫描版)<br>英文PDF || 2015-11-15<br>2015-11-07 || [https://goo.gl/7iGrh4 简介]
 |-
 | 21世纪 C 语言技巧 || 21st Century C<br>——C Tips from the New School || Ben Klemens || 英文EPUB || 2015-07-21 || [https://goo.gl/bvNRHV 简介]
 |}
