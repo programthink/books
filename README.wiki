@@ -911,6 +911,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 国会政体<br>——美国政治研究 || Congressional Government<br>——A Study in American Politics || (美) [https://zh.wikipedia.org/wiki/%E4%BC%8D%E5%BE%B7%E7%BD%97%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A 伍德罗·威尔逊] || 简体PDF(扫描版) || 2017-02-17 || [https://goo.gl/wC20Hb 简介]
 |-
+| 事关选举<br>——美国国会的政治解读 || Congress<br>——The Electoral Connection || (美) [https://en.wikipedia.org/wiki/David_R._Mayhew 戴维·梅休] || 简体PDF(扫描版) || 2017-02-17 || [https://goo.gl/bA2q9u 简介]
+|-
 | 牛津通识读本：美国总统制 || The American Presidency || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones Charles O. Jones] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://goo.gl/JT7obr 简介]
 |-
 | 牛津通识读本：美国国会 || The U.S. Congress || (美) [https://en.wikipedia.org/wiki/Donald_A._Ritchie Donald Ritchie] || 英文PDF || 2015-12-13 || [https://goo.gl/FVbX4C 简介]
