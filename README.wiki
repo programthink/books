@@ -1449,6 +1449,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 光荣与梦想<br>——1932-1972年美国社会实录 || The Glory and the Dream<br>——A Narrative History of America, 1932-1972 || (美) [https://en.wikipedia.org/wiki/William_Manchester 威廉·曼彻斯特] || 简体PDF(大字版)<br>简体PDF<br>简体TXT || 2016-12-16<br>2017-02-17<br>2016-05-01 || [https://goo.gl/fAPYeF 简介]
 |-
+| 美国黑人斗争史<br>——1619年至今的历史、文献与分析 || Black Protest<br>——History, Documents, And Analysis 1619 To The Present || (美) [https://en.wikipedia.org/wiki/Joanne_Grant 乔安妮·格兰特] || 简体PDF(扫描版) || 2017-02-18 || [https://goo.gl/R4546D 简介]
+|-
 | 牛津通识读本：大萧条与新经济政策 || The Great Depression and New Deal || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway Eric Rauchway] || 英文PDF || 2015-12-15 || [https://goo.gl/SSBcB8 简介]
 |}
 
