@@ -974,6 +974,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 常识 || Common Sense || (美) [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9 托马斯·潘恩] || 简体EPUB<br>简体TXT || 2014-05-23<br>2016-05-18 || [https://goo.gl/MMHhY0 简介]
 |-
 | 民主的细节<br>——美国当代政治观察随笔 || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || [https://goo.gl/aq9azA 简介]
+|-
+| 近距离看美国1<br>——历史深处的忧虑 || N/A || (美) [https://zh.wikipedia.org/wiki/%E6%9E%97%E9%81%94_%28%E4%BD%9C%E5%AE%B6%29 林达] (原名：丁鸿富 & 李晓琳) || 简体PDF(扫描版) || 2017-02-18 || [https://goo.gl/aZsclf 简介]
 |}
 
 == 1.5 苏联 ==
