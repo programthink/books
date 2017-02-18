@@ -942,14 +942,16 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 牛津通识读本：林肯 || Lincoln || (美) [https://en.wikipedia.org/wiki/Allen_C._Guelzo Allen Guelzo] || 英文PDF || 2015-12-12 || [https://goo.gl/kGedUm 简介]
 |}
 
-=== 1.4.3 国安局与棱镜门 ===
+=== 1.4.3 情报系统 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 危机<br>——美国国家安全局透视 || N/A || (未知) || 简体PDF || 2013-06-18 || [https://goo.gl/8KdkE1 简介]
-|-
 | 无处可藏<br>——斯诺登、美国国安局与全球监控 || No Place to Hide<br>——Edward Snowden, the NSA, and the U.S. Surveillance State || (美) [https://zh.wikipedia.org/wiki/%E8%91%9B%E5%80%AB%C2%B7%E8%91%9B%E6%9E%97%E8%8F%AF%E5%BE%B7 格伦·格林沃尔德] || 简体EPUB || 2016-12-20 || [https://goo.gl/5iqPhx 简介]
+|-
+| 帷幕<br>——美国中央情报局的秘密战争 || Veil<br>——The Secret Wars of the CIA || (美) [https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E4%BC%8D%E5%BE%B7%E6%B2%83%E5%BE%B7 鲍勃·伍德沃德] || 简体PDF(扫描版) || 2017-02-18 || [https://goo.gl/7sxBpN 简介]
+|-
+| 危机<br>——美国国家安全局透视 || N/A || (未知) || 简体PDF || 2013-06-18 || [https://goo.gl/8KdkE1 简介]
 |}
 
 === 1.4.4 (其它) ===
