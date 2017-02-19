@@ -2030,6 +2030,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 冷战史<br>——遏制与共存备忘录 || A Journey Through the Cold War<br>——A Memoir of Containment and Coexistence || (美) [https://en.wikipedia.org/wiki/Raymond_L._Garthoff 雷蒙德·加特霍夫] || 简体PDF || 2017-02-19 || [https://goo.gl/SdZNKj 简介]
 |-
+| 人心之争<br>——美国、苏联与冷战 || For the Soul of Mankind<br>——The United States, the Soviet Union, and the Cold War || (美) [https://en.wikipedia.org/wiki/Melvyn_P._Leffler 梅尔文·P·莱弗勒] || 简体PDF(扫描版) || 2017-02-19 || [https://goo.gl/8Wutmd 简介]
+|-
 | 冰与火之歌<br>——回首冷战军事对抗史 || N/A || 《现代兵器》杂志社 || 简体PDF(扫描版) || 2015-02-17 || [https://goo.gl/UtHMyS 简介]
 |-
 | 牛津通识读本：冷战 || The Cold War || (美) [https://en.wikipedia.org/wiki/Robert_J._McMahon_(historian) Robert McMahon] || 英文PDF || 2015-12-14 || [https://goo.gl/VDVPwx 简介]
