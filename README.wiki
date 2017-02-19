@@ -2082,12 +2082,20 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 汉尼拔战争 || N/A || 王乃新 || 简体PDF(扫描版) || 2013-02-05 || [https://goo.gl/hrEYVr 简介]
 |}
 
-== 9.4 武器 ==
+== 9.5 武器 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 牛津通识读本：核武器 || Nuclear Weapons || Joseph Siracusa || 英文PDF || 2015-12-14 || [https://goo.gl/YGj9BL 简介]
+|}
+
+== 9.6 美国 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 美军生存手册 || U.S. Army Survival Manual || (美) [https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8 美国国防部] || 简体PDF || 2017-02-19 || [https://goo.gl/mqHCW8 简介]
 |}
 
 ----
