@@ -2011,6 +2011,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 毛泽东、斯大林与朝鲜战争 || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB<br>简体PDF(扫描版) || 2013-07-30<br>2013-09-13<br>2015-10-25 || [https://goo.gl/1kmcDa 简介]
 |-
 | 远东朝鲜战争 || N/A || 王树增 || 简体PDF || 2013-07-30 || [https://goo.gl/oB1Wsg 简介]
+|-
+| 杜鲁门与麦克阿瑟的冲突和朝鲜战争 || The Truman-MacArthur Controversy and the Korean War || (美) 约翰·斯帕尼尔 || 简体PDF(扫描版) || 2017-02-19 || [https://goo.gl/7R2zpV 简介]
 |}
 
 === 9.2.3 越战 ===
