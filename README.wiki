@@ -2064,6 +2064,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 火的考验<br>——美国南北战争及重建南部 || Ordeal By Fire<br>——The Civil War and Reconstruction || (美) [https://en.wikipedia.org/wiki/James_M._McPherson 詹姆斯·M·麦克弗森] || 简体PDF(扫描版) || 2017-02-20 || [https://goo.gl/HYadgn 简介]
+|-
 | 美国内战 || The Civil War<br>——An Illustrated History || (美) [https://en.wikipedia.org/wiki/Geoffrey_Ward 乔弗里·瓦德] || 简体TXT || 2016-05-15 || [https://goo.gl/44CGl4 简介]
 |}
 
