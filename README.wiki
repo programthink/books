@@ -1303,7 +1303,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || (加) [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || 简体PDF(上下册)<br>简体PDF(大字版)<br>简体CHM || 2013-02-27<br>2016-12-16<br>2013-02-07 || [https://goo.gl/UR35JR 简介]
+| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || (加) [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || 简体PDF(上下册)<br>简体PDF(大字版)<br>简体CHM<br>英文PDF(扫描版) || 2013-02-27<br>2016-12-16<br>2013-02-07<br>2017-02-22 || [https://goo.gl/UR35JR 简介]
 |-
 | 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || (美) [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体EPUB<br>简体PDF(大字版)<br>简体CHM<br>简体MOBI<br>英文PDF || 2013-09-13<br>2013-04-20<br>2013-02-05<br>2015-05-11<br>2013-02-05 || [https://goo.gl/3JWj0V 简介]
 |-
