@@ -259,9 +259,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || (美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT || 2013-04-14<br>2017-02-17<br>2016-04-29 || [https://goo.gl/47UZv3 简介]
+| 文明的冲突与世界秩序的重建 || The Clash of Civilizations and the Remaking of World Order || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT || 2013-03-31<br>2017-03-24<br>2016-04-30 || [https://goo.gl/yQJOmY 简介]
 |-
-| 文明的冲突与世界秩序的重建 || The Clash of Civilizations and the Remaking of World Order || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] || 简体PDF<br>简体TXT || 2013-03-31<br>2016-04-30 || [https://goo.gl/yQJOmY 简介]
+| 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || (美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT || 2013-04-14<br>2017-02-17<br>2016-04-29 || [https://goo.gl/47UZv3 简介]
 |-
 | 大外交 || Diplomacy || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 基辛格] || 简体EPUB<br>英文EPUB || 2014-02-05<br>2014-02-05 || [https://goo.gl/a690l8 简介]
 |-
