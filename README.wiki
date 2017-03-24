@@ -1081,7 +1081,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 旧制度与大革命 || The Old Regime and the French Revolution || (法) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF<br>简体EPUB || 2012-10-06<br>2013-09-14 || [https://goo.gl/WjGJwy 简介]
+| 旧制度与大革命 || The Old Regime and the French Revolution || (法) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF<br>简体EPUB<br>简体PDF(扫描版) || 2012-10-06<br>2013-09-14<br>2017-03-24 || [https://goo.gl/WjGJwy 简介]
 |-
 | 法国大革命的起源 || Origins of the French Revolution || (英) [https://en.wikipedia.org/wiki/William_Doyle_(historian) William Doyle] || 繁體PDF(掃描版) || 2013-11-26 || [https://goo.gl/KrILCF 简介]
 |}
