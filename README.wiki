@@ -803,7 +803,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 西藏生与死<br>——雪域的民族主义 || Tibet<br>——Survival in Question || (法) [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet 董尼德] || 繁體PDF(竪排掃描版) || 2012-12-31 || [https://goo.gl/IPc3BE 简介]
 |-
-| 流亡中的自在<br>——达赖喇嘛自传 || Freedom in Exile<br>——The Autobiography of the Dalai Lama || [https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B 十四世达赖喇嘛] (原名：丹增嘉措) || 简体EPUB || 2014-03-29 || [https://goo.gl/QASW1w 简介]
+| 流亡中的自在<br>——达赖喇嘛自传 || Freedom in Exile<br>——The Autobiography of the Dalai Lama || [https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B 十四世达赖喇嘛] (原名：丹增嘉措) || 简体EPUB<br>简体PDF || 2014-03-29<br>2017-03-26 || [https://goo.gl/QASW1w 简介]
 |-
 | 西藏笔记 || Notes on Tibet || [https://zh.wikipedia.org/wiki/%E5%94%AF%E8%89%B2 唯色] || 简体PDF(扫描版) || 2013-05-19 || [https://goo.gl/hdgkRd 简介]
 |-
