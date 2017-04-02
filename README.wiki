@@ -2481,6 +2481,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(Google) 吴军] || 简体PDF(前18章)<br>简体MOBI(前16章) || 2013-10-22<br>2014-02-23 || [https://goo.gl/DL9uBi 简介]
 |-
+| 微软的秘密 || Microsoft Secrets<br>——How the World's Most Powerful Software Company Creates Technology, Shapes Markets and Manages People || (美) [https://en.wikipedia.org/wiki/Michael_A._Cusumano Michael Cusumano] || 简体PDF || 2017-04-02 || [https://goo.gl/oTGnpm 简介]
+|-
 | Borland 传奇 || N/A || 李维 || 简体PDF<br>简体EPUB<br>简体CHM || 2015-02-08<br>2015-02-08<br>2013-10-22 || [https://goo.gl/suZ5DO 简介]
 |-
 | DOOM 启世录 || Masters of Doom<br>——How Two Guys Created an Empire and Transformed Pop Culture || (美) [https://en.wikipedia.org/wiki/David_Kushner David Kushner] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体CHM || 2015-02-08<br>2015-02-08<br>2015-02-08<br>2013-11-26 || [https://goo.gl/JHmU25 简介]
