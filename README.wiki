@@ -397,9 +397,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 八九天安门事件大事记 || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 简体PDF || 2012-05-25 || [https://goo.gl/CwzvaE 简介]
 |-
-| 人民不会忘记 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體WEB] || 2012-04-05<br>N/A || [https://goo.gl/JRbF6x 简介]
+| 历史的大爆炸<br>——六四事件全景实录 || 张万舒 (原名：张清海) || 繁體PDF(掃描版) || 2017-04-29 || [https://goo.gl/b3BRW9 简介]
 |-
-| “六四”事件民间白皮书 || 纪念六四事件委员会 || 简体PDF || 2012-05-25 || [https://goo.gl/YIjUqP 简介]
+| 人民不会忘记 || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體WEB] || 2012-04-05<br>N/A || [https://goo.gl/JRbF6x 简介]
 |-
 | 八九民运史 || 陈小雅 || 繁體PDF<br>[http://www.64memo.com/b5/4.htm 繁體WEB] || 2014-05-23<br>N/A || [https://goo.gl/ByF9EQ 简介]
 |-
@@ -409,15 +409,17 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 天安门的力量<br>——国家-社会关系与1989学生运动 || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版) || 2012-12-26 || [https://goo.gl/WjMqhB 简介]
 |-
-| 铭记天安门 || (英) [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF || 2012-05-25 || [https://goo.gl/1KLrs0 简介]
-|-
-| 末日幸存者的独白<br>——关于我和“六四” || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 繁體PDF(掃描版) || 2014-05-23 || [https://goo.gl/48wdvi 简介]
-|-
 | 六四日记<br>——广场上的共和国 || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF(掃描版) || 2013-02-02 || [https://goo.gl/r28aEW 简介]
 |-
 | 王丹回忆录<br>——从六四到流亡 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體DOCX || 2014-03-29<br>2013-11-26 || [https://goo.gl/a4AAaI 简介]
 |-
+| 末日幸存者的独白<br>——关于我和“六四” || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 繁體PDF(掃描版) || 2014-05-23 || [https://goo.gl/48wdvi 简介]
+|-
+| 铭记天安门 || (英) [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF || 2012-05-25 || [https://goo.gl/1KLrs0 简介]
+|-
 | 黄雀行动 || 江迅 || 简体PDF || 2012-05-25 || [https://goo.gl/zFvx8n 简介]
+|-
+| “六四”事件民间白皮书 || 纪念六四事件委员会 || 简体PDF || 2012-05-25 || [https://goo.gl/YIjUqP 简介]
 |-
 | 六四诗集 || (多人) || 简体PDF || 2014-05-23 || [https://goo.gl/upYNcr 简介]
 |-
