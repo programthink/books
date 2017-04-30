@@ -349,7 +349,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 云图 || Cloud Atlas || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || [https://goo.gl/3EynT2 简介]
 |-
-| 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体PDF || 2013-01-01 || [https://goo.gl/cIJoqj 简介]
+| 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体PDF<br>简体EPUB || 2013-01-01<br>2017-04-30 || [https://goo.gl/cIJoqj 简介]
 |-
 | 裸命 || N/A || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体MOBI || 2013-01-01 || [https://goo.gl/OzVaQQ 简介]
 |-
