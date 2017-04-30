@@ -1722,7 +1722,7 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 |-
 | 丑陋的中国人 || N/A || [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%A5%8A 柏杨] (原名：郭定生) || 简体TXT<br>简体MOBI || 2012-10-06<br>2015-11-08 || [https://goo.gl/MPB7iM 简介]
 |-
-| 吾国与吾民 || My Country and My People || [https://zh.wikipedia.org/wiki/%E6%9E%97%E8%AF%AD%E5%A0%82 林语堂] || 简体MOBI<br>简体TXT || 2014-02-23<br>2016-05-10 || [https://goo.gl/4kJqfZ 简介]
+| 吾国与吾民 || My Country and My People || [https://zh.wikipedia.org/wiki/%E6%9E%97%E8%AF%AD%E5%A0%82 林语堂] || 简体EPUB<br>简体MOBI<br>简体TXT || 2017-04-30<br>2014-02-23<br>2016-05-10 || [https://goo.gl/4kJqfZ 简介]
 |-
 | 中国比小说更离奇 || China is Stranger Than Fiction || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || 简体TXT<br>简体MOBI || 2013-02-25<br>2013-02-25 || [https://goo.gl/rnOK2m 简介]
 |-
