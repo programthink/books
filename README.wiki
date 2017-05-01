@@ -661,6 +661,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 胡耀邦与平反冤假错案 || [https://zh.wikipedia.org/wiki/%E6%88%B4%E7%85%8C 戴煌] (原名：戴澍霖) || 简体PDF(扫描版) || 2017-05-01 || [https://goo.gl/pxZLcc 简介]
+|-
 | 胡耀邦与中国政治改革<br>——12位老共产党人的反思 || (多人) || 繁體PDF(掃描版) || 2013-02-01 || [https://goo.gl/0zJBVr 简介]
 |-
 | 胡耀邦下台的背景<br>——人道主义在中国的命运 || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || 简体TXT || 2012-12-19 || [https://goo.gl/tvGXi5 简介]
@@ -699,7 +701,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 我的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || 简体PDF || 2012-10-26 || [https://goo.gl/nM9fKE 简介]
 |-
-| 红色家族档案<br>——罗瑞卿女儿的点点记忆 || N/A || 罗点点 || 简体EPUB<br>简体PDF(扫描版) || 2015-11-10<br>2013-04-21 || [https://goo.gl/oHqB5V 简介]
+| 红色家族档案<br>——罗瑞卿女儿的点点记忆 || N/A || 罗点点 (原名：罗峪平) || 简体EPUB<br>简体PDF(扫描版) || 2015-11-10<br>2013-04-21 || [https://goo.gl/oHqB5V 简介]
 |-
 | 龚楚回忆录 || N/A || [https://zh.wikipedia.org/wiki/%E9%BE%9A%E6%A5%9A 龚楚] || 繁體PDF(豎排掃描版) || 2014-02-04 || [https://goo.gl/PMyhO9 简介]
 |-
