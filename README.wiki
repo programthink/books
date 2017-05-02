@@ -393,15 +393,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 天安门文件<br>''其它中文名：''<br>中国六四真相 || N/A || 张良 (化名) || 简体PDF<br>简体CHM || 2013-01-13<br>2012-04-05 || [https://goo.gl/Di7EJs 简介]
+| 天安门文件<br>''其它中文名：''<br>中国六四真相 || The Tiananmen Papers || 张良 (化名) || 简体PDF<br>简体CHM || 2013-01-13<br>2012-04-05 || [https://goo.gl/Di7EJs 简介]
 |-
 | 天安门血腥清场内幕 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 繁體PDF || 2012-05-25 || [https://goo.gl/o1C6Yu 简介]
 |-
 | 八九天安门事件大事记 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 简体PDF || 2012-05-25 || [https://goo.gl/CwzvaE 简介]
 |-
-| 历史的大爆炸<br>——六四事件全景实录 || N/A || 张万舒 (原名：张清海) || 繁體PDF(掃描版) || 2017-04-29 || [https://goo.gl/b3BRW9 简介]
+| 历史的大爆炸<br>——六四事件全景实录 || The Big Bang of History<br>——June Fourth Movement Record || 张万舒 (原名：张清海) || 繁體PDF(掃描版) || 2017-04-29 || [https://goo.gl/b3BRW9 简介]
 |-
-| 人民不会忘记 || N/A || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體WEB] || 2012-04-05<br>N/A || [https://goo.gl/JRbF6x 简介]
+| 人民不会忘记<br>——八九民运实录 || People Will Not Forget<br>——A Chronicle by 64 Hong Kong Reporters || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體WEB] || 2012-04-05<br>N/A || [https://goo.gl/JRbF6x 简介]
 |-
 | 八九民运史 || The History of the 1989 Tiananmen Square Protests || 陈小雅 || 繁體PDF<br>[http://www.64memo.com/b5/4.htm 繁體WEB] || 2014-05-23<br>N/A || [https://goo.gl/ByF9EQ 简介]
 |-
@@ -409,15 +409,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 中国民运反思 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体TXT<br>[http://www.64memo.com/b5/48.htm 繁體WEB] || 2013-05-01<br>2014-05-23<br>N/A || [https://goo.gl/AChJOl 简介]
 |-
-| 天安门的力量<br>——国家-社会关系与1989学生运动 || N/A || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版) || 2012-12-26 || [https://goo.gl/WjMqhB 简介]
+| 天安门的力量<br>——国家-社会关系与1989学生运动 || The Power of Tiananmen<br>——State-Society Relations and the 1989 Beijing Student Movement || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版) || 2012-12-26 || [https://goo.gl/WjMqhB 简介]
 |-
-| 六四日记<br>——广场上的共和国 || N/A || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF(掃描版) || 2013-02-02 || [https://goo.gl/r28aEW 简介]
+| 六四日记<br>——广场上的共和国 || A Tiananmen Journal<br>——Republic on the Square || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF(掃描版) || 2013-02-02 || [https://goo.gl/r28aEW 简介]
 |-
 | 王丹回忆录<br>——从六四到流亡 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體DOCX || 2014-03-29<br>2013-11-26 || [https://goo.gl/a4AAaI 简介]
 |-
 | 末日幸存者的独白<br>——关于我和“六四” || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 繁體PDF(掃描版) || 2014-05-23 || [https://goo.gl/48wdvi 简介]
 |-
-| 铭记天安门 || N/A || (英) [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF || 2012-05-25 || [https://goo.gl/1KLrs0 简介]
+| 铭记天安门 || Remembering Tiananmen Square || (英) [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF<br>[https://www.thenation.com/article/remembering-tiananmen-square/ 英文WEB] || 2012-05-25<br>N/A || [https://goo.gl/1KLrs0 简介]
 |-
 | 黄雀行动 || N/A || 江迅 || 简体PDF || 2012-05-25 || [https://goo.gl/zFvx8n 简介]
 |-
