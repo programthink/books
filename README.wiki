@@ -1445,7 +1445,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || (英) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 吉本] || 简体PDF(全6卷 扫描版)<br>简体EPUB<br>简体CHM<br>简体PDF(上下册 节译)<br>简体MOBI || 2013-11-26<br>2013-09-14<br>2013-02-07<br>2013-02-07<br>2015-02-13 || [https://goo.gl/wr5fTG 简介]
 |-
-| 罗马人的故事 || N/A || (日) [https://zh.wikipedia.org/wiki/%E5%A1%A9%E9%87%8E%E4%B8%83%E7%94%9F 盐野七生] || 繁體PDF(掃描版) || 2014-07-15 || [https://goo.gl/UvZF19 简介]
+| 罗马人的故事 || N/A || (日) [https://zh.wikipedia.org/wiki/%E5%A1%A9%E9%87%8E%E4%B8%83%E7%94%9F 盐野七生] || 繁體PDF(掃描版) || 2017-05-03 || [https://goo.gl/UvZF19 简介]
 |-
 | 牛津通识读本：罗马帝国 || The Roman Empire || (英) [https://en.wikipedia.org/wiki/Christopher_Kelly_(historian) Christopher Kelly] || 英文PDF || 2015-12-15 || [https://goo.gl/3O2E7o 简介]
 |-
