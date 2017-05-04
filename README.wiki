@@ -1329,6 +1329,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 战后欧洲史 || Postwar<br>——A History of Europe Since 1945 || (美) [https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E6%9C%B1%E7%89%B9 托尼·朱特] || 简体PDF(扫描版) || 2014-08-11 || [https://goo.gl/Zfc3XN 简介]
 |-
+| 欧洲中世纪史 || Medieval Europe<br>——A short History || (美) [https://en.wikipedia.org/wiki/Judith_M._Bennett 朱迪斯·M·本内特]<br>(美) [https://en.wikipedia.org/wiki/C._Warren_Hollister C·沃伦·霍利斯特] || 简体PDF(扫描版) || 2017-05-04 || [https://goo.gl/qyA4tO 简介]
+|-
 | 牛津通识读本：十字军 || The Crusades || (英) [https://et.wikipedia.org/wiki/Christopher_Tyerman Christopher Tyerman] || 英文PDF || 2015-12-15 || [https://goo.gl/oYx6rJ 简介]
 |}
 
