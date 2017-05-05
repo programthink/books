@@ -2109,6 +2109,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 隐形战斗机 || X-Planes<br>——Secret Planes and Secret Missions || (美) 戴维·奥利弗<br>(美) 迈克·瑞安 || 简体PDF(扫描版) || 2017-05-05 || [https://goo.gl/dMvUFB 简介]
+|-
 | 牛津通识读本：核武器 || Nuclear Weapons || Joseph Siracusa || 英文PDF || 2015-12-14 || [https://goo.gl/YGj9BL 简介]
 |}
 
@@ -2117,7 +2119,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 美军生存手册 || U.S. Army Survival Manual || (美) [https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8 美国国防部] || 简体PDF || 2017-02-19 || [https://goo.gl/mqHCW8 简介]
+| 美军生存手册 || U.S. Army Survival Manual || (美) [https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8 美国国防部] || 简体PDF(扫描版) || 2017-02-19 || [https://goo.gl/mqHCW8 简介]
 |}
 
 ----
