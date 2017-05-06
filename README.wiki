@@ -469,7 +469,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 牛鬼蛇神录<br>——文革囚禁中的精灵 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [https://goo.gl/bbpfG2 简介]
 |-
-| 上海生死劫<br>''其它中文名：''<br>上海生与死 || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体PDF(扫描版) || 2013-05-30 || [https://goo.gl/4MXXFf 简介]
+| 上海生死劫<br>''其它中文名：''<br>上海生与死 || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体EPUB<br>简体PDF(扫描版) || 2017-05-06<br>2013-05-30 || [https://goo.gl/4MXXFf 简介]
 |-
 | 中国的眸子 || N/A || 胡平 (与民运人士胡平同名) || 简体PDF(扫描版) || 2013-03-31 || [https://goo.gl/1UJJFx 简介]
 |-
