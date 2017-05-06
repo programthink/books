@@ -961,7 +961,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 剑桥美国对外关系史 || The Cambridge History of American Foreign Relations || (美) 沃伦·科恩 (中文名：孔华润) || 简体PDF(扫描版) || 2017-02-18 || [https://goo.gl/MW8WTm 简介]
 |-
-| 战后美国外交史<br>——从杜鲁门到里根 || N/A || [https://zh.wikipedia.org/wiki/%E8%B5%84%E4%B8%AD%E7%AD%A0 资中筠] (等) || 简体PDF(扫描版) || 2017-05-05 || [https://goo.gl/Az0jQE 简介]
+| 战后美国外交史<br>——从杜鲁门到里根 || N/A || [https://zh.wikipedia.org/wiki/%E8%B5%84%E4%B8%AD%E7%AD%A0 资中筠]<br>等 || 简体PDF(扫描版) || 2017-05-05 || [https://goo.gl/Az0jQE 简介]
 |-
 | 历史的见证<br>——1929-1969年 || Witness to History<br>——1929-1969 || (美) [https://en.wikipedia.org/wiki/Charles_E._Bohlen 查尔斯·波伦] || 简体PDF(扫描版) || 2017-02-18 || [https://goo.gl/sZxybg 简介]
 |-
@@ -2276,6 +2276,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 简体PDF(扫描版) || 2015-05-12 || [https://goo.gl/eW7MZb 简介]
+|-
+| 七周七语言<br>——理解多种编程范型 || Seven Languages in Seven Weeks<br>——A Pragmatic Guide to Learning Programming Languages || (美) [https://en.wikipedia.org/wiki/Bruce_Tate Bruce Tate] || 简体PDF || 2017-05-05 || [https://goo.gl/JaexhP 简介]
 |}
 
 === 10.1.3 算法与数据结构 ===
