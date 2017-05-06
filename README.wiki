@@ -131,7 +131,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF || 2013-08-22 || [https://goo.gl/0Nc9uY 简介]
 |-
-| 社会契约论<br>''其它中文名：''<br>民约论 || The Social Contract || (法) [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 卢梭] || 简体PDF<br>简体MOBI || 2014-01-09<br>2015-05-11 || [https://goo.gl/2hOv3S 简介]
+| 社会契约论<br>''其它中文名：''<br>民约论 || The Social Contract || (法) [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 卢梭] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2017-05-06<br>2015-05-11 || [https://goo.gl/2hOv3S 简介]
 |-
 | 论法的精神<br>''其它中文名：''<br>法意 || The Spirit of the Laws || (法) [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF<br>简体PDF(大字版)<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2017-03-24<br>2015-05-11<br>2015-05-11 || [https://goo.gl/UTjUxP 简介]
 |-
