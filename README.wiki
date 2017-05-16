@@ -1397,8 +1397,6 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 民国人物过眼录 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF(扫描版) || 2014-02-21 || [https://goo.gl/PWSxql 简介]
 |-
-| 天朝的崩溃<br>——鸦片战争再研究 || N/A || [https://zh.wikipedia.org/wiki/%E8%8C%85%E6%B5%B7%E5%BB%BA 茅海建] || 简体EPUB<br>简体MOBI || 2017-05-09<br>2017-05-09 || [https://goo.gl/Dwl7B6 简介]
-|-
 | 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || (美) [https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B Philip Kuhn] (中文名：孔飞力) || 简体PDF(扫描版)<br>简体TXT || 2014-05-23<br>2016-05-15 || [https://goo.gl/0CLu5f 简介]
 |-
 | 那一次，我们挨打了<br>——中英第一次鸦片战争全景解读 || N/A || 端木赐香 (原名：李桂枝) || 简体TXT || 2015-07-12 || [https://goo.gl/ZCyBJk 简介]
@@ -2087,7 +2085,15 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 绝版甲午<br>——从海外史料揭秘中日战争 || (澳大利亚) 雪珥 (原名：蒋文胜) || 简体PDF(扫描版) || 2016-12-10 || [https://goo.gl/ju86TC 简介]
 |}
 
-=== 9.3.2 南北战争 ===
+=== 9.3.2 鸦片战争 ===
+
+{|
+! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 天朝的崩溃<br>——鸦片战争再研究 || [https://zh.wikipedia.org/wiki/%E8%8C%85%E6%B5%B7%E5%BB%BA 茅海建] || 简体EPUB<br>简体MOBI || 2017-05-09<br>2017-05-09 || [https://goo.gl/Dwl7B6 简介]
+|}
+
+=== 9.3.3 南北战争 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
