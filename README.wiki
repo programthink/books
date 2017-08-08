@@ -2181,7 +2181,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 英文PDF<br>英文EPUB || 2015-11-07<br>2015-07-21 || [https://goo.gl/yFaJ8Q 简介]
+| C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体PDF<br>英文PDF<br>英文EPUB || 2017-08-08<br>2015-11-07<br>2015-07-21 || [https://goo.gl/yFaJ8Q 简介]
 |-
 | The GNU C Programming Tutorial || The GNU C Programming Tutorial || (英) [https://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist) Mark Burgess] || 英文PDF<br>[http://crasseux.com/books/ctutorial/ 英文WEB] || 2016-12-21<br>N/A || [https://goo.gl/jSEmFk 简介]
 |-
