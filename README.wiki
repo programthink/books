@@ -2364,6 +2364,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 代码阅读方法与实践 || Code Reading<br>——The Open Source Perspective || (希腊) [https://en.wikipedia.org/wiki/Diomidis_Spinellis Diomidis Spinellis] || 简体PDF(第1版 扫描版) || 2015-11-03 || [https://goo.gl/RfgrJ7 简介]
 |-
 | 编程人生<br>——15位软件先驱访谈录 || Coders at work || Peter Seibel || 英文PDF || 2015-11-08 || [https://goo.gl/pOUhxj 简介]
+|-
+| 编码<br>——隐匿在计算机软硬件背后的语言 || Code<br>——The Hidden Language of Computer Hardware and Software || (美) [https://en.wikipedia.org/wiki/Charles_Petzold Charles Petzold] || 简体PDF(扫描版) || 2017-08-08 || [https://goo.gl/M4KtFd 简介]
 |}
 
 == 10.2 黑客文化与开源文化 ==
