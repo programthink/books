@@ -2348,6 +2348,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | RESTful Web Services || RESTful Web Services || Leonard Richardson<br>(美) [https://en.wikipedia.org/wiki/Sam_Ruby Sam Ruby] || 英文PDF<br>英文EPUB<br>[https://www.crummy.com/writing/RESTful-Web-Services/html/ 英文WEB] || 2016-12-22<br>2017-05-06<br>N/A || [https://goo.gl/Ekpj66 简介]
+|-
+| RESTful Web Services Cookbook || RESTful Web Services Cookbook || (美) Subbu Allamaraju || 英文PDF || 2017-08-09 || [https://goo.gl/RB8X7D 简介]
 |}
 
 === 10.1.7 (其它) ===
