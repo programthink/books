@@ -1433,8 +1433,6 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 伯罗奔尼撒战争史 || History of the Peloponnesian War || (古希腊) [https://zh.wikipedia.org/wiki/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7 修昔底德] || 简体PDF(上下册 扫描版)<br>简体EPUB<br>简体TXT || 2014-07-27<br>2015-02-13<br>2016-05-01 || [https://goo.gl/9A7loc 简介]
-|-
 | 希腊城邦制度<br>——读希腊史笔记 || N/A || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || 简体PDF<br>简体MOBI || 2013-02-07<br>2015-02-13 || [https://goo.gl/7UnfRU 简介]
 |-
 | 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版) || 2013-02-07<br>2015-07-18 || [https://goo.gl/Kv4Ltu 简介]
@@ -2101,17 +2099,22 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 
 == 9.4 古代军事史 ==
 
-=== 9.4.1 古罗马 ===
+=== 9.4.1 古希腊 ===
 
-（[https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%A4%AA%E5%9F%BA 迦太基战争]又称“布匿战争”，是古罗马与迦太基争夺地中海霸权的长期战争）
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 伯罗奔尼撒战争史 || History of the Peloponnesian War || (古希腊) [https://zh.wikipedia.org/wiki/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7 修昔底德] || 简体PDF(上下册 扫描版)<br>简体EPUB<br>简体TXT || 2014-07-27<br>2015-02-13<br>2016-05-01 || [https://goo.gl/9A7loc 简介]
+|}
 
+=== 9.4.2 古罗马 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 高卢战记 || Commentaries on the Gallic War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 尤利乌斯·凯撒] || 简体PDF(扫描版)<br>简体HTML<br>简体MOBI<br>简体TXT || 2015-07-11<br>2014-06-22<br>2015-02-08<br>2016-04-30 || [https://goo.gl/LJS2jt 简介]
 |-
-| 内战记 || Commentaries on the Civil War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 凯撒] || 简体PDF(扫描版)<br>简体HTML || 2015-07-11<br>2014-06-22 || [https://goo.gl/QsnDgo 简介]
+| 内战记 || Commentaries on the Civil War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 尤利乌斯·凯撒] || 简体PDF(扫描版)<br>简体HTML || 2015-07-11<br>2014-06-22 || [https://goo.gl/QsnDgo 简介]
 |-
 | 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || (美) [https://en.wikipedia.org/wiki/Trevor_N._Dupuy Trevor Dupuy] || 简体PDF || 2013-02-05 || [https://goo.gl/u7Xv3C 简介]
 |-
