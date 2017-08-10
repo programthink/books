@@ -1458,8 +1458,6 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 罗马风云 || N/A || (德) [https://zh.wikipedia.org/wiki/%E7%89%B9%E5%A5%A5%E5%A4%9A%E5%B0%94%C2%B7%E8%92%99%E6%A3%AE 特奥多尔·蒙森] || 简体PDF(扫描版) || 2017-05-03 || [https://goo.gl/wrrK6D 简介]
 |-
 | 罗马史 || Roman History || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%BA%87%E5%AE%89 阿庇安] || 简体TXT || 2016-05-01 || [https://goo.gl/XcyHfT 简介]
-|-
-| 内战记 || Commentaries on the Civil War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 凯撒] || 简体PDF(扫描版)<br>简体HTML || 2015-07-11<br>2014-06-22 || [https://goo.gl/QsnDgo 简介]
 |}
 
 == 3.6 美国 ==
@@ -2112,6 +2110,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 高卢战记 || Commentaries on the Gallic War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 尤利乌斯·凯撒] || 简体PDF(扫描版)<br>简体HTML<br>简体MOBI<br>简体TXT || 2015-07-11<br>2014-06-22<br>2015-02-08<br>2016-04-30 || [https://goo.gl/LJS2jt 简介]
+|-
+| 内战记 || Commentaries on the Civil War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 凯撒] || 简体PDF(扫描版)<br>简体HTML || 2015-07-11<br>2014-06-22 || [https://goo.gl/QsnDgo 简介]
 |-
 | 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || (美) [https://en.wikipedia.org/wiki/Trevor_N._Dupuy Trevor Dupuy] || 简体PDF || 2013-02-05 || [https://goo.gl/u7Xv3C 简介]
 |-
