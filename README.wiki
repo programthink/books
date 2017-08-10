@@ -1435,8 +1435,6 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 希腊城邦制度<br>——读希腊史笔记 || N/A || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || 简体PDF<br>简体MOBI || 2013-02-07<br>2015-02-13 || [https://goo.gl/7UnfRU 简介]
 |-
-| 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版) || 2013-02-07<br>2015-07-18 || [https://goo.gl/Kv4Ltu 简介]
-|-
 | 爱琴海沿岸的奇异王国 || Wondrous Realms of the Aegean || (美) 戴尔·布朗 || 简体PDF(扫描版) || 2015-11-03 || [https://goo.gl/jgvkEL 简介]
 |}
 
@@ -2105,6 +2103,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 伯罗奔尼撒战争史 || History of the Peloponnesian War || (古希腊) [https://zh.wikipedia.org/wiki/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7 修昔底德] || 简体PDF(上下册 扫描版)<br>简体EPUB<br>简体TXT || 2014-07-27<br>2015-02-13<br>2016-05-01 || [https://goo.gl/9A7loc 简介]
+|-
+| 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版) || 2013-02-07<br>2015-07-18 || [https://goo.gl/Kv4Ltu 简介]
 |}
 
 === 9.4.2 古罗马 ===
