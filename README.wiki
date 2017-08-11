@@ -1944,7 +1944,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 第二次世界大战战史大全 || N/A || (英) [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || [https://goo.gl/kQ28TD 简介]
 |-
-| 第二次世界大战战史 || History of the Second World War || (英) [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || 简体PDF(扫描版) || 2015-09-17 || [https://goo.gl/0ZQye3 简介]
+| 第二次世界大战战史 || History of the Second World War || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版) || 2015-09-17 || [https://goo.gl/0ZQye3 简介]
 |-
 | 第二次世界大战回忆录 || The Second World War || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体PDF(大字版)<br>简体EPUB<br>简体HTML || 2015-07-18<br>2013-09-14<br>2013-03-22 || [https://goo.gl/tIQUpS 简介]
 |-
@@ -1953,6 +1953,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || (美) Hans Jacobsen || 简体CHM || 2013-08-22 || [https://goo.gl/GLomWp 简介]
 |-
 | 大东亚战争全史 || The Complete History of the Great East Asia War || (日) [https://zh.wikipedia.org/wiki/%E6%9C%8D%E9%83%A8%E5%8D%93%E5%9B%9B%E9%83%8E 服部卓四郎] || 简体PDF(扫描版) || 2015-09-17 || [https://goo.gl/llJPmj 简介]
+|-
+| 山的那一边<br>——被俘德国将领谈二战 || The Other Side of the Hill || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版) || 2017-08-11 || [https://goo.gl/jy4EbG 简介]
 |}
 
 ==== 9.2.1.2 太平洋战场 ====
