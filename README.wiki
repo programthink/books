@@ -1995,6 +1995,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 一寸山河一寸血 || N/A || (多人) || 简体PDF(纪录片解说词) || 2015-07-22 || [https://goo.gl/GzKwhj 简介]
 |-
 | 穿越1945<br>——纪念抗战胜利70年访谈纪实 || Journey 1945 || [https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3 美国之音] || 简体PDF(扫描版) || 2016-07-17 || [https://goo.gl/Bl5J6d 简介]
+|-
+| 中日战争时期的通敌内幕（1937-1945） || China and Japan at War 1937-1945<br>——The Politics of Collaboration || (美) 约翰·亨特·博伊尔 || 简体PDF(大字版) || 2017-08-11 || [https://goo.gl/6YJzbP 简介]
 |}
 
 ==== 9.2.1.4 东欧战场 ====
