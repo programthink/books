@@ -1924,7 +1924,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 战争论 || On War || (普鲁士) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] || 简体PDF(共3卷) || 2013-03-22 || [https://goo.gl/DnZuMt 简介]
+| 战争论 || On War || (普鲁士) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] || 简体PDF(共3卷)<br>简体PDF(扫描版) || 2013-03-22<br>2017-08-12 || [https://goo.gl/DnZuMt 简介]
 |-
 | 战略论<br>——间接路线 || Strategy<br>——the indirect approach || (英) [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || 简体PDF || 2013-02-05 || [https://goo.gl/2goc9K 简介]
 |-
