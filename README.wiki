@@ -2040,6 +2040,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 基辛格越战回忆录 || Vietnam<br>——A Personal History of America's Involvement in and Extrication from the Vietnam War || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 基辛格] || 简体EPUB || 2015-01-11 || [https://goo.gl/1rlnFu 简介]
 |-
+| 回顾<br>——越战的悲剧与教训 || In Retrospect<br>——The Tragedy and Lessons of Vietnam || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E9%BA%A6%E5%85%8B%E7%BA%B3%E9%A9%AC%E6%8B%89 罗伯特·麦克纳马拉] || 简体PDF || 2017-08-12 || [https://goo.gl/dws7Wy 简介]
+|-
 | 中国秘密大发兵<br>——援越抗美实录 || N/A || 王贤根 || 简体PDF(扫描版) || 2013-02-05 || [https://goo.gl/kEw3fE 简介]
 |}
 
