@@ -713,6 +713,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 我的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%9B%BD%E7%84%98 张国焘] || 简体PDF || 2012-10-26 || [https://goo.gl/nM9fKE 简介]
 |-
+| 杨尚昆日记 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%9A%E6%98%86 杨尚昆] || 简体PDF(扫描版) || 2017-08-13 || [https://goo.gl/dBkus6 简介]
+|-
 | 红色家族档案<br>——罗瑞卿女儿的点点记忆 || N/A || 罗点点 (原名：罗峪平) || 简体EPUB<br>简体PDF(扫描版) || 2015-11-10<br>2013-04-21 || [https://goo.gl/oHqB5V 简介]
 |-
 | 龚楚回忆录 || N/A || [https://zh.wikipedia.org/wiki/%E9%BE%9A%E6%A5%9A 龚楚] || 繁體PDF(豎排掃描版) || 2014-02-04 || [https://goo.gl/PMyhO9 简介]
