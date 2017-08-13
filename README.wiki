@@ -573,6 +573,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 红太阳下的罂粟花<br>——鸦片贸易与延安模式 || N/A || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF(掃描版) || 2012-10-05 || [https://goo.gl/gbMXbj 简介]
 |-
+| 延安整风实录 || N/A || 高新民<br>张树军 || 简体PDF(扫描版) || 2017-08-13 || [https://goo.gl/2t3dgv 简介]
+|-
 | 内在的敌人 || The Enemy Within<br>——An Eyewitness Account of the Communist Conquest of China || (比) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E9%9C%87%E8%BF%9C 雷震远] || 简体EPUB<br>简体PDF<br>简体CHM || 2014-03-29<br>2014-02-03<br>2014-02-03 || [https://goo.gl/YNK0Hh 简介]
 |}
 
