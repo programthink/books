@@ -1524,6 +1524,14 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 希特勒的土地<br>——美国人亲历的纳粹疯狂之路 || Hitlerland<br>——American Eyewitnesses to the Nazi Rise to Power || (美) [https://en.wikipedia.org/wiki/Andrew_Nagorski Andrew Nagorski] || 英文EPUB<br>英文MOBI || 2015-02-09<br>2015-02-09 || [https://goo.gl/7vxZgP 简介]
 |}
 
+== 3.10 日本 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 拥抱战败<br>——第二次世界大战后的日本 || Embracing Defeat<br>——Japan in the Wake of World War II || (美) [https://en.wikipedia.org/wiki/John_W._Dower 约翰·道尔] || 简体PDF(扫描版) || 2017-08-14 || [https://goo.gl/x3uV7c 简介]
+|}
+
 ----
 
 = 4 经济 =
