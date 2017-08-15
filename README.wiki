@@ -1720,6 +1720,8 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 理解媒介<br>——论人的延伸 || Understanding Media<br>——The Extensions of Man || (加) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E7%B4%A0%C2%B7%E9%BA%A5%E5%85%8B%E9%AD%AF%E6%BC%A2 麦克卢汉] || 简体PDF(扫描版) || 2017-08-15 || [https://goo.gl/QfkdRo 简介]
+|-
 | 娱乐至死 || Amusing Ourselves to Death || (美) [https://en.wikipedia.org/wiki/Neil_Postman 尼尔·波兹曼] || 简体PDF<br>简体MOBI || 2015-01-07<br>2015-02-13 || [https://goo.gl/2IKMzV 简介]
 |-
 | 引爆点<br>''其它中文名：''<br>引爆流行 || The Tipping Point<br>——How Little Things Can Make a Big Difference || (加) [https://en.wikipedia.org/wiki/Malcolm_Gladwell 马尔科姆·格拉德威尔] || 简体PDF(扫描版) || 2015-11-04 || [https://goo.gl/0DZarh 简介]
