@@ -1698,7 +1698,7 @@ BT Sync 密钥：B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ （此密钥的使用方法�
 |-
 | 你的灯亮着吗？<br>——找到问题的真正所在 || Are Your Lights On<br>——How to Figure Out What the Problem Really Is || (美) 唐纳德·高斯<br>(美) [https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || 简体EPUB (精校版)<br>简体PDF<br>简体MOBI<br>简体TXT || 2015-12-01<br>2010-11-02<br>2015-02-13<br>2012-03-08 || [https://goo.gl/aozlMf 简介]
 |-
-| 第五项修炼<br>——学习型组织的艺术和实务 || The Fifth Discipline<br>——The Art and Practice of the Learning Organization || (美) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%9C%A3%E5%90%89 彼得·圣吉] || 简体PDF || 2015-04-05 || [https://goo.gl/MwnpH1 简介]
+| 第五项修炼<br>——学习型组织的艺术和实务 || The Fifth Discipline<br>——The Art and Practice of the Learning Organization || (美) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%9C%A3%E5%90%89 彼得·圣吉] || 简体PDF<br>简体EPUB || 2015-04-05<br>2017-08-15 || [https://goo.gl/MwnpH1 简介]
 |-
 | 只有偏执狂才能生存 || Only the Paranoid Survive || (美) [https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E8%91%9B%E6%B4%9B%E5%A4%AB 安迪·格鲁夫] || 简体PDF || 2016-04-24 || [https://goo.gl/TfPDdM 简介]
 |-
