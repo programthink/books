@@ -1075,7 +1075,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 古拉格群岛 || The Gulag Archipelago || (俄) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E7%B4%A2%E5%B0%94%E4%BB%81%E5%B0%BC%E7%90%B4 索尔仁尼琴] || 简体MOBI<br>简体HTML || 2013-04-20<br>2013-02-22 || [https://goo.gl/bV5eiP 简介]
 |-
-| 古拉格<br>——一部历史 || Gulag<br>——A History || (美) [https://en.wikipedia.org/wiki/Anne_Applebaum 安妮·阿普尔鲍姆] || 简体PDF(大字版)<br>简体EPUB || 2014-02-12<br>2014-01-09 || [https://goo.gl/1SRhYr 简介]
+| 古拉格<br>——一部历史 || Gulag<br>——A History || (美) [https://en.wikipedia.org/wiki/Anne_Applebaum 安妮·阿普尔鲍姆] || 简体PDF(大字版)<br>简体EPUB<br>英文PDF(大字版) || 2014-02-12<br>2014-01-09<br>2017-08-16 || [https://goo.gl/1SRhYr 简介]
 |-
 | 苏联大清洗内幕 || N/A || 陈启能<br>等 || 简体HTML || 2013-02-22 || [https://goo.gl/AIAXwd 简介]
 |-
