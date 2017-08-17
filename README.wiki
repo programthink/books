@@ -1525,6 +1525,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 第三帝国的兴亡 || The Rise and Fall of the Third Reich || (美) [https://en.wikipedia.org/wiki/William_L._Shirer 威廉·夏伊勒] || 简体PDF(上中下)<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-02-22<br>2013-09-13<br>2015-02-08<br>2016-05-01 || [https://goo.gl/nziQjN 简介]
 |-
+| 纳粹德国<br>——一部新的历史 || Nazi Germany<br>——A New History || (德) 克劳斯·费舍尔 || 简体PDF(扫描版) || 2017-08-17 || [https://goo.gl/SQLk8s 简介]
+|-
 | 希特勒的民族帝国<br>——劫掠、种族战争和纳粹主义 || Hitler's Beneficiaries<br>——Plunder, Racial War, and the Nazi Welfare State || (德) [https://en.wikipedia.org/wiki/G%C3%B6tz_Aly 格茨·阿利] || 简体PDF(扫描版) || 2013-08-21 || [https://goo.gl/4H11p9 简介]
 |-
 | 希特勒的土地<br>——美国人亲历的纳粹疯狂之路 || Hitlerland<br>——American Eyewitnesses to the Nazi Rise to Power || (美) [https://en.wikipedia.org/wiki/Andrew_Nagorski Andrew Nagorski] || 英文EPUB<br>英文MOBI || 2015-02-09<br>2015-02-09 || [https://goo.gl/7vxZgP 简介]
