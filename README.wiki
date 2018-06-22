@@ -1706,6 +1706,8 @@ BT Sync 密钥：B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ （此密钥的使用方法�
 |-
 | 第五项修炼<br>——学习型组织的艺术和实务 || The Fifth Discipline<br>——The Art and Practice of the Learning Organization || (美) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%9C%A3%E5%90%89 彼得·圣吉] || 简体PDF<br>简体EPUB || 2015-04-05<br>2017-08-15 || [https://docs.google.com/document/d/1gmi62blYo0EEs5-XFPjAZEVlv-lK0gQWqIZSX7t9c0s/ 简介]
 |-
+| 21世纪的管理挑战 || Management Challenges for 21st Century || (美) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BE%B7%E9%B2%81%E5%85%8B 彼得·德鲁克] || 英文PDF || 2018-06-22 || [https://docs.google.com/document/d/17XIUfhd7pjuGLMyqjjh9TY8Q5oWcEUqPmwU49fGGaHY/ 简介]
+|-
 | 只有偏执狂才能生存 || Only the Paranoid Survive || (美) [https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E8%91%9B%E6%B4%9B%E5%A4%AB 安迪·格鲁夫] || 简体PDF || 2016-04-24 || [https://docs.google.com/document/d/1wc9BZAUgpB99tFhZt2yy6QjctI7dnLGLJZX2xRC-ofk/ 简介]
 |-
 | 格鲁夫给经理人的第一课 || High Output Management || (美) [https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E8%91%9B%E6%B4%9B%E5%A4%AB 安迪·格鲁夫] || 简体PDF || 2016-04-24 || [https://docs.google.com/document/d/1rwGma8QRrV6Ojql_Fj4Himr1ZtwCTmrqNMcZvbv-4IY/ 简介]
