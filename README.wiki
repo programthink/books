@@ -1666,7 +1666,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 策略思维<br>——商界、政界及日常生活中的策略竞争 || Thinking Strategically<br>——The Competitive Edge in Business, Politics, and Everyday Life || (美) [https://en.wikipedia.org/wiki/Barry_Nalebuff Barry Nalebuff]<br>(美) [https://en.wikipedia.org/wiki/Avinash_Dixit Avinash Dixit] || 简体PDF(扫描版)<br>简体MOBI || 2014-01-09<br>2015-05-10 || [https://docs.google.com/document/d/1JQQgjbzQazzeKic4Rh5OU1O2TwWh9_bGngtmzzdUb2w/ 简介]
+| 策略思维<br>——商界、政界及日常生活中的策略竞争 || Thinking Strategically<br>——The Competitive Edge in Business, Politics, and Everyday Life || (美) [https://en.wikipedia.org/wiki/Avinash_Dixit 阿维纳什·迪克西特]<br>(美) [https://en.wikipedia.org/wiki/Barry_Nalebuff 巴里·奈尔伯夫] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2018-06-23<br>2015-05-10 || [https://docs.google.com/document/d/1JQQgjbzQazzeKic4Rh5OU1O2TwWh9_bGngtmzzdUb2w/ 简介]
 |-
 | 剪刀、石头、布<br>——趣味博弈论 || Rock, Paper, Scissors<br>——Game Theory in Everyday Life || (英) Len Fisher || 简体PDF(扫描版) || 2014-04-06 || [https://docs.google.com/document/d/1YiLSigj-2nrdzI4x6hLs6p-JWMhuMXv4AqHJzUizP5w/ 简介]
 |}
