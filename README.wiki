@@ -1568,7 +1568,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 宏观经济学 || Macroeconomics || (德) [https://en.wikipedia.org/wiki/Rudiger_Dornbusch 鲁迪格·多恩布什] || 简体PDF(第7版 扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1I83iQ9dclfm4uIMYXnkLfnh35GPW2yWoxbQUY742few/ 简介]
 |-
-| 高级宏观经济学 || Advanced Macroeconomics || (美) [https://en.wikipedia.org/wiki/David_Romer David Romer] || 简体PDF(第2版 扫描版) || 2014-07-15 || [https://docs.google.com/document/d/16GzZseyAoy5zr4zziDYi5ux2dAlBPIaJ8_4cSs6OKPo/ 简介]
+| 高级宏观经济学 || Advanced Macroeconomics || (美) [https://en.wikipedia.org/wiki/David_Romer 戴维·罗默] || 简体PDF(第2版 扫描版)<br>英文PDF(第1版 扫描版) || 2014-07-15<br>2018-06-23 || [https://docs.google.com/document/d/16GzZseyAoy5zr4zziDYi5ux2dAlBPIaJ8_4cSs6OKPo/ 简介]
 |-
 | 中级微观经济学 || Intermediate Microeconomics || (美) [https://en.wikipedia.org/wiki/Hal_Varian 范里安] || 简体PDF(第8版) || 2015-07-12 || [https://docs.google.com/document/d/1aTlOHjB3fnEmazZ6j37_HY4fSLsUpPRaLUbnhCtGPvE/ 简介]
 |-
