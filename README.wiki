@@ -1868,6 +1868,8 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 回忆苏格拉底 || Memorabilia || (古希腊) [https://zh.wikipedia.org/wiki/%E8%89%B2%E8%AF%BA%E8%8A%AC 色诺芬] || 简体CHM<br>简体PDF(扫描版) || 2014-06-20<br>2017-03-24 || [https://docs.google.com/document/d/1MH-pMEj3q8SxzdWl5jtbsAp357jJDKx0D8NHN6U4nYE/ 简介]
 |-
+| 我的哲学发展 || My Philosophical Development || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 罗素] || 简体PDF(扫描版) || 2018-06-25 || [https://docs.google.com/document/d/1kS5IAEWCmbKodjtYXCIUEHBlsH5qj4g5pOR_Fd6Hnxg/ 简介]
+|-
 | 无尽的探索<br>——卡尔·波普尔自传 || Unended Quest<br>——An Intellectual Autobiography || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体EPUB<br>简体TXT || 2015-02-15<br>2016-05-02 || [https://docs.google.com/document/d/1bYYtfpEYRACN6tNfCUeLe8CDc4kgYu3qxd6-3Eput0U/ 简介]
 |-
 | 牛津通识读本：康德 || Kant || (英) [https://en.wikipedia.org/wiki/Roger_Scruton Roger Scruton] || 简体EPUB<br>简体AZW3<br>英文PDF(扫描版) || 2015-12-03<br>2015-12-03<br>2016-12-17 || [https://docs.google.com/document/d/1zXpez0ZyoZ0Q61pwDpWjWbqrFbVP_WLi6tCrqRxjsG8/ 简介]
