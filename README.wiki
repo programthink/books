@@ -1952,7 +1952,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 查拉图斯特拉如是说 || Thus Spoke Zarathustra || (德) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 尼采] || 简体PDF<br>简体EPUB || 2014-06-20<br>2015-02-13 || [https://docs.google.com/document/d/1jvq62WF0qnM2bNU4StmEVeckrDg2-VWw_qladDAnyMc/ 简介]
+| 查拉图斯特拉如是说 || Thus Spoke Zarathustra || (德) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 尼采] || 简体PDF<br>简体EPUB<br>英文EPUB || 2014-06-20<br>2015-02-13<br>2018-06-25 || [https://docs.google.com/document/d/1jvq62WF0qnM2bNU4StmEVeckrDg2-VWw_qladDAnyMc/ 简介]
 |-
 | 自由的进化 || Freedom Evolves || (美) [https://en.wikipedia.org/wiki/Daniel_Dennett 丹尼尔·丹内特] || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/1bMsMvcJSe40-L7aUxDOLw5cT0qKNrjDZdh4xm7ZN-NA/ 简介]
 |}
