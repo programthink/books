@@ -2344,7 +2344,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Lisp 之根源 || The Roots of Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PDF<br>[http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html 简体WEB] || 2016-12-12<br>N/A || [https://docs.google.com/document/d/1RskcdY9Ga7O8YV_ciefzukVOjvUMun5khGKsrIJtsDI/ 简介]
 |-
-| GNU Emacs Lisp 编程入门 || An introduction to Programming in Emacs Lisp || [https://en.wikipedia.org/wiki/Robert_J._Chassell Robert Chassell] || 英文PDF(版本3.10)<br>英文PDF(版本2.05) || 2015-11-17<br>2015-11-03 || [https://docs.google.com/document/d/1LK0cf6RdqXJS5X03XaDRHk45AUviEk6euFVNHK6VH0I/ 简介]
+| GNU Emacs Lisp 编程入门 || An introduction to Programming in Emacs Lisp || (美) [https://en.wikipedia.org/wiki/Robert_J._Chassell Robert J. Chassell] || 简体PDF(扫描版)<br>英文PDF(版本3.10)<br>英文PDF(版本2.05) || 2018-06-28<br>2015-11-17<br>2015-11-03 || [https://docs.google.com/document/d/1LK0cf6RdqXJS5X03XaDRHk45AUviEk6euFVNHK6VH0I/ 简介]
 |-
 | Basic Lisp Techniques || Basic Lisp Techniques || David Cooper || 英文PDF || 2015-01-11 || [https://docs.google.com/document/d/175xgao1KtWlMy5OhbvZdM2LvAn1kA6uJ_3OBb7gXF6o/ 简介]
 |}
