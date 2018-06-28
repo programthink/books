@@ -2334,7 +2334,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 计算机程序的构造和解释 || Structure and Interpretation of Computer Programs<br>''知名缩写：''SICP || (美) [https://en.wikipedia.org/wiki/Harold_Abelson Harold Abelson]<br>(美) [https://en.wikipedia.org/wiki/Gerald_Jay_Sussman Gerald Jay Sussman]<br>(美) Julie Sussman || 简体PDF(第2版 扫描版)<br>英文PDF(第2版)<br>[https://mitpress.mit.edu/sicp/full-text/book/book.html 英文WEB] || 2015-07-20<br>2016-12-21<br>N/A || [https://docs.google.com/document/d/1gS6ON92bvELZbEm1W8P-koO-lnNCU0WQEyQ6yLGJ7aM/ 简介]
 |-
-| ANSI Common Lisp || ANSI Common Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 英文PDF<br>[http://acl.readthedocs.org/en/latest/zhCN/index.html 简体WEB]<br>[http://acl.readthedocs.org/en/latest/zhTW/index.html 繁體WEB] || 2015-01-11<br>N/A<br>N/A || [https://docs.google.com/document/d/1CsL7qThJKwtc-d-pNVRk6y0YPRimOkftX3I5ifuO9eE/ 简介]
+| ANSI Common Lisp || ANSI Common Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PDF<br>英文PDF<br>[http://acl.readthedocs.org/en/latest/zhCN/index.html 简体WEB]<br>[http://acl.readthedocs.org/en/latest/zhTW/index.html 繁體WEB] || 2018-06-28<br>2015-01-11<br>N/A<br>N/A || [https://docs.google.com/document/d/1CsL7qThJKwtc-d-pNVRk6y0YPRimOkftX3I5ifuO9eE/ 简介]
 |-
 | 实用 Common Lisp 编程 || Practical Common Lisp || (美) Peter Seibel || 简体PDF(扫描版) || 2018-06-28 || [https://docs.google.com/document/d/1moTJVWBhF1XVS7LiIFuQ9kKyceLZfYZeIR_P1e002ms/ 简介]
 |-
