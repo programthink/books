@@ -2444,9 +2444,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 软件随想录 || More Joel on Software || (美) [https://en.wikipedia.org/wiki/Joel_Spolsky Joel Spolsky] || 简体PDF(扫描版)<br>英文PDF || 2015-02-17<br>2015-01-11 || [https://docs.google.com/document/d/1nuT7IweSzAOZXCK9toU2_mOQ4A25N-9eJftrpicXgR8/ 简介]
 |-
+| 程序员应该知道的97件事 || 97 Things Every Programmer Should Know<br>——Collective Wisdom from the Experts || [https://en.wikipedia.org/wiki/Kevlin_Henney Kevlin Henney] (主编) || 英文PDF || 2018-07-02 || [https://docs.google.com/document/d/1wY9Tq8eLDX21ao4lRtFrqt88jcr9ok_4POluZzp4j2M/ 简介]
+|-
 | 代码阅读方法与实践 || Code Reading<br>——The Open Source Perspective || (希腊) [https://en.wikipedia.org/wiki/Diomidis_Spinellis Diomidis Spinellis] || 简体PDF(第1版 扫描版) || 2015-11-03 || [https://docs.google.com/document/d/1Ob05-CB5tDeWv6zypGHgMQORI4xCOpcF9PmWQ6qzDnc/ 简介]
 |-
-| 编程人生<br>——15位软件先驱访谈录 || Coders at work || Peter Seibel || 英文PDF || 2015-11-08 || [https://docs.google.com/document/d/1T0ULutcdaq6S7YDyzl2YI3E5qer8Z-UohVzrI9zqeS4/ 简介]
+| 编程人生<br>——15位软件先驱访谈录 || Coders at work || (美) Peter Seibel || 英文PDF || 2015-11-08 || [https://docs.google.com/document/d/1T0ULutcdaq6S7YDyzl2YI3E5qer8Z-UohVzrI9zqeS4/ 简介]
 |}
 
 == 10.2 黑客文化与开源文化 ==
