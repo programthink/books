@@ -2357,6 +2357,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Programming in Prolog<br>——Using the ISO Standard || Programming in Prolog<br>——Using the ISO Standard || (英) William Clocksin<br>(英) Christopher Mellish || 英文PDF(第5版 扫描版) || 2018-07-18 || [https://docs.google.com/document/d/1lT7ki9_25XS4nmjHwVqYzkZM4FP-YxB6eKbsA5_J9_s/ 简介]
 |-
 | Logic Programming with Prolog || Logic Programming with Prolog || (英) Max Bramer || 英文PDF(第1版) || 2018-07-18 || [https://docs.google.com/document/d/169ytEgZjJjpU6_31oVQQ6Ms5b-_ukvarJgSsPkgQRcM/ 简介]
+|-
+| An Introduction to Logic Programming through Prolog || An Introduction to Logic Programming through Prolog || (英) [https://en.wikipedia.org/wiki/Michael_Spivey Michael Spivey] || 英文PDF || 2018-07-18 || [https://docs.google.com/document/d/1jaC3AgP2buDbj6jrWGUMzCtrIn-dmXZjNRPeYS8qPJA/ 简介]
 |}
 
 ==== 10.1.2.8 (其它) ====
