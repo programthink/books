@@ -2324,7 +2324,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | JavaScript 高级程序设计 || Professional JavaScript for Web || (美) Nicholas C. Zakas || 简体PDF(第3版 扫描版) || 2017-08-10 || [https://docs.google.com/document/d/1AHd28cq-sT36E6nEj1ot7W_FahlPDhYCaZyD79tRJNw/ 简介]
 |-
-| JavaScript 语言精粹 || JavaScript<br>——The Good Parts || (美) [https://en.wikipedia.org/wiki/Douglas_Crockford Douglas Crockford] || 英文PDF(第1版) || 2016-12-21 || [https://docs.google.com/document/d/18RsrrIS1uQCoQXp8zzhIqNypkW31huvh8hGVYm3UtCc/ 简介]
+| JavaScript 语言精粹 || JavaScript<br>——The Good Parts || (美) [https://en.wikipedia.org/wiki/Douglas_Crockford Douglas Crockford] || 简体PDF(扫描版)<br>英文PDF || 2018-07-19<br>2016-12-21 || [https://docs.google.com/document/d/18RsrrIS1uQCoQXp8zzhIqNypkW31huvh8hGVYm3UtCc/ 简介]
 |}
 
 ==== 10.1.2.6 Lisp ====
