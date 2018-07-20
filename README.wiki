@@ -2361,7 +2361,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Go 语言程序设计 || Programming in Go<br>——Creating Applications for the 21st Century || (英) Mark Summerfield || 英文PDF(第1版) || 2018-07-20 || [https://docs.google.com/document/d/1g5JgAnTNYYnRXZLaf3alpEZhLNXAHygdlnNMNoUYEzI/ 简介]
 |}
 
-==== 10.1.2.8 Prolog ====
+==== 10.1.2.8 Rust ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| Rust 程序设计语言 || The Rust Programming Language || Rust 开发团队 || 英文PDF(第2版)<br>英文PDF(第1版) || 2018-07-20<br>2018-07-20 || [https://docs.google.com/document/d/1rV_ZmiXqjC9QZIH8QpsqFmXrRBWSLhHwtqt_-PYwBXA/ 简介]
+|}
+
+==== 10.1.2.9 Prolog ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2373,7 +2381,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | An Introduction to Logic Programming through Prolog || An Introduction to Logic Programming through Prolog || (英) [https://en.wikipedia.org/wiki/Michael_Spivey Michael Spivey] || 英文PDF || 2018-07-18 || [https://docs.google.com/document/d/1jaC3AgP2buDbj6jrWGUMzCtrIn-dmXZjNRPeYS8qPJA/ 简介]
 |}
 
-==== 10.1.2.9 (其它) ====
+==== 10.1.2.10 (其它) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
