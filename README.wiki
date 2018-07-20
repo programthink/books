@@ -2272,6 +2272,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ 标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM<br>简体PDF(扫描版) || 2013-10-20<br>2015-05-12 || [https://docs.google.com/document/d/1VWrxVEsehgzxT17BuVP4zFEE6uQdz8ttHF1gK1lzEDg/ 简介]
 |-
+| C++ 编程思想 || Thinking in C++ || (美) [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 简体PDF(第1版) || 2018-07-20 || [https://docs.google.com/document/d/1HOhVvDd2So2L-KUBBjF_VOAHbg5RfiWh2laDpuVWRps/ 简介]
+|-
 | 深度探索 C++ 对象模型 || Inside the C++ Object Model || (美) [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>简体PDF(扫描版) || 2013-10-20<br>2013-10-24 || [https://docs.google.com/document/d/12pjutyt_FHS6Ep9C_q5msT4Jb4B-1WDe0di77HRNuJI/ 简介]
 |-
 | C++ 设计新思维<br>——泛型编程与设计模式之应用 || Modern C++ Design<br>——Generic Programming and Design Patterns Applied || (罗马尼亚) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 简体PDF(扫描版)<br>英文CHM || 2015-11-08<br>2016-12-21 || [https://docs.google.com/document/d/1gzE7F5InN-QNRQKMZEoiPV6nD6ZevmJdtd-iVjc4sQM/ 简介]
