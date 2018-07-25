@@ -2399,6 +2399,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 七周七语言<br>——理解多种编程范型 || Seven Languages in Seven Weeks<br>——A Pragmatic Guide to Learning Programming Languages || (美) [https://en.wikipedia.org/wiki/Bruce_Tate Bruce Tate] || 简体PDF || 2017-05-06 || [https://docs.google.com/document/d/1PE4WBmQ0Hr1cDmvd507UQweZJlDt9OYZv08tIMZs8lo/ 简介]
+|-
+| 七周七并发模型 || Seven Concurrency Models in Seven Weeks<br>——When Threads Unravel || (美) Paul Butcher || 简体PDF(扫描版) || 2018-07-25 || [https://docs.google.com/document/d/19vZDj1dZW8ufQmFso3WDj0k5DZg5-IdTiqUSu5VDzt0/ 简介]
 |}
 
 === 10.1.4 算法与数据结构 ===
