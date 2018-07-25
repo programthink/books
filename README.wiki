@@ -2391,11 +2391,17 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 简体PDF(扫描版) || 2015-05-12 || [https://docs.google.com/document/d/1mgTeV93g1qn59tdktfud11dlubEcaAtRauvOdzXcYkA/ 简介]
+|}
+
+=== 10.1.3 编程范式 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 七周七语言<br>——理解多种编程范型 || Seven Languages in Seven Weeks<br>——A Pragmatic Guide to Learning Programming Languages || (美) [https://en.wikipedia.org/wiki/Bruce_Tate Bruce Tate] || 简体PDF || 2017-05-06 || [https://docs.google.com/document/d/1PE4WBmQ0Hr1cDmvd507UQweZJlDt9OYZv08tIMZs8lo/ 简介]
 |}
 
-=== 10.1.3 算法与数据结构 ===
+=== 10.1.4 算法与数据结构 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2407,11 +2413,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 数学之美 || Beauty of Mathematics || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_%28Google%29 吴军] || 简体TXT || 2016-05-15 || [https://docs.google.com/document/d/161QsDsZUGSFL4gfw65mUpmnG-XUszzdzOTXVwpFG9jg/ 简介]
 |}
 
-=== 10.1.4 操作系统相关 ===
+=== 10.1.5 操作系统相关 ===
 
 （本类别放置“具体操作系统相关”的编程类电子书）
 
-==== 10.1.4.1 UNIX 与 Linux ====
+==== 10.1.5.1 UNIX 与 Linux ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2425,7 +2431,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 精通 Linux 设备驱动程序开发 || Essential Linux Device Drivers || (印度) Venkateswaran || 简体PDF(扫描版) || 2015-11-06 || [https://docs.google.com/document/d/1KZuHFCKZkF1cjdLAXVvIq4TJp9XHIcM1WRt5t3I6LR8/ 简介]
 |}
 
-==== 10.1.4.2 Windows ====
+==== 10.1.5.2 Windows ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2433,7 +2439,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Windows 核心编程 || Programming Applications for Windows || (美) [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 简体PDF<br>英文CHM || 2014-05-13<br>2013-10-21 || [https://docs.google.com/document/d/1G86gTTFiNRGlg-SCV0YDc3HSoIX4l8RLL13zF6Xm_V8/ 简介]
 |}
 
-=== 10.1.5 网络相关 ===
+=== 10.1.6 网络相关 ===
 
 （本类别放置“网络相关”的编程类电子书）
 
@@ -2449,7 +2455,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Twisted Network Programming Essentials || Twisted Network Programming Essentials<br>——Developing With Python's Event-driven Framework || Abe Fettig<br>(美) [https://en.wikipedia.org/wiki/Jessica_McKellar Jessica McKellar] || 英文CHM(第1版) || 2016-12-22 || [https://docs.google.com/document/d/10xotkTyITV-OdtjapXwVsyh8UnD9MoZDffZ7mElCLJY/ 简介]
 |}
 
-=== 10.1.6 Web 相关 ===
+=== 10.1.7 Web 相关 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2459,7 +2465,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | RESTful Web Services Cookbook || RESTful Web Services Cookbook || (美) Subbu Allamaraju || 简体PDF<br>英文PDF || 2018-06-28<br>2017-08-09 || [https://docs.google.com/document/d/1heGQmHpTSu5ifY5T3kZZMP4WpZswQedPNiyBiSCukFw/ 简介]
 |}
 
-=== 10.1.7 硬件相关 ===
+=== 10.1.8 硬件相关 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2469,7 +2475,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 每个程序员都应该了解的内存知识 || What Every Programmer Should Know About Memory || (美) Ulrich Drepper || 英文PDF || 2017-08-10 || [https://docs.google.com/document/d/1GZpQKWRs1dt-VguVC-om1qFi1tkVwvsRIAZQqvDOa7E/ 简介]
 |}
 
-=== 10.1.8 (其它) ===
+=== 10.1.9 (其它) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
