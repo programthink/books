@@ -2222,13 +2222,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 人月神话（20周年纪念版） || The Mythical Man-Month<br>——Essays on Software Engineering || (美) [https://en.wikipedia.org/wiki/Fred_Brooks Frederick Brooks] || 简体EPUB<br>简体TXT<br>英文PDF<br>英文CHM || 2013-10-20<br>2016-05-01<br>2016-12-22<br>2013-10-20 || [https://docs.google.com/document/d/1scmvLMLX8vYHa94TMf-Ck5e8fKW7NyymodZLW6ZhxdU/ 简介]
 |-
+| 人件 || Peopleware<br>——Productive Projects and Teams || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>(美) [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF(第2版)<br>简体PDF(第2版 扫描版)<br>英文PDF(第2版) || 2015-11-07<br>2013-10-20<br>2013-10-20 || [https://docs.google.com/document/d/14aMOdS3PTx5gr_MRIjxLXBqTR-tFYfoY4VNplNX0fQU/ 简介]
+|-
+| 软件工程<br>——实践者的研究方法 || Software Engineering<br>——A Practitioner's Approach || (美) [https://en.wikipedia.org/wiki/Roger_S._Pressman Roger Pressman] || 英文PDF(第8版) || 2018-07-29 || [https://docs.google.com/document/d/15VfDw640994smusvcS2kpK47S4NRBmjfKnA-LcZJJZI/ 简介]
+|-
 | 代码大全<br>''其它中文名：''<br>软件建构之道 || Code Complete || (美) [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 简体PDF(第2版 扫描版)<br>英文CHM (第2版)<br>简体PDF (第1版) || 2017-08-08<br>2013-10-20<br>2013-10-20 || [https://docs.google.com/document/d/16cpmh4ZNT7biV1CWg2sxOPtearFs6obm1UyNSYWwuzI/ 简介]
 |-
 | 重构<br>——改善既有代码的设计 || Refactoring<br>——Improving the Design of Existing Code || (英) [https://en.wikipedia.org/wiki/Martin_Fowler Martin Fowler]<br>(美) [https://en.wikipedia.org/wiki/Kent_Beck Kent Beck]<br>John Brant<br>(美) [https://en.wikipedia.org/wiki/William_Opdyke William Opdyke]<br>Don Roberts || 简体PDF(第1版 扫描版)<br>英文PDF(第1版)<br>英文CHM(第1版) || 2016-12-22<br>2017-08-09<br>2013-10-20 || [https://docs.google.com/document/d/1VlMKwNIuuwgXeXV-s_dpbRdOmH5NpjuNRyb7ycKekTQ/ 简介]
 |-
-| 敏捷软件开发<br>——原则、模式与实践 || Agile software development<br>——principles, patterns, and practices || (美) [https://en.wikipedia.org/wiki/Robert_Cecil_Martin Robert Martin] || 简体PDF(扫描版) || 2015-11-08 || [https://docs.google.com/document/d/1VHP9DCKVUodV0QZqGJP5jgjWELU-Nq-5OfC1YugLCpM/ 简介]
-|-
-| 人件 || Peopleware<br>——Productive Projects and Teams || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>(美) [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF(第2版)<br>简体PDF(第2版 扫描版)<br>英文PDF(第2版) || 2015-11-07<br>2013-10-20<br>2013-10-20 || [https://docs.google.com/document/d/14aMOdS3PTx5gr_MRIjxLXBqTR-tFYfoY4VNplNX0fQU/ 简介]
+| 敏捷软件开发<br>——原则、模式与实践 || Agile Software Development<br>——Principles, Patterns and Practices || (美) [https://en.wikipedia.org/wiki/Robert_Cecil_Martin Robert Martin] || 简体PDF(扫描版) || 2015-11-08 || [https://docs.google.com/document/d/1VHP9DCKVUodV0QZqGJP5jgjWELU-Nq-5OfC1YugLCpM/ 简介]
 |-
 | 最后期限 || The Deadline<br>——A Novel about Project Management || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF || 2013-10-20 || [https://docs.google.com/document/d/1P3byYio4y8FacLAsgBC5vgJb3MFYN2kAtqmsimOuyqI/ 简介]
 |}
