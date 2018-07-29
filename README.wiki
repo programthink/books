@@ -2412,6 +2412,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 算法导论 || Introduction to Algorithms || Thomas Cormen<br>Charles Leiserson<br>Ronald Rivest<br>Clifford Stein || 简体PDF(第3版 扫描版)<br>英文PDF(第3版)<br>英文CHM (第2版) || 2015-10-25<br>2013-10-21<br>2013-10-30 || [https://docs.google.com/document/d/1IfadmAHdGN6erpKpsY62BRe9AyTXcuikR0IEK3pE-5M/ 简介]
 |-
+| 算法概论 || Algorithms || Sanjoy Dasgupta<br>(希腊) [https://en.wikipedia.org/wiki/Christos_Papadimitriou Christos Papadimitriou]<br>(印度) [https://en.wikipedia.org/wiki/Umesh_Vazirani Umesh Vazirani] || 英文PDF || 2018-07-29 || [https://docs.google.com/document/d/1x1d1DRwHdybMBEn5GxhJ-WhTJCibEoA3_0vN6gS8R74/ 简介]
+|-
 | 编程珠玑 || Programming Pearls || (美) [https://en.wikipedia.org/wiki/Jon_Bentley Jon Bentley] || 英文PDF(第2版)<br>简体PDF(第2版 扫描版) || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1i1Z_GkpYMcw6YcHQms7hPVYb06NRpJDqx9tlluPsOjc/ 简介]
 |-
 | 数学之美 || Beauty of Mathematics || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_%28Google%29 吴军] || 简体TXT || 2016-05-15 || [https://docs.google.com/document/d/161QsDsZUGSFL4gfw65mUpmnG-XUszzdzOTXVwpFG9jg/ 简介]
