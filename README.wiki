@@ -2430,7 +2430,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| UNIX 编程艺术 || The Art of UNIX Programming<br>''知名缩写：''TAOUP || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] || 简体PDF(扫描版)<br>英文CHM || 2017-05-06<br>2013-10-20 || [https://docs.google.com/document/d/1ye7MwcaM2s24-uopFBCJBXFjtQ_Y9qJ3Iki8l_PglYk/ 简介]
+| UNIX 编程艺术 || The Art of UNIX Programming<br>''知名缩写：''TAOUP || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] || 简体PDF(扫描版)<br>英文CHM<br>英文EPUB<br>英文MOBI || 2017-05-06<br>2013-10-20<br>2018-08-04<br>2018-08-04 || [https://docs.google.com/document/d/1ye7MwcaM2s24-uopFBCJBXFjtQ_Y9qJ3Iki8l_PglYk/ 简介]
 |-
 | UNIX 环境高级编程 || Advanced Programming in the UNIX Environment<br>''知名缩写：''APUE || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯]<br>Stephen Rago || 简体PDF(第3版 扫描版)<br>简体PDF(第2版 扫描版)<br>英文PDF(第3版)<br>英文CHM(第2版) || 2017-08-09<br>2014-05-13<br>2013-11-14<br>2013-10-21 || [https://docs.google.com/document/d/1adRpAlfSYfbM5nGOorLF3JnjteC9mpUSMiCKlOdtxLY/ 简介]
 |-
