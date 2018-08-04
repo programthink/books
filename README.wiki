@@ -2270,7 +2270,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ Primer || C++ Primer || (美) [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman]<br>等 || 英文CHM(第4版)<br>简体PDF(第3版) || 2013-10-20<br>2013-10-24 || [https://docs.google.com/document/d/1EdwmJUqZ8bYpkqMBSYbQroQPngGd98ysiAT1QG03kYY/ 简介]
 |-
-| C++ 标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM<br>简体PDF(扫描版) || 2013-10-20<br>2015-05-12 || [https://docs.google.com/document/d/1VWrxVEsehgzxT17BuVP4zFEE6uQdz8ttHF1gK1lzEDg/ 简介]
+| C++ 标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || (德) Nicolai Josuttis || 英文CHM<br>简体PDF(扫描版) || 2013-10-20<br>2015-05-12 || [https://docs.google.com/document/d/1VWrxVEsehgzxT17BuVP4zFEE6uQdz8ttHF1gK1lzEDg/ 简介]
 |-
 | 超越 C++ 标准库<br>——Boost 库导论 || Beyond the C++ Standard Library<br>——An Introduction to Boost || Björn Karlsson || 英文CHM || 2018-08-04 || [https://docs.google.com/document/d/1n4ZLjOHl420PIjWo4GVlr5x8dcswNLx23Gg7ZEDfsLs/ 简介]
 |-
@@ -2280,7 +2280,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ 设计新思维<br>——泛型编程与设计模式之应用 || Modern C++ Design<br>——Generic Programming and Design Patterns Applied || (美) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 简体PDF(扫描版)<br>英文PDF<br>英文CHM<br>英文MOBI || 2015-11-08<br>2018-08-04<br>2016-12-21<br>2018-08-04 || [https://docs.google.com/document/d/1gzE7F5InN-QNRQKMZEoiPV6nD6ZevmJdtd-iVjc4sQM/ 简介]
 |-
-| C++ Templates 全览 || C++ Templates<br>——The Complete Guide || David Vandevoorde<br>Nicolai Josuttis || 英文CHM || 2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
+| C++ Templates 全览 || C++ Templates<br>——The Complete Guide || (比利时) David Vandevoorde<br>(德) Nicolai Josuttis || 英文EPUB(第1版)<br>英文CHM(第1版) || 2018-08-04<br>2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
 |-
 | C++ 语言的设计和演化 || The Design and Evolution of C++ || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 简体PDF(扫描版) || 2013-10-25 || [https://docs.google.com/document/d/1PjNgmFg7HHtNC_Ha-RH7-ztm6im3KQi_yoMj_Q9N_fM/ 简介]
 |-
