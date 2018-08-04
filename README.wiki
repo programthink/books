@@ -2260,7 +2260,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ 程序设计语言 || The C++ Programming Language<br>''知名缩写：''TCPPPL || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF(特别版)<br>简体PDF(特别版 扫描版) || 2013-10-21<br>2013-10-29 || [https://docs.google.com/document/d/15-B8PhKWCm-IKY2VHcoFqv3ml8vwOzl8LNxGq3yM7TM/ 简介]
 |-
-| Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文CHM (第3版) || 2013-10-21 || [https://docs.google.com/document/d/1dAfpdaDr2XzfWXEQP6SvvnOGdKHIhlyeqY8h8SZjSlQ/ 简介]
+| Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF(第3版)<br>英文CHM(第3版) || 2018-08-04<br>2013-10-21 || [https://docs.google.com/document/d/1dAfpdaDr2XzfWXEQP6SvvnOGdKHIhlyeqY8h8SZjSlQ/ 简介]
 |-
 | More Effective C++<br>——35个改善编程与设计的有效方法 || More Effective C++<br>——35 New Ways to Improve Your Programs and Designs || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF<br>简体PDF || 2013-10-21<br>2015-05-12 || [https://docs.google.com/document/d/1FbkfLkbJUKC1mJzvQVXVSjDlqw6D69jmeeOfAvAfFcg/ 简介]
 |-
