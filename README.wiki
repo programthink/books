@@ -2282,7 +2282,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ Templates 全览 || C++ Templates<br>——The Complete Guide || (比利时) David Vandevoorde<br>(德) Nicolai Josuttis || 英文EPUB(第1版)<br>英文CHM(第1版) || 2018-08-04<br>2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
 |-
-| C++ 语言的设计和演化 || The Design and Evolution of C++ || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 简体PDF(扫描版) || 2013-10-25 || [https://docs.google.com/document/d/1PjNgmFg7HHtNC_Ha-RH7-ztm6im3KQi_yoMj_Q9N_fM/ 简介]
+| C++ 语言的设计和演化 || The Design and Evolution of C++ || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 简体PDF(扫描版)<br>英文PDF || 2013-10-25<br>2018-08-04 || [https://docs.google.com/document/d/1PjNgmFg7HHtNC_Ha-RH7-ztm6im3KQi_yoMj_Q9N_fM/ 简介]
 |-
 | C++ 必知必会 || C++ Gotchas<br>——Avoiding Common Problems in Coding and Design || (美) Stephen Dewhurst || 英文CHM || 2015-11-05 || [https://docs.google.com/document/d/19saiLIUY3fyxE7mLn3VroHPGtENZN2h-CjU1h1LNSQE/ 简介]
 |-
