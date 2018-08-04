@@ -2266,7 +2266,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Effective Modern C++<br>——改善 C++11 和 C++14 的42个具体做法 || Effective Modern C++<br>——42 Specific Ways to Improve Your Use of C++11 and C++14 || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF || 2018-08-04 || [https://docs.google.com/document/d/1ZWyX6iZDzv7q1_jaeBnn7pJSmgx73v8iWNU7d0nkibE/ 简介]
 |-
-| C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || (美) [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter]<br>(罗马尼亚) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || [https://docs.google.com/document/d/1Xb8ClhfptVBCOFW_o-arAaFS9ej1UV_bNQwS34zbDjk/ 简介]
+| C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || (美) [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter]<br>(美) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || [https://docs.google.com/document/d/1Xb8ClhfptVBCOFW_o-arAaFS9ej1UV_bNQwS34zbDjk/ 简介]
 |-
 | C++ Primer || C++ Primer || (美) [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman]<br>等 || 英文CHM(第4版)<br>简体PDF(第3版) || 2013-10-20<br>2013-10-24 || [https://docs.google.com/document/d/1EdwmJUqZ8bYpkqMBSYbQroQPngGd98ysiAT1QG03kYY/ 简介]
 |-
@@ -2278,7 +2278,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 深度探索 C++ 对象模型 || Inside the C++ Object Model || (美) [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>简体PDF(扫描版) || 2013-10-20<br>2013-10-24 || [https://docs.google.com/document/d/12pjutyt_FHS6Ep9C_q5msT4Jb4B-1WDe0di77HRNuJI/ 简介]
 |-
-| C++ 设计新思维<br>——泛型编程与设计模式之应用 || Modern C++ Design<br>——Generic Programming and Design Patterns Applied || (罗马尼亚) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 简体PDF(扫描版)<br>英文CHM || 2015-11-08<br>2016-12-21 || [https://docs.google.com/document/d/1gzE7F5InN-QNRQKMZEoiPV6nD6ZevmJdtd-iVjc4sQM/ 简介]
+| C++ 设计新思维<br>——泛型编程与设计模式之应用 || Modern C++ Design<br>——Generic Programming and Design Patterns Applied || (美) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 简体PDF(扫描版)<br>英文PDF<br>英文CHM<br>英文MOBI || 2015-11-08<br>2018-08-04<br>2016-12-21<br>2018-08-04 || [https://docs.google.com/document/d/1gzE7F5InN-QNRQKMZEoiPV6nD6ZevmJdtd-iVjc4sQM/ 简介]
 |-
 | C++ Templates 全览 || C++ Templates<br>——The Complete Guide || David Vandevoorde<br>Nicolai Josuttis || 英文CHM || 2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
 |-
