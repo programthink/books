@@ -2172,7 +2172,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 历史<br>''其它中文名：''<br>希波战争史 || Histories || (古希腊) [https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%BE%85%E5%A4%9A%E5%BE%B7 希罗多德] || 简体PDF(扫描版) || 2017-08-11 || [https://docs.google.com/document/d/1Ru1gXzS-hiiKX1WHOF5f7IPsG09_YWIuwMHKEBlNKLA/ 简介]
 |-
-| 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版) || 2013-02-07<br>2015-07-18 || [https://docs.google.com/document/d/17nELJ7-eABOYeTtd35lLUJSlHwK5-z89SIIcqW6w2qs/ 简介]
+| 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版)<br>英文EPUB || 2013-02-07<br>2015-07-18<br>2018-08-08 || [https://docs.google.com/document/d/17nELJ7-eABOYeTtd35lLUJSlHwK5-z89SIIcqW6w2qs/ 简介]
 |}
 
 === 9.4.2 古罗马 ===
