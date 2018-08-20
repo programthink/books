@@ -2203,7 +2203,15 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 汉尼拔战争 || N/A || 王乃新 || 简体PDF(扫描版) || 2013-02-05 || [https://docs.google.com/document/d/1cjwGR7c9825LtY_Uto3ohwRiVwcNqqBsLG1jKnSQnKI/ 简介]
 |}
 
-== 9.5 武器 ==
+== 9.5 其它军事史 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 影响人类历史进程的100场决定性战役 || 100 Decisive Battles<br>——From Ancient Times to the Present || (美) [https://en.wikipedia.org/wiki/Paul_K._Davis_%28historian%29 保罗·戴维斯] || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/1miVoMp3DsBNFyhAt1pZgLtPcaPKv_-S252aVa4o0x0A/ 简介]
+|}
+
+== 9.6 武器 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2213,7 +2221,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 牛津通识读本：核武器 || Nuclear Weapons || Joseph Siracusa || 英文PDF || 2015-12-14 || [https://docs.google.com/document/d/1ZTwCoTDHRFARSsC9f-fsq-uz0_EZStDSnE66qsvhUC8/ 简介]
 |}
 
-== 9.6 美国 ==
+== 9.7 美国 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
