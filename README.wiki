@@ -2220,6 +2220,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 隐形战斗机 || X-Planes<br>——Secret Planes and Secret Missions || (美) 戴维·奥利弗<br>(美) 迈克·瑞安 || 简体PDF(扫描版) || 2017-05-05 || [https://docs.google.com/document/d/13C41cLrV9KfFxIRW7FRkZ122riOT7mtc88CUG30Tw7U/ 简介]
 |-
+| 简氏枪械鉴赏指南典藏版 || Jane's Guns Recognition Guide || 理查德·琼斯<br>安德鲁·怀特 || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/11aR5ShFSnWjVLetc7EmGeAzM00QyIP1DnRH7vTIUnqI/ 简介]
+|-
 | 牛津通识读本：核武器 || Nuclear Weapons || Joseph Siracusa || 英文PDF || 2015-12-14 || [https://docs.google.com/document/d/1ZTwCoTDHRFARSsC9f-fsq-uz0_EZStDSnE66qsvhUC8/ 简介]
 |}
 
