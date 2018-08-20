@@ -2010,7 +2010,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 第二次世界大战战史 || History of the Second World War || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版) || 2015-09-17 || [https://docs.google.com/document/d/1vP_KXL_iHnOeUnhw2cLoHPAa9dWwr9TvY7gtQiIaF1M/ 简介]
 |-
-| 第二次世界大战回忆录 || The Second World War || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体PDF(大字版)<br>简体EPUB<br>简体HTML || 2015-07-18<br>2013-09-14<br>2013-03-22 || [https://docs.google.com/document/d/12N9nwvnW6McL4rn5hrwBoIz8CsSFynXxP8I4V71fOJE/ 简介]
+| 第二次世界大战回忆录 || The Second World War || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体PDF(大字版)<br>简体EPUB<br>简体HTML<br>简体MOBI || 2015-07-18<br>2013-09-14<br>2013-03-22<br>2018-08-20 || [https://docs.google.com/document/d/12N9nwvnW6McL4rn5hrwBoIz8CsSFynXxP8I4V71fOJE/ 简介]
 |-
 | 大海战<br>——第二次世界大战海战史 || N/A || (美) [https://zh.wikipedia.org/wiki/%E5%88%87%E6%96%AF%E7%89%B9%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%B0%BC%E7%B1%B3%E5%85%B9 尼米兹]<br>(美) E.B.波特 || 简体PDF(扫描版) || 2016-12-11 || [https://docs.google.com/document/d/1cOFhem10jWTPUagIb9Q1PzDczwvsgMz4JsqhbqN-LHk/ 简介]
 |-
