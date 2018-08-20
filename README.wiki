@@ -2122,7 +2122,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 冷战史<br>——遏制与共存备忘录 || A Journey Through the Cold War<br>——A Memoir of Containment and Coexistence || (美) [https://en.wikipedia.org/wiki/Raymond_L._Garthoff 雷蒙德·加特霍夫] || 简体PDF || 2017-02-19 || [https://docs.google.com/document/d/1TOSbCWQMok47aeKFopcdDb6tEkx3rRTcYhYMZKPizrs/ 简介]
 |-
-| 人心之争<br>——美国、苏联与冷战 || For the Soul of Mankind<br>——The United States, the Soviet Union, and the Cold War || (美) [https://en.wikipedia.org/wiki/Melvyn_P._Leffler 梅尔文·P·莱弗勒] || 简体PDF(扫描版) || 2017-02-19 || [https://docs.google.com/document/d/18LcyFGXA7OenPCAJw_zw_jcCm62zmprZ7su-VccgwrY/ 简介]
+| 人心之争<br>——美国、苏联与冷战 || For the Soul of Mankind<br>——The United States, the Soviet Union, and the Cold War || (美) [https://en.wikipedia.org/wiki/Melvyn_P._Leffler 梅尔文·莱弗勒] || 简体PDF(扫描版) || 2017-02-19 || [https://docs.google.com/document/d/18LcyFGXA7OenPCAJw_zw_jcCm62zmprZ7su-VccgwrY/ 简介]
 |-
 | 美国遏制战略与冷战起源再探 || U.S. Strategy of Containment and the Origins of the Cold War<br>——A Revist || 张曙光 || 简体PDF(扫描版) || 2018-08-14 || [https://docs.google.com/document/d/1uXaDEuk6dKxNhP8_1buYvPN0wlKtsTjgH6TPHv5krkw/ 简介]
 |-
@@ -2139,6 +2139,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 第一次世界大战回忆录 || The World Crisis || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体TXT || 2016-05-19 || [https://docs.google.com/document/d/1yQqh1Fb2ibeXd76MRyVb-8n-N-gIGZ6QuJZr6lDUhUo/ 简介]
 |-
 | 欧洲的悲剧<br>——第一次世界大战战史 || N/A || (未知) || 繁體PDF(掃描版) || 2017-08-16 || [https://docs.google.com/document/d/17CYops_TzhiHJjrYVgI9gg8ezhGfp_lG2_grCbm613s/ 简介]
+|-
+| 乱七八糟的第一次世界大战 || The Frightful First World War || (英) [https://en.wikipedia.org/wiki/Terry_Deary 泰瑞·狄利] || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/1QadSr3xDJ8b0HDFBAEWtHGvYx4jhZruBCOR9OhTZqZI/ 简介]
 |-
 | 牛津通识读本：第一次世界大战 || The First World War || (英) [https://en.wikipedia.org/wiki/Michael_Howard_(historian) Michael Howard] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1R73zTNIBp1yuPqwGdHKdOws-aNvQcJFCk5lHEWSmHBw/ 简介]
 |}
