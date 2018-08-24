@@ -787,6 +787,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 人妖之间 || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || 简体PDF || 2013-03-09 || [https://docs.google.com/document/d/1NeTEXZjCK6xrWnxq0-xw-Sx1kXVys_DdVyv3bFBbgGc/ 简介]
 |-
+| 有关北京龙泉寺住持释学诚不法行为的汇报 || 释贤启<br>释贤佳 || 简体PDF || 2018-08-24 || [https://docs.google.com/document/d/1F53JPEJUSVFKb__RMxMGySAvaTKvxPdIrW0G5YJhesA/ 简介]
+|-
 | 编译局言情录<br>——一朝忽觉京梦醒，半世浮沉雨打萍 || 常艳 || 简体PDF || 2012-12-24 || [https://docs.google.com/document/d/1vMDi_a6HviVHKIG7TMa1L7NY7hRsMaCVVaE8zy_N-MM/ 简介]
 |}
 
