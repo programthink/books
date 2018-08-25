@@ -1996,7 +1996,9 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 制空权 || The Command of the Air || (意) [https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E6%AD%90%C2%B7%E6%9D%9C%E9%BB%91 朱利欧·杜黑] || 简体PDF(前9章)<br>英文PDF(扫描版) || 2013-08-21<br>2018-08-25 || [https://docs.google.com/document/d/16rd8s56UJFe3PQAY6Ro-IQ4ifsrHuWgoeruDORAm__M/ 简介]
 |-
-| 世界上二十次重大战役中的决定因素 || Great Battles of the World || (英) 威廉·西摩 || 简体PDF(大字版) || 2017-08-12 || [https://docs.google.com/document/d/1vF0dLeBtIQndH13X3JHYW3vUxpDwRNHkFXrDtX9Pv8U/ 简介]
+| 绝对武器<br>——原子能与世界秩序 || The Absolute Weapon<br>——Atomic Power and World Order || (美) [https://en.wikipedia.org/wiki/Bernard_Brodie_%28military_strategist%29 伯纳德·布罗迪]<br>等 || 英文PDF(扫描版) || 2018-08-25 || [https://docs.google.com/document/d/1euZl-dPAB5HVGVXQErNACqjHwDqCvamY-uZnrMZZIjI/ 简介]
+|-
+| 世界上二十次重大战役中的决定因素 || Decisive Factors in Twenty Great Battles of the World || (英) 威廉·西摩 || 简体PDF(大字版) || 2017-08-12 || [https://docs.google.com/document/d/1vF0dLeBtIQndH13X3JHYW3vUxpDwRNHkFXrDtX9Pv8U/ 简介]
 |}
 
 == 9.2 现代军事史 ==
