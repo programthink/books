@@ -1662,6 +1662,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 非理性繁荣 || Irrational Exuberance || (美) [https://en.wikipedia.org/wiki/Robert_J._Shiller 罗伯特·希勒] || 简体PDF(扫描版)<br>简体TXT || 2014-05-23<br>2016-05-02 || [https://docs.google.com/document/d/19Ad-DbeWl7XpnkdCihZwQdKoXPU2hicJbBZ75FSHgPI/ 简介]
 |-
+| 随机致富的傻瓜<br>——发现市场和人生中的隐藏机遇<br>''其它中文名：''<br>随机漫步的傻瓜 || Fooled by Randomness<br>——The Hidden Role of Chance in Life and in the Markets || (美) [https://zh.wikipedia.org/wiki/%E7%B4%8D%E8%A5%BF%E5%A7%86%C2%B7%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E5%A1%94%E9%9B%B7%E4%BC%AF 纳西姆·塔勒布] || 简体PDF(扫描版) || 2018-08-27 || [https://docs.google.com/document/d/1MBz8w1NC_5gT8PuqMkRR5dFzIJol7V92EmgOXgJQvTE/ 简介]
+|-
 | 金融炼金术 || The Alchemy of Finance || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 乔治·索罗斯] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-04-29<br>2013-09-13<br>2015-05-10<br>2016-05-02 || [https://docs.google.com/document/d/1oK38fhLtBFH58dNhnV7N_n3M-QiTF-iarN_qQzSUNcw/ 简介]
 |}
 
@@ -1760,7 +1762,7 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan<br>——The Impact of the Highly Improbable || (黎巴嫩) [https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb 塔勒布] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2017-08-15<br>2015-02-13 || [https://docs.google.com/document/d/1KXiUCl08DMYrPqS2OhdjchI88-ZjUgl8d2yoctWJkKM/ 简介]
+| 黑天鹅<br>——如何应对不可知的未来 || The Black Swan<br>——The Impact of the Highly Improbable || (美) [https://zh.wikipedia.org/wiki/%E7%B4%8D%E8%A5%BF%E5%A7%86%C2%B7%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E5%A1%94%E9%9B%B7%E4%BC%AF 纳西姆·塔勒布] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2017-08-15<br>2015-02-13 || [https://docs.google.com/document/d/1KXiUCl08DMYrPqS2OhdjchI88-ZjUgl8d2yoctWJkKM/ 简介]
 |-
 | 社会学的基本概念 || Basic Concepts in Sociology || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF 马克斯·韦伯] || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/10T7dfKKxEyLwxyUxiIKTbcQYXJx1H6BUN7aptBydueA/ 简介]
 |-
