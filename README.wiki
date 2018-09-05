@@ -1584,9 +1584,9 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 高级宏观经济学 || Advanced Macroeconomics || (美) [https://en.wikipedia.org/wiki/David_Romer 戴维·罗默] || 简体PDF(第2版 扫描版)<br>英文PDF(第1版 扫描版) || 2014-07-15<br>2018-06-23 || [https://docs.google.com/document/d/16GzZseyAoy5zr4zziDYi5ux2dAlBPIaJ8_4cSs6OKPo/ 简介]
 |-
-| 中级微观经济学 || Intermediate Microeconomics<br>——A Modern Approach || (美) [https://en.wikipedia.org/wiki/Hal_Varian 范里安] || 简体PDF(第8版)<br>英文PDF(第8版) || 2015-07-12<br>2018-06-23 || [https://docs.google.com/document/d/1aTlOHjB3fnEmazZ6j37_HY4fSLsUpPRaLUbnhCtGPvE/ 简介]
+| 中级微观经济学<br>——现代观点 || Intermediate Microeconomics<br>——A Modern Approach || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第8版)<br>英文PDF(第8版) || 2015-07-12<br>2018-06-23 || [https://docs.google.com/document/d/1aTlOHjB3fnEmazZ6j37_HY4fSLsUpPRaLUbnhCtGPvE/ 简介]
 |-
-| 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian 范里安] || 简体PDF(第3版) || 2014-07-15 || [https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/ 简介]
+| 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第3版) || 2014-07-15 || [https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/ 简介]
 |-
 | 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/ 简介]
 |-
@@ -1599,6 +1599,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 | 以自由看待发展 || Development as Freedom || (印度) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/1wADMOFG37vsLWRDca-QSVgOrGrJEh8e4fKHTNgWcbOY/ 简介]
 |-
 | 短缺经济学 || Economics of Shortage || (匈) 雅诺什·科尔奈 || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/ 简介]
+|-
+| 资本论 || Capital || (德) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D 卡尔·马克思] || 简体PDF(大字版) || 2018-09-05 || [https://docs.google.com/document/d/1BX4SKfF_DS8s2QA5sZw__Ui52q3O535l3kdbu_govRs/ 简介]
 |}
 
 === 4.1.2 评论 ===
