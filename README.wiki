@@ -1600,6 +1600,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 短缺经济学 || Economics of Shortage || (匈) 雅诺什·科尔奈 || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/ 简介]
 |-
+| 资本与利息 || Capital and Interest || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 繁體PDF(掃描版) || 2018-09-05 || [https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/ 简介]
+|-
 | 资本论 || Capital || (德) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D 卡尔·马克思] || 简体PDF(大字版) || 2018-09-05 || [https://docs.google.com/document/d/1BX4SKfF_DS8s2QA5sZw__Ui52q3O535l3kdbu_govRs/ 简介]
 |}
 
