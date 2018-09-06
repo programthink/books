@@ -1013,11 +1013,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 民主的细节<br>——美国当代政治观察随笔 || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体MOBI<br>简体TXT || 2013-09-14<br>2018-09-06<br>2013-05-24 || [https://docs.google.com/document/d/14o9_DOJtOJjow6uipBHC7cXaBhKlLcFpdbsLQiW0sEU/ 简介]
 |-
-| 近距离看美国1<br>——历史深处的忧虑 || N/A || (美) [https://zh.wikipedia.org/wiki/%E6%9E%97%E9%81%94_%28%E4%BD%9C%E5%AE%B6%29 林达] (原名：丁鸿富 & 李晓琳) || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1vHNM8Y0Cj6joZosdlK1DG6JoSuRlCPw1i28lsKb6z4s/ 简介]
-|-
-| 近距离看美国2<br>——总统是靠不住的 || N/A || (美) [https://zh.wikipedia.org/wiki/%E6%9E%97%E9%81%94_%28%E4%BD%9C%E5%AE%B6%29 林达] (原名：丁鸿富 & 李晓琳) || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1vHNM8Y0Cj6joZosdlK1DG6JoSuRlCPw1i28lsKb6z4s/ 简介]
-|-
-| 近距离看美国3<br>——我也有一个梦想 || N/A || (美) [https://zh.wikipedia.org/wiki/%E6%9E%97%E9%81%94_%28%E4%BD%9C%E5%AE%B6%29 林达] (原名：丁鸿富 & 李晓琳) || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1vHNM8Y0Cj6joZosdlK1DG6JoSuRlCPw1i28lsKb6z4s/ 简介]
+| 近距离看美国<br>''包括如下：''<br>历史深处的忧虑<br>总统是靠不住的<br>我也有一个梦想<br>如彗星划过夜空 || N/A || (美) [https://zh.wikipedia.org/wiki/%E6%9E%97%E9%81%94_%28%E4%BD%9C%E5%AE%B6%29 林达] (原名：丁鸿富 & 李晓琳) || 简体PDF(扫描版)<br>简体MOBI || 2017-02-18<br>2018-09-06 || [https://docs.google.com/document/d/1vHNM8Y0Cj6joZosdlK1DG6JoSuRlCPw1i28lsKb6z4s/ 简介]
 |}
 
 == 1.5 苏联 ==
