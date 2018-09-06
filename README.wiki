@@ -367,7 +367,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 中国改革年代的政治斗争 || N/A || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>简体EPUB || 2012-04-05<br>2013-11-26 || [https://docs.google.com/document/d/1J64t9Lw16v2oBOJIiVV4zSsV_sihSyHMQ7OfcC2iV84/ 简介]
+| 中国改革年代的政治斗争 || N/A || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>简体EPUB<br>简体MOBI || 2012-04-05<br>2013-11-26<br>2018-09-06 || [https://docs.google.com/document/d/1J64t9Lw16v2oBOJIiVV4zSsV_sihSyHMQ7OfcC2iV84/ 简介]
 |-
 | 中国现代化的陷阱 || The Pitfalls of Modernization || [https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B8%85%E6%B6%9F 何清涟] || 简体PDF(修订版)<br>简体MOBI(修订版)<br>简体PDF<br>简体HTML || 2013-12-14<br>2014-02-23<br>2013-02-05<br>2012-11-18 || [https://docs.google.com/document/d/19cesLL_fjlnNJedaWs5cA0dNxYhrtANRpCAdlx9-4qY/ 简介]
 |-
