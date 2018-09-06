@@ -1009,7 +1009,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 发掘新闻<br>——美国报业的社会史 || Discovering The News<br>——A Social History Of American Newspapers || (美) [https://en.wikipedia.org/wiki/Michael_Schudson 迈克尔·舒德森] || 简体PDF(扫描版) || 2017-08-16 || [https://docs.google.com/document/d/1lXrjDTO7TbNHsnGCpflZLLC4U3MVO4a_zc2qP032zbE/ 简介]
 |-
-| 常识 || Common Sense || (美) [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9 托马斯·潘恩] || 简体EPUB<br>简体PDF(扫描版)<br>简体TXT || 2014-05-23<br>2017-03-24<br>2016-05-18 || [https://docs.google.com/document/d/1Ip3UX-OCm0ZAA2w82l1dFItD0-EEviGntkXV_KF-_Kg/ 简介]
+| 常识 || Common Sense || (美) [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9 托马斯·潘恩] || 简体EPUB<br>简体PDF(扫描版)<br>简体TXT<br>英文EPUB<br>英文MOBI || 2014-05-23<br>2017-03-24<br>2016-05-18<br>2018-09-06<br>2018-09-06 || [https://docs.google.com/document/d/1Ip3UX-OCm0ZAA2w82l1dFItD0-EEviGntkXV_KF-_Kg/ 简介]
 |-
 | 民主的细节<br>——美国当代政治观察随笔 || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-05-24 || [https://docs.google.com/document/d/14o9_DOJtOJjow6uipBHC7cXaBhKlLcFpdbsLQiW0sEU/ 简介]
 |-
