@@ -1260,7 +1260,15 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || (美) [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || 简体EPUB<br>繁體PDF(掃描版) || 2013-09-13<br>2013-02-05 || [https://docs.google.com/document/d/1thzFhbtzJTJnHst4rQwyUQnV5o3vjL8mr2QbR7zr54s/ 简介]
 |}
 
-== 2.4 教育心理学 ==
+== 2.4 性心理学 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 男人来自火星，女人来自金星 || Men Are from Mars, Women Are from Venus || (美) [https://en.wikipedia.org/wiki/John_Gray_%28U.S._author%29 约翰·格雷] || 简体PDF(扫描版) || 2018-09-09 || [https://docs.google.com/document/d/17uDOlccJ6NmpeRVKvXPNDWUv2h9V_PRrVEZTqlwZy2A/ 简介]
+|}
+
+== 2.5 教育心理学 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1270,7 +1278,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 家庭会伤人<br>——自我重生的新契机 || The Family<br>——A Revolutionary Way of Self Discovery || (美) [https://en.wikipedia.org/wiki/John_Bradshaw_%28author%29 John Bradshaw] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/13o9sJjREEJ-29uBWujsi95gItgqfxoiQJj7O3LesG_w/ 简介]
 |}
 
-== 2.5 进化心理学 ==
+== 2.6 进化心理学 ==
 
 (“进化心理学”是心理学的一个新的研究方向)
 
@@ -1280,7 +1288,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 进化心理学<br>——心理的新科学 || Evolutionary Psychology<br>——The New Science of the Mind || (美) [https://en.wikipedia.org/wiki/David_Buss 大卫·巴斯] || 简体PDF(扫描版)<br>简体MOBI || 2012-12-31<br>2015-11-14 || [https://docs.google.com/document/d/1yB9yKWHyQf_18TR7HfHz-4blMk3QSfk7SFPxDXyf0yk/ 简介]
 |}
 
-== 2.6 洗脑 ==
+== 2.7 洗脑 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1296,7 +1304,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 洗脑的历史 || N/A || 傅志彬 || 简体PDF<br>简体PDF(扫描版) || 2015-02-15<br>2015-05-11 || [https://docs.google.com/document/d/1EBhr7WjholDkf3Aji9azaVmSrIaoPPZiEv25tJmlNlU/ 简介]
 |}
 
-== 2.7 审讯与反审讯 ==
+== 2.8 审讯与反审讯 ==
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1308,7 +1316,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 审讯与反审讯文章汇集 || (热心读者) || 简体TXT || 2014-07-28 || [https://docs.google.com/document/d/1MgzYbvtTnvdceP6mEUFHYoJCyrLc8ffHlm2KoIDOA9M/ 简介]
 |}
 
-== 2.8 (其它) ==
+== 2.9 (其它) ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
