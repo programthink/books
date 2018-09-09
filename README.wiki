@@ -231,7 +231,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 通往奴役之路 || The Road to Serfdom || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF(台版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2014-05-18<br>2013-03-24<br>2013-09-13<br>2015-05-11<br>2013-05-30 || [https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/ 简介]
+| 通往奴役之路 || The Road to Serfdom || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF(台版)<br>简体PDF(大字版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2014-05-18<br>2018-09-10<br>2013-03-24<br>2013-09-13<br>2015-05-11<br>2013-05-30 || [https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/ 简介]
 |-
 | 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14 || [https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/ 简介]
 |-
