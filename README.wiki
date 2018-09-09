@@ -1257,7 +1257,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || (法) [https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E 古斯塔夫·勒庞] || 简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2012-12-29<br>2014-02-23<br>2016-05-16 || [https://docs.google.com/document/d/1DFBGB6tMhSQvFRmQFDip2MCSR5lVjW97S_3hKtlBdgc/ 简介]
 |-
-| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || (美) [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || 简体EPUB<br>繁體PDF(掃描版) || 2013-09-13<br>2013-02-05 || [https://docs.google.com/document/d/1thzFhbtzJTJnHst4rQwyUQnV5o3vjL8mr2QbR7zr54s/ 简介]
+| 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || (美) [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || 简体PDF(大字版)<br>简体EPUB<br>繁體PDF(掃描版) || 2018-09-10<br>2013-09-13<br>2013-02-05 || [https://docs.google.com/document/d/1thzFhbtzJTJnHst4rQwyUQnV5o3vjL8mr2QbR7zr54s/ 简介]
 |}
 
 == 2.4 性心理学 ==
@@ -1275,7 +1275,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 正面管教 || Positive Discipline || (美) [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] || 简体PDF || 2014-02-11 || [https://docs.google.com/document/d/1Ntc0DAi-IUFHrJfLuUyFY39MkWLrmsu5dUZzcyLBXs8/ 简介]
 |-
-| 家庭会伤人<br>——自我重生的新契机 || The Family<br>——A Revolutionary Way of Self Discovery || (美) [https://en.wikipedia.org/wiki/John_Bradshaw_%28author%29 John Bradshaw] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/13o9sJjREEJ-29uBWujsi95gItgqfxoiQJj7O3LesG_w/ 简介]
+| 家庭会伤人<br>——自我重生的新契机 || The Family<br>——A Revolutionary Way of Self Discovery || (美) [https://en.wikipedia.org/wiki/John_Bradshaw_%28author%29 约翰·布雷萧] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/13o9sJjREEJ-29uBWujsi95gItgqfxoiQJj7O3LesG_w/ 简介]
 |}
 
 == 2.6 进化心理学 ==
