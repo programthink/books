@@ -2724,6 +2724,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || (美) [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利] || 简体EPUB<br>英文PDF || 2014-01-09<br>2015-01-11 || [https://docs.google.com/document/d/1LW3Id98avincHkvC3yrTfnPkhE44XouwhQNV1BumcW4/ 简介]
 |-
+| 人工智能<br>——一种现代的方法 || Artificial Intelligence<br>——A Modern Approach || (美) [https://en.wikipedia.org/wiki/Stuart_J._Russell Stuart Russell]<br>(美) [https://en.wikipedia.org/wiki/Peter_Norvig Peter Norvig] || 英文PDF(第3版) || 2018-09-11 || [https://docs.google.com/document/d/10AF_r1EtIImjTUh4Pz80mFaGTDcOs72rN7vPwMPYoTk/ 简介]
+|-
 | 奇点临近 || The Singularity Is Near<br>——When Humans Transcend Biology || (美) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E8%92%99%E5%BE%B7%C2%B7%E5%BA%93%E8%8C%A8%E9%AD%8F%E5%B0%94 雷·库兹韦尔] || 简体PDF<br>英文PDF || 2017-03-30<br>2017-05-09 || [https://docs.google.com/document/d/1yCUaGivIjvN2QdyCbg6OAqpgZ-kCZvNpPWURnSeqmyg/ 简介]
 |}
 
