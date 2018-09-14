@@ -31,9 +31,9 @@
 
 首选，你需要安装 BTSync（ResilioSync）软件。它的【官网】下载链接是：[https://www.getsync.com/]
 
-要使用 BT Sync（Resilio Sync）同步电子书，你需要在 BT Sync 界面上添加相应的密钥（密钥写在本页面【每个分类标题】的下方）。关于 BT Sync 的扫盲教程，请参见“[https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html 这篇博文]”。
+要使用 BT Sync（Resilio Sync）同步电子书，你需要在主界面上添加相应的密钥（密钥写在本页面【每个大类】的标题下方）。关于 BT Sync 的扫盲教程，请参见“[https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html 这篇博文]”。
 
-BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来同步俺的电子书。早期的 1.4.x 版本支持 DHT 功能，可以在墙内【免翻墙】使用。2.0 之后的版本不再支持 DHT，无法享受这一好处。关于 DHT 功能如何开启，请参见“[https://program-think.blogspot.com/2017/08/GFW-Resilio-Sync.html 这篇博文]”。
+BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来同步俺的电子书。早期的 1.4.x 版本支持 DHT 功能，可以在墙内【免翻墙】使用。2.0 之后的版本不再支持 DHT，无法享受这一好处。关于 DHT 功能如何开启，请翻墙打开“[https://program-think.blogspot.com/2017/08/GFW-Resilio-Sync.html 这篇博文]”。
 
 <h3>关于“微软网盘”的补充说明</h3>
 
@@ -55,10 +55,10 @@ BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来�
 
 * [https://en.wikipedia.org/wiki/Sumatra_PDF Sumatra PDF] 2.0 或者更高版本（绿色软件，除了支持 PDF，还支持其它格式，强烈推荐使用）
 * [https://en.wikipedia.org/wiki/Foxit_Reader Foxit Reader] 3.1.0 或者更高的版本（绿色软件，推荐使用）
-* [https://en.wikipedia.org/wiki/PDF-XChange_Viewer PDF-XChange Viewer] 2.0 或者更高的版本（绿色软件，推荐使用）
-* [https://en.wikipedia.org/wiki/Adobe_Acrobat Acrobat Reader] 7.0 或者更高的版本（Acrobat Reader 太臃肿，不推荐）
+* [https://en.wikipedia.org/wiki/PDF-XChange_Viewer PDF-XChange Viewer] 2.0 或者更高版本（绿色软件，推荐使用）
+* [https://en.wikipedia.org/wiki/Adobe_Acrobat Acrobat Reader] 7.0 或者更高版本（Acrobat Reader 太臃肿，不推荐）
 * 如果你使用 Chrome 浏览器，把 PDF 文件直接拖到 Chrome 窗口里，就可以看
-* 如果你使用 Firefox 浏览器（版本 >= 19.0），把 PDF 文件直接拖到 Firefox 窗口里，就可以看
+* 如果你使用 Firefox 浏览器（19.0 或者更高版本），把 PDF 文件直接拖到 Firefox 窗口里，就可以看
 
 <h3>EPUB 格式</h3>
 
@@ -77,7 +77,7 @@ EPUB 的的阅读软件很多，而且各个平台（Windows、Linux、Mac OS）
 # 弹出“属性对话框”
 # 在属性对话框中，点“解除锁定”钮
 
-用 Mac OS X 的同学，可以考虑用 Chmox 或 iCHM 打开 CHM 电子书；
+用 Mac OS 的同学，可以考虑用 Chmox 或 iCHM 打开 CHM 电子书；
 
 用 Linux 系统的同学，可以考虑用 CHM Viewer 打开 CHM 电子书。
 
@@ -97,7 +97,7 @@ TXT格式的电子书使用 '''UTF-8''' 编码保存。用 Windows 自带的记�
 
 <h2>如何阅读书籍</h2>
 
-考虑到很多网友不善于阅读书籍， '''俺强烈推荐大伙儿看一下《如何阅读一本书》''' ([https://program-think.blogspot.com/2013/04/how-to-read-book.html 俺的书评]、下载地址：[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1250 PDF]、[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1251 TXT])。此书传授了关于阅读书籍的技巧，非常有价值。
+考虑到很多网友不善于阅读书籍， '''俺强烈推荐大伙儿看一下《如何阅读一本书》''' （[https://program-think.blogspot.com/2013/04/how-to-read-book.html 俺的书评]、[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1250 下载地址]）。此书传授了关于阅读书籍的技巧，非常有价值。
 
 ----
 
