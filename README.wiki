@@ -1591,8 +1591,6 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 经济学原理 || Principles of Economics || (美) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] || 简体PDF(微观分册 第5版 扫描版)<br>简体PDF(宏观分册 第5版 扫描版)<br>简体EPUB(微观分册 第3版 插图版)<br>简体MOBI(微观分册 第3版 插图版)<br>简体TXT || 2013-02-22<br>2013-02-22<br>2015-02-14<br>2015-02-14<br>2016-05-02 || [https://docs.google.com/document/d/1WerDbX5HjqFI4-rtwiIKSEEdSCM3QxEtwkn3BSLr15k/ 简介]
 |-
-| 经济学原理 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF(扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/ 简介]
-|-
 | 宏观经济学 || Macroeconomics || (德) [https://en.wikipedia.org/wiki/Rudiger_Dornbusch 鲁迪格·多恩布什] || 简体PDF(第7版 扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1I83iQ9dclfm4uIMYXnkLfnh35GPW2yWoxbQUY742few/ 简介]
 |-
 | 高级宏观经济学 || Advanced Macroeconomics || (美) [https://en.wikipedia.org/wiki/David_Romer 戴维·罗默] || 简体PDF(第2版 扫描版)<br>英文PDF(第1版 扫描版) || 2014-07-15<br>2018-06-23 || [https://docs.google.com/document/d/16GzZseyAoy5zr4zziDYi5ux2dAlBPIaJ8_4cSs6OKPo/ 简介]
@@ -1601,19 +1599,23 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第3版) || 2014-07-15 || [https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/ 简介]
 |-
-| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/ 简介]
+| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/ 简介]
 |-
 | 人的行为<br>——经济学专论<br>''其它中文名：''<br>人类行为的经济学分析 || Human Action<br>——A Treatise on Economics || (奥) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文EPUB || 2018-09-15 || [https://docs.google.com/document/d/1SoD0lCENOGExibp1v7ZcMpAcXREbf4MPGn5c9QGd02g/ 简介]
 |-
 | 个人主义与经济秩序 || Individualism and Economic Order || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-10<br>2013-09-13<br>2015-02-14 || [https://docs.google.com/document/d/1n7pZ8RhkgfqAsNctjBw7Lu0IK_6w_V7MehA_mzcGtk0/ 简介]
 |-
-| 经济发展理论 || The Theory of Economic Development || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 熊彼特] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/ 简介]
+| 经济发展理论 || The Theory of Economic Development || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/ 简介]
+|-
+| 企业的性质<br>''其它中文名：''<br>公司的本质 || The Nature of the Firm || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 英文PDF || 2018-09-18 || [https://docs.google.com/document/d/1z589Ha_g1SpmRmp033pSjhfCHzs2PbpnSSZfPHaSdhg/ 简介]
 |-
 | 市场经济<br>——大师们的思考 || The Market Economy<br>——A Reader || (美) 詹姆斯·多蒂<br>(美) 德威特·李 || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/16DAGRW_d0jMAeUBH_rCYaRZ7AbkfKjkgJoqnbx-SXZ4/ 简介]
 |-
 | 以自由看待发展 || Development as Freedom || (印度) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/1wADMOFG37vsLWRDca-QSVgOrGrJEh8e4fKHTNgWcbOY/ 简介]
 |-
-| 短缺经济学 || Economics of Shortage || (匈) 雅诺什·科尔奈 || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/ 简介]
+| 短缺经济学 || Economics of Shortage || (匈) [https://en.wikipedia.org/wiki/J%C3%A1nos_Kornai 雅诺什·科尔奈] || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/ 简介]
+|-
+| 经济学原理 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF(扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/ 简介]
 |-
 | 经济学原理<br>''其它中文名：''<br>国民经济学原理 || Principles of Economics || (奥) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E9%96%80%E6%A0%BC%E7%88%BE 卡尔·门格尔] || 简体PDF(扫描版)<br>英文PDF || 2018-09-15<br>2018-09-15 || [https://docs.google.com/document/d/1AEyTYHEzJVi2o4aZvCbxCeKbep68MXHKjA5NTzCqrMY/ 简介]
 |-
