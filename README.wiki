@@ -1609,7 +1609,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 企业的性质<br>''其它中文名：''<br>公司的本质 || The Nature of the Firm || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 英文PDF || 2018-09-18 || [https://docs.google.com/document/d/1z589Ha_g1SpmRmp033pSjhfCHzs2PbpnSSZfPHaSdhg/ 简介]
 |-
-| 社会成本问题 || The Problem of Social Cost || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 英文PDF || 2018-09-19 || [https://docs.google.com/document/d/1xx1cswtt6pznijDGdoFf9p-NP99Mb1VTY8Z-F_Gnu_g/ 简介]
+| 社会成本问题 || The Problem of Social Cost || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 英文PDF(扫描版) || 2018-09-19 || [https://docs.google.com/document/d/1xx1cswtt6pznijDGdoFf9p-NP99Mb1VTY8Z-F_Gnu_g/ 简介]
 |-
 | 市场经济<br>——大师们的思考 || The Market Economy<br>——A Reader || (美) 詹姆斯·多蒂<br>(美) 德威特·李 || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/16DAGRW_d0jMAeUBH_rCYaRZ7AbkfKjkgJoqnbx-SXZ4/ 简介]
 |-
@@ -1623,7 +1623,9 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 自然价值 || Natural Value || (奥) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E9%A6%AE%C2%B7%E7%B6%AD%E5%A1%9E%E7%88%BE 弗里德里希·冯·维塞尔] || 英文PDF || 2018-09-15 || [https://docs.google.com/document/d/1Gpjhx1X6tvsm0qy-BeiFIrnX-wTpUw9IMgx6Hcf1I0I/ 简介]
 |-
-| 资本与利息 || Capital and Interest || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 繁體PDF(掃描版) || 2018-09-05 || [https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/ 简介]
+| 资本与利息 || Capital and Interest || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 繁體PDF(第1卷 掃描版) || 2018-09-05 || [https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/ 简介]
+|-
+| 利息与价格 || Interest and Prices || (瑞典) [https://en.wikipedia.org/wiki/Knut_Wicksell 克努特·维克塞尔] || 英文PDF(扫描版) || 2018-09-19 || [https://docs.google.com/document/d/1eMRCuNPF-rk2gVjQ37Ek-_JXRWEk4CKp-C2ehUlgh1Y/ 简介]
 |-
 | 资本论 || Capital || (德) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D 卡尔·马克思] || 简体PDF(大字版) || 2018-09-05 || [https://docs.google.com/document/d/1BX4SKfF_DS8s2QA5sZw__Ui52q3O535l3kdbu_govRs/ 简介]
 |}
