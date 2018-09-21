@@ -242,7 +242,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14 || [https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/ 简介]
 |-
-| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/ 简介]
+| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/ 简介]
+|-
+| 社会主义国家的经济计算 || Economic Calculation in the Socialist Commonwealth || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文PDF || 2018-09-22 || [https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/ 简介]
 |-
 | 牛津通识读本：社会主义 || Socialism || Michael Newman || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
 |}
