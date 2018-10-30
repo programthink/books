@@ -2651,7 +2651,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Fedora 官方安全手册 || Security Guide<br>——A Guide to Securing Fedora Linux || N/A || [https://docs.fedoraproject.org/security-guide/ 英文WEB] || N/A || N/A
 |-
-| openSUSE 官方安全手册 || openSUSE Security Guide || N/A || [https://activedoc.opensuse.org/book/opensuse-security-guide 英文WEB] || N/A || N/A
+| openSUSE 官方安全手册 || openSUSE Leap Security Guide || N/A || [https://doc.opensuse.org/documentation/leap/security/single-html/book.security/ 英文WEB] || N/A || N/A
 |-
 | Arch Linux 官方安全手册 || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || N/A || [https://wiki.archlinux.org/index.php/security 英文WEB] || N/A || N/A
 |-
