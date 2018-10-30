@@ -2641,7 +2641,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Windows 7 安全指南 || N/A || N/A || 简体PDF(扫描版) || 2014-02-13 || [https://docs.google.com/document/d/13_WDM8wucXtFkrBxpUw4j5BGBr_eqJrFnKLhNu6LdhI/ 简介]
 |-
-| Debian 官方安全手册 || Securing Debian Manual || N/A || 英文PDF(文档版本3.17) || 2015-07-21 || [https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfNLdZ8Hs8NiDjT8uJid8CA/ 简介]
+| Debian 官方安全手册 || Securing Debian Manual || N/A || 英文PDF(文档版本3.17)<br>[https://www.debian.org/doc/manuals/securing-debian-howto/ 英文WEB] || 2015-07-21<br>N/A || [https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfNLdZ8Hs8NiDjT8uJid8CA/ 简介]
 |-
 | RHEL6 官方安全手册 || Red Hat Enterprise Linux 6 Security Guide || N/A || 英文PDF || 2014-02-22 || [https://docs.google.com/document/d/1H_lMwYly38ofWZ2Ik7yWay0b5GM3TZbQ374eJ867O9s/ 简介]
 |-
