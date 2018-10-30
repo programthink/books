@@ -2643,19 +2643,19 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Debian 官方安全手册 || Securing Debian Manual || N/A || 英文PDF(文档版本3.17)<br>[https://www.debian.org/doc/manuals/securing-debian-howto/ 英文WEB] || 2015-07-21<br>N/A || [https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfNLdZ8Hs8NiDjT8uJid8CA/ 简介]
 |-
-| RHEL6 官方安全手册 || Red Hat Enterprise Linux 6 Security Guide || N/A || 英文PDF || 2014-02-22 || [https://docs.google.com/document/d/1H_lMwYly38ofWZ2Ik7yWay0b5GM3TZbQ374eJ867O9s/ 简介]
+| RHEL 官方安全手册 || Red Hat Enterprise Linux Security Guide || N/A || 英文PDF(RHEL7)<br>英文PDF(RHEL6) || 2018-10-30<br>2014-02-22 || [https://docs.google.com/document/d/1H_lMwYly38ofWZ2Ik7yWay0b5GM3TZbQ374eJ867O9s/ 简介]
 |-
 | CentOS 官方安全指南 || OS Protection || N/A || [https://wiki.centos.org/HowTos/OS_Protection 英文WEB] || N/A || N/A
 |-
 | Ubuntu 桌面版官方安全手册 || Basic Ubuntu Security Guide, Desktop Edition || N/A || [https://wiki.ubuntu.com/BasicSecurity 英文WEB] || N/A || N/A
-|-
-| Fedora 官方 wiki 安全特性 || Security Features || N/A || [https://fedoraproject.org/wiki/Security_Features 英文WEB] || N/A || N/A
 |-
 | openSUSE 官方安全手册 || openSUSE Leap Security Guide || N/A || [https://doc.opensuse.org/documentation/leap/security/single-html/book.security/ 英文WEB] || N/A || N/A
 |-
 | Arch Linux 官方安全手册 || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || N/A || [https://wiki.archlinux.org/index.php/security 英文WEB] || N/A || N/A
 |-
 | Gentoo 官方安全手册 || Gentoo Security Handbook || N/A || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文WEB] || N/A || N/A
+|-
+| Fedora 官方 wiki 安全特性 || Security Features || N/A || [https://fedoraproject.org/wiki/Security_Features 英文WEB] || N/A || N/A
 |}
 
 === 10.3.4 入侵与渗透测试 ===
