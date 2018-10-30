@@ -2645,6 +2645,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | RHEL6 官方安全手册 || Red Hat Enterprise Linux 6 Security Guide || N/A || 英文PDF || 2014-02-22 || [https://docs.google.com/document/d/1H_lMwYly38ofWZ2Ik7yWay0b5GM3TZbQ374eJ867O9s/ 简介]
 |-
+| CentOS 官方安全指南 || OS Protection || N/A || [https://wiki.centos.org/HowTos/OS_Protection 英文WEB] || N/A || N/A
+|-
 | Ubuntu 桌面版官方安全手册 || Basic Ubuntu Security Guide, Desktop Edition || N/A || [https://wiki.ubuntu.com/BasicSecurity 英文WEB] || N/A || N/A
 |-
 | Fedora 官方安全手册 || Security Guide<br>——A Guide to Securing Fedora Linux || N/A || [https://docs.fedoraproject.org/security-guide/ 英文WEB] || N/A || N/A
