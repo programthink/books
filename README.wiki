@@ -2754,6 +2754,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | Chord<br>——用于互联网应用的可扩展 P2P 查询服务 || Chord<br>——A Scalable Peer-to-peer Lookup Service for Internet Applications || (美) [https://en.wikipedia.org/wiki/Ion_Stoica Ion Stoica]<br>(美) [https://en.wikipedia.org/wiki/Robert_Tappan_Morris Robert Morris]<br>(美) [https://en.wikipedia.org/wiki/David_Karger David Karger]<br>(荷兰) [https://en.wikipedia.org/wiki/Frans_Kaashoek Frans Kaashoek]<br>(印度) [https://en.wikipedia.org/wiki/Hari_Balakrishnan Hari Balakrishnan] || 英文PDF || 2018-11-04 || [https://docs.google.com/document/d/18z3kYelg0ZR5zcquRs_CAZiGee2affHNQ2Cdt7gjqMs/ 简介]
+|-
+| Kademlia<br>——基于异或运算的 P2P 信息系统 || Kademlia<br>——A Peer-to-peer Information System Based on the XOR Metric || (保加利亚) Petar Maymounkov<br>David Mazières || 英文PDF || 2018-11-04 || [https://docs.google.com/document/d/1YwjPkWK8roa933-cBnqbP4FtfD_fps7_YXz2_QKyvyY/ 简介]
 |}
 
 === 10.5.3 (其它) ===
