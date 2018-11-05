@@ -2758,6 +2758,14 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Kademlia<br>——基于异或运算的 P2P 信息系统 || Kademlia<br>——A Peer-to-peer Information System Based on the XOR Metric || (保加利亚) Petar Maymounkov<br>David Mazières || 英文PDF || 2018-11-04 || [https://docs.google.com/document/d/1YwjPkWK8roa933-cBnqbP4FtfD_fps7_YXz2_QKyvyY/ 简介]
 |}
 
+==== 10.5.2.3 DFS(分布式文件系统) ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| Google 文件系统 || The Google File System || (美) [https://en.wikipedia.org/wiki/Sanjay_Ghemawat Sanjay Ghemawat]<br>(美) [https://en.wikipedia.org/wiki/Howard_Gobioff Howard Gobioff]<br>Shun-Tak Leung || 英文PDF || 2018-11-05 || [https://docs.google.com/document/d/1AW_EsDLrxRARwSyueCrU07BTNmB0Py_Rml3TgS4mcIw/ 简介]
+|}
+
 === 10.5.3 (其它) ===
 
 {|
