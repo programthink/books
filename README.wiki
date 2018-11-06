@@ -2749,6 +2749,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 分布式系统<br>——原理与范型 || Distributed Systems<br>——Principles and Paradigms || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum]<br>(荷兰) Maarten van Steen || 英文PDF(第2版) || 2018-11-06 || [https://docs.google.com/document/d/14dCxeJbGkOGJKXRlbMZAwN7FVv_m-kxHBOw0SP1Yz_M/ 简介]
 |-
+| 设计分布式系统<br>——可扩展服务的模式和范式 || Designing Distributed Systems<br>——Patterns and Paradigms for Scalable, Reliable Services || Brendan Burns || 英文PDF || 2018-11-06 || [https://docs.google.com/document/d/14FKz3yVZONae9J548cwz9UDA2at1qoYCjK91j9PaOn0/ 简介]
+|-
 | 分布式计算的八大误区 || Fallacies of Distributed Computing || (美) [https://en.wikipedia.org/wiki/L._Peter_Deutsch L. Peter Deutsch] || [https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing 英文WEB] || N/A || N/A
 |}
 
