@@ -2746,6 +2746,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 分布式系统<br>——概念与设计 || Distributed Systems<br>——Concepts and Design || (英) [https://en.wikipedia.org/wiki/George_Coulouris_(computer_scientist) George Coulouris]<br>(英) Jean Dollimore<br>(英) Tim Kindberg<br>(英) Gordon Blair || 英文PDF(第5版) || 2018-11-02 || [https://docs.google.com/document/d/159RgYwexuQnL4IwHD6wyiLiek95l0WHKWzhuxvS70k8/ 简介]
+|-
+| 分布式计算的八大误区 || Fallacies of Distributed Computing || (美) [https://en.wikipedia.org/wiki/L._Peter_Deutsch L. Peter Deutsch] || [https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing 英文WEB] || N/A || N/A
 |}
 
 ==== 10.5.2.2 DHT(分布式哈希表) ====
