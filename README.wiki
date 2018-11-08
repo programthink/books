@@ -2762,6 +2762,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | CAP 定理 || CAP Theorem || (美) [https://en.wikipedia.org/wiki/Eric_Brewer_(scientist) Eric Brewer] || [https://en.wikipedia.org/wiki/CAP_theorem 英文WEB]<br>英文PDF || N/A<br>2018-11-08 || [https://docs.google.com/document/d/1XtRheTWUsFliDMFF1R0BMDjtgA-AGvnNz_S_S3uhx34/ 简介]
+|-
+| CAP 理论十二年回顾<br>——“规则”变了 || CAP Twelve Years Later<br>——How the "Rules" Have Changed || (美) [https://en.wikipedia.org/wiki/Eric_Brewer_(scientist) Eric Brewer] || [https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed 英文WEB]<br>[https://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed 简体WEB]<br>英文PDF || N/A<br>N/A<br>2018-11-08 || [https://docs.google.com/document/d/1LTeznQtvYKOa_D3XS34-WScyUnKvUKxp2VxQB4x-oDA/ 简介]
 |}
 
 ==== 10.5.2.3 DHT(分布式哈希表) ====
