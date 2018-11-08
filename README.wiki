@@ -2766,7 +2766,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | CAP 理论十二年回顾<br>——“规则”变了 || CAP Twelve Years Later<br>——How the "Rules" Have Changed || (美) [https://en.wikipedia.org/wiki/Eric_Brewer_(scientist) Eric Brewer] || [https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed 英文WEB]<br>[https://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed 简体WEB]<br>英文PDF || N/A<br>N/A<br>2018-11-08 || [https://docs.google.com/document/d/1LTeznQtvYKOa_D3XS34-WScyUnKvUKxp2VxQB4x-oDA/ 简介]
 |}
 
-==== 10.5.2.3 DHT(分布式哈希表) ====
+==== 10.5.2.3 容错性 ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 拜占庭将军问题 || Byzantine Generals Problem || (美) [https://en.wikipedia.org/wiki/Leslie_Lamport Leslie Lamport] || [https://en.wikipedia.org/wiki/Byzantine_fault_tolerance 英文WEB]<br>英文PDF(扫描版) || N/A<br>2018-11-08 || [https://docs.google.com/document/d/1mLf2jwt5TNl5WIHvuW6K14xu9gIYVVUKkI6dZNQmcMA/ 简介]
+|}
+
+==== 10.5.2.4 DHT(分布式哈希表) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2776,7 +2784,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Kademlia<br>——基于异或运算的 P2P 信息系统 || Kademlia<br>——A Peer-to-peer Information System Based on the XOR Metric || (保加利亚) Petar Maymounkov<br>David Mazières || 英文PDF || 2018-11-04 || [https://docs.google.com/document/d/1YwjPkWK8roa933-cBnqbP4FtfD_fps7_YXz2_QKyvyY/ 简介]
 |}
 
-==== 10.5.2.4 DFS(分布式文件系统) ====
+==== 10.5.2.5 DFS(分布式文件系统) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
