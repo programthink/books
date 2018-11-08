@@ -2771,6 +2771,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 面对软件错误，如何构建可靠的分布式系统 || Making Reliable Distributed Systems in the Presence of Software Errors || (英) [https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer) Joe Armstrong] || 英文PDF || 2018-11-08 || [https://docs.google.com/document/d/1TCZQYWlJijQobWlg1bTSZ5-Wo2nfJA5hhV0LGExyxOI/ 简介]
+|-
 | 拜占庭将军问题 || Byzantine Generals Problem || (美) [https://en.wikipedia.org/wiki/Leslie_Lamport Leslie Lamport] || [https://en.wikipedia.org/wiki/Byzantine_fault_tolerance 英文WEB]<br>英文PDF(扫描版) || N/A<br>2018-11-08 || [https://docs.google.com/document/d/1mLf2jwt5TNl5WIHvuW6K14xu9gIYVVUKkI6dZNQmcMA/ 简介]
 |}
 
