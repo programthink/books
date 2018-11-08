@@ -2747,16 +2747,24 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 分布式系统<br>——概念与设计 || Distributed Systems<br>——Concepts and Design || (英) [https://en.wikipedia.org/wiki/George_Coulouris_(computer_scientist) George Coulouris]<br>(英) Jean Dollimore<br>(英) Tim Kindberg<br>(英) Gordon Blair || 英文PDF(第5版) || 2018-11-02 || [https://docs.google.com/document/d/159RgYwexuQnL4IwHD6wyiLiek95l0WHKWzhuxvS70k8/ 简介]
 |-
-| 分布式系统<br>——原理与范型 || Distributed Systems<br>——Principles and Paradigms || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum]<br>(荷兰) Maarten van Steen || 英文PDF(第2版) || 2018-11-06 || [https://docs.google.com/document/d/14dCxeJbGkOGJKXRlbMZAwN7FVv_m-kxHBOw0SP1Yz_M/ 简介]
+| 分布式系统<br>——原理与范型 || Distributed Systems<br>——Principles and Paradigms || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum]<br>(荷兰) Maarten van Steen || 英文PDF(第2版 扫描版) || 2018-11-06 || [https://docs.google.com/document/d/14dCxeJbGkOGJKXRlbMZAwN7FVv_m-kxHBOw0SP1Yz_M/ 简介]
 |-
 | 设计分布式系统<br>——可扩展服务的模式和范式 || Designing Distributed Systems<br>——Patterns and Paradigms for Scalable, Reliable Services || Brendan Burns || 英文PDF || 2018-11-06 || [https://docs.google.com/document/d/14FKz3yVZONae9J548cwz9UDA2at1qoYCjK91j9PaOn0/ 简介]
 |-
 | Distributed Systems for Fun and Profit || Distributed Systems for Fun and Profit || Mikito Takada || 英文EPUB<br>[http://book.mixu.net/distsys/ 英文WEB] || 2018-11-06<br>N/A || [https://docs.google.com/document/d/1C3ekC9eAwYyrJY-2S89UE_NWJVJLDcTV3x5rXoPuiAw/ 简介]
 |-
-| 分布式计算的八大误区 || Fallacies of Distributed Computing || (美) [https://en.wikipedia.org/wiki/L._Peter_Deutsch L. Peter Deutsch] || [https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing 英文WEB] || N/A || N/A
+| 分布式计算的八大误区 || Fallacies of Distributed Computing || (美) [https://en.wikipedia.org/wiki/L._Peter_Deutsch Laurence Peter Deutsch] || [https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing 英文WEB] || N/A || N/A
 |}
 
-==== 10.5.2.2 DHT(分布式哈希表) ====
+==== 10.5.2.2 一致性 ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| CAP 定理 || CAP Theorem || (美) [https://en.wikipedia.org/wiki/Eric_Brewer_(scientist) Eric Brewer] || [https://en.wikipedia.org/wiki/CAP_theorem 英文WEB]<br>英文PDF || N/A<br>2018-11-08 || [https://docs.google.com/document/d/1XtRheTWUsFliDMFF1R0BMDjtgA-AGvnNz_S_S3uhx34/ 简介]
+|}
+
+==== 10.5.2.3 DHT(分布式哈希表) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2766,7 +2774,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Kademlia<br>——基于异或运算的 P2P 信息系统 || Kademlia<br>——A Peer-to-peer Information System Based on the XOR Metric || (保加利亚) Petar Maymounkov<br>David Mazières || 英文PDF || 2018-11-04 || [https://docs.google.com/document/d/1YwjPkWK8roa933-cBnqbP4FtfD_fps7_YXz2_QKyvyY/ 简介]
 |}
 
-==== 10.5.2.3 DFS(分布式文件系统) ====
+==== 10.5.2.4 DFS(分布式文件系统) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
