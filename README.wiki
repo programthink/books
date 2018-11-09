@@ -2735,7 +2735,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | TCP-IP 详解 || TCP-IP Illustrated || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯] || 英文CHM(卷1)<br>简体PDF(卷1)<br>简体PDF(卷2)<br>简体PDF(卷3) || 2013-10-21<br>2013-10-21<br>2013-10-26<br>2013-10-26 || [https://docs.google.com/document/d/1Fw2wSr-MgNm1d_M6F-rF1t_n3LwFWWBHrJt6vcYGta4/ 简介]
 |-
-| HTTP 权威指南 || HTTP<br>——The Definitive Guide || David Gourley<br>Brian Totty<br>Marjorie Sayer<br>Sailu Reddy<br>Anshu Aggarwal || 简体PDF(扫描版) || 2018-06-28 || [https://docs.google.com/document/d/1TgujhFUzyVlf1W5e48lSMTIwJuCTElvXw2LgQ_Ng0Cs/ 简介]
+| HTTP 权威指南 || HTTP<br>——The Definitive Guide || David Gourley<br>Brian Totty<br>Marjorie Sayer<br>Sailu Reddy<br>Anshu Aggarwal || 简体PDF(扫描版)<br>英文PDF || 2018-06-28<br>2018-11-09 || [https://docs.google.com/document/d/1TgujhFUzyVlf1W5e48lSMTIwJuCTElvXw2LgQ_Ng0Cs/ 简介]
 |}
 
 === 10.5.2 分布式 ===
