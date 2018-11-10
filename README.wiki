@@ -782,7 +782,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 中国农民调查 || Will the Boat Sink the Water?<br>——The Life of China's Peasants || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%A1%82%E6%A3%A3 陈桂棣]<br>[https://zh.wikipedia.org/wiki/%E5%90%B3%E6%98%A5%E6%A1%83 吴春桃] || 简体PDF<br>简体TXT || 2015-11-15<br>2016-05-18 || [https://docs.google.com/document/d/1dWDT_QfbylNRkwLvU66LFO-u5Oyex85lEWoHkvxrrMQ/ 简介]
 |-
-| 上帝是红色的<br>——中国十字架地下寻访录 || God Is Red<br>——The Secret Story of How Christianity Survived and Flourished in Communist China || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体EPUB || 2013-05-01<br>2014-03-29 || [https://docs.google.com/document/d/1PBJIzp4usVDg-YX0KWUYBODS2w9qxnUGuLPCEfydSYE/ 简介]
+| 上帝是红色的<br>——中国十字架地下寻访录 || God Is Red<br>——The Secret Story of How Christianity Survived and Flourished in Communist China || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-05-01<br>2014-03-29<br>2018-11-10 || [https://docs.google.com/document/d/1PBJIzp4usVDg-YX0KWUYBODS2w9qxnUGuLPCEfydSYE/ 简介]
 |-
 | 地震疯人院<br>——2008·5·12四川大地震记事 || Earthquake Insane Asylum || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] || 简体PDF || 2013-05-02 || [https://docs.google.com/document/d/1lSdxDt0NMQ0fOCygxlBDVrgNTorU8MoWrDTkRc4UKNU/ 简介]
 |-
