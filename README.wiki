@@ -358,7 +358,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 旋风 || N/A || [https://zh.wikipedia.org/wiki/%E5%A7%9C%E8%B4%B5 姜贵] (原名：王林渡) || 简体PDF || 2013-08-21 || [https://docs.google.com/document/d/1TlQDh2Mcf_I65Z5pjs0Km2658gG4dOQUUF_6jOn0RFI/ 简介]
 |-
-| 云图 || Cloud Atlas || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>英文PDF || 2014-02-06<br>2014-02-06<br>2014-02-06 || [https://docs.google.com/document/d/1tliIPXOfsZr0_EGcONWQIcKv5VPrexAV53AZ4FZCsJ4/ 简介]
+| 云图 || Cloud Atlas || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94 大卫·米切尔] || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2014-02-06<br>2014-02-06<br>2018-11-10<br>2014-02-06 || [https://docs.google.com/document/d/1tliIPXOfsZr0_EGcONWQIcKv5VPrexAV53AZ4FZCsJ4/ 简介]
 |-
 | 盛世<br>——中国2013 || The Fat Years || [https://zh.wikipedia.org/wiki/%E9%99%B3%E5%86%A0%E4%B8%AD 陈冠中] || 简体PDF<br>简体EPUB || 2013-01-01<br>2017-04-30 || [https://docs.google.com/document/d/1b0ZFYZTtL-bOi9THKV4aKw15tykJx8CHz_UNhDovWDw/ 简介]
 |-
