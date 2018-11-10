@@ -1396,7 +1396,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 资治通鉴 || N/A || [https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A9%AC%E5%85%89 司马光] || 简体EPUB(柏杨全译本)<br>简体HTML || 2013-09-13<br>2018-08-08 || [https://docs.google.com/document/d/1ppk-ESfUzOhJ2JG4gnKNiIBe7XH8_Mn-8lcmXzea6Zk/ 简介]
+| 资治通鉴 || N/A || [https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A9%AC%E5%85%89 司马光] || 简体EPUB(柏杨白话版)<br>简体MOBI(柏杨白话版)<br>简体HTML || 2013-09-13<br>2018-11-10<br>2018-08-08 || [https://docs.google.com/document/d/1ppk-ESfUzOhJ2JG4gnKNiIBe7XH8_Mn-8lcmXzea6Zk/ 简介]
 |-
 | 中国历代政治得失 || N/A || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%A9%86 钱穆] || 简体EPUB<br>简体TXT || 2013-09-14<br>2013-08-22 || [https://docs.google.com/document/d/1VICCzIRbJr8kyEd9-db53_GOlpVmodVJfmqXe7vOjzA/ 简介]
 |-
