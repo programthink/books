@@ -424,7 +424,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 六四日记<br>——广场上的共和国 || A Tiananmen Journal<br>——Republic on the Square || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF(掃描版) || 2013-02-02 || [https://docs.google.com/document/d/1EJI4b4vBBIHXw5TqOD8NKw0RHceBz8kr3_Ut9kJMOUY/ 简介]
 |-
-| 王丹回忆录<br>——从六四到流亡 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體DOCX || 2014-03-29<br>2013-11-26 || [https://docs.google.com/document/d/12LxI1j0Sg_FoSSW8k8WRNDpcfyuoYl2EbXpNheskb00/ 简介]
+| 王丹回忆录<br>——从六四到流亡 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體MOBI<br>繁體DOCX || 2014-03-29<br>2018-11-10<br>2013-11-26 || [https://docs.google.com/document/d/12LxI1j0Sg_FoSSW8k8WRNDpcfyuoYl2EbXpNheskb00/ 简介]
 |-
 | 末日幸存者的独白<br>——关于我和“六四” || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 繁體PDF(掃描版) || 2014-05-23 || [https://docs.google.com/document/d/1fDfjG47LZ3y1RtDKAPvGHbtLrhOYzgJwshupswgVq5s/ 简介]
 |-
