@@ -968,7 +968,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 言论的边界<br>——美国宪法第一修正案简史 || Freedom for the Thought That We Hate<br>——A Biography of the First Amendment || (美) [https://en.wikipedia.org/wiki/Anthony_Lewis 安东尼·刘易斯] || 简体EPUB<br>简体PDF(扫描版) || 2015-11-20<br>2017-02-17 || [https://docs.google.com/document/d/1JUmJ5ZYajIBa7RSWj_4w8gboc6oUt7MzEI63vS1SkMk/ 简介]
 |-
-| 美国宪政历程<br>——影响美国的25个司法大案 || N/A || 任东来<br>等 || 简体PDF(大字版)<br>简体PDF(扫描版)<br>简体MOBI || 2016-12-19<br>2013-11-26<br>2014-02-23 || [https://docs.google.com/document/d/1ym7t1Pdqm40Dlc4Hn1_u_ogenEKMB0Dd3iLORk4bmQA/ 简介]
+| 美国宪政历程<br>——影响美国的25个司法大案 || N/A || 任东来<br>等 || 简体PDF(大字版)<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2016-12-19<br>2013-11-26<br>2018-11-10<br>2014-02-23 || [https://docs.google.com/document/d/1ym7t1Pdqm40Dlc4Hn1_u_ogenEKMB0Dd3iLORk4bmQA/ 简介]
 |-
 | 宪法的精神<br>——美国联邦最高法院200年经典判例选读 || N/A || 北京大学法学院司法研究中心 || 简体PDF(扫描版) || 2015-01-12 || [https://docs.google.com/document/d/1l1Jtm73uHd6cJ1wKftCbQhjVpZiC6sX5E4qAMgza2IE/ 简介]
 |-
