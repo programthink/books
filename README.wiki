@@ -258,11 +258,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 极权主义的起源 || The Origins of Totalitarianism || (美) [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || 简体PDF<br>简体CHM<br>简体MOBI<br>简体TXT || 2012-10-06<br>2012-10-14<br>2014-02-23<br>2016-04-29 || [https://docs.google.com/document/d/1NcwkcDn9V5ArRC6TUTFvTdKDB6QZYQeFit_kJPog1RA/ 简介]
 |-
-| 极权主义民主的起源 || The Origins of Totalitarian Democracy || (以) [https://en.wikipedia.org/wiki/Jacob_Talmon 雅各布·塔尔蒙] || 简体PDF(扫描版) || 2015-07-14 || [https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/ 简介]
+| 极权主义民主的起源 || The Origins of Totalitarian Democracy || (以色列) [https://en.wikipedia.org/wiki/Jacob_Talmon 雅各布·塔尔蒙] || 简体PDF(扫描版) || 2015-07-14 || [https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/ 简介]
 |-
 | 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions About Uncertain Democracies || (阿根廷) [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈]<br>(美) [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF(扫描版) || 2013-08-21 || [https://docs.google.com/document/d/1mDbeZ-JwiZ2hMH1KGtZq7w_N6oJlY-PRoKzvCpBYClM/ 简介]
 |-
-| 新常识<br>——一党专制的性质与后果 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体EPUB (精校版)<br>简体PDF<br>简体MOBI || 2015-11-29<br>2013-10-19<br>2018-11-10 || [https://docs.google.com/document/d/1-K5Qs01xhzhjMheWlznz44xwHjsCGc-mnRk3p9gWlSg/ 简介]
+| 独裁者手册<br>——为什么恶劣行为总是政治成功的通行证 || The Dictator's Handbook<br>——Why Bad Behavior is Almost Always Good Politics || (美) [https://en.wikipedia.org/wiki/Bruce_Bueno_de_Mesquita 布鲁诺·德·梅斯奎塔]<br>(美) 阿拉斯泰尔·史密斯 || 英文PDF(无删节) || 2018-11-18 || [https://docs.google.com/document/d/1W0EDnnhCsbOUavwjDPzd2RgGncR97xFv1kO9tc--nBA/ 简介]
+|-
+| 新常识<br>——一党专制的性质与后果 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体EPUB(精校版)<br>简体PDF<br>简体MOBI || 2015-11-29<br>2013-10-19<br>2018-11-10 || [https://docs.google.com/document/d/1-K5Qs01xhzhjMheWlznz44xwHjsCGc-mnRk3p9gWlSg/ 简介]
 |}
 
 === 1.1.7 外交与国际关系 ===
