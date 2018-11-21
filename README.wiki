@@ -1436,15 +1436,15 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 论中国<br>——中国新史 || China<br>——A New History || (美) [https://zh.wikipedia.org/wiki/%E8%B2%BB%E6%AD%A3%E6%B8%85 费正清] || 繁體PDF(竪排掃描版) || 2015-02-08 || [https://docs.google.com/document/d/1Ammd-CQdUzB0rgLYBHWfRsO2dCvV71cyJosYJZF2w94/ 简介]
 |-
-| 晚清七十年 || The Final Seventy Years of Qing Dynasty || [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体MOBI || 2018-08-08 || [https://docs.google.com/document/d/1a-ZDC8JA-eYNDkg0QI1ekBQZmYp53eBHfGKZzYR_3pY/ 简介]
+| 晚清七十年 || The Final Seventy Years of Qing Dynasty || (美) [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体MOBI || 2018-08-08 || [https://docs.google.com/document/d/1a-ZDC8JA-eYNDkg0QI1ekBQZmYp53eBHfGKZzYR_3pY/ 简介]
 |-
 | 帝国落日<br>——晚清大变局 || N/A || [https://zh.wikipedia.org/wiki/%E8%A2%81%E4%BC%9F%E6%97%B6 袁伟时] || 简体TXT || 2016-05-16 || [https://docs.google.com/document/d/19nD189Suaxm-Mkei_X8M90u-cVpp1oGaMXYjJuEasqI/ 简介]
 |-
-| 走出帝制<br>——从晚清到民国历史的回望 || N/A || [https://zh.wikipedia.org/wiki/%E7%A7%A6%E6%99%96 秦晖] || 简体EPUB<br>简体PDF(大字版)<br>简体TXT || 2016-12-16<br>2016-07-14<br>2016-05-20 || [https://docs.google.com/document/d/1VQ4X4aIbrYLKmrLFXTWtI2f_cKoS1sG2hXtGic51iOY/ 简介]
+| 走出帝制<br>——从晚清到民国历史的回望 || Moving Away from the Imperial Regime || [https://zh.wikipedia.org/wiki/%E7%A7%A6%E6%99%96 秦晖] || 简体EPUB<br>简体PDF(大字版)<br>简体TXT<br>简体MOBI || 2016-12-16<br>2016-07-14<br>2016-05-20<br>2018-11-21 || [https://docs.google.com/document/d/1VQ4X4aIbrYLKmrLFXTWtI2f_cKoS1sG2hXtGic51iOY/ 简介]
 |-
 | 五四新论<br>——既非文艺复兴，亦非启蒙运动 || N/A || (美) [https://zh.wikipedia.org/wiki/%E4%BD%99%E8%8B%B1%E6%99%82 余英时]<br>等 || 简体PDF(扫描版) || 2017-05-06 || [https://docs.google.com/document/d/1VvU2Kub7R73TbiX2hsX4LloOVQPcRCMBj39NkSpEDb4/ 简介]
 |-
-| 袁氏当国 || N/A || [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2015-02-09<br>2015-02-09<br>2016-04-30 || [https://docs.google.com/document/d/1KhCM1Y2CeWQRrDkAsISwrWjDkktbv74_aHHaQ2cGTx4/ 简介]
+| 袁氏当国 || N/A || (美) [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2015-02-09<br>2015-02-09<br>2016-04-30 || [https://docs.google.com/document/d/1KhCM1Y2CeWQRrDkAsISwrWjDkktbv74_aHHaQ2cGTx4/ 简介]
 |-
 | 重说中国近代史 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || [https://docs.google.com/document/d/1rq77xhsLAm4hi94PP-D-pSF3YcwE6RIZEoKXM8tN7RE/ 简介]
 |-
