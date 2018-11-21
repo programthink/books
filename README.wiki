@@ -326,15 +326,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 政治科学 || Political Science || (美) 迈克尔·罗斯金<br>等 || 简体PDF(第9版 扫描版)<br>简体PDF(第6版 扫描版) || 2014-02-13<br>2014-02-06 || [https://docs.google.com/document/d/199G22A3xpjDMohMkEWN5yC8DVI7NSvhHDbU5PUzQYRA/ 简介]
+| 政治科学 || Political Science || (美) [https://en.wikipedia.org/wiki/Michael_Roskin 迈克尔·罗斯金]<br>等 || 简体PDF(第9版 扫描版)<br>简体PDF(第6版 扫描版) || 2014-02-13<br>2014-02-06 || [https://docs.google.com/document/d/199G22A3xpjDMohMkEWN5yC8DVI7NSvhHDbU5PUzQYRA/ 简介]
 |-
-| 变化社会中的政治秩序 || Political Order in Changing Societies || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 亨廷顿] || 简体PDF || 2013-10-30 || [https://docs.google.com/document/d/1gU__lDhGGu2V1b7OMU1VzKYV3ow7sQWpEH4v9WwuYn4/ 简介]
+| 变化社会中的政治秩序 || Political Order in Changing Societies || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF || 2013-10-30 || [https://docs.google.com/document/d/1gU__lDhGGu2V1b7OMU1VzKYV3ow7sQWpEH4v9WwuYn4/ 简介]
 |-
-| 政治秩序的起源<br>——从前人类时代到法国大革命 || The Origins of Political Order<br>——From Prehuman Times to the French Revolution || (美) [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 福山] || 简体PDF(扫描版)<br>英文EPUB || 2016-12-20<br>2017-05-01 || [https://docs.google.com/document/d/1CG0K1lIPV-huoPE_l4fA2Cg4Pa06irdwLY5Dwi9DpNw/ 简介]
+| 政治秩序的起源<br>——从前人类时代到法国大革命 || The Origins of Political Order<br>——From Prehuman Times to the French Revolution || (美) [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 弗朗西斯·福山] || 简体PDF(扫描版)<br>英文EPUB || 2016-12-20<br>2017-05-01 || [https://docs.google.com/document/d/1CG0K1lIPV-huoPE_l4fA2Cg4Pa06irdwLY5Dwi9DpNw/ 简介]
 |-
 | 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail<br>——The Origins of Power, Prosperity, and Poverty || (美) [https://en.wikipedia.org/wiki/Daron_Acemoglu Daron Acemoglu]<br>(美) James Robinson || 简体TXT<br>繁體PDF(豎排掃描版) || 2014-03-20<br>2014-03-20 || [https://docs.google.com/document/d/1wmUKeF8o35ymc7YIQICzxBVcvJF91YE3ExentaqtiJ0/ 简介]
 |-
-| 狂热分子<br>——群众运动圣经 || The True Believer<br>——Thoughts on the Nature Of Mass Movements || (美) [https://zh.wikipedia.org/wiki/%E8%89%BE%E5%8A%9B%C2%B7%E8%B3%80%E4%BD%9B%E7%88%BE 埃里克·霍弗] || 简体EPUB<br>简体PDF(扫描版) || 2014-07-27<br>2015-01-12 || [https://docs.google.com/document/d/137FGwoqrxgCK9jEO9nHjxmZb4ws2Zl3XyapEFQtLze0/ 简介]
+| 狂热分子<br>——群众运动圣经<br>''其它中文名：''<br>狂热分子<br>——码头工人哲学家的沉思录 || The True Believer<br>——Thoughts on the Nature of Mass Movements || (美) [https://zh.wikipedia.org/wiki/%E8%89%BE%E5%8A%9B%C2%B7%E8%B3%80%E4%BD%9B%E7%88%BE 埃里克·霍弗] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2014-07-27<br>2018-11-21<br>2015-01-12 || [https://docs.google.com/document/d/137FGwoqrxgCK9jEO9nHjxmZb4ws2Zl3XyapEFQtLze0/ 简介]
 |-
 | 君主论<br>''其它中文名：''<br>君王论 || The Prince || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 马基亚维利] || 简体PDF<br>简体TXT || 2013-08-22<br>2016-05-02 || [https://docs.google.com/document/d/1fB6kMTY5NdEwPSsW6gjWa15tEYkfs1-aONAnl9A_c40/ 简介]
 |-
