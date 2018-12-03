@@ -150,6 +150,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 欧洲民主史<br>——从孟德斯鸠到凯尔森 || N/A || (意) 萨尔沃·马斯泰罗 || 简体PDF(扫描版) || 2014-07-27 || [https://docs.google.com/document/d/1n_GEtA7CSTQ84iJ-U2Bryh6ZPacjrcn7mloh8K3xXrQ/ 简介]
 |-
+| 论李维<br>''其它中文名：''<br>李维史论<br>论李维罗马史 || Discourses on Livy || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 尼可罗·马基亚维利] || 英文PDF || 2018-12-04 || [https://docs.google.com/document/d/1gQX2zJTMeiMgYxsCRrL41ZAYnaLKurwEqaedmEpKZ98/ 简介]
+|-
 | 平民政治的基本原理 || The Fundamental Principles of Government || (美) [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] || 简体PDF(扫描版) || 2013-01-14 || [https://docs.google.com/document/d/1iBH7-ShrIOhtymZ4qDDAnFaZ0JcnqT6tglmfvt8IwuI/ 简介]
 |-
 | 宪政与权利 || N/A || (多人) || 简体PDF || 2013-04-13 || [https://docs.google.com/document/d/1VLob9Ks1MQlHSIL4tWfByz5qpbx79Mo8XCzFXl9Q5y0/ 简介]
@@ -336,7 +338,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 狂热分子<br>——群众运动圣经<br>''其它中文名：''<br>狂热分子<br>——码头工人哲学家的沉思录 || The True Believer<br>——Thoughts on the Nature of Mass Movements || (美) [https://zh.wikipedia.org/wiki/%E8%89%BE%E5%8A%9B%C2%B7%E8%B3%80%E4%BD%9B%E7%88%BE 埃里克·霍弗] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2014-07-27<br>2018-11-21<br>2015-01-12 || [https://docs.google.com/document/d/137FGwoqrxgCK9jEO9nHjxmZb4ws2Zl3XyapEFQtLze0/ 简介]
 |-
-| 君主论<br>''其它中文名：''<br>君王论 || The Prince || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 马基亚维利] || 简体PDF<br>简体TXT || 2013-08-22<br>2016-05-02 || [https://docs.google.com/document/d/1fB6kMTY5NdEwPSsW6gjWa15tEYkfs1-aONAnl9A_c40/ 简介]
+| 君主论<br>''其它中文名：''<br>君王论 || The Prince || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 尼可罗·马基亚维利] || 简体PDF<br>简体TXT || 2013-08-22<br>2016-05-02 || [https://docs.google.com/document/d/1fB6kMTY5NdEwPSsW6gjWa15tEYkfs1-aONAnl9A_c40/ 简介]
 |-
 | 理想国<br>''其它中文名：''<br>国家篇<br>共和国 || The Republic || (古希腊) [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%8B%89%E5%9C%96 柏拉图] || 简体PDF<br>简体EPUB || 2015-07-22<br>2017-04-30 || [https://docs.google.com/document/d/1W3qdnxGCMOLNyCsft6hJa0qEY8wb6nl-DGj7zVy5WkA/ 简介]
 |}
