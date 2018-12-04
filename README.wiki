@@ -150,7 +150,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 欧洲民主史<br>——从孟德斯鸠到凯尔森 || N/A || (意) 萨尔沃·马斯泰罗 || 简体PDF(扫描版) || 2014-07-27 || [https://docs.google.com/document/d/1n_GEtA7CSTQ84iJ-U2Bryh6ZPacjrcn7mloh8K3xXrQ/ 简介]
 |-
-| 论李维<br>''其它中文名：''<br>李维史论<br>论李维罗马史 || Discourses on Livy || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 尼可罗·马基亚维利] || 英文PDF || 2018-12-04 || [https://docs.google.com/document/d/1gQX2zJTMeiMgYxsCRrL41ZAYnaLKurwEqaedmEpKZ98/ 简介]
+| 论李维<br>''其它中文名：''<br>李维史论<br>论李维罗马史 || Discourses on Livy || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 尼可罗·马基亚维利] || 英文PDF(全3卷) || 2018-12-04 || [https://docs.google.com/document/d/1gQX2zJTMeiMgYxsCRrL41ZAYnaLKurwEqaedmEpKZ98/ 简介]
 |-
 | 平民政治的基本原理 || The Fundamental Principles of Government || (美) [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] || 简体PDF(扫描版) || 2013-01-14 || [https://docs.google.com/document/d/1iBH7-ShrIOhtymZ4qDDAnFaZ0JcnqT6tglmfvt8IwuI/ 简介]
 |-
@@ -182,9 +182,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米瑟斯] || 简体PDF || 2016-12-23 || [https://docs.google.com/document/d/14IS1AA8XHZEE6zIQcdfXlZOlNUvbhhdYyP-ijP4wwYo/ 简介]
 |-
-| 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 罗尔斯] || 简体EPUB<br>简体MOBI<br>简体TXT<br>简体PDF(扫描版) || 2013-09-13<br>2018-11-10<br>2016-05-14<br>2013-05-23 || [https://docs.google.com/document/d/1Z0gSPYoZMpdnsZE9mpHkiKuTWATR9w0WlOdiiu-i9Tc/ 简介]
+| 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体EPUB<br>简体MOBI<br>简体TXT<br>简体PDF(扫描版) || 2013-09-13<br>2018-11-10<br>2016-05-14<br>2013-05-23 || [https://docs.google.com/document/d/1Z0gSPYoZMpdnsZE9mpHkiKuTWATR9w0WlOdiiu-i9Tc/ 简介]
 |-
-| 政治自由主义 || Political Liberalism || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E6%96%AF 罗尔斯] || 简体HTML<br>简体MOBI || 2013-01-17<br>2015-05-11 || [https://docs.google.com/document/d/1npbNsZpyQNssJz-FTDI55me2Z47BEGYds6ic0qHvVhg/ 简介]
+| 政治自由主义 || Political Liberalism || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体HTML<br>简体MOBI<br>简体PDF(扫描版) || 2013-01-17<br>2015-05-11<br>2018-12-04 || [https://docs.google.com/document/d/1npbNsZpyQNssJz-FTDI55me2Z47BEGYds6ic0qHvVhg/ 简介]
 |-
 | 无政府、国家与乌托邦 || Anarchy, State, and Utopia || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 诺齐克] || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [https://docs.google.com/document/d/1uxnAbtQtzvLmhPIqG89HDgcXay5jwjHGiC_925oJjFo/ 简介]
 |-
