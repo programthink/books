@@ -1841,7 +1841,7 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 |-
 | 来生不做中国人 || I Don't Want to be Chinese Again || [https://zh.wikipedia.org/wiki/%E9%8D%BE%E7%A5%96%E5%BA%B7 钟祖康] || 简体PDF || 2013-04-14 || [https://docs.google.com/document/d/1gdzWl3aeJpAvgMWeJlwEzQKb-dcRk-hfTfTEsszY7Lw/ 简介]
 |-
-| 美人赠我蒙汗药 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || 简体PDF<br>简体EPUB || 2013-03-14<br>2013-09-14 || [https://docs.google.com/document/d/1wglgDJAoTwInTGR9NU2lvZA6GuRWrJ5G-ZB0beu4lN8/ 简介]
+| 美人赠我蒙汗药 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9C%94 王朔] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-14<br>2013-09-14<br>2018-12-08 || [https://docs.google.com/document/d/1wglgDJAoTwInTGR9NU2lvZA6GuRWrJ5G-ZB0beu4lN8/ 简介]
 |-
 | 中国传统文化的陷阱 || N/A || 端木赐香 (原名：李桂枝) || 简体PDF(扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1oL0_MhypYISxI8H7iNjnjMvBU9Ow1bx0fd0bxexnHUM/ 简介]
 |}
