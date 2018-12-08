@@ -2149,7 +2149,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 朝鲜战争中的美国陆军 || United States Army in the Korean War || (美) 詹姆斯·施纳贝尔<br>等 || 简体PDF(扫描版) || 2017-08-16 || [https://docs.google.com/document/d/1plAET23mVNB1mpKp-X_RWRLNbYBFw12vFHjsmNU-t28/ 简介]
 |-
-| 毛泽东、斯大林与朝鲜战争 || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB<br>简体PDF(扫描版) || 2013-07-30<br>2013-09-13<br>2015-10-25 || [https://docs.google.com/document/d/1WYC_JrEVKyeJLnhaaWjMuzA5qvFsE4DMrhzMeKEAyXg/ 简介]
+| 毛泽东、斯大林与朝鲜战争 || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2013-07-30<br>2013-09-13<br>2018-12-09<br>2015-10-25 || [https://docs.google.com/document/d/1WYC_JrEVKyeJLnhaaWjMuzA5qvFsE4DMrhzMeKEAyXg/ 简介]
 |-
 | 远东朝鲜战争 || N/A || 王树增 || 简体PDF || 2013-07-30 || [https://docs.google.com/document/d/1s54bA7CMUEb9Qgf12qjRv0ipGydBu1FBeZiGenq4Blw/ 简介]
 |-
