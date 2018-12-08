@@ -976,7 +976,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 宪法的精神<br>——美国联邦最高法院200年经典判例选读 || N/A || 北京大学法学院司法研究中心 || 简体PDF(扫描版) || 2015-01-12 || [https://docs.google.com/document/d/1l1Jtm73uHd6cJ1wKftCbQhjVpZiC6sX5E4qAMgza2IE/ 简介]
 |-
-| 费城风云<br>——美国宪法的诞生和我们的反思 || N/A || [https://zh.wikipedia.org/wiki/%E6%98%93%E4%B8%AD%E5%A4%A9 易中天] || 简体TXT || 2016-05-19 || [https://docs.google.com/document/d/1jOKbZ8vz_MsHcGIgKPvjvV2qg3nq8nojotzjadh5Uf8/ 简介]
+| 费城风云<br>——美国宪法的诞生和我们的反思 || N/A || [https://zh.wikipedia.org/wiki/%E6%98%93%E4%B8%AD%E5%A4%A9 易中天] || 简体EPUB<br>简体TXT || 2018-12-08<br>2016-05-19 || [https://docs.google.com/document/d/1jOKbZ8vz_MsHcGIgKPvjvV2qg3nq8nojotzjadh5Uf8/ 简介]
 |}
 
 === 1.4.2 政治人物 ===
