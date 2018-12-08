@@ -1695,7 +1695,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 证券分析 || Security Analysis || (美) [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆]<br>(美) [https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] || 简体PDF(扫描版)<br>简体EPUB || 2013-04-29<br>2013-09-13 || [https://docs.google.com/document/d/1iMssHxYngnqBOa4PzprF8-0KKvQGWUMXxPq1duw8EN8/ 简介]
+| 证券分析 || Security Analysis || (美) [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆]<br>(美) [https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] || 简体PDF(扫描版)<br>简体EPUB(第6版)<br>简体MOBI || 2013-04-29<br>2013-09-13<br>2018-12-08 || [https://docs.google.com/document/d/1iMssHxYngnqBOa4PzprF8-0KKvQGWUMXxPq1duw8EN8/ 简介]
 |-
 | 聪明的投资者<br>''其它中文名：''<br>投资指南 || The Intelligent Investor || (美) [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] || 简体PDF(扫描版) || 2014-02-20 || [https://docs.google.com/document/d/1F6oV0vQ6YAYW9622pOwg0Zn_x-iX8XZaDAIxFy-sEkg/ 简介]
 |-
