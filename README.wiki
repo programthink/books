@@ -1917,6 +1917,8 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 西方哲学史 || A History of Philosophy || (美) 弗兰克·梯利 || 简体PDF(增补修订版 扫描版) || 2018-06-25 || [https://docs.google.com/document/d/1UnyMil6Jd-wIEyNVu4GAc8E-zNtKK_AgBOlqp3JB4s8/ 简介]
 |-
+| 哲学史讲演录 || Lectures on the History of Philosophy || (德) [https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%A5%A5%E5%B0%94%E6%A0%BC%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E9%BB%91%E6%A0%BC%E5%B0%94 黑格尔] || 繁體PDF(掃描版) || 2018-12-09 || [https://docs.google.com/document/d/1xm0tW1XPgGleBWikbjtTy9jOz5IilWEGhSkHSYUgDt8/ 简介]
+|-
 | 中国哲学简史 || A Short History of Chinese Philosophy || [https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 冯友兰] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-02-13<br>2015-02-13 || [https://docs.google.com/document/d/17lNyMyOFs7QGf9eEX-Nn9_-bucyPY4033gq0CNRYCu4/ 简介]
 |-
 | 中国哲学史大纲 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9 胡适] || 简体EPUB || 2015-02-15 || [https://docs.google.com/document/d/1kNub6CeCEENxg-p-vJh2tVEsmYJ103_qvhz416PvXAY/ 简介]
