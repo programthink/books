@@ -1967,7 +1967,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 谈谈方法 || Discourse on the Method || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%84%BF 笛卡尔] || 简体PDF(扫描版) || 2014-06-20 || [https://docs.google.com/document/d/15-jO3FqQshh5ufklkGRlBrdOBybrsw5dS7eq_uE0HFc/ 简介]
 |-
-| 人类理解研究 || An Enquiry concerning Human Understanding || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 休谟] || 简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-02-13 || [https://docs.google.com/document/d/137b-SKfpPTdku4edikCisUtJgipfOvPUXLUN3-qitU4/ 简介]
+| 人类理解研究 || An Enquiry concerning Human Understanding || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 大卫·休谟] || 简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-02-13 || [https://docs.google.com/document/d/137b-SKfpPTdku4edikCisUtJgipfOvPUXLUN3-qitU4/ 简介]
 |-
 | 系统化思维导论 || An Introduction to General Systems Thinking || (美) [https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || 简体PDF(扫描版) || 2015-10-24 || [https://docs.google.com/document/d/1Mq5nIMwFXGgy5g8eOHVmKokl8edImpAOfwBSDZKBfTk/ 简介]
 |}
@@ -1990,6 +1990,8 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 幸福之路 || The Conquest of Happiness || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 伯特兰·罗素] || 简体EPUB<br>简体MOBI<br>简体TXT || 2014-06-20<br>2018-12-09<br>2016-05-10 || [https://docs.google.com/document/d/1vFAWIOsdwHc60-NWEu0y0idO6UXcELfBMIfdYrGT2ZY/ 简介]
 |-
 | 道德情操论 || The Theory of Moral Sentiments || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2014-06-20<br>2015-01-12<br>2015-11-10<br>2015-02-13 || [https://docs.google.com/document/d/1BlG7h_aaYPcWRCFH88rtDCu_XNACoXRFhoZBDCp0RrU/ 简介]
+|-
+| 论道德的谱系<br>——一篇论战檄文<br>''其它中文名：''<br>道德谱系学 || On the Genealogy of Morality<br>——A Polemic || (德) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 弗里德里希·尼采] || 简体EPUB(注疏版)<br>简体MOBI(注疏版) || 2018-12-10<br>2018-12-10 || [https://docs.google.com/document/d/1X1Q1TQfQUgskCxpP386bbCoZw0V49m43jU3JOnkTb2k/ 简介]
 |}
 
 == 8.8 科学哲学 ==
@@ -2017,7 +2019,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 查拉图斯特拉如是说 || Thus Spoke Zarathustra || (德) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 尼采] || 简体PDF<br>简体EPUB<br>英文EPUB || 2014-06-20<br>2015-02-13<br>2018-06-25 || [https://docs.google.com/document/d/1jvq62WF0qnM2bNU4StmEVeckrDg2-VWw_qladDAnyMc/ 简介]
+| 查拉图斯特拉如是说 || Thus Spoke Zarathustra || (德) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 弗里德里希·尼采] || 简体PDF<br>简体EPUB<br>英文EPUB || 2014-06-20<br>2015-02-13<br>2018-06-25 || [https://docs.google.com/document/d/1jvq62WF0qnM2bNU4StmEVeckrDg2-VWw_qladDAnyMc/ 简介]
 |-
 | 自由的进化 || Freedom Evolves || (美) [https://en.wikipedia.org/wiki/Daniel_Dennett 丹尼尔·丹内特] || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/1bMsMvcJSe40-L7aUxDOLw5cT0qKNrjDZdh4xm7ZN-NA/ 简介]
 |}
