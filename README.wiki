@@ -188,15 +188,17 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 无政府、国家与乌托邦 || Anarchy, State, and Utopia || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 罗伯特·诺齐克] || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [https://docs.google.com/document/d/1uxnAbtQtzvLmhPIqG89HDgcXay5jwjHGiC_925oJjFo/ 简介]
 |-
+| 自由主义与正义的局限 || Liberalism and the Limits of Justice || (美) [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || 简体PDF<br>简体PDF(扫描版) || 2013-01-01<br>2018-12-05 || [https://docs.google.com/document/d/1MHTG9z71aXwlJ6-ErDwPWoxmz4Pf7yCYRPHMFQ5VJws/ 简介]
+|-
 | 自由史论 || The History of Freedom and Other Essays || (英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] || 简体PDF(扫描版) || 2014-07-27 || [https://docs.google.com/document/d/1H_Q98aR_jRPf9LEWqckCR17KCtUm619djjFsdQXzCD4/ 简介]
 |-
 | 古典自由主义<br>——入门读物 || Libertarianism<br>——A Primer || (美) [https://en.wikipedia.org/wiki/David_Boaz 大卫·鲍兹] || 英文PDF || 2015-07-19 || [https://docs.google.com/document/d/1jveZnK1-tIjDtL731Wzmq0KZpvu-Laz9T2I1LYAhEzc/ 简介]
 |-
+| 利维坦<br>——教会国家和市民国家的实质、形式、权力<br>''其它中文名：''<br>巨灵论 || Leviathan or The Matter, Forme and Power of a Common Wealth Ecclesiastical and Civil || (英) [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF 托马斯·霍布斯] || 简体PDF<br>简体MOBI || 2014-06-22<br>2018-12-22 || [https://docs.google.com/document/d/1zniBy48ywZXar352j3e_ZOrIrUZaz8kgCZ0ILtd5H30/ 简介]
+|-
 | 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || (法) [https://en.wikipedia.org/wiki/Benjamin_Constant 本杰明·贡斯当] || 简体PDF(扫描版)<br>简体MOBI || 2014-06-22<br>2015-05-11 || [https://docs.google.com/document/d/1HhAHKPUnqpRlefik77n4UrLdemTD_cgfvo8KxurDXsw/ 简介]
 |-
 | 欧洲自由主义史 || The History of European Liberalism || (意) [https://en.wikipedia.org/wiki/Guido_De_Ruggiero 圭多·德·拉吉罗] || 简体PDF(扫描版) || 2015-01-12 || [https://docs.google.com/document/d/17RebblNr8jWWwBjpiP3nzsb48JYCNKXq0k5KUvbz96A/ 简介]
-|-
-| 自由主义与正义的局限 || Liberalism and the Limits of Justice || (美) [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || 简体PDF<br>简体PDF(扫描版) || 2013-01-01<br>2018-12-05 || [https://docs.google.com/document/d/1MHTG9z71aXwlJ6-ErDwPWoxmz4Pf7yCYRPHMFQ5VJws/ 简介]
 |-
 | 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] || 简体PDF<br>简体MOBI || 2014-02-03<br>2015-05-11 || [https://docs.google.com/document/d/1yHRDBpShEmXE12FTbqxA_Bt6f7LyVzlA3F0rpnUjdng/ 简介]
 |-
