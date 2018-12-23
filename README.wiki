@@ -308,15 +308,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 第二性 || The Second Sex || (法) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || 简体PDF(扫描版)<br>简体TXT || 2013-04-10<br>2016-05-12 || [https://docs.google.com/document/d/1SVINZicJeJHIvM0PoT3l-SZtQ8dvH4Q80Xwrv6-QGAY/ 简介]
+| 第二性 || The Second Sex || (法) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || 简体PDF(扫描版)<br>简体HTML<br>简体TXT || 2013-04-10<br>2018-12-23<br>2016-05-12 || [https://docs.google.com/document/d/1SVINZicJeJHIvM0PoT3l-SZtQ8dvH4Q80Xwrv6-QGAY/ 简介]
 |-
 | 女权主义理论<br>——从边缘到中心 || Feminist Theory<br>——From Margin to Center || (美) [https://en.wikipedia.org/wiki/Bell_hooks 贝尔·胡克斯] || 简体PDF(扫描版) || 2015-05-12 || [https://docs.google.com/document/d/1DGRWhYmuKrhrt17JAo5q6gvcH3hexiot81tNxcYjhv8/ 简介]
 |-
 | 女权辩护<br>——关于政治和道德问题的批评 || A Vindication of the Rights of Woman<br>——with Strictures on Political and Moral Subjects || (英) [https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%C2%B7%E6%B2%83%E6%96%AF%E9%80%9A%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9 玛丽·沃斯通克拉夫特] || 简体PDF || 2013-04-10 || [https://docs.google.com/document/d/1Xx_cjj3KM6QrcSZIgiGYPbGnc7JwctIOL6eU6A_a7yY/ 简介]
 |-
-| 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || 简体PDF(扫描版) || 2013-04-10 || [https://docs.google.com/document/d/1Ve6cHd_Hkq7dUoFicJl9vfLhYRN-LQgE7WG8pci1iNY/ 简介]
+| 女性的奥秘 || The Feminine Mystique || (美) [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || 简体PDF(扫描版) || 2013-04-10 || [https://docs.google.com/document/d/1Ve6cHd_Hkq7dUoFicJl9vfLhYRN-LQgE7WG8pci1iNY/ 简介]
 |-
-| 女权主义 || N/A || 简·弗里德曼 || 简体PDF(扫描版) || 2014-02-03 || [https://docs.google.com/document/d/1S7ezK9AxxQdk6j8yi1qMbq2lKHfCGu42kifo74eX1zU/ 简介]
+| 女权主义 || Feminism || (英) [https://en.wikipedia.org/wiki/Jane_Freedman 简·弗里德曼] || 简体PDF(扫描版) || 2014-02-03 || [https://docs.google.com/document/d/1S7ezK9AxxQdk6j8yi1qMbq2lKHfCGu42kifo74eX1zU/ 简介]
 |-
 | 妇女<br>——最漫长的革命 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%93%B6%E6%B2%B3 李银河] (主编) || 简体PDF(扫描版) || 2015-05-12 || [https://docs.google.com/document/d/19WM2UYOV14-oUYsWYrSLqlNcNZyYTEQmDACeCBidUJk/ 简介]
 |-
