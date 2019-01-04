@@ -588,7 +588,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 延安的阴影 || N/A || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF(掃描版) || 2015-07-18 || [https://docs.google.com/document/d/16A1TYOJq-lCLTZS9L7mEJ979HKPXwgly2tDCBJw3dfM/ 简介]
 |-
-| 历史的先声<br>——半个世纪前的庄严承诺 || N/A || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀] (原名：陈敏) || 简体PDF(扫描版)<br>简体PDF<br>简体CHM<br>简体TXT || 2013-05-08<br>2014-06-21<br>2012-10-06<br>2012-10-06 || [https://docs.google.com/document/d/1sdNZwEBjf8kEBy54n5n_aYqeVp1a3FIdX0TiChWjrhI/ 简介]
+| 历史的先声<br>——半个世纪前的庄严承诺 || N/A || [https://zh.wikipedia.org/wiki/%E7%AC%91%E8%9C%80 笑蜀] (原名：陈敏) || 简体PDF<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体CHM<br>简体TXT || 2014-06-21<br>2019-01-04<br>2013-05-08<br>2012-10-06<br>2012-10-06 || [https://docs.google.com/document/d/1sdNZwEBjf8kEBy54n5n_aYqeVp1a3FIdX0TiChWjrhI/ 简介]
 |-
 | 延安日记 || The Vladimirov Diaries || (苏) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E6%B4%9B%E5%A4%AB 彼得·弗拉基米洛夫] || 简体CHM || 2012-10-05 || [https://docs.google.com/document/d/1aZzozzwwGrUksv_rZhURt7d5WSB-BtA2iRnkYTOXhMM/ 简介]
 |-
