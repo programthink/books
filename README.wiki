@@ -1805,7 +1805,7 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 |-
 | 理解媒介<br>——论人的延伸 || Understanding Media<br>——The Extensions of Man || (加) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E7%B4%A0%C2%B7%E9%BA%A5%E5%85%8B%E9%AD%AF%E6%BC%A2 麦克卢汉] || 简体PDF(扫描版) || 2017-08-15 || [https://docs.google.com/document/d/1FSpYwvsTMI7pz7MEv_2YBPzrTCyQNv6t4D4zTl0yFbE/ 简介]
 |-
-| 娱乐至死 || Amusing Ourselves to Death || (美) [https://en.wikipedia.org/wiki/Neil_Postman 尼尔·波兹曼] || 简体PDF(扫描版)<br>简体MOBI || 2015-01-07<br>2015-02-13 || [https://docs.google.com/document/d/1ZMBntGY_Sh1hETonpNO8JHZ1N53-u7Hlyy_LV7d14xs/ 简介]
+| 娱乐至死 || Amusing Ourselves to Death || (美) [https://en.wikipedia.org/wiki/Neil_Postman 尼尔·波兹曼] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2015-01-07<br>2019-01-06<br>2015-02-13 || [https://docs.google.com/document/d/1ZMBntGY_Sh1hETonpNO8JHZ1N53-u7Hlyy_LV7d14xs/ 简介]
 |-
 | 引爆点<br>''其它中文名：''<br>引爆流行 || The Tipping Point<br>——How Little Things Can Make a Big Difference || (加) [https://en.wikipedia.org/wiki/Malcolm_Gladwell 马尔科姆·格拉德威尔] || 简体PDF(扫描版) || 2015-11-04 || [https://docs.google.com/document/d/1j_WCU6CTqe7WZBP-pXfCBudsXJxseoFZaG6HXKFYI7M/ 简介]
 |}
