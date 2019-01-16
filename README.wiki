@@ -1943,15 +1943,17 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 回忆苏格拉底 || Memorabilia || (古希腊) [https://zh.wikipedia.org/wiki/%E8%89%B2%E8%AF%BA%E8%8A%AC 色诺芬] || 简体CHM<br>简体PDF(扫描版)<br>英文EPUB || 2014-06-20<br>2017-03-24<br>2018-06-25 || [https://docs.google.com/document/d/1MH-pMEj3q8SxzdWl5jtbsAp357jJDKx0D8NHN6U4nYE/ 简介]
 |-
+| 牛津通识读本：柏拉图 || Plato<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Julia_Annas Julia Annas] || 英文PDF || 2019-01-16 || [https://docs.google.com/document/d/1x2VK8fINo8bnN-1iUS_I7jafFgZkzD4QAb0ePxay59E/ 简介]
+|-
 | 牛津通识读本：亚里士多德 || Aristotle<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Jonathan_Barnes Jonathan Barnes] || 英文PDF || 2019-01-14 || [https://docs.google.com/document/d/1skcI_LrMYxGhjSnYXl9vxfk6Opyb7MDQSK4hg8A5sds/ 简介]
 |-
 | 牛津通识读本：笛卡尔 || Descartes<br>——A Very Short Introduction || Tom Sorell || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1D61l9YzGCMwQXkGWHoewG4FhlbuCBeD_XRYDYXt_WJA/ 简介]
 |-
 | 牛津通识读本：康德 || Kant<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Roger_Scruton Roger Scruton] || 简体EPUB<br>简体AZW3<br>英文PDF(扫描版) || 2015-12-03<br>2015-12-03<br>2016-12-17 || [https://docs.google.com/document/d/1zXpez0ZyoZ0Q61pwDpWjWbqrFbVP_WLi6tCrqRxjsG8/ 简介]
 |-
-| 牛津通识读本：尼采 || Nietzsche<br>——A Very Short Introduction || Michael Tanner || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1zK7QFwRMo7LtCISSsAGU6s5Oq0cpqyPjSqEIkwENiSM/ 简介]
-|-
 | 牛津通识读本：叔本华 || Schopenhauer<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Christopher_Janaway Christopher Janaway] || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1agkeOViTF4SAYTHxAOeBxX6KNd54L2DJi2MahN96_q0/ 简介]
+|-
+| 牛津通识读本：尼采 || Nietzsche<br>——A Very Short Introduction || Michael Tanner || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1zK7QFwRMo7LtCISSsAGU6s5Oq0cpqyPjSqEIkwENiSM/ 简介]
 |-
 | 我的哲学发展 || My Philosophical Development || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 伯特兰·罗素] || 简体PDF(扫描版) || 2018-06-25 || [https://docs.google.com/document/d/1kS5IAEWCmbKodjtYXCIUEHBlsH5qj4g5pOR_Fd6Hnxg/ 简介]
 |-
