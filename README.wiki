@@ -1941,25 +1941,27 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 牛津通识读本：苏格拉底 || Socrates<br>——A Very Short Introduction || (英) 克里斯托弗·泰勒 || 简体PDF(扫描版) || 2019-01-19 || [https://docs.google.com/document/d/1pzmXILYkkAJGH7sNWcJvLOefC9G56js66fr80mMGVkM/ 简介]
+|-
 | 回忆苏格拉底 || Memorabilia || (古希腊) [https://zh.wikipedia.org/wiki/%E8%89%B2%E8%AF%BA%E8%8A%AC 色诺芬] || 简体CHM<br>简体PDF(扫描版)<br>英文EPUB || 2014-06-20<br>2017-03-24<br>2018-06-25 || [https://docs.google.com/document/d/1MH-pMEj3q8SxzdWl5jtbsAp357jJDKx0D8NHN6U4nYE/ 简介]
 |-
-| 牛津通识读本：柏拉图 || Plato<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Julia_Annas Julia Annas] || 英文PDF || 2019-01-16 || [https://docs.google.com/document/d/1x2VK8fINo8bnN-1iUS_I7jafFgZkzD4QAb0ePxay59E/ 简介]
+| 牛津通识读本：柏拉图 || Plato<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Julia_Annas 朱莉娅·安纳斯] || 英文PDF || 2019-01-16 || [https://docs.google.com/document/d/1x2VK8fINo8bnN-1iUS_I7jafFgZkzD4QAb0ePxay59E/ 简介]
 |-
-| 牛津通识读本：亚里士多德 || Aristotle<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Jonathan_Barnes Jonathan Barnes] || 英文PDF || 2019-01-14 || [https://docs.google.com/document/d/1skcI_LrMYxGhjSnYXl9vxfk6Opyb7MDQSK4hg8A5sds/ 简介]
+| 牛津通识读本：亚里士多德 || Aristotle<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Jonathan_Barnes 乔纳森·巴恩斯] || 英文PDF || 2019-01-14 || [https://docs.google.com/document/d/1skcI_LrMYxGhjSnYXl9vxfk6Opyb7MDQSK4hg8A5sds/ 简介]
 |-
-| 牛津通识读本：笛卡尔 || Descartes<br>——A Very Short Introduction || Tom Sorell || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1D61l9YzGCMwQXkGWHoewG4FhlbuCBeD_XRYDYXt_WJA/ 简介]
+| 牛津通识读本：笛卡尔 || Descartes<br>——A Very Short Introduction || (英) 汤姆·索雷尔 || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1D61l9YzGCMwQXkGWHoewG4FhlbuCBeD_XRYDYXt_WJA/ 简介]
 |-
-| 牛津通识读本：康德 || Kant<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Roger_Scruton Roger Scruton] || 简体EPUB<br>简体AZW3<br>英文PDF(扫描版) || 2015-12-03<br>2015-12-03<br>2016-12-17 || [https://docs.google.com/document/d/1zXpez0ZyoZ0Q61pwDpWjWbqrFbVP_WLi6tCrqRxjsG8/ 简介]
+| 牛津通识读本：康德 || Kant<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Roger_Scruton 罗杰·斯克鲁顿] || 简体EPUB<br>简体AZW3<br>英文PDF(扫描版) || 2015-12-03<br>2015-12-03<br>2016-12-17 || [https://docs.google.com/document/d/1zXpez0ZyoZ0Q61pwDpWjWbqrFbVP_WLi6tCrqRxjsG8/ 简介]
 |-
-| 牛津通识读本：叔本华 || Schopenhauer<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Christopher_Janaway Christopher Janaway] || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1agkeOViTF4SAYTHxAOeBxX6KNd54L2DJi2MahN96_q0/ 简介]
+| 牛津通识读本：叔本华 || Schopenhauer<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Christopher_Janaway 克里斯托弗·贾纳韦] || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1agkeOViTF4SAYTHxAOeBxX6KNd54L2DJi2MahN96_q0/ 简介]
 |-
-| 牛津通识读本：尼采 || Nietzsche<br>——A Very Short Introduction || Michael Tanner || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1zK7QFwRMo7LtCISSsAGU6s5Oq0cpqyPjSqEIkwENiSM/ 简介]
+| 牛津通识读本：尼采 || Nietzsche<br>——A Very Short Introduction || (英) 迈克尔·坦纳 || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1zK7QFwRMo7LtCISSsAGU6s5Oq0cpqyPjSqEIkwENiSM/ 简介]
 |-
 | 我的哲学发展 || My Philosophical Development || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 伯特兰·罗素] || 简体PDF(扫描版) || 2018-06-25 || [https://docs.google.com/document/d/1kS5IAEWCmbKodjtYXCIUEHBlsH5qj4g5pOR_Fd6Hnxg/ 简介]
 |-
 | 无尽的探索<br>——卡尔·波普尔自传 || Unended Quest<br>——An Intellectual Autobiography || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体EPUB<br>简体TXT || 2015-02-15<br>2016-05-02 || [https://docs.google.com/document/d/1bYYtfpEYRACN6tNfCUeLe8CDc4kgYu3qxd6-3Eput0U/ 简介]
 |-
-| 牛津通识读本：维特根斯坦 || Wittgenstein<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/A._C._Grayling A. C. Grayling] || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1PJSSbox14o05NQ9b34vsy8U9Jaqk5ANwhPYlb70Mmlk/ 简介]
+| 牛津通识读本：维特根斯坦 || Wittgenstein<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/A._C._Grayling 安东尼·格雷林] || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1PJSSbox14o05NQ9b34vsy8U9Jaqk5ANwhPYlb70Mmlk/ 简介]
 |}
 
 == 8.4 形而上学 ==
