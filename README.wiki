@@ -1994,6 +1994,8 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 牛津通识读本：尼采 || Nietzsche<br>——A Very Short Introduction || (英) 迈克尔·坦纳 || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1zK7QFwRMo7LtCISSsAGU6s5Oq0cpqyPjSqEIkwENiSM/ 简介]
+|-
+| 尼采 || Nietzsche || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94 马丁·海德格尔] || 简体PDF(扫描版) || 2019-01-20 || [https://docs.google.com/document/d/1E8KbZSiHaD4CAdjGntVatgCQRk91sOuFPM58rfCR73E/ 简介]
 |}
 
 === 8.3.8 罗素 ===
