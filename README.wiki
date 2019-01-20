@@ -2024,6 +2024,14 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 牛津通识读本：维特根斯坦 || Wittgenstein<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/A._C._Grayling 安东尼·格雷林] || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1PJSSbox14o05NQ9b34vsy8U9Jaqk5ANwhPYlb70Mmlk/ 简介]
 |}
 
+=== 8.3.11 (其他哲学家) ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 大哲学家<br>——思想大师们的生平与精髓 || The Great Philosophers<br>——From Socrates to Turing || (英) [https://zh.wikipedia.org/wiki/%E9%9B%B7%C2%B7%E8%92%99%E5%85%8B 雷·蒙克] (主编)<br>(英) 弗雷德里克·拉斐尔 (主编) || 简体PDF(扫描版) || 2019-01-20 || [https://docs.google.com/document/d/1cIqEurFZ3xkfpmNtCaWOWKsbJDnlE-MkXm04I-T5znY/ 简介]
+|}
+
 == 8.4 形而上学 ==
 
 {|
