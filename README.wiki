@@ -2037,9 +2037,11 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 未来形而上学导论 || Prolegomena to Any Future Metaphysics || (德) [https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9B%BC%E5%8A%AA%E5%B0%94%C2%B7%E5%BA%B7%E5%BE%B7 康德] || 简体CHM<br>简体PDF(扫描版) || 2014-06-20<br>2017-03-26 || [https://docs.google.com/document/d/1akO0_y0Tg55RO4jhc8UKOy91CJmeCrjHpxNuajt32cw/ 简介]
+| 未来形而上学导论 || Prolegomena to Any Future Metaphysics || (德) [https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9B%BC%E5%8A%AA%E5%B0%94%C2%B7%E5%BA%B7%E5%BE%B7 伊曼努尔·康德] || 简体CHM<br>简体PDF(扫描版) || 2014-06-20<br>2017-03-26 || [https://docs.google.com/document/d/1akO0_y0Tg55RO4jhc8UKOy91CJmeCrjHpxNuajt32cw/ 简介]
 |-
-| 第一哲学沉思集 || Meditations on First Philosophy || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%84%BF 笛卡尔] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT || 2014-06-20<br>2017-03-24<br>2016-05-10 || [https://docs.google.com/document/d/13hAz2x7GHwZiMIGYPJboUE78cGKV-EXnXCc2Jc7Bgjc/ 简介]
+| 第一哲学沉思集<br>''其它中文名：''<br>形而上学沉思录 || Meditations on First Philosophy || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94 勒内·笛卡尔] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT || 2014-06-20<br>2017-03-24<br>2016-05-10 || [https://docs.google.com/document/d/13hAz2x7GHwZiMIGYPJboUE78cGKV-EXnXCc2Jc7Bgjc/ 简介]
+|-
+| 存在与时间 || Being and Time || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94 马丁·海德格尔] || 简体TXT || 2019-01-21 || [https://docs.google.com/document/d/1XWcqCzP6HsCBJM7WCN6OGDdErfUbyJlqyFdjzBi6vwE/ 简介]
 |}
 
 == 8.5 知识论与认识论 ==
@@ -2047,9 +2049,9 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 纯粹理性批判 || Critique of Pure Reason || (德) [https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9B%BC%E5%8A%AA%E5%B0%94%C2%B7%E5%BA%B7%E5%BE%B7 康德] || 简体PDF<br>简体PDF(扫描版)<br>英文EPUB || 2014-06-20<br>2017-03-26<br>2018-06-25 || [https://docs.google.com/document/d/1A_dHt1_TPEemu3ycdUruidlrU8oRJ7McIU9t8DITn_Q/ 简介]
+| 纯粹理性批判 || Critique of Pure Reason || (德) [https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9B%BC%E5%8A%AA%E5%B0%94%C2%B7%E5%BA%B7%E5%BE%B7 伊曼努尔·康德] || 简体PDF<br>简体PDF(扫描版)<br>英文EPUB || 2014-06-20<br>2017-03-26<br>2018-06-25 || [https://docs.google.com/document/d/1A_dHt1_TPEemu3ycdUruidlrU8oRJ7McIU9t8DITn_Q/ 简介]
 |-
-| 谈谈方法 || Discourse on the Method || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%84%BF 笛卡尔] || 简体PDF(扫描版) || 2014-06-20 || [https://docs.google.com/document/d/15-jO3FqQshh5ufklkGRlBrdOBybrsw5dS7eq_uE0HFc/ 简介]
+| 谈谈方法<br>''其它中文名：''<br>方法论 || Discourse on the Method || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94 勒内·笛卡尔] || 简体PDF(扫描版) || 2014-06-20 || [https://docs.google.com/document/d/15-jO3FqQshh5ufklkGRlBrdOBybrsw5dS7eq_uE0HFc/ 简介]
 |-
 | 人类理解研究 || An Enquiry concerning Human Understanding || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 大卫·休谟] || 简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-02-13 || [https://docs.google.com/document/d/137b-SKfpPTdku4edikCisUtJgipfOvPUXLUN3-qitU4/ 简介]
 |-
