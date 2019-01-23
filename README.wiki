@@ -932,9 +932,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 致帝国的悼词<br>——中国大陆的自由状况及前景 || N/A || [https://zh.wikipedia.org/wiki/%E4%BD%99%E6%9D%B0 余杰] || 简体PDF || 2012-12-11 || [https://docs.google.com/document/d/11nnNRkHhar7eqI0QTatL5es_wGbaJFjnwu6J7JtuR6k/ 简介]
 |-
-| 关于中国的一百个常识 || One Hundred Points of Common Sense about China || [https://zh.wikipedia.org/wiki/%E9%99%88%E7%A0%B4%E7%A9%BA 陈破空] (原名：陈劲松) || 简体CHM || 2013-05-13 || [https://docs.google.com/document/d/1R2A4sEgDtOuy9ezLBzmUGJiHhmNsHWjb6D7qa1IsDo8/ 简介]
+| 关于中国的一百个常识 || One Hundred Points of Common Sense about China || [https://zh.wikipedia.org/wiki/%E9%99%88%E7%A0%B4%E7%A9%BA 陈破空] (原名：陈劲松) || 简体PDF<br>简体CHM || 2019-01-23<br>2013-05-13 || [https://docs.google.com/document/d/1R2A4sEgDtOuy9ezLBzmUGJiHhmNsHWjb6D7qa1IsDo8/ 简介]
 |-
-| 国家的常识 (中国部分) || Countries and Concepts || (美) 迈克尔·罗斯金 || 简体PDF || 2015-02-23 || [https://docs.google.com/document/d/1eBrcClQIhxEvMQa4Wwtt7kNOyyR-1mUxhmtTpUA90NE/ 简介]
+| 国家的常识 (中国部分) || Countries and Concepts<br>——Politics, Geography, Culture || (美) [https://en.wikipedia.org/wiki/Michael_Roskin 迈克尔·罗斯金] || 简体PDF || 2015-02-23 || [https://docs.google.com/document/d/1eBrcClQIhxEvMQa4Wwtt7kNOyyR-1mUxhmtTpUA90NE/ 简介]
 |-
 | 王怡文集 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体CHM || 2013-05-19 || [https://docs.google.com/document/d/1dwVwZ0nBOs9D7QBTIdQbF8iUSVCzucYwXZEFVDFOrn8/ 简介]
 |-
