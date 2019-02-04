@@ -462,19 +462,21 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 文化大革命<br>——历史真相和集体记忆 || N/A || 宋永毅 (主编) || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1X7PovGWUNTQXvTmqxrUwNqOqshKtu7tds6mIr1lfIcg/ 简介]
+| 文化大革命十年史 || N/A || 高皋<br>[https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || 简体PDF(扫描版) || 2012-12-10 || [https://docs.google.com/document/d/1rtUnwjbL-OCBTgQ5GHTN8_TX08CRWe3b7ibtFikZI90/ 简介]
 |-
 | 文化大革命的起源 || The Origins of the Cultural Revolution || (英) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德) || 简体PDF(共2卷 扫描版) || 2013-03-30 || [https://docs.google.com/document/d/1SZW5ucw0S6lTPEdfF6xyWDNvSKP0l1Vp8BtC-fv88h0/ 简介]
 |-
-| 毛泽东最后的革命 || Mao's Last Revolution || (英) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>(瑞典) Michael Schoenhals (中文名：沈迈克) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/11NRKhtbD-FRyRqvyTbpEG0RqXv2nr3qe6vzMTtQ7y9M/ 简介]
+| 毛泽东最后的革命 || Mao's Last Revolution || (英) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>(瑞典) [https://zh.wikipedia.org/wiki/%E6%B2%88%E8%BF%88%E5%85%8B Michael Schoenhals] (中文名：沈迈克) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/11NRKhtbD-FRyRqvyTbpEG0RqXv2nr3qe6vzMTtQ7y9M/ 简介]
 |-
-| 文化大革命十年史 || N/A || 高皋<br>[https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%AE%B6%E5%85%B6 严家其] || 简体PDF(扫描版) || 2012-12-10 || [https://docs.google.com/document/d/1rtUnwjbL-OCBTgQ5GHTN8_TX08CRWe3b7ibtFikZI90/ 简介]
+| 文化大革命<br>——历史真相和集体记忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%AE%8B%E6%B0%B8%E6%AF%85 宋永毅] (主编) || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1X7PovGWUNTQXvTmqxrUwNqOqshKtu7tds6mIr1lfIcg/ 简介]
 |-
 | 形形色色的造反<br>——红卫兵精神素质的形成及演变 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 繁體PDF(掃描版) || 2013-06-22 || [https://docs.google.com/document/d/1D1WDndz-4ZsfJHn2ZsLOGERVSzhIY-hejBNh5I3Zhfg/ 简介]
 |-
-| 上山下乡<br>——一个美国人眼中的中国知青运动 || Up to the Mountains and Down to the Villages<br>——The Transfer of Youth from Urban to Rural China || (美) 托马斯·伯恩斯坦 || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/1S5CYbOEompCVAeJlKJMbSkoZVRg9w6sTlAilTEn4AwA/ 简介]
+| 红卫兵档案 || N/A || 吴过 || 简体PDF || 2012-04-06 || [https://docs.google.com/document/d/16x7UhPFf6HAjjmpqIP6K1y8rNmtET1sHKto_mUFxqiM/ 简介]
 |-
-| 失落的一代<br>——中国的上山下乡运动(1968~1980) || The Lost Generation<br>——The Rustification of Chinese Youth (1968-1980) || (法) [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 潘鸣啸] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2016-12-14<br>2013-08-11<br>2014-05-18<br>2018-11-10 || [https://docs.google.com/document/d/1Is-aT8LU5QqWpbQ0xu298Paygsc-Gg39WQA8P5gnR-k/ 简介]
+| 上山下乡<br>——一个美国人眼中的中国知青运动<br>''其它中文名：''<br>上山下乡<br>——中国青年从城市到农村的转移 || Up to the Mountains and Down to the Villages<br>——The Transfer of Youth from Urban to Rural China || (美) 托马斯·伯恩斯坦 || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/1S5CYbOEompCVAeJlKJMbSkoZVRg9w6sTlAilTEn4AwA/ 简介]
+|-
+| 失落的一代<br>——中国的上山下乡运动(1968~1980) || The Lost Generation<br>——The Rustification of Chinese Youth (1968~1980) || (法) [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 米歇尔·博南] (中文名：潘鸣啸) || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2016-12-14<br>2013-08-11<br>2014-05-18<br>2018-11-10 || [https://docs.google.com/document/d/1Is-aT8LU5QqWpbQ0xu298Paygsc-Gg39WQA8P5gnR-k/ 简介]
 |-
 | 文化大革命研究资料 || N/A || 国防大学党史党建政工教研室 || 简体PDF(上中下 扫描版) || 2013-11-30 || [https://docs.google.com/document/d/1sc1RNW_DRmXBMrCo3A4H1QdbLMlCOZUJrBiJ9XTqlqk/ 简介]
 |-
@@ -482,15 +484,17 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 周恩来文革讲话集 || N/A || 周恩来 || 简体TXT<br>简体PDF(拍照版) || 2014-03-20<br>2015-07-14 || [https://docs.google.com/document/d/1aUbLHU383mU3zZinA-tTk8mmwxd0sH_LmgxRA2TKFXU/ 简介]
 |-
-| 红卫兵档案 || N/A || 吴过 || 简体PDF || 2012-04-06 || [https://docs.google.com/document/d/16x7UhPFf6HAjjmpqIP6K1y8rNmtET1sHKto_mUFxqiM/ 简介]
-|-
 | 随想录 || N/A || [https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91 巴金] (原名：李尧棠) || 简体PDF(扫描版)<br>繁體MOBI || 2014-01-09<br>2014-06-22 || [https://docs.google.com/document/d/1lMKhcaeDXTNxvo97zXEmJzMwyC9isBLW8Yt_HRO3HHU/ 简介]
 |-
-| 遇罗克之遗作与回忆 || N/A || 徐晓<br>丁东<br>[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF(扫描版) || 2013-03-16 || [https://docs.google.com/document/d/1HCcLOgDygvtTz5LuogalYJyysH6ZZLnPpmdPzuYS7-g/ 简介]
+| 遇罗克之遗作与回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93_(%E4%BD%9C%E5%AE%B6) 徐晓]<br>丁东<br>[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF(扫描版) || 2013-03-16 || [https://docs.google.com/document/d/1HCcLOgDygvtTz5LuogalYJyysH6ZZLnPpmdPzuYS7-g/ 简介]
 |-
 | 牛鬼蛇神录<br>——文革囚禁中的精灵 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/ 简介]
 |-
+| 1966<br>——我们那一代的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] (主编) || 简体PDF(扫描版) || 2017-08-13 || [https://docs.google.com/document/d/1-XqmXDsaUBUdSQkB8W-9iZ3Udr9RZdmu3CzOlBq1M3Y/ 简介]
+|-
 | 上海生死劫<br>''其它中文名：''<br>上海生与死 || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体EPUB<br>简体PDF(扫描版) || 2017-05-06<br>2013-05-30 || [https://docs.google.com/document/d/1N1A7xvuycblUNxMXsLRpdkY3-uelzDdD8S6jl15L8Go/ 简介]
+|-
+| 劫后长忆<br>——十年动乱纪事 || N/A || [https://zh.wikipedia.org/wiki/%E7%A9%86%E6%AC%A3 穆欣] (原名：杜蓬莱) || 繁體PDF(豎排掃描版) || 2019-02-04 || [https://docs.google.com/document/d/1kio78z1JUCfwM2Sn-Dx_4iEdIPtthLwel5JlOPepFmw/ 简介]
 |-
 | 中国的眸子 || N/A || 胡平 (与民运人士胡平同名) || 简体PDF(扫描版) || 2013-03-31 || [https://docs.google.com/document/d/1-FALFKfgUe6A5gVBR25z7lQfroqakweXWO-FFBAwVvo/ 简介]
 |-
@@ -503,8 +507,6 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 文革三大屠杀案 || N/A || (多人) || 简体PDF || 2015-02-17 || [https://docs.google.com/document/d/1G4_CQfLwaru_IKy3anlclO0_xVmGF3aLKvHqIEguKHI/ 简介]
 |-
 | 血的神话<br>——1967年湖南道县文革大屠杀纪实 || N/A || 谭合成 || 简体PDF || 2015-05-12 || [https://docs.google.com/document/d/1cmN9VmqZvJwCaMw9f-BkTQMJJjyOW8nRDTZSnZBkWZQ/ 简介]
-|-
-| 1966<br>——我们那一代的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] (主编) || 简体PDF(扫描版) || 2017-08-13 || [https://docs.google.com/document/d/1-XqmXDsaUBUdSQkB8W-9iZ3Udr9RZdmu3CzOlBq1M3Y/ 简介]
 |}
 
 ==== 1.3.1.4 “大跃进”与大饥荒时期 ====
