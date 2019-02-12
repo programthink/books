@@ -1046,7 +1046,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 苏共野史<br>——党治制的由来 || N/A || (俄) 阿夫托尔汉诺夫 || 简体PDF(扫描版) || 2014-01-09 || [https://docs.google.com/document/d/13Z-89kprEvsiydS7dwsZIS5Qkq2D_yzJcbnULCYfDd4/ 简介]
+| 苏共野史<br>——党治制的由来 || The Communist Party Apparatus || (俄) [https://en.wikipedia.org/wiki/Abdurakhman_Avtorkhanov 阿卜杜拉赫曼·阿夫托尔汉诺夫] || 简体PDF(扫描版) || 2014-01-09 || [https://docs.google.com/document/d/13Z-89kprEvsiydS7dwsZIS5Qkq2D_yzJcbnULCYfDd4/ 简介]
 |-
 | 帝国的消亡<br>——当代俄罗斯的教训 || Collapse of an Empire<br>——Lessons for Modern Russia || (俄) [https://en.wikipedia.org/wiki/Yegor_Gaidar 盖达尔] || 简体PDF(扫描版) || 2015-01-12 || [https://docs.google.com/document/d/1ihycKceWdsyeMWZqC3hvb1H60Ozklr1HiXpYzvEtkrE/ 简介]
 |-
@@ -1076,23 +1076,25 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 政治遗嘱<br>——格·瓦·普列汉诺夫最后的想法 || N/A || (苏) [https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%A5%A5%E5%B0%94%E5%9F%BA%C2%B7%E7%93%A6%E8%BF%9E%E4%BA%AC%E8%AF%BA%E7%BB%B4%E5%A5%87%C2%B7%E6%99%AE%E5%88%97%E6%B1%89%E8%AF%BA%E5%A4%AB 格奥尔基·普列汉诺夫] || 简体PDF<br>简体HTML || 2018-08-09<br>2016-12-23 || [https://docs.google.com/document/d/1j-1d8E2-JnFKm2ABLyIV66-ixuV3G61Cjbgf0pdaCpg/ 简介]
+|-
 | 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography Based on Explosive New Documents from Russia's Secret Archives || (俄) [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-01-01<br>2013-09-13<br>2018-11-10 || [https://docs.google.com/document/d/1EvA5-uZIFEx44C01IzOZOXx2zEm4xMXAbktEgCixu4I/ 简介]
 |-
-| 我的生平<br>——托洛茨基自传 || My Life<br>——An Attempt at an Autobiography || (苏) [https://zh.wikipedia.org/wiki/%E5%88%97%E5%A4%AB%C2%B7%E8%BE%BE%E7%BB%B4%E5%A4%9A%E7%BB%B4%E5%A5%87%C2%B7%E6%89%98%E6%B4%9B%E8%8C%A8%E5%9F%BA 托洛茨基] || 简体PDF(扫描版) || 2015-10-24 || [https://docs.google.com/document/d/1Owb1KJ7WQKOWnIv5WiCyPvwBokVdAALUsJqvJ7BD6Yo/ 简介]
+| 斯大林秘书回忆录 || Memoirs of the Former Secretary of Stalin || (苏) [https://en.wikipedia.org/wiki/Boris_Bazhanov 波利斯·巴让诺夫] || 简体PDF(扫描版) || 2015-11-19 || [https://docs.google.com/document/d/1p9aweHos_tjxIujcGN8oNHwqt-NbLG_2WW_ec7a_EN8/ 简介]
 |-
-| 赫鲁晓夫回忆录 || N/A || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 赫鲁晓夫] || 简体PDF(上下卷 扫描版) || 2016-12-09 || [https://docs.google.com/document/d/107W39qLdxWTc-XIGMohJTia3IAW-OIZOkMFrSwEv3Fw/ 简介]
+| 斯大林死之谜 || The Mystery of Stalin's Death<br>——Beria's Plot || (俄) [https://en.wikipedia.org/wiki/Abdurakhman_Avtorkhanov 阿卜杜拉赫曼·阿夫托尔汉诺夫] || 简体PDF(扫描版) || 2016-12-18 || [https://docs.google.com/document/d/11bvKgGt8Do5KUnTRN2yb36kr8z2QTTGVpeDUni2SnZw/ 简介]
 |-
-| 最后的遗言<br>——赫鲁晓夫回忆录续集 || N/A || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 赫鲁晓夫] || 简体PDF(扫描版) || 2016-12-09 || [https://docs.google.com/document/d/1iL6_PX_ik-22Ux8XhneylRJiHASJPmOjk3vDyR884KM/ 简介]
+| 仅仅一年<br>——斯大林女儿回忆录 || Only One Year || (美) [https://zh.wikipedia.org/wiki/%E6%96%AF%E9%9F%A6%E7%89%B9%E5%85%B0%E5%A8%9C%C2%B7%E7%BA%A6%E7%91%9F%E7%A6%8F%E8%8A%99%E5%A8%9C%C2%B7%E9%98%BF%E5%88%A9%E5%8D%A2%E8%80%B6%E5%A8%83 斯维特兰娜·阿利卢耶娃] || 简体PDF(扫描版) || 2018-08-09 || [https://docs.google.com/document/d/1Vw0V9S9kVM1I74CxEvSxdUSbIs8nyqk0_wWrFsorZCw/ 简介]
 |-
-| “真相”与自白<br>——戈尔巴乔夫回忆录 || Memoirs || (俄) [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB 戈尔巴乔夫] || 简体EPUB<br>简体MOBI || 2013-10-20<br>2014-02-23 || [https://docs.google.com/document/d/1cYbD46nSXFxGNM_jJoKKnxEn3j4zy6GHwMYnzGbRdi0/ 简介]
+| 我的生平<br>——托洛茨基自传 || My Life<br>——An Attempt at an Autobiography || (苏) [https://zh.wikipedia.org/wiki/%E5%88%97%E5%A4%AB%C2%B7%E8%BE%BE%E7%BB%B4%E5%A4%9A%E7%BB%B4%E5%A5%87%C2%B7%E6%89%98%E6%B4%9B%E8%8C%A8%E5%9F%BA 列夫·托洛茨基] || 简体PDF(扫描版) || 2015-10-24 || [https://docs.google.com/document/d/1Owb1KJ7WQKOWnIv5WiCyPvwBokVdAALUsJqvJ7BD6Yo/ 简介]
 |-
-| 斯大林秘书回忆录 || N/A || (苏) 波利斯·巴让诺夫 || 简体PDF(扫描版) || 2015-11-19 || [https://docs.google.com/document/d/1p9aweHos_tjxIujcGN8oNHwqt-NbLG_2WW_ec7a_EN8/ 简介]
+| 先知三部曲<br>''包括如下：''<br>第1部 武装的先知——托洛茨基1879~1921<br>第2部 被解除武装的先知——托洛茨基1921~1929<br>第3部 流亡的先知——托洛茨基1929~1940 || The Prophet<br>——The Life of Leon Trotsky || (波兰) [https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E5%A4%9A%E4%BC%8A%E5%BD%BB 伊萨克·多伊彻] || 简体HTML(文字版) || 2019-02-12 || [https://docs.google.com/document/d/1zwf46zNqNuX-W1T2mTQDk753Q86S4hzekvyqjGTSZZc/ 简介]
 |-
-| 斯大林死之谜 || N/A || (苏) 阿·阿夫托尔哈诺夫 || 简体PDF(扫描版) || 2016-12-18 || [https://docs.google.com/document/d/11bvKgGt8Do5KUnTRN2yb36kr8z2QTTGVpeDUni2SnZw/ 简介]
+| 赫鲁晓夫回忆录 || N/A || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 尼基塔·赫鲁晓夫] || 简体PDF(上下卷 扫描版) || 2016-12-09 || [https://docs.google.com/document/d/107W39qLdxWTc-XIGMohJTia3IAW-OIZOkMFrSwEv3Fw/ 简介]
 |-
-| 政治遗嘱<br>——格·瓦·普列汉诺夫最后的想法 || N/A || (俄) [https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%A5%A5%E5%B0%94%E5%9F%BA%C2%B7%E7%93%A6%E8%BF%9E%E4%BA%AC%E8%AF%BA%E7%BB%B4%E5%A5%87%C2%B7%E6%99%AE%E5%88%97%E6%B1%89%E8%AF%BA%E5%A4%AB 格·瓦·普列汉诺夫] || 简体PDF<br>简体HTML || 2018-08-09<br>2016-12-23 || [https://docs.google.com/document/d/1j-1d8E2-JnFKm2ABLyIV66-ixuV3G61Cjbgf0pdaCpg/ 简介]
+| 最后的遗言<br>——赫鲁晓夫回忆录续集 || N/A || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 尼基塔·赫鲁晓夫] || 简体PDF(扫描版) || 2016-12-09 || [https://docs.google.com/document/d/1iL6_PX_ik-22Ux8XhneylRJiHASJPmOjk3vDyR884KM/ 简介]
 |-
-| 仅仅一年<br>——斯大林女儿回忆录 || Only One Year || (俄) [https://zh.wikipedia.org/wiki/%E6%96%AF%E9%9F%A6%E7%89%B9%E5%85%B0%E5%A8%9C%C2%B7%E7%BA%A6%E7%91%9F%E7%A6%8F%E8%8A%99%E5%A8%9C%C2%B7%E9%98%BF%E5%88%A9%E5%8D%A2%E8%80%B6%E5%A8%83 斯维特兰娜·阿利卢耶娃] || 简体PDF(扫描版) || 2018-08-09 || [https://docs.google.com/document/d/1Vw0V9S9kVM1I74CxEvSxdUSbIs8nyqk0_wWrFsorZCw/ 简介]
+| “真相”与自白<br>——戈尔巴乔夫回忆录 || Memoirs || (俄) [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB 米哈伊尔·戈尔巴乔夫] || 简体EPUB<br>简体MOBI || 2013-10-20<br>2014-02-23 || [https://docs.google.com/document/d/1cYbD46nSXFxGNM_jJoKKnxEn3j4zy6GHwMYnzGbRdi0/ 简介]
 |}
 
 === 1.5.3 大清洗与古拉格 ===
