@@ -1227,7 +1227,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 波尔布特传 || 王爱飞 || 简体PDF || 2013-05-19 || [https://docs.google.com/document/d/1jmDnghvVituKsMVEhNO4sdFJnVaHBTRpBZgv4qGA5z0/ 简介]
 |}
 
-=== 1.9.3 捷克斯洛伐克 ===
+=== 1.9.3 西班牙 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 西班牙的民主和内战，1931~1939 || Democracy and Civil War in Spain 1931~1939 || (英) [https://es.wikipedia.org/wiki/Martin_Blinkhorn 马丁·布林克霍恩] || 简体PDF(大字版) || 2019-02-18 || [https://docs.google.com/document/d/1_I2k0l7XS_r8jWlFZHkHUzm8zN59VZrUMxq4B02E4us/ 简介]
+|}
+
+=== 1.9.4 捷克斯洛伐克 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1241,7 +1249,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 严寒来自克里姆林宫 || Frost comes from Kremlin || (捷克) [https://zh.wikipedia.org/wiki/%E5%85%B9%E5%BE%B7%E6%B6%85%E5%85%8B%C2%B7%E5%A7%86%E6%9E%97%E7%BA%B3%E6%97%A5 姆林纳日] || 简体PDF(扫描版) || 2014-07-12 || [https://docs.google.com/document/d/1fPEn8vp0z7cVE4FXK1YtYlSYxMxX0yduwM3MyOxjBz4/ 简介]
 |}
 
-=== 1.9.4 罗马尼亚 ===
+=== 1.9.5 波兰 ===
+
+{|
+! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 瓦文萨自传 || (波兰) [https://zh.wikipedia.org/wiki/%E8%8E%B1%E8%B5%AB%C2%B7%E7%93%A6%E6%96%87%E8%90%A8 瓦文萨] || 简体PDF(扫描版) || 2016-12-10 || [https://docs.google.com/document/d/11lKFwH1u5uYFXx34bhVN5e5qNmktjCDOeQ36qjCbHwk/ 简介]
+|}
+
+=== 1.9.6 罗马尼亚 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1253,15 +1269,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 黑信封 || The Black Envelope || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版) || 2014-05-04 || [https://docs.google.com/document/d/16W5mzHLnF_UE2whBqzlE8_9bqs8gxhIuKZTBH-33eEk/ 简介]
 |}
 
-=== 1.9.5 波兰 ===
-
-{|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
-|-
-| 瓦文萨自传 || (波兰) [https://zh.wikipedia.org/wiki/%E8%8E%B1%E8%B5%AB%C2%B7%E7%93%A6%E6%96%87%E8%90%A8 瓦文萨] || 简体PDF(扫描版) || 2016-12-10 || [https://docs.google.com/document/d/11lKFwH1u5uYFXx34bhVN5e5qNmktjCDOeQ36qjCbHwk/ 简介]
-|}
-
-=== 1.9.6 古巴 ===
+=== 1.9.7 古巴 ===
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
