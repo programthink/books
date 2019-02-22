@@ -1046,23 +1046,23 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 牛津通识读本：俄国革命 || The Russian Revolution<br>——A Very Short Introduction || S. A. Smith || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1fmul4fy7hvWg9EUo9EZDhYxHt7irgh3S5IRED2i183s/ 简介]
+|-
 | 苏共野史<br>——党治制的由来 || The Communist Party Apparatus || (俄) [https://en.wikipedia.org/wiki/Abdurakhman_Avtorkhanov 阿卜杜拉赫曼·阿夫托尔汉诺夫] || 简体PDF(扫描版) || 2014-01-09 || [https://docs.google.com/document/d/13Z-89kprEvsiydS7dwsZIS5Qkq2D_yzJcbnULCYfDd4/ 简介]
 |-
-| 帝国的消亡<br>——当代俄罗斯的教训 || Collapse of an Empire<br>——Lessons for Modern Russia || (俄) [https://en.wikipedia.org/wiki/Yegor_Gaidar 盖达尔] || 简体PDF(扫描版) || 2015-01-12 || [https://docs.google.com/document/d/1ihycKceWdsyeMWZqC3hvb1H60Ozklr1HiXpYzvEtkrE/ 简介]
+| 苏联政治内幕<br>——知情者的见证 || The System<br>——An Insider's Life in Soviet Politics || (俄) [https://en.wikipedia.org/wiki/Georgy_Arbatov 乔治·阿尔巴托夫] || 简体PDF(扫描版) || 2016-12-18 || [https://docs.google.com/document/d/1GiMiGeeTW6VWXm_aXJ87A9vvvU6MXb9VeTwbmwXQZ1I/ 简介]
 |-
-| 大国悲剧<br>——苏联解体的前因后果 || N/A || (俄) [https://en.wikipedia.org/wiki/Nikolai_Ryzhkov 雷日科夫] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1Y0OOhxAdwGWTAve4OH29KxdwEEvkKXJEl5qKyyxgakc/ 简介]
+| 苏联解体亲历记 || Autopsy on an Empire<br>——The American Ambassador's Account of the Collapse of the Soviet Union || (美) [https://en.wikipedia.org/wiki/Jack_F._Matlock_Jr. 小杰克·马特洛克] || 简体PDF(上下册)<br>简体PDF(扫描版) || 2019-02-22<br>2013-07-07 || [https://docs.google.com/document/d/1Z4PyrlLa6OqRSgf8rwyVFCPy4Th2VhL3AfLG5jvncdg/ 简介]
+|-
+| 帝国的消亡<br>——当代俄罗斯的教训 || Collapse of an Empire<br>——Lessons for Modern Russia || (俄) [https://en.wikipedia.org/wiki/Yegor_Gaidar 叶戈尔·盖达尔] || 简体PDF(扫描版) || 2015-01-12 || [https://docs.google.com/document/d/1ihycKceWdsyeMWZqC3hvb1H60Ozklr1HiXpYzvEtkrE/ 简介]
 |-
 | 苏联的最后一年 || N/A || (俄) [https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%8A%C2%B7%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E7%BD%97%E7%BB%B4%E5%A5%87%C2%B7%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB 罗伊·麦德维杰夫] || 简体PDF(扫描版) || 2018-08-09 || [https://docs.google.com/document/d/18DpCZH8LkJvzkON0T7Z1wcUcrnoRq_4jYKngm2F2JMM/ 简介]
 |-
-| 苏联政治内幕<br>——知情者的见证 || N/A || (苏) 格·阿·阿尔巴托夫 || 简体PDF(扫描版) || 2016-12-18 || [https://docs.google.com/document/d/1GiMiGeeTW6VWXm_aXJ87A9vvvU6MXb9VeTwbmwXQZ1I/ 简介]
+| 大国悲剧<br>——苏联解体的前因后果 || N/A || (俄) [https://en.wikipedia.org/wiki/Nikolai_Ryzhkov 尼古拉·雷日科夫] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1Y0OOhxAdwGWTAve4OH29KxdwEEvkKXJEl5qKyyxgakc/ 简介]
 |-
-| 帝国<br>——俄罗斯五十年 || Imperium || (波兰) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 卡普钦斯基] || 繁體PDF(豎排掃描版) || 2013-11-26 || [https://docs.google.com/document/d/1LZXoC-PtRh5Wpu64cIprj_k6wYIc7VrtUwpLM2KYa98/ 简介]
+| 一个大国的崛起与崩溃<br>——苏联历史专题研究，1917~1991 || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] (主编) || 简体PDF(上中下册 扫描版)<br>简体TXT || 2015-11-03<br>2018-08-09 || [https://docs.google.com/document/d/1f0N3zGNivAeSuVK-6Los9X4x0kipEyO3Wwh0LcSWZmQ/ 简介]
 |-
-| 苏联解体亲历记 || N/A || (美) 小杰克·马特洛克 || 简体PDF(扫描版) || 2013-07-07 || [https://docs.google.com/document/d/1Z4PyrlLa6OqRSgf8rwyVFCPy4Th2VhL3AfLG5jvncdg/ 简介]
-|-
-| 牛津通识读本：俄国革命 || The Russian Revolution || S. A. Smith || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1fmul4fy7hvWg9EUo9EZDhYxHt7irgh3S5IRED2i183s/ 简介]
-|-
-| 一个大国的崛起与崩溃<br>——苏联历史专题研究（1917-1991） || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] (主编) || 简体PDF(上中下册 扫描版)<br>简体TXT || 2015-11-03<br>2018-08-09 || [https://docs.google.com/document/d/1f0N3zGNivAeSuVK-6Los9X4x0kipEyO3Wwh0LcSWZmQ/ 简介]
+| 帝国<br>——俄罗斯五十年 || Imperium || (波兰) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 雷沙德·卡普钦斯基] || 繁體PDF(豎排掃描版) || 2013-11-26 || [https://docs.google.com/document/d/1LZXoC-PtRh5Wpu64cIprj_k6wYIc7VrtUwpLM2KYa98/ 简介]
 |-
 | 苏联兴亡史纲 || N/A || 陈之骅<br>等 || 简体PDF(扫描版) || 2013-01-01 || [https://docs.google.com/document/d/1kaSn2dAMOoDcPHMtZ1gSsEWCbn_G48NtZtYZf12RPso/ 简介]
 |-
