@@ -478,17 +478,19 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 失落的一代<br>——中国的上山下乡运动(1968~1980) || The Lost Generation<br>——The Rustification of Chinese Youth (1968~1980) || (法) [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 米歇尔·博南] (中文名：潘鸣啸) || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2016-12-14<br>2013-08-11<br>2014-05-18<br>2018-11-10 || [https://docs.google.com/document/d/1Is-aT8LU5QqWpbQ0xu298Paygsc-Gg39WQA8P5gnR-k/ 简介]
 |-
+| 知青备忘录<br>——上山下乡运动中的生产建设兵团 || N/A || 史卫民<br>何岚 || 简体PDF(扫描版) || 2019-02-23 || [https://docs.google.com/document/d/1QW1sRgtdE5edfiFXF0tQw-OYEGHN3FbucyFrqurWUaY/ 简介]
+|-
 | 文化大革命研究资料 || N/A || 国防大学党史党建政工教研室 || 简体PDF(上中下 扫描版) || 2013-11-30 || [https://docs.google.com/document/d/1sc1RNW_DRmXBMrCo3A4H1QdbLMlCOZUJrBiJ9XTqlqk/ 简介]
 |-
 | 文革研究 || N/A || (多人) || 简体PDF || 2012-04-06 || [https://docs.google.com/document/d/1xWB8X5r6e26lrQKb4BSAwxM5oqoaBHg4wDUmGMZdxnM/ 简介]
 |-
-| 周恩来文革讲话集 || N/A || 周恩来 || 简体TXT<br>简体PDF(拍照版) || 2014-03-20<br>2015-07-14 || [https://docs.google.com/document/d/1aUbLHU383mU3zZinA-tTk8mmwxd0sH_LmgxRA2TKFXU/ 简介]
+| 周恩来文革讲话集 || N/A || [https://zh.wikipedia.org/wiki/%E5%91%A8%E6%81%A9%E6%9D%A5 周恩来] || 简体TXT<br>简体PDF(拍照版) || 2014-03-20<br>2015-07-14 || [https://docs.google.com/document/d/1aUbLHU383mU3zZinA-tTk8mmwxd0sH_LmgxRA2TKFXU/ 简介]
 |-
 | 随想录 || N/A || [https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91 巴金] (原名：李尧棠) || 简体PDF(扫描版)<br>繁體MOBI || 2014-01-09<br>2014-06-22 || [https://docs.google.com/document/d/1lMKhcaeDXTNxvo97zXEmJzMwyC9isBLW8Yt_HRO3HHU/ 简介]
 |-
 | 遇罗克之遗作与回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93_(%E4%BD%9C%E5%AE%B6) 徐晓]<br>丁东<br>[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF(扫描版) || 2013-03-16 || [https://docs.google.com/document/d/1HCcLOgDygvtTz5LuogalYJyysH6ZZLnPpmdPzuYS7-g/ 简介]
 |-
-| 牛鬼蛇神录<br>——文革囚禁中的精灵 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/ 简介]
+| 牛鬼蛇神录<br>——文革囚禁中的精灵 || The Captive Spirits || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/ 简介]
 |-
 | 1966<br>——我们那一代的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] (主编) || 简体PDF(扫描版) || 2017-08-13 || [https://docs.google.com/document/d/1-XqmXDsaUBUdSQkB8W-9iZ3Udr9RZdmu3CzOlBq1M3Y/ 简介]
 |-
