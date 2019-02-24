@@ -1088,6 +1088,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 关于个人崇拜及其后果<br>''其它中文名：''<br>苏共二十大秘密报告 || On the Cult of Personality and Its Consequences || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 尼基塔·赫鲁晓夫] || 简体TXT || 2019-02-25 || [https://docs.google.com/document/d/14dP5H4kZM4l_X_NRW6NIGOwFm5D1aCJT1zROEK-3gpI/ 简介]
+|-
 | 斯大林秘闻<br>——原苏联秘密档案披露 || Stalin<br>——The First In-depth Biography Based on Explosive New Documents from Russia's Secret Archives || (俄) [https://en.wikipedia.org/wiki/Edvard_Radzinsky 爱德华·拉津斯基] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-01-01<br>2013-09-13<br>2018-11-10 || [https://docs.google.com/document/d/1EvA5-uZIFEx44C01IzOZOXx2zEm4xMXAbktEgCixu4I/ 简介]
 |-
 | 斯大林秘书回忆录 || Memoirs of the Former Secretary of Stalin || (苏) [https://en.wikipedia.org/wiki/Boris_Bazhanov 波利斯·巴让诺夫] || 简体PDF(扫描版) || 2015-11-19 || [https://docs.google.com/document/d/1p9aweHos_tjxIujcGN8oNHwqt-NbLG_2WW_ec7a_EN8/ 简介]
@@ -1110,11 +1112,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 ==== 1.5.2.4 赫鲁晓夫 ====
 
 {|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 赫鲁晓夫回忆录 || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 尼基塔·赫鲁晓夫] || 简体PDF(上下卷 扫描版) || 2016-12-09 || [https://docs.google.com/document/d/107W39qLdxWTc-XIGMohJTia3IAW-OIZOkMFrSwEv3Fw/ 简介]
+| 赫鲁晓夫回忆录 || Memoirs of Nikita Khrushchev || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 尼基塔·赫鲁晓夫] || 简体PDF(上下卷 扫描版) || 2016-12-09 || [https://docs.google.com/document/d/107W39qLdxWTc-XIGMohJTia3IAW-OIZOkMFrSwEv3Fw/ 简介]
 |-
-| 最后的遗言<br>——赫鲁晓夫回忆录续集 || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 尼基塔·赫鲁晓夫] || 简体PDF(扫描版) || 2016-12-09 || [https://docs.google.com/document/d/1iL6_PX_ik-22Ux8XhneylRJiHASJPmOjk3vDyR884KM/ 简介]
+| 最后的遗言<br>——赫鲁晓夫回忆录续集 || Memoirs of Nikita Khrushchev || (苏) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%9F%BA%E5%A1%94%C2%B7%E8%AC%9D%E7%88%BE%E8%93%8B%E8%80%B6%E7%B6%AD%E5%A5%87%C2%B7%E8%B5%AB%E9%AD%AF%E6%9B%89%E5%A4%AB 尼基塔·赫鲁晓夫] || 简体PDF(扫描版) || 2016-12-09 || [https://docs.google.com/document/d/1iL6_PX_ik-22Ux8XhneylRJiHASJPmOjk3vDyR884KM/ 简介]
 |}
 
 ==== 1.5.2.5 勃列日涅夫 ====
