@@ -2589,15 +2589,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 计算机程序的构造和解释 || Structure and Interpretation of Computer Programs<br>''知名缩写：''SICP || (美) [https://en.wikipedia.org/wiki/Harold_Abelson Harold Abelson]<br>(美) [https://en.wikipedia.org/wiki/Gerald_Jay_Sussman Gerald Jay Sussman]<br>(美) Julie Sussman || 简体PDF(第2版 扫描版)<br>英文PDF(第2版)<br>[https://mitpress.mit.edu/sicp/full-text/book/book.html 英文WEB] || 2015-07-20<br>2016-12-21<br>N/A || [https://docs.google.com/document/d/1gS6ON92bvELZbEm1W8P-koO-lnNCU0WQEyQ6yLGJ7aM/ 简介]
 |-
-| ANSI Common Lisp || ANSI Common Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PDF<br>英文PDF<br>[http://acl.readthedocs.org/en/latest/zhCN/index.html 简体WEB]<br>[http://acl.readthedocs.org/en/latest/zhTW/index.html 繁體WEB] || 2018-06-28<br>2015-01-11<br>N/A<br>N/A || [https://docs.google.com/document/d/1CsL7qThJKwtc-d-pNVRk6y0YPRimOkftX3I5ifuO9eE/ 简介]
+| ANSI Common Lisp || ANSI Common Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 Paul Graham] || 简体PDF<br>英文PDF<br>[http://acl.readthedocs.org/en/latest/zhCN/index.html 简体WEB]<br>[http://acl.readthedocs.org/en/latest/zhTW/index.html 繁體WEB] || 2018-06-28<br>2015-01-11<br>N/A<br>N/A || [https://docs.google.com/document/d/1CsL7qThJKwtc-d-pNVRk6y0YPRimOkftX3I5ifuO9eE/ 简介]
 |-
 | 实用 Common Lisp 编程 || Practical Common Lisp || (美) Peter Seibel || 简体PDF(扫描版) || 2018-06-28 || [https://docs.google.com/document/d/1moTJVWBhF1XVS7LiIFuQ9kKyceLZfYZeIR_P1e002ms/ 简介]
 |-
 | Common Lisp<br>——The Language || Common Lisp<br>——The Language || (美) [https://en.wikipedia.org/wiki/Guy_L._Steele Guy Steele] || 英文PDF(第2版)<br>英文PS(第2版)<br>[http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html 英文WEB] || 2017-05-09<br>2016-12-21<br>N/A || [https://docs.google.com/document/d/10eQa2K98RhcGGf_gHWqMIfzVlsuKj58cc3nrFKlUkNY/ 简介]
 |-
-| On Lisp<br>——Advanced Techniques for Common Lisp || On Lisp<br>——Advanced Techniques for Common Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PDF<br>英文PDF || 2017-08-09<br>2015-01-11 || [https://docs.google.com/document/d/1qd9ACI4irGieg6VAxW00v3Ro308UtnwuUtaNl_R4s20/ 简介]
+| On Lisp<br>——Advanced Techniques for Common Lisp || On Lisp<br>——Advanced Techniques for Common Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 Paul Graham] || 简体PDF<br>英文PDF || 2017-08-09<br>2015-01-11 || [https://docs.google.com/document/d/1qd9ACI4irGieg6VAxW00v3Ro308UtnwuUtaNl_R4s20/ 简介]
 |-
-| Lisp 之根源 || The Roots of Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PS<br>英文PDF<br>[http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html 简体WEB] || 2018-07-20<br>2016-12-12<br>N/A || [https://docs.google.com/document/d/1RskcdY9Ga7O8YV_ciefzukVOjvUMun5khGKsrIJtsDI/ 简介]
+| Lisp 之根源 || The Roots of Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 Paul Graham] || 简体PS<br>英文PDF<br>[http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html 简体WEB] || 2018-07-20<br>2016-12-12<br>N/A || [https://docs.google.com/document/d/1RskcdY9Ga7O8YV_ciefzukVOjvUMun5khGKsrIJtsDI/ 简介]
 |-
 | Lisp 的演化 || The Evolution of Lisp || (美) [https://en.wikipedia.org/wiki/Guy_L._Steele Guy Steele]<br>(美) [https://en.wikipedia.org/wiki/Richard_P._Gabriel Richard Gabriel] || 英文PDF || 2018-10-29 || [https://docs.google.com/document/d/1MUUddXp-u0Ol_1XEloMucUQOHtSRAk_Sp4eB3lJuAS0/ 简介]
 |-
@@ -2687,7 +2687,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| UNIX 编程艺术 || The Art of UNIX Programming<br>''知名缩写：''TAOUP || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] || 简体PDF(扫描版)<br>英文CHM<br>英文EPUB<br>英文MOBI || 2017-05-06<br>2013-10-20<br>2018-08-04<br>2018-08-04 || [https://docs.google.com/document/d/1ye7MwcaM2s24-uopFBCJBXFjtQ_Y9qJ3Iki8l_PglYk/ 简介]
+| UNIX 编程艺术 || The Art of UNIX Programming<br>''知名缩写：''TAOUP || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 Eric Raymond] || 简体PDF(扫描版)<br>英文CHM<br>英文EPUB<br>英文MOBI || 2017-05-06<br>2013-10-20<br>2018-08-04<br>2018-08-04 || [https://docs.google.com/document/d/1ye7MwcaM2s24-uopFBCJBXFjtQ_Y9qJ3Iki8l_PglYk/ 简介]
 |-
 | UNIX 环境高级编程 || Advanced Programming in the UNIX Environment<br>''知名缩写：''APUE || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF 理查德·史蒂文斯]<br>Stephen Rago || 简体PDF(第3版 扫描版)<br>简体PDF(第2版 扫描版)<br>英文PDF(第3版)<br>英文CHM(第2版) || 2017-08-09<br>2014-05-13<br>2013-11-14<br>2013-10-21 || [https://docs.google.com/document/d/1adRpAlfSYfbM5nGOorLF3JnjteC9mpUSMiCKlOdtxLY/ 简介]
 |-
@@ -2765,9 +2765,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 大教堂与集市<br>''其它中文名：''<br>黑客五部曲<br>''包括如下：''<br>黑客文化简史<br>大教堂和集市<br>如何成为一名黑客<br>开拓智域<br>魔法大锅炉 || The Cathedral and the Bazaar || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 埃里克·雷蒙德] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-10-20<br>2015-12-25<br>2015-12-25 || [https://docs.google.com/document/d/1QAURpCzvbg4Fbjj0Brgu5DD5Rth79O91DLOx6HmNVLA/ 简介]
+| 自由软件，自由社会<br>——理查德·斯托曼选集 || Free Software, Free Society<br>——Selected Essays of Richard M. Stallman || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC Richard Stallman] || 简体PDF(第3版)<br>简体EPUB(第3版)<br>英文PDF(第3版) || 2019-03-14<br>2019-03-14<br>2019-03-14 || [https://docs.google.com/document/d/1kTL8VE6AoUZCJY2OJ3qv39nJpFn7zj6EacAHXyNXfEY/ 简介]
 |-
-| 黑客与画家 || Hackers and Painters<br>——Big Ideas from the Computer Age || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2016-04-29<br>2017-08-08 || [https://docs.google.com/document/d/17i49-SpeKz1wRG5S-HPonO-lXJHD99h62gDsQ64NWXo/ 简介]
+| 大教堂与集市<br>''其它中文名：''<br>黑客五部曲<br>''包括如下：''<br>黑客文化简史<br>大教堂和集市<br>如何成为一名黑客<br>开拓智域<br>魔法大锅炉 || The Cathedral and the Bazaar || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 Eric Raymond] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-10-20<br>2015-12-25<br>2015-12-25 || [https://docs.google.com/document/d/1QAURpCzvbg4Fbjj0Brgu5DD5Rth79O91DLOx6HmNVLA/ 简介]
+|-
+| 黑客与画家 || Hackers and Painters<br>——Big Ideas from the Computer Age || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 Paul Graham] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2016-04-29<br>2017-08-08 || [https://docs.google.com/document/d/17i49-SpeKz1wRG5S-HPonO-lXJHD99h62gDsQ64NWXo/ 简介]
 |-
 | 黑客<br>——计算机革命的英雄 || Hackers<br>——Heroes of the Computer Revolution || (美) [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF(25周年纪念版 扫描版)<br>简体MOBI(25周年纪念版)<br>简体EPUB<br>英文PDF || 2014-01-28<br>2015-07-20<br>2015-07-20<br>2015-05-12 || [https://docs.google.com/document/d/1hxZBCKQAk9bfiaxugGqmkG1Nn0a8v8SBxuT3MneaMbg/ 简介]
 |-
@@ -2775,9 +2777,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 乐者为王<br>——自由软件 Linux 之父李纳斯·托沃兹自述<br>''其它中文名：''<br>只是为了好玩<br>——Linux 之父林纳斯自传 || Just for Fun<br>——The Story of an Accidental Revolutionary || (芬兰) [https://en.wikipedia.org/wiki/Linus_Torvalds Linus Torvalds] || 简体EPUB<br>简体PDF(扫描版) || 2015-11-15<br>2016-12-12 || [https://docs.google.com/document/d/1FCfoVjJlBHQJAkUB3Gj7ocSRKhC5bCnM83o-jOqAUgU/ 简介]
 |-
-| 自由文化 || Free Culture<br>——How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity || (美) [https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%96%87%E5%8C%96 劳伦斯·莱斯格] || 英文PDF || 2015-12-09 || [https://docs.google.com/document/d/1LYJ92vSfRHdEXwgBoR3IjwxIDyBw8BHSyIShHz_XipE/ 简介]
+| 自由文化 || Free Culture<br>——How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity || (美) [https://zh.wikipedia.org/wiki/%E5%8B%9E%E5%80%AB%E6%96%AF%C2%B7%E8%90%8A%E6%96%AF%E6%A0%BC Lawrence Lessig] || 英文PDF || 2015-12-09 || [https://docs.google.com/document/d/1LYJ92vSfRHdEXwgBoR3IjwxIDyBw8BHSyIShHz_XipE/ 简介]
 |-
-| 制造开源软件<br>——如何成功运营自由软件项目 || Producing Open Source Software<br>——How to Run a Successful Free Software Project || [https://en.wikipedia.org/wiki/Karl_Fogel Karl Fogel] || 简体EPUB<br>英文EPUB<br>英文PDF<br>[http://producingoss.com/zh 简体WEB]<br>[http://producingoss.com/en 英文WEB] || 2016-12-21<br>2016-12-21<br>2017-05-06<br>N/A<br>N/A || [https://docs.google.com/document/d/1QsMCFk1zCJ9voQ0DUn6peKE70MYVQ95YicJXbDlcQSc/ 简介]
+| 制造开源软件<br>——如何成功运营自由软件项目 || Producing Open Source Software<br>——How to Run a Successful Free Software Project || [https://en.wikipedia.org/wiki/Karl_Fogel Karl Fogel] || 简体EPUB<br>英文EPUB<br>英文PDF<br>[https://producingoss.com/zh/ 简体WEB]<br>[https://producingoss.com/en/ 英文WEB] || 2016-12-21<br>2016-12-21<br>2017-05-06<br>N/A<br>N/A || [https://docs.google.com/document/d/1QsMCFk1zCJ9voQ0DUn6peKE70MYVQ95YicJXbDlcQSc/ 简介]
 |}
 
 == 10.3 信息安全 ==
