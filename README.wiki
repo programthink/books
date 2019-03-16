@@ -1935,7 +1935,7 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 灵山 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5 高行健] || 简体PDF<br>简体EPUB<br>简体CHM || 2013-07-07<br>2013-09-14<br>2013-07-07 || [https://docs.google.com/document/d/1_5xT1HMawJIu9O8w0sxSdW32icnxQeukHFHTmEb2SZ8/ 简介]
+| 灵山 || (法) [https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5 高行健] || 简体PDF<br>简体EPUB<br>简体CHM<br>英文PDF || 2013-07-07<br>2013-09-14<br>2013-07-07<br>2019-03-16 || [https://docs.google.com/document/d/1_5xT1HMawJIu9O8w0sxSdW32icnxQeukHFHTmEb2SZ8/ 简介]
 |-
 | 一个人的圣经 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5 高行健] || 简体PDF<br>简体CHM || 2013-07-07<br>2013-07-07 || [https://docs.google.com/document/d/1Hg8A1InUKzL26IXGtItVkgt3JGfFR7d-5gKdp2Zdn4g/ 简介]
 |-
@@ -1948,8 +1948,6 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 | 文殇 || [https://zh.wikipedia.org/wiki/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰] (原名：袁红兵) || 简体CHM || 2013-06-03 || [https://docs.google.com/document/d/1omcZP4ZC52ILlPap-G-S4YIVLYx2UnNm1uvDSCkIuv4/ 简介]
 |-
 | 沉沦的圣殿<br>——中国20世纪70年代地下诗歌遗照 || [https://zh.wikipedia.org/wiki/%E5%BB%96%E4%BA%A6%E6%AD%A6 廖亦武] (主编) || 简体PDF(扫描版)<br>简体PDF(不全) || 2013-11-26<br>2013-01-17 || [https://docs.google.com/document/d/1mEMbTUt02uLqbAxqxtQcVFEfvkgB9KMT-MOG-y0kRaY/ 简介]
-|-
-| 《让子弹飞》喻意图文解释 || (不详) || 简体CHM || 2013-02-05 || [https://docs.google.com/document/d/1SNz9f2E1BpWJX3uC_uIS5QLHgMOk6bf5R3BLVD8SeGc/ 简介]
 |}
 
 == 7.2 日本 ==
