@@ -2691,6 +2691,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | UNIX 系统编程 || UNIX Systems Programming<br>——Communication, Cocurrency, and Threads || Kay Robbins<br>Steven Robbins || 英文CHM || 2013-10-21 || [https://docs.google.com/document/d/1xsvD8-MyO309VGTOdJJGQEkLKpSDzq1d66WAttWaI90/ 简介]
 |-
+| 如何编写动态库 || How to Write Shared Libraries || (美) [https://de.wikipedia.org/wiki/Ulrich_Drepper Ulrich Drepper] || 英文PDF || 2019-03-17 || [https://docs.google.com/document/d/1UpwXITuBP4cIiKZSg6gl89tjV58BDr6uussqIAaozps/ 简介]
+|-
 | 精通 Linux 设备驱动程序开发 || Essential Linux Device Drivers || (印度) Venkateswaran || 简体PDF(扫描版) || 2015-11-06 || [https://docs.google.com/document/d/1KZuHFCKZkF1cjdLAXVvIq4TJp9XHIcM1WRt5t3I6LR8/ 简介]
 |}
 
@@ -2735,7 +2737,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 编码<br>——隐匿在计算机软硬件背后的语言 || Code<br>——The Hidden Language of Computer Hardware and Software || (美) [https://en.wikipedia.org/wiki/Charles_Petzold Charles Petzold] || 简体PDF(扫描版) || 2017-08-08 || [https://docs.google.com/document/d/1rGWcr4K-icMUm_SwC_Zq-8pTt08fHwUxnC4DqS3lU40/ 简介]
 |-
-| 每个程序员都应该了解的内存知识 || What Every Programmer Should Know About Memory || (美) Ulrich Drepper || 英文PDF || 2017-08-10 || [https://docs.google.com/document/d/1GZpQKWRs1dt-VguVC-om1qFi1tkVwvsRIAZQqvDOa7E/ 简介]
+| 每个程序员都应该了解的内存知识 || What Every Programmer Should Know About Memory || (美) [https://de.wikipedia.org/wiki/Ulrich_Drepper Ulrich Drepper] || 英文PDF || 2017-08-10 || [https://docs.google.com/document/d/1GZpQKWRs1dt-VguVC-om1qFi1tkVwvsRIAZQqvDOa7E/ 简介]
 |}
 
 === 10.1.9 (其它) ===
