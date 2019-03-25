@@ -2875,13 +2875,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| Shell 脚本学习指南 || Classic Shell Scripting || Arnold Robbins<br>Nelson Beebe || 简体PDF(扫描版) || 2014-05-18 || [https://docs.google.com/document/d/1Zw8XD56F6rCi899UxIE-0sKoXWr2WGqiUNcRl70kIYk/ 简介]
+| Shell 脚本学习指南 || Classic Shell Scripting || (美) Arnold Robbins<br>(美) Nelson Beebe || 简体PDF(扫描版) || 2014-05-18 || [https://docs.google.com/document/d/1Zw8XD56F6rCi899UxIE-0sKoXWr2WGqiUNcRl70kIYk/ 简介]
 |-
 | Linux 与 UNIX Shell 编程指南 || Linux and UNIX Shell Programming || David Tansley || 简体PDF(扫描版) || 2013-12-06 || [https://docs.google.com/document/d/1Nk83xAbRUdcgqUBSfDCwozA3-EUFeBz-nrpf1G7x-j0/ 简介]
 |-
+| 高级 Bash 脚本编程指南 || Advanced Bash-Scripting Guide || Mendel Cooper || 英文PDF(文档版本 6.6)<br>[https://www.tldp.org/LDP/abs/html/ 英文WEB] || 2019-03-25<br>N/A || [https://docs.google.com/document/d/1BYSgrSViVZyDTQcuhWEFAc_uc0YZvkIoQYLmv0yWo_A/ 简介]
+|-
 | 鸟哥的 Linux 私房菜 || N/A || 鸟哥 || 简体PDF<br>简体MOBI || 2013-12-06<br>2015-11-08 || [https://docs.google.com/document/d/1GFb61tNC2_O1Vk1e-rtfzgZGvJwsJVa_YBWqDtYDL_U/ 简介]
 |-
-| Linux 从入门到精通 || N/A || N/A || 简体PDF(扫描版) || 2013-12-06 || [https://docs.google.com/document/d/1bYFohD2-j7dOLyggGQVXOOVgTuQhiY2Gp-g0zQoIQRs/ 简介]
+| Linux 从入门到精通 || N/A || N/A || 简体PDF(第1版 扫描版) || 2013-12-06 || [https://docs.google.com/document/d/1bYFohD2-j7dOLyggGQVXOOVgTuQhiY2Gp-g0zQoIQRs/ 简介]
 |}
 
 === 10.4.2 操作系统原理 ===
