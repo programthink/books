@@ -2545,15 +2545,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 深入 Python || Dive into Python || (美) [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1iy-q4o_bJl5fww4jwQYPjVJ6ZQWheQ2fi5gr1Mi_yNc/ 简介]
+| Python 学习手册 || Learning Python || (美) Mark Lutz || 英文EPUB (第5版)<br>英文PDF (第4版) || 2013-10-21<br>2017-08-10 || [https://docs.google.com/document/d/16vPfijGfUWDpeUmAT-gtknS0dLbSxFGSfJ8sZJMcvKk/ 简介]
 |-
 | 深入 Python3 || Dive into Python3 || (美) [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1q-Adoq6KJXbQ-0GrLnSEaMJSOuMuhWZyL_Dy-rqFqJI/ 简介]
 |-
-| Python 学习手册 || Learning Python || Mark Lutz || 英文EPUB (第5版)<br>英文PDF (第4版) || 2013-10-21<br>2017-08-10 || [https://docs.google.com/document/d/16vPfijGfUWDpeUmAT-gtknS0dLbSxFGSfJ8sZJMcvKk/ 简介]
-|-
-| Python Cookbook || Python Cookbook || David Beazley || 英文PDF(第3版) || 2013-10-21 || [https://docs.google.com/document/d/19ryZDnCjNWyZzwmgXG9UbmsWkzM74Kl-41KjGPi4bfs/ 简介]
+| Python Cookbook || Python Cookbook || (美) David Beazley<br>(美) Brian Jones || 简体PDF(第3版)<br>[https://python3-cookbook.readthedocs.io/ 简体WEB]<br>英文PDF(第3版) || 2019-03-26<br>N/A<br>2013-10-21 || [https://docs.google.com/document/d/19ryZDnCjNWyZzwmgXG9UbmsWkzM74Kl-41KjGPi4bfs/ 简介]
 |-
 | 像计算机科学家一样思考 Python || Think Python<br>——How to Think Like a Computer Scientist || (美) [https://en.wikipedia.org/wiki/Allen_B._Downey Allen Downey] || 简体PDF(第2版)<br>英文PDF(第2版)<br>[https://greenteapress.com/thinkpython2/html/ 英文WEB] || 2018-08-04<br>2015-01-11<br>N/A || [https://docs.google.com/document/d/1TiVE4Ch426rldixyn7g6B6o7n2Ir83RXTC87qG3UzHc/ 简介]
+|-
+| 深入 Python || Dive into Python || (美) [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1iy-q4o_bJl5fww4jwQYPjVJ6ZQWheQ2fi5gr1Mi_yNc/ 简介]
 |}
 
 ==== 10.1.2.4 Java ====
