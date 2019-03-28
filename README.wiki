@@ -2858,12 +2858,18 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 逆向工程权威指南 || Reverse Engineering for Beginners<br>——Understanding Assembly Language || (乌克兰) Dennis Yurichev || 英文PDF || 2018-08-04 || [https://docs.google.com/document/d/1wHhEagVYr-lS2YJWurkzGH1oGnl76CprsuqNw7BXBhk/ 简介]
 |}
 
-=== 10.3.6 编程语言 ===
+=== 10.3.6 编程语言相关 ===
+
+（本目录下放的是“信息安全”相关的编程书籍，按【语言】归类）
+
+==== 10.3.6.1 Python ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | Python 灰帽子<br>——黑客与逆向工程师的 Python 编程之道 || Gray Hat Python<br>——Python Programming for Hackers and Reverse Engineers || (加) Justin Seitz || 英文PDF || 2018-07-29 || [https://docs.google.com/document/d/1mnCjAvsog2gWugOzN_ZZAIt7RYPlAkOrRiKTV9SmBg0/ 简介]
+|-
+| Python 黑帽子<br>——黑客与渗透测试编程之道 || Black Hat Python<br>——Python Programming for Hackers and Pentesters || (加) Justin Seitz || 英文PDF || 2019-03-28 || [https://docs.google.com/document/d/11HV7oJ_xXxII-mNCNc8H4SFe1kNSMu1f_tQEFWipLx8/ 简介]
 |-
 | Python 绝技<br>——运用 Python 成为顶级黑客 || Violent Python<br>——A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers || (美) TJ O'Connor || 简体PDF(第1版)<br>英文EPUB(第1版) || 2018-07-29<br>2015-07-21 || [https://docs.google.com/document/d/1zEkq4Sx7Eq7b75_Y6tiC6LnSyfHPgzxmT7kELtO9eXI/ 简介]
 |}
