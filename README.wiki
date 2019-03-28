@@ -2855,7 +2855,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 逆向工程权威指南 || Reverse Engineering for Beginners<br>——Understanding Assembly Language || (乌克兰) Dennis Yurichev || 英文PDF || 2018-08-04 || [https://docs.google.com/document/d/1wHhEagVYr-lS2YJWurkzGH1oGnl76CprsuqNw7BXBhk/ 简介]
+| 逆向工程权威指南<br>''其它中文名：''<br>逆向工程入门指南 || Reverse Engineering for Beginners<br>——Understanding Assembly Language<br>''知名缩写：''RE4B || (乌克兰) Dennis Yurichev || 简体EPUB<br>英文PDF || 2019-03-28<br>2018-08-04 || [https://docs.google.com/document/d/1wHhEagVYr-lS2YJWurkzGH1oGnl76CprsuqNw7BXBhk/ 简介]
 |}
 
 === 10.3.6 编程语言相关 ===
