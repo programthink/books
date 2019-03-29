@@ -2575,7 +2575,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | JavaScript 权威指南 || JavaScript<br>——The Definitive Guide || (美) David Flanagan || 简体PDF(第6版 扫描版)<br>英文PDF(第6版)<br>英文CHM(第5版) || 2015-11-15<br>2015-11-08<br>2016-12-21 || [https://docs.google.com/document/d/1cUfjSD8XD57yi9KPmqbTz2ElwVlhAk5TREK9cE3g83k/ 简介]
 |-
-| JavaScript 高级程序设计 || Professional JavaScript for Web || (美) Nicholas C. Zakas || 简体PDF(第3版 扫描版) || 2017-08-10 || [https://docs.google.com/document/d/1AHd28cq-sT36E6nEj1ot7W_FahlPDhYCaZyD79tRJNw/ 简介]
+| JavaScript 高级程序设计 || Professional JavaScript for Web Developers || (美) Nicholas Zakas || 简体PDF(第3版 扫描版)<br>英文PDF(第1版) || 2017-08-10<br>2019-03-29 || [https://docs.google.com/document/d/1AHd28cq-sT36E6nEj1ot7W_FahlPDhYCaZyD79tRJNw/ 简介]
 |-
 | JavaScript 语言精粹 || JavaScript<br>——The Good Parts || (美) [https://en.wikipedia.org/wiki/Douglas_Crockford Douglas Crockford] || 简体PDF(扫描版)<br>英文PDF || 2018-07-19<br>2016-12-21 || [https://docs.google.com/document/d/18RsrrIS1uQCoQXp8zzhIqNypkW31huvh8hGVYm3UtCc/ 简介]
 |}
