@@ -2523,7 +2523,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 超越 C++ 标准库<br>——Boost 库导论 || Beyond the C++ Standard Library<br>——An Introduction to Boost || Björn Karlsson || 英文CHM || 2018-08-04 || [https://docs.google.com/document/d/1n4ZLjOHl420PIjWo4GVlr5x8dcswNLx23Gg7ZEDfsLs/ 简介]
 |-
-| C++ 编程思想 || Thinking in C++ || (美) [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 简体PDF(第1版) || 2018-07-20 || [https://docs.google.com/document/d/1HOhVvDd2So2L-KUBBjF_VOAHbg5RfiWh2laDpuVWRps/ 简介]
+| C++ 编程思想 || Thinking in C++ || (美) [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF(第2版 卷1)<br>英文PDF(第2版 卷2)<br>简体PDF(第1版) || 2019-03-29<br>2019-03-29<br>2018-07-20 || [https://docs.google.com/document/d/1HOhVvDd2So2L-KUBBjF_VOAHbg5RfiWh2laDpuVWRps/ 简介]
 |-
 | 深度探索 C++ 对象模型 || Inside the C++ Object Model || (美) [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>简体PDF(扫描版) || 2013-10-20<br>2018-08-04 || [https://docs.google.com/document/d/12pjutyt_FHS6Ep9C_q5msT4Jb4B-1WDe0di77HRNuJI/ 简介]
 |-
