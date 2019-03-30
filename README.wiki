@@ -2611,7 +2611,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Go 程序设计语言<br>''其它中文名：''<br>Go 语言圣经 || The Go Programming Language || (美) Alan Donovan<br>(加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan] || 简体PDF(第1版) || 2018-07-20 || [https://docs.google.com/document/d/1k8ieqvuIjUNIq9e6qzAhcIKb5z6nQkAbq7LIPs-1zBw/ 简介]
 |-
-| Go 入门指南 || The Way To Go<br>——A Thorough Introduction to the Go Programming Language || (比利时) Ivo Balbaert || 英文PDF || 2018-07-20 || [https://docs.google.com/document/d/12pQNTp__2AYiKXfOZ13DMnQY1zF5akkgrXnq44g78ls/ 简介]
+| Go 入门指南 || The Way To Go<br>——A Thorough Introduction to the Go Programming Language || (比利时) Ivo Balbaert || 简体PDF<br>[https://github.com/Unknwon/the-way-to-go_ZH_CN 简体WEB]<br>英文PDF || 2019-03-30<br>N/A<br>2018-07-20 || [https://docs.google.com/document/d/12pQNTp__2AYiKXfOZ13DMnQY1zF5akkgrXnq44g78ls/ 简介]
 |-
 | Go 语言程序设计 || Programming in Go<br>——Creating Applications for the 21st Century || (英) Mark Summerfield || 英文PDF(第1版) || 2018-07-20 || [https://docs.google.com/document/d/1g5JgAnTNYYnRXZLaf3alpEZhLNXAHygdlnNMNoUYEzI/ 简介]
 |}
