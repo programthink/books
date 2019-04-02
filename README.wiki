@@ -2862,7 +2862,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 
 （本目录下放的是“信息安全”相关的编程书籍，按【语言】归类）
 
-==== 10.3.6.1 Python ====
+==== 10.3.6.1 C & C++ ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| C 语言安全编程规范 || SEI CERT C Coding Standard || (美) [https://en.wikipedia.org/wiki/CERT_Coordination_Center CERT/CC] || 英文PDF(2016版) || 2019-04-02 || [https://docs.google.com/document/d/1gYOn_6nFNWkcJ62MsBIhs57bA0ydHpfqp11lQ2R1Ko4/ 简介]
+|}
+
+==== 10.3.6.2 Python ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
