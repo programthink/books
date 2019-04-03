@@ -436,6 +436,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 天安门的力量<br>——国家-社会关系与1989学生运动 || The Power of Tiananmen<br>——State-Society Relations and the 1989 Beijing Student Movement || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版) || 2012-12-26 || [https://docs.google.com/document/d/1kybdW20dVzw-Yz6HSK3x8IWNTngKtOi5f7FmJkd6Ibc/ 简介]
 |-
+| 回顾与反思<br>——六四流亡学生17人 || N/A || (多人) || 繁體PDF || 2019-04-03 || [https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/ 简介]
+|-
 | 六四日记<br>——广场上的共和国 || A Tiananmen Journal<br>——Republic on the Square || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF(掃描版) || 2013-02-02 || [https://docs.google.com/document/d/1EJI4b4vBBIHXw5TqOD8NKw0RHceBz8kr3_Ut9kJMOUY/ 简介]
 |-
 | 王丹回忆录<br>——从六四到流亡 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體MOBI<br>繁體DOCX || 2014-03-29<br>2018-11-10<br>2013-11-26 || [https://docs.google.com/document/d/12LxI1j0Sg_FoSSW8k8WRNDpcfyuoYl2EbXpNheskb00/ 简介]
