@@ -432,6 +432,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 广场活碑<br>——一个香港女记者眼中的六四血光 || N/A || 蔡淑芳 || 简体PDF || 2014-05-23 || [https://docs.google.com/document/d/1sk4QwOQ7Aqm3DlE07TnZDnrG6MtHibmlFpr754bHLAU/ 简介]
 |-
+| 血洗京华实录<br>——香港文汇报1989年特刊 || N/A || [https://zh.wikipedia.org/wiki/%E6%96%87%E6%B1%87%E6%8A%A5_(%E9%A6%99%E6%B8%AF) 香港《文汇报》] || 繁體PDF(掃描版) || 2019-04-03 || [https://docs.google.com/document/d/14XXBwvlDnNGBx2QR7D0xHvGUQl1OUJgS8EINF_N32ZM/ 简介]
+|-
 | 中国民运反思 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体TXT<br>[http://www.64memo.com/b5/48.htm 繁體WEB] || 2013-05-01<br>2014-05-23<br>N/A || [https://docs.google.com/document/d/15mmH_jERdMEeIS7yXyJtboRcHHfumfgi7qNMOeLVbxU/ 简介]
 |-
 | 天安门的力量<br>——国家-社会关系与1989学生运动 || The Power of Tiananmen<br>——State-Society Relations and the 1989 Beijing Student Movement || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版) || 2012-12-26 || [https://docs.google.com/document/d/1kybdW20dVzw-Yz6HSK3x8IWNTngKtOi5f7FmJkd6Ibc/ 简介]
