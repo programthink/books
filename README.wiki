@@ -424,11 +424,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 八九天安门事件大事记 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1iLO5UEQrwbcGuVX8XNSd4_ObipD3cbEWhmhPYai-8l8/ 简介]
 |-
-| 历史的大爆炸<br>——六四事件全景实录 || The Big Bang of History<br>——June Fourth Movement Record || 张万舒 (原名：张清海) || 繁體PDF(掃描版) || 2017-04-29 || [https://docs.google.com/document/d/116NfvgxihQSKm0CI-56NWbKqIeg6iJXridMTOrsutoA/ 简介]
-|-
-| 人民不会忘记<br>——八九民运实录 || People Will Not Forget<br>——A Chronicle by 64 Hong Kong Reporters || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體WEB] || 2012-04-05<br>N/A || [https://docs.google.com/document/d/1MM1WDl1CzbRLc7ioU_xYuLW3zyMGv7PduLM6Pjo2iVo/ 简介]
+| 人民不会忘记<br>——八九民运实录 || People Will Not Forget<br>——A Chronicle by 64 Hong Kong Reporters || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體WEB] || 2019-04-03<br>N/A || [https://docs.google.com/document/d/1MM1WDl1CzbRLc7ioU_xYuLW3zyMGv7PduLM6Pjo2iVo/ 简介]
 |-
 | 八九民运史 || The History of the 1989 Tiananmen Square Protests || 陈小雅 || 繁體PDF<br>[http://www.64memo.com/b5/4.htm 繁體WEB] || 2014-05-23<br>N/A || [https://docs.google.com/document/d/1DbsAJAqJjb_bw22ommgSbVlf4itnXpeBWbRkr8Tw4TU/ 简介]
+|-
+| 历史的大爆炸<br>——六四事件全景实录 || The Big Bang of History<br>——June Fourth Movement Record || 张万舒 (原名：张清海) || 繁體PDF(掃描版) || 2017-04-29 || [https://docs.google.com/document/d/116NfvgxihQSKm0CI-56NWbKqIeg6iJXridMTOrsutoA/ 简介]
 |-
 | 广场活碑<br>——一个香港女记者眼中的六四血光 || N/A || 蔡淑芳 || 简体PDF || 2014-05-23 || [https://docs.google.com/document/d/1sk4QwOQ7Aqm3DlE07TnZDnrG6MtHibmlFpr754bHLAU/ 简介]
 |-
@@ -452,7 +452,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 六四诗集 || N/A || (多人) || 简体PDF || 2014-05-23 || [https://docs.google.com/document/d/1S06xVawpvJPWiQmgZEhHhW2mNPOeM2d-9bHfdvOl6VA/ 简介]
 |-
-| 关键时刻<br>——李鹏日记 || The Critical Moment<br>——Li Peng Diaries || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] || 简体CHM || 2012-04-05 || [https://docs.google.com/document/d/10OYz280lJqqFL1ZIyqqMPx7eT3xrCBiqA4uD9HiwAJ4/ 简介]
+| 关键时刻<br>——李鹏日记 || The Critical Moment<br>——Li Peng Diaries || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] (原名：李远芃) || 简体CHM || 2012-04-05 || [https://docs.google.com/document/d/10OYz280lJqqFL1ZIyqqMPx7eT3xrCBiqA4uD9HiwAJ4/ 简介]
 |-
 | 惊心动魄的五十六天 || N/A || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體WEB] || N/A || [https://docs.google.com/document/d/1YvDrb5SvM7WLCmqpsq4IyCO2GgIFLiJOTe5p-j9yMMI/ 简介]
 |-
