@@ -2908,20 +2908,40 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 
 === 10.4.2 操作系统原理 ===
 
+==== 10.4.2.1 (综述) ====
+
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 操作系统<br>——设计与实现 || Operating Systems<br>——Design and Implementation || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum] || 英文PDF(第3版) || 2016-12-15 || [https://docs.google.com/document/d/14BRBBjiVn7ZyjiRnK7Z6maD-OSYFUM2GuhhKwNMbgZQ/ 简介]
+| 操作系统<br>——设计与实现 || Operating Systems<br>——Design and Implementation || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum]<br>(美) [https://en.wikipedia.org/wiki/Abraham_Woodhull Albert Woodhull] || 英文PDF(第3版) || 2016-12-15 || [https://docs.google.com/document/d/14BRBBjiVn7ZyjiRnK7Z6maD-OSYFUM2GuhhKwNMbgZQ/ 简介]
 |-
 | 现代操作系统 || Modern Operating Systems<br>''知名缩写：''MOS || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum] || 英文PDF(第4版)<br>英文PDF(第2版 扫描版) || 2015-11-17<br>2015-11-08 || [https://docs.google.com/document/d/1ZlGkz_qQwEKdk_ry2jq4jVjusN4M9HGiLgjpwkblM5I/ 简介]
+|}
+
+==== 10.4.2.2 UNIX ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | UNIX 操作系统设计 || The Design of the UNIX Operating System || (德) Maurice Bach || 简体PDF(扫描版)<br>英文PDF || 2013-10-21<br>2015-05-12 || [https://docs.google.com/document/d/1snC3mDIVpMyWOVijMbTbGwVVfkYn5uhqBjV0xbRxoUY/ 简介]
 |-
 | 莱昂氏 UNIX 源代码分析 || A Commentary on the Sixth Edition UNIX Operating System || (澳大利亚) [https://en.wikipedia.org/wiki/John_Lions John Lions] || 英文PDF || 2018-08-03 || [https://docs.google.com/document/d/1ZJ-cjD0ZoTa3PzY9CCx1uELnsCmxhgIr7cKEkYSd-Fw/ 简介]
+|}
+
+==== 10.4.2.3 Linux ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF(第3版)<br>英文CHM(第3版) || 2013-12-06<br>2013-10-21 || [https://docs.google.com/document/d/1kzwG7YYLCWTipbaJncwDnVxC8cD8_-B9m9OkkYa4tDs/ 简介]
+|}
+
+==== 10.4.2.4 Windows ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 深入解析 Windows 操作系统<br>''其它中文名：''<br>Windows 内部揭密 || Windows Internals || (西班牙) [https://en.wikipedia.org/wiki/Mark_Russinovich Mark Russinovich]<br>David Solomon<br>Alex Ionescu || 英文PDF(第5版)<br>英文PDF(第4版)<br>简体PDF(第4版 扫描版) || 2018-08-03<br>2018-08-03<br>2018-11-09 || [https://docs.google.com/document/d/1lb_QR-35FqkW-qKFM-DPU-xnFN2Q13-qe-28_AqoOVU/ 简介]
+| 深入解析 Windows 操作系统<br>''其它中文名：''<br>Windows 内部揭密 || Windows Internals || (西班牙) [https://en.wikipedia.org/wiki/Mark_Russinovich Mark Russinovich]<br>David Solomon<br>Alex Ionescu || 英文PDF(第6版 上下册)<br>英文PDF(第5版)<br>英文PDF(第4版)<br>简体PDF(第4版 扫描版) || 2019-04-13<br>2018-08-03<br>2018-08-03<br>2018-11-09 || [https://docs.google.com/document/d/1lb_QR-35FqkW-qKFM-DPU-xnFN2Q13-qe-28_AqoOVU/ 简介]
 |}
 
 == 10.5 网络 ==
