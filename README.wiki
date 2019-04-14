@@ -2197,7 +2197,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 孙子兵法<br>''其它中文名：''<br>孙武兵法 || The Art of War || [https://zh.wikipedia.org/wiki/%E5%AD%AB%E6%AD%A6 孙武] || 简体PDF<br>繁體PDF(白話版)<br>[https://zh.wikisource.org/zh-hans/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95 简体WEB] || 2018-08-20<br>2018-08-20<br>N/A || [https://docs.google.com/document/d/18a-HeGz5YBiF1NIk1HJcByhaxB4O7IWe9Do0eJa7kuw/ 简介]
 |-
-| 战争论 || On War || (普鲁士) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 克劳塞维茨] || 简体PDF(共3卷)<br>简体PDF(扫描版) || 2013-03-22<br>2017-08-12 || [https://docs.google.com/document/d/1skqTkVfSr45pB3tWY9xk6MZc4b-xCxcxzAocvW7L9k4/ 简介]
+| 战争论 || On War || (普鲁士) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 卡尔·冯·克劳塞维茨] || 简体PDF(共3卷)<br>简体PDF(大字版 共3卷)<br>简体PDF(扫描版 共3卷) || 2013-03-22<br>2019-04-14<br>2017-08-12 || [https://docs.google.com/document/d/1skqTkVfSr45pB3tWY9xk6MZc4b-xCxcxzAocvW7L9k4/ 简介]
 |-
 | 战略论<br>——间接路线 || Strategy<br>——the indirect approach || (英) [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || 简体PDF || 2013-02-05 || [https://docs.google.com/document/d/1i_rSCi-zhlSUT0r4NRV7nq_nPxVFbE6ZG6oplk46lFs/ 简介]
 |-
