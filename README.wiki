@@ -1701,7 +1701,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 经济发展理论 || The Theory of Economic Development || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/ 简介]
 |-
-| 企业的性质<br>''其它中文名：''<br>公司的本质 || The Nature of the Firm || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 英文PDF || 2018-09-18 || [https://docs.google.com/document/d/1z589Ha_g1SpmRmp033pSjhfCHzs2PbpnSSZfPHaSdhg/ 简介]
+| 企业的性质<br>''其它中文名：''<br>公司的本质 || The Nature of the Firm || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 简体PDF<br>英文PDF || 2019-04-17<br>2018-09-18 || [https://docs.google.com/document/d/1z589Ha_g1SpmRmp033pSjhfCHzs2PbpnSSZfPHaSdhg/ 简介]
 |-
 | 社会成本问题 || The Problem of Social Cost || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 英文PDF(扫描版) || 2018-09-19 || [https://docs.google.com/document/d/1xx1cswtt6pznijDGdoFf9p-NP99Mb1VTY8Z-F_Gnu_g/ 简介]
 |-
