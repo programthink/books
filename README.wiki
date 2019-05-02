@@ -1719,7 +1719,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 资本与利息 || Capital and Interest || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 繁體PDF(第1卷 掃描版) || 2018-09-05 || [https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/ 简介]
 |-
-| 利息与价格 || Interest and Prices || (瑞典) [https://en.wikipedia.org/wiki/Knut_Wicksell 克努特·维克塞尔] || 英文PDF(扫描版) || 2018-09-19 || [https://docs.google.com/document/d/1eMRCuNPF-rk2gVjQ37Ek-_JXRWEk4CKp-C2ehUlgh1Y/ 简介]
+| 利息与价格 || Interest and Prices || (瑞典) [https://en.wikipedia.org/wiki/Knut_Wicksell 克努特·维克塞尔] || 英文PDF(扫描版)<br>英文EPUB || 2018-09-19<br>2019-05-02 || [https://docs.google.com/document/d/1eMRCuNPF-rk2gVjQ37Ek-_JXRWEk4CKp-C2ehUlgh1Y/ 简介]
 |-
 | 卡尔·马克思及其体系的终结 || Karl Marx and the Close of His System || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 英文EPUB<br>英文PDF(扫描版) || 2019-05-01<br>2018-09-22 || [https://docs.google.com/document/d/1bymMDtoDnYNDMFNQd93qspc11F_caMG2YfXD9zSrsKg/ 简介]
 |-
