@@ -3017,7 +3017,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 比特币<br>——一种点对点式的电子现金系统 || Bitcoin<br>——A Peer-to-Peer Electronic Cash System || [https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%9C%AC%E8%81%AA Satoshi Nakamoto] || 英文PDF<br>简体PDF || 2019-03-27<br>2019-03-27 || [https://docs.google.com/document/d/1Pf3uSE5xyN7gMcCtFhNLOFVByewgFBcYubanEr97cr0/ 简介]
+| 比特币<br>——一种点对点式的电子现金系统<br>''其它中文名：''<br>比特币白皮书 || Bitcoin<br>——A Peer-to-Peer Electronic Cash System || [https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%9C%AC%E8%81%AA Satoshi Nakamoto] || 英文PDF<br>简体PDF || 2019-03-27<br>2019-03-27 || [https://docs.google.com/document/d/1Pf3uSE5xyN7gMcCtFhNLOFVByewgFBcYubanEr97cr0/ 简介]
 |-
 | 区块链启示录<br>——中本聪文集 || The Book of Satoshi<br>——The Collected Writings of Bitcoin Creator Satoshi Nakamoto || (美) Phil Champagne || 简体PDF || 2019-03-27 || [https://docs.google.com/document/d/1Gy0iL_3N5HmAdvp3ua54BBn1Q8ThoOPmPIXjiXZsIOA/ 简介]
 |}
@@ -3028,6 +3028,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | Google 文件系统 || The Google File System || (美) [https://en.wikipedia.org/wiki/Sanjay_Ghemawat Sanjay Ghemawat]<br>(美) [https://en.wikipedia.org/wiki/Howard_Gobioff Howard Gobioff]<br>Shun-Tak Leung || 英文PDF || 2018-11-05 || [https://docs.google.com/document/d/1AW_EsDLrxRARwSyueCrU07BTNmB0Py_Rml3TgS4mcIw/ 简介]
+|-
+| IPFS<br>——内容寻址的版本化点对点文件系统<br>''其它中文名：''<br>IPFS 白皮书 || IPFS<br>——Content Addressed, Versioned, P2P File System || (美) [https://en.wikipedia.org/wiki/Juan_Benet_(computer_scientist) Juan Benet] || 英文PDF || 2019-05-08 || [https://docs.google.com/document/d/1XV6AmX-quKDpFkCjH2XU2rk8MsnahCf5OItaRvsIQRs/ 简介]
 |}
 
 === 10.5.3 (其它) ===
