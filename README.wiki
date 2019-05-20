@@ -418,8 +418,6 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 天安门文件<br>''其它中文名：''<br>中国六四真相 || The Tiananmen Papers || 张良 (化名) || 简体PDF<br>简体CHM || 2013-01-13<br>2012-04-05 || [https://docs.google.com/document/d/14eKfxpGBPqw6-0PFuiQASpg7T5gkeyw8kvAB0VThQDk/ 简介]
-|-
 | 天安门血腥清场内幕 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 繁體PDF || 2012-05-25 || [https://docs.google.com/document/d/1oa1eXcbW4cU1bwiMnhH5p05hoeY7gMAtDBS3QJFcTbE/ 简介]
 |-
 | 八九天安门事件大事记 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1iLO5UEQrwbcGuVX8XNSd4_ObipD3cbEWhmhPYai-8l8/ 简介]
@@ -427,6 +425,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 人民不会忘记<br>——八九民运实录 || People Will Not Forget<br>——A Chronicle by 64 Hong Kong Reporters || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體WEB] || 2019-04-03<br>N/A || [https://docs.google.com/document/d/1MM1WDl1CzbRLc7ioU_xYuLW3zyMGv7PduLM6Pjo2iVo/ 简介]
 |-
 | 八九民运史 || The History of the 1989 Tiananmen Square Protests || 陈小雅 || 繁體PDF<br>[http://www.64memo.com/b5/4.htm 繁體WEB] || 2014-05-23<br>N/A || [https://docs.google.com/document/d/1DbsAJAqJjb_bw22ommgSbVlf4itnXpeBWbRkr8Tw4TU/ 简介]
+|-
+| 天安门文件<br>''其它中文名：''<br>中国六四真相 || The Tiananmen Papers || 张良 (化名) || 简体PDF<br>简体CHM || 2013-01-13<br>2012-04-05 || [https://docs.google.com/document/d/14eKfxpGBPqw6-0PFuiQASpg7T5gkeyw8kvAB0VThQDk/ 简介]
 |-
 | 历史的大爆炸<br>——六四事件全景实录 || The Big Bang of History<br>——June Fourth Movement Record || 张万舒 (原名：张清海) || 繁體PDF(掃描版) || 2017-04-29 || [https://docs.google.com/document/d/116NfvgxihQSKm0CI-56NWbKqIeg6iJXridMTOrsutoA/ 简介]
 |-
@@ -440,11 +440,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 回顾与反思<br>——六四流亡学生17人 || N/A || (多人) || 繁體PDF || 2019-04-03 || [https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/ 简介]
 |-
+| 末日幸存者的独白<br>——关于我和“六四” || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 繁體PDF(掃描版) || 2014-05-23 || [https://docs.google.com/document/d/1fDfjG47LZ3y1RtDKAPvGHbtLrhOYzgJwshupswgVq5s/ 简介]
+|-
 | 六四日记<br>——广场上的共和国 || A Tiananmen Journal<br>——Republic on the Square || [https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德] || 繁體PDF(掃描版) || 2013-02-02 || [https://docs.google.com/document/d/1EJI4b4vBBIHXw5TqOD8NKw0RHceBz8kr3_Ut9kJMOUY/ 简介]
 |-
 | 王丹回忆录<br>——从六四到流亡 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9 王丹] || 繁體EPUB<br>繁體MOBI<br>繁體DOCX || 2014-03-29<br>2018-11-10<br>2013-11-26 || [https://docs.google.com/document/d/12LxI1j0Sg_FoSSW8k8WRNDpcfyuoYl2EbXpNheskb00/ 简介]
 |-
-| 末日幸存者的独白<br>——关于我和“六四” || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 繁體PDF(掃描版) || 2014-05-23 || [https://docs.google.com/document/d/1fDfjG47LZ3y1RtDKAPvGHbtLrhOYzgJwshupswgVq5s/ 简介]
+| 逃亡者 || Escape From China<br>——The Long Journey from Tiananmen to Freedom || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%BC%AF%E7%AC%A0 张伯笠] || 简体TXT(缺最后2章) || 2019-05-20 || [https://docs.google.com/document/d/1iQIQaCAtqXSzedbDEjS9oPJB3PaD_rWOv8x8C1TYXzU/ 简介]
 |-
 | 铭记天安门 || Remembering Tiananmen Square || (英) [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF<br>[https://www.thenation.com/article/remembering-tiananmen-square/ 英文WEB] || 2012-05-25<br>N/A || [https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw6yU8nriFCJNVybDccV7c/ 简介]
 |-
