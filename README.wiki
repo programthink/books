@@ -33,13 +33,15 @@
 
 要使用 BT Sync（Resilio Sync）同步电子书，你需要在主界面上添加相应的密钥（密钥写在本页面【每个大类】的标题下方）。关于 BT Sync 的扫盲教程，请参见“[https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html 这篇博文]”。
 
-BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来同步俺的电子书。早期的 1.4.x 版本支持 DHT 功能，可以在墙内【免翻墙】使用。2.0 之后的版本不再支持 DHT，无法享受这一好处。关于 DHT 功能如何开启，请翻墙打开“[https://program-think.blogspot.com/2017/08/GFW-Resilio-Sync.html 这篇博文]”。
+BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来同步俺的电子书。早期的 1.4.x 版本支持【DHT 功能】，可以在墙内【免翻墙】使用。2.0 之后的版本【不】再支持 DHT，无法享受这一好处。
+
+（关于 DHT 功能如何开启，请翻墙打开“[https://program-think.blogspot.com/2017/08/GFW-Resilio-Sync.html 这篇博文]”）
 
 <h3>关于“微软网盘”的补充说明</h3>
 
 * 微软网盘支持批量下载，可以把某个目录的电子书压缩成 zip 格式一起下载。具体操作请仔细看网盘界面。
 * 微软网盘的 Web 页面需要依赖 Java Script 脚本，如果你的浏览器禁用了 JavaScript 会导致无法下载。
-* 微软网盘在墙外，有时候可能会被 GFW 封杀。如果你无法打开微软网盘的页面，请尝试用翻墙。
+* 微软网盘的服务器在【墙外】，有时候可能会被 GFW 封杀。如果你无法打开微软网盘的页面，请尝试【翻墙】。
 
 <h3>其它和“下载”相关问题</h3>
 
@@ -51,7 +53,9 @@ BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来�
 
 <h3>PDF 格式</h3>
 
-俺共享的 PDF 格式电子书， '''无需密码''' 即可阅读。如果你无法打开 PDF 文件或者打开过程中提示输入密码，那应该是你的 PDF 阅读器 '''版本不够新''' 。用如下几款软件可以正常阅读。
+俺共享的 PDF 格式电子书， '''无需密码''' 即可阅读。如果你无法打开 PDF 文件或者打开过程中提示输入密码，那应该是你的 PDF 阅读器 '''版本不够新''' 。
+
+用如下几款软件可以正常阅读：
 
 * [https://en.wikipedia.org/wiki/Sumatra_PDF Sumatra PDF] 2.0 或者更高版本（绿色软件，除了支持 PDF，还支持其它格式，强烈推荐使用）
 * [https://en.wikipedia.org/wiki/Foxit_Reader Foxit Reader] 3.1.0 或者更高的版本（绿色软件，推荐使用）
@@ -62,11 +66,9 @@ BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来�
 
 <h3>EPUB 格式</h3>
 
-这种格式主要是面向移动设备（手机、平板）。不过也可以在 PC 上阅读。
+这种格式主要是面向移动设备（手机、平板），不过也可以在 PC 上阅读。
 
-EPUB 的的阅读软件很多，而且各个平台（Windows、Linux、Mac OS）都有。
-
-维基百科的[https://zh.wikipedia.org/wiki/EPUB#.E7.9B.B8.E9.97.9C.E8.BB.9F.E9.AB.94 这个页面]列出了常用的 EPUB 格式阅读软件。
+EPUB 的的阅读软件很多，而且各个平台（Windows、Linux、Mac OS）都有。维基百科的[https://zh.wikipedia.org/wiki/EPUB#.E7.9B.B8.E9.97.9C.E8.BB.9F.E9.AB.94 这个页面]列出了常用的 EPUB 格式阅读软件。
 
 <h3>CHM 格式</h3>
 
@@ -87,7 +89,7 @@ HTML 格式的电子书会有多个文件，为了方便下载，用压缩打包
 
 <h3>TXT 格式</h3>
 
-TXT格式的电子书使用 '''UTF-8''' 编码保存。用 Windows 自带的记事本（Notepad）可以直接打开。
+TXT 格式的电子书使用 '''UTF-8''' 编码保存。用 Windows 自带的记事本（Notepad）可以直接打开。
 
 <h3>其它和“格式”相关问题</h3>
 
@@ -304,7 +306,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 一种更强大的力量<br>——非暴力抗争一百年 || A Force More Powerful<br>——A Century of Nonviolent Conflict || (美) [https://en.wikipedia.org/wiki/Peter_Ackerman 彼得·阿克曼]<br>(美) [https://en.wikipedia.org/wiki/Jack_DuVall 杰克·杜瓦尔] || 简体MOBI(上下册) || 2013-05-13 || [https://docs.google.com/document/d/1yUSLshqbtCIRkqwGQl2AhvmGg0hDA4SeMyyvCSfSSQ4/ 简介]
 |-
-| 论战略性非暴力冲突<br>——关于基本原则的思考 || On Strategic Nonviolent Conflict<br>——Thinking About the Fundamentals || (美) 罗伯特·赫尔维 || 简体PDF<br>英文PDF || 2019-01-02<br>2019-01-02 || [https://docs.google.com/document/d/1NrCJAiDH3Hw8mQRAfnBz-jL-KPDsjLEjnEGGx9URNSk/ 简介]
+| 论战略性非暴力冲突<br>——关于基本原则的思考 || On Strategic Nonviolent Conflict<br>——Thinking About the Fundamentals || (美) 罗伯特·赫尔维 || 简体PDF<br>简体EPUB<br>英文PDF || 2019-01-02<br>2019-05-21<br>2019-01-02 || [https://docs.google.com/document/d/1NrCJAiDH3Hw8mQRAfnBz-jL-KPDsjLEjnEGGx9URNSk/ 简介]
 |-
 | 西方公民不服从的传统 || The Tradition of the Civil Disobedience || 何怀宏 (主编) || 简体PDF(扫描版) || 2016-07-18 || [https://docs.google.com/document/d/1-qyH0KvdPSB8uy1dB0oO5KZJCyXeDVi3OfT4tRVr0sc/ 简介]
 |}
