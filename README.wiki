@@ -1791,7 +1791,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 证券分析 || Security Analysis || (美) [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆]<br>(美) [https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] || 简体PDF(扫描版)<br>简体EPUB(第6版)<br>简体MOBI || 2013-04-29<br>2013-09-13<br>2018-12-08 || [https://docs.google.com/document/d/1iMssHxYngnqBOa4PzprF8-0KKvQGWUMXxPq1duw8EN8/ 简介]
 |-
-| 聪明的投资者<br>''其它中文名：''<br>投资指南 || The Intelligent Investor || (美) [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] || 简体PDF(扫描版) || 2014-02-20 || [https://docs.google.com/document/d/1F6oV0vQ6YAYW9622pOwg0Zn_x-iX8XZaDAIxFy-sEkg/ 简介]
+| 聪明的投资者<br>''其它中文名：''<br>投资指南 || The Intelligent Investor || (美) [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] || 简体PDF(第4版 扫描版)<br>英文PDF(第4版) || 2014-02-20<br>2019-05-25 || [https://docs.google.com/document/d/1F6oV0vQ6YAYW9622pOwg0Zn_x-iX8XZaDAIxFy-sEkg/ 简介]
 |-
 | 格雷厄姆-多德都市的超级投资者们 || The Superinvestors of Graham-and-Doddsville || (美) [https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9 沃伦·巴菲特] || 简体TXT<br>英文PDF(扫描版) || 2015-05-24<br>2015-05-24 || [https://docs.google.com/document/d/17ii4qyZooC32cv6PD9nAY0jII9bewTDAn2c-OIG7Y6c/ 简介]
 |-
