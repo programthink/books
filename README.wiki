@@ -1795,7 +1795,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 格雷厄姆-多德都市的超级投资者们 || The Superinvestors of Graham-and-Doddsville || (美) [https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9 沃伦·巴菲特] || 简体TXT<br>英文PDF(扫描版) || 2015-05-24<br>2015-05-24 || [https://docs.google.com/document/d/17ii4qyZooC32cv6PD9nAY0jII9bewTDAn2c-OIG7Y6c/ 简介]
 |-
-| 非理性繁荣 || Irrational Exuberance || (美) [https://en.wikipedia.org/wiki/Robert_J._Shiller 罗伯特·希勒] || 简体PDF(扫描版)<br>简体TXT || 2014-05-23<br>2016-05-02 || [https://docs.google.com/document/d/19Ad-DbeWl7XpnkdCihZwQdKoXPU2hicJbBZ75FSHgPI/ 简介]
+| 非理性繁荣 || Irrational Exuberance || (美) [https://en.wikipedia.org/wiki/Robert_J._Shiller 罗伯特·希勒] || 简体TXT(第2版 不全)<br>简体PDF(第1版 扫描版)<br>英文PDF(第1版) || 2016-05-02<br>2014-05-23<br>2019-05-25 || [https://docs.google.com/document/d/19Ad-DbeWl7XpnkdCihZwQdKoXPU2hicJbBZ75FSHgPI/ 简介]
 |-
 | 随机致富的傻瓜<br>——发现市场和人生中的隐藏机遇<br>''其它中文名：''<br>随机漫步的傻瓜 || Fooled by Randomness<br>——The Hidden Role of Chance in Life and in the Markets || (美) [https://zh.wikipedia.org/wiki/%E7%B4%8D%E8%A5%BF%E5%A7%86%C2%B7%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E5%A1%94%E9%9B%B7%E4%BC%AF 纳西姆·塔勒布] || 简体PDF(扫描版) || 2018-08-27 || [https://docs.google.com/document/d/1MBz8w1NC_5gT8PuqMkRR5dFzIJol7V92EmgOXgJQvTE/ 简介]
 |-
