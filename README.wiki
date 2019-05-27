@@ -1138,9 +1138,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 ==== 1.5.2.5 勃列日涅夫 ====
 
 {|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 走近衰亡<br>——苏联勃列日涅夫时期研究 || 陆南泉 || 简体PDF(扫描版) || 2016-12-08 || [https://docs.google.com/document/d/1Ihl8Uw6IW6RtsvviOmoqncVIToqHBSEXBH48qqekMkA/ 简介]
+| 勃列日涅夫的力量和弱点 || The Power and Powerlessness of Brezhnev || (俄) [https://en.wikipedia.org/wiki/Abdurakhman_Avtorkhanov 阿卜杜拉赫曼·阿夫托尔汉诺夫] || 简体PDF(扫描版) || 2019-05-27 || [https://docs.google.com/document/d/1KUvfGXjijh9RxQlLAAxK0BePeTqD9Suikui6ERht1kI/ 简介]
+|-
+| 走近衰亡<br>——苏联勃列日涅夫时期研究 || N/A || 陆南泉 || 简体PDF(扫描版) || 2016-12-08 || [https://docs.google.com/document/d/1Ihl8Uw6IW6RtsvviOmoqncVIToqHBSEXBH48qqekMkA/ 简介]
 |}
 
 ==== 1.5.2.6 戈尔巴乔夫 ====
