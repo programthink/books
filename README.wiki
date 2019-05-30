@@ -284,7 +284,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || (美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT<br>简体MOBI || 2013-04-14<br>2017-02-17<br>2016-04-29<br>2018-11-10 || [https://docs.google.com/document/d/1Yy4W9NtBHIsz1ulb0kb_QOc8FGylBP3QenUmKicQADo/ 简介]
 |-
-| 大外交 || Diplomacy || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体PDF(扫描版) || 2014-02-05 || [https://docs.google.com/document/d/1cEaDdGVNj0r0-g8iOt7f6t8jBZq69hH-weplVQbmUoI/ 简介]
+| 大外交 || Diplomacy || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2014-02-05<br>2019-05-30 || [https://docs.google.com/document/d/1cEaDdGVNj0r0-g8iOt7f6t8jBZq69hH-weplVQbmUoI/ 简介]
 |-
 | 论中国 || On China || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB<br>简体MOBI<br>英文EPUB || 2014-02-05<br>2018-11-10<br>2014-02-05 || [https://docs.google.com/document/d/1mI8wM0PVzTXi4SRFTLUimLAyhvXbJPlG9qkeWtIBTQk/ 简介]
 |-
