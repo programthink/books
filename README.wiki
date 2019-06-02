@@ -2304,12 +2304,14 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 失去的胜利<br>''其它中文名：''<br>曼施泰因元帅战争回忆录 || Lost Victories<br>——The War Memoirs of Hitler's Most Brilliant General || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E6%9B%BC%E6%96%BD%E5%9D%A6%E5%9B%A0 曼施泰因] || 简体TXT<br>英文PDF || 2016-05-16<br>2018-08-20 || [https://docs.google.com/document/d/1cA2OzsLKTM3sNVcMqDheF8RmsS5UxmX6G2wvVtRwrY8/ 简介]
 |}
 
-==== 9.2.1.5 西欧战场 ====
+==== 9.2.1.5 西欧与北非战场 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 远征欧陆<br>''其它中文名：''<br>艾森豪威尔回忆录 || Crusade in Europe || (美) [https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%80%80%E7%89%B9%C2%B7%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94 德怀特·艾森豪威尔] || 简体PDF(扫描版) || 2018-08-21 || [https://docs.google.com/document/d/19RiaeWr5rUGvhCLd7A99tAr2F7MXAnwdHQVThXnIiIY/ 简介]
+|-
+| 隆美尔战时文件 || The Rommel Papers || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] (主编) || 简体TXT || 2019-06-02 || [https://docs.google.com/document/d/18XrbOCxF2KdC6OGqQQHjvD-4VZQqdmW9ZTo0mK3L630/ 简介]
 |-
 | 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版) || 2016-12-11 || [https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/ 简介]
 |}
