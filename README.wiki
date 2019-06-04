@@ -434,7 +434,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 八九天安门事件大事记 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1iLO5UEQrwbcGuVX8XNSd4_ObipD3cbEWhmhPYai-8l8/ 简介]
 |-
-| 广场活碑<br>——一个香港女记者眼中的六四血光 || N/A || 蔡淑芳 || 简体PDF || 2014-05-23 || [https://docs.google.com/document/d/1sk4QwOQ7Aqm3DlE07TnZDnrG6MtHibmlFpr754bHLAU/ 简介]
+| 广场活碑<br>——一个香港女记者眼中的六四血光 || N/A || 蔡淑芳 || 繁體PDF<br>繁體TXT || 2014-05-23<br>2019-06-04 || [https://docs.google.com/document/d/1sk4QwOQ7Aqm3DlE07TnZDnrG6MtHibmlFpr754bHLAU/ 简介]
 |-
 | 血洗京华实录<br>——香港文汇报1989年特刊 || N/A || [https://zh.wikipedia.org/wiki/%E6%96%87%E6%B1%87%E6%8A%A5_(%E9%A6%99%E6%B8%AF) 香港《文汇报》] || 繁體PDF(掃描版) || 2019-04-03 || [https://docs.google.com/document/d/14XXBwvlDnNGBx2QR7D0xHvGUQl1OUJgS8EINF_N32ZM/ 简介]
 |-
