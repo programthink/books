@@ -2919,7 +2919,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Linux 与 UNIX Shell 编程指南 || Linux and UNIX Shell Programming || David Tansley || 简体PDF(扫描版) || 2013-12-06 || [https://docs.google.com/document/d/1Nk83xAbRUdcgqUBSfDCwozA3-EUFeBz-nrpf1G7x-j0/ 简介]
 |-
-| 高级 Bash 脚本编程指南 || Advanced Bash-Scripting Guide || Mendel Cooper || 英文PDF(文档版本 6.6)<br>[https://www.tldp.org/LDP/abs/html/ 英文WEB] || 2019-03-25<br>N/A || [https://docs.google.com/document/d/1BYSgrSViVZyDTQcuhWEFAc_uc0YZvkIoQYLmv0yWo_A/ 简介]
+| 高级 Bash 脚本编程指南 || Advanced Bash-Scripting Guide || Mendel Cooper || 简体EPUB(文档版本 10.0)<br>英文PDF(文档版本 10.0)<br>英文PDF(文档版本 6.6)<br>[https://www.tldp.org/LDP/abs/html/ 英文WEB] || 2019-07-15<br>2019-07-15<br>2019-03-25<br>N/A || [https://docs.google.com/document/d/1BYSgrSViVZyDTQcuhWEFAc_uc0YZvkIoQYLmv0yWo_A/ 简介]
 |-
 | 鸟哥的 Linux 私房菜 || N/A || 鸟哥 || 简体PDF<br>简体MOBI || 2013-12-06<br>2015-11-08 || [https://docs.google.com/document/d/1GFb61tNC2_O1Vk1e-rtfzgZGvJwsJVa_YBWqDtYDL_U/ 简介]
 |-
