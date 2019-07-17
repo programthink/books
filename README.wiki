@@ -1522,7 +1522,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 中国近代史 || The Rise of Modern China || [https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%AD%E7%B4%84 徐中约] || 简体PDF(上下)<br>简体EPUB || 2013-03-22<br>2013-09-13 || [https://docs.google.com/document/d/1RVggCvxZ51pB64nSJLAzQKLIYOrWIN6fWSa88UBsgcY/ 简介]
 |-
-| 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || (法) [https://en.wikipedia.org/wiki/Alain_Peyrefitte Alain Peyrefitte] || 简体PDF(扫描版) || 2014-05-23 || [https://docs.google.com/document/d/1B4ikBRoHld3tIAW6DUCjd_vOEC8DE-GTUfRlECMgf38/ 简介]
+| 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || (法) [https://en.wikipedia.org/wiki/Alain_Peyrefitte 阿兰·佩雷菲特] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2019-07-17<br>2019-07-17<br>2014-05-23 || [https://docs.google.com/document/d/1B4ikBRoHld3tIAW6DUCjd_vOEC8DE-GTUfRlECMgf38/ 简介]
 |-
 | 追寻现代中国 || The Search for Modern China || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 繁體PDF<br>简体EPUB<br>简体PDF || 2014-06-22<br>2014-06-22<br>2016-12-18 || [https://docs.google.com/document/d/1EqpGGp36MDShzS3O33M6MnCdC9rHuasajK0tpitqw2U/ 简介]
 |-
