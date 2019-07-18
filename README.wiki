@@ -2149,7 +2149,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 简单的逻辑学 || Being Logical<br>——A Guide to Good Thinking || (美) 丹尼斯·麦克伦尼 || 简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2015-01-07<br>2015-02-13<br>2015-11-10 || [https://docs.google.com/document/d/13Vx8BNBB9GRVJsLYyQKTELLoVRwIzrKx0mnUP6IrBcY/ 简介]
+| 简单的逻辑学 || Being Logical<br>——A Guide to Good Thinking || (美) 丹尼斯·麦克伦尼 || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版)<br>英文PDF || 2019-07-18<br>2015-02-13<br>2015-01-07<br>2015-11-10 || [https://docs.google.com/document/d/13Vx8BNBB9GRVJsLYyQKTELLoVRwIzrKx0mnUP6IrBcY/ 简介]
 |-
 | 牛津通识读本：简明逻辑学 || Logic<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Graham_Priest 格雷厄姆·普里斯特] || 简体EPUB<br>简体AZW3<br>英文PDF(扫描版) || 2015-12-14<br>2015-12-14<br>2016-12-17 || [https://docs.google.com/document/d/1m9j8tBGejSj5oKoOeBQrh670361bf8PRxAWDTGSzFUg/ 简介]
 |}
