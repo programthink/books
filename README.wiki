@@ -508,7 +508,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 1966<br>——我们那一代的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] (主编) || 简体PDF(扫描版) || 2017-08-13 || [https://docs.google.com/document/d/1-XqmXDsaUBUdSQkB8W-9iZ3Udr9RZdmu3CzOlBq1M3Y/ 简介]
 |-
-| 上海生死劫<br>''其它中文名：''<br>上海生与死 || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体EPUB<br>简体PDF(扫描版) || 2017-05-06<br>2013-05-30 || [https://docs.google.com/document/d/1N1A7xvuycblUNxMXsLRpdkY3-uelzDdD8S6jl15L8Go/ 简介]
+| 上海生死劫<br>''其它中文名：''<br>上海生与死 || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体EPUB<br>简体PDF(扫描版)<br>英文EPUB<br>英文MOBI || 2017-05-06<br>2013-05-30<br>2019-07-26<br>2019-07-26 || [https://docs.google.com/document/d/1N1A7xvuycblUNxMXsLRpdkY3-uelzDdD8S6jl15L8Go/ 简介]
 |-
 | 劫后长忆<br>——十年动乱纪事 || N/A || [https://zh.wikipedia.org/wiki/%E7%A9%86%E6%AC%A3 穆欣] (原名：杜蓬莱) || 繁體PDF(豎排掃描版) || 2019-02-04 || [https://docs.google.com/document/d/1kio78z1JUCfwM2Sn-Dx_4iEdIPtthLwel5JlOPepFmw/ 简介]
 |-
