@@ -2254,17 +2254,39 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 山的那一边<br>——被俘德国将领谈二战 || The Other Side of the Hill || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版) || 2017-08-11 || [https://docs.google.com/document/d/1N8NCjRYRzCf-RrfmeqolZrGLu7wBskyagro8dUfciZk/ 简介]
 |}
 
-==== 9.2.1.2 太平洋战场 ====
+==== 9.2.1.2 东欧战场 ====
 
 {|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 袭击珍珠港 || (日) [https://zh.wikipedia.org/wiki/%E6%B8%8A%E7%94%B0%E7%BE%8E%E6%B4%A5%E9%9B%84 渊田美津雄] || 简体PDF(扫描版) || 2015-10-25 || [https://docs.google.com/document/d/1RNM7VsUSnj9OH_ymsiLe_nlFPKn-hn_uuRktNfzHkIc/ 简介]
-|-
-| 浩瀚的大洋是赌场<br>——日本海军的兴亡 || 俞天任 (网名：冰冷雨天) || 简体PDF || 2016-12-11 || [https://docs.google.com/document/d/1hQJGxs6wyhpxBL47QphvQXuDGEZnBaTdbGNgZ5hPnX0/ 简介]
+| 失去的胜利<br>''其它中文名：''<br>曼施泰因元帅战争回忆录 || Lost Victories<br>——The War Memoirs of Hitler's Most Brilliant General || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E6%9B%BC%E6%96%BD%E5%9D%A6%E5%9B%A0 曼施泰因] || 简体TXT<br>英文PDF || 2016-05-16<br>2018-08-20 || [https://docs.google.com/document/d/1cA2OzsLKTM3sNVcMqDheF8RmsS5UxmX6G2wvVtRwrY8/ 简介]
 |}
 
-==== 9.2.1.3 中国战场 ====
+==== 9.2.1.3 西欧与北非战场 ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 远征欧陆<br>''其它中文名：''<br>艾森豪威尔回忆录 || Crusade in Europe || (美) [https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%80%80%E7%89%B9%C2%B7%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94 德怀特·艾森豪威尔] || 简体PDF(扫描版) || 2018-08-21 || [https://docs.google.com/document/d/19RiaeWr5rUGvhCLd7A99tAr2F7MXAnwdHQVThXnIiIY/ 简介]
+|-
+| 隆美尔战时文件 || The Rommel Papers || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] (主编) || 简体TXT || 2019-06-02 || [https://docs.google.com/document/d/18XrbOCxF2KdC6OGqQQHjvD-4VZQqdmW9ZTo0mK3L630/ 简介]
+|-
+| 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版) || 2016-12-11 || [https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/ 简介]
+|}
+
+==== 9.2.1.4 太平洋战场 ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 联合舰队的覆灭 || The Fate of Japanese United Fleet || (日) [https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E6%AD%A3%E5%BE%B7 伊藤正德] || 简体TXT || 2019-07-27 || [https://docs.google.com/document/d/1Wa-V2zsibZPoFLrTZGHVNcYxsS4MAxQlwhjj-rtsMoI/ 简介]
+|-
+| 浩瀚大洋是赌场<br>——大日本帝国海军兴亡史 || N/A || 俞天任 (网名：冰冷雨天) || 简体PDF || 2016-12-11 || [https://docs.google.com/document/d/1hQJGxs6wyhpxBL47QphvQXuDGEZnBaTdbGNgZ5hPnX0/ 简介]
+|-
+| 袭击珍珠港 || N/A || (日) [https://zh.wikipedia.org/wiki/%E6%B8%8A%E7%94%B0%E7%BE%8E%E6%B4%A5%E9%9B%84 渊田美津雄] || 简体PDF(扫描版) || 2015-10-25 || [https://docs.google.com/document/d/1RNM7VsUSnj9OH_ymsiLe_nlFPKn-hn_uuRktNfzHkIc/ 简介]
+|}
+
+==== 9.2.1.5 中国战场 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2294,26 +2316,6 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 穿越1945<br>——纪念抗战胜利70年访谈纪实 || Journey 1945 || [https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3 美国之音] || 简体PDF(扫描版) || 2016-07-17 || [https://docs.google.com/document/d/1ykSsC4wNnkkbsGeZ32sjzw9Pmy0l0TXyMHEE3m82up8/ 简介]
 |-
 | 中日战争时期的通敌内幕（1937-1945） || China and Japan at War 1937-1945<br>——The Politics of Collaboration || (美) 约翰·亨特·博伊尔 || 简体PDF(大字版) || 2017-08-11 || [https://docs.google.com/document/d/1pWcINJhncJ5wkOi9AtN7QgTZCMcEzWDtFt_XVvPh0ZI/ 简介]
-|}
-
-==== 9.2.1.4 东欧战场 ====
-
-{|
-! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
-|-
-| 失去的胜利<br>''其它中文名：''<br>曼施泰因元帅战争回忆录 || Lost Victories<br>——The War Memoirs of Hitler's Most Brilliant General || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E6%9B%BC%E6%96%BD%E5%9D%A6%E5%9B%A0 曼施泰因] || 简体TXT<br>英文PDF || 2016-05-16<br>2018-08-20 || [https://docs.google.com/document/d/1cA2OzsLKTM3sNVcMqDheF8RmsS5UxmX6G2wvVtRwrY8/ 简介]
-|}
-
-==== 9.2.1.5 西欧与北非战场 ====
-
-{|
-! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
-|-
-| 远征欧陆<br>''其它中文名：''<br>艾森豪威尔回忆录 || Crusade in Europe || (美) [https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%80%80%E7%89%B9%C2%B7%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94 德怀特·艾森豪威尔] || 简体PDF(扫描版) || 2018-08-21 || [https://docs.google.com/document/d/19RiaeWr5rUGvhCLd7A99tAr2F7MXAnwdHQVThXnIiIY/ 简介]
-|-
-| 隆美尔战时文件 || The Rommel Papers || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] (主编) || 简体TXT || 2019-06-02 || [https://docs.google.com/document/d/18XrbOCxF2KdC6OGqQQHjvD-4VZQqdmW9ZTo0mK3L630/ 简介]
-|-
-| 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版) || 2016-12-11 || [https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/ 简介]
 |}
 
 === 9.2.2 韩战 ===
