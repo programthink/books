@@ -2687,7 +2687,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Head First 设计模式 || Head First Design Patterns || [https://en.wikipedia.org/wiki/Eric_Freeman_%28writer%29 Eric Freeman]<br>Elisabeth Robson<br>Bert Bates<br>[https://en.wikipedia.org/wiki/Kathy_Sierra Kathy Sierra] || 简体PDF(扫描版) || 2016-12-23 || [https://docs.google.com/document/d/1oTe5BQoQVYgSjrk7-dzi88qIsSgiLuDlWrOe8P9VU84/ 简介]
 |-
-| 七周七并发模型 || Seven Concurrency Models in Seven Weeks<br>——When Threads Unravel || (美) Paul Butcher || 简体PDF(扫描版) || 2018-07-25 || [https://docs.google.com/document/d/19vZDj1dZW8ufQmFso3WDj0k5DZg5-IdTiqUSu5VDzt0/ 简介]
+| 七周七并发模型 || Seven Concurrency Models in Seven Weeks<br>——When Threads Unravel || (美) Paul Butcher || 简体PDF(扫描版)<br>英文PDF || 2018-07-25<br>2019-07-31 || [https://docs.google.com/document/d/19vZDj1dZW8ufQmFso3WDj0k5DZg5-IdTiqUSu5VDzt0/ 简介]
 |}
 
 === 10.1.4 算法与数据结构 ===
