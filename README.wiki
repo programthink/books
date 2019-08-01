@@ -1058,7 +1058,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 民主的细节<br>——美国当代政治观察随笔 || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E7%91%9C 刘瑜] || 简体EPUB<br>简体MOBI<br>简体TXT || 2013-09-14<br>2018-09-06<br>2013-05-24 || [https://docs.google.com/document/d/14o9_DOJtOJjow6uipBHC7cXaBhKlLcFpdbsLQiW0sEU/ 简介]
 |-
-| 近距离看美国<br>''包括如下：''<br>历史深处的忧虑<br>总统是靠不住的<br>我也有一个梦想<br>如彗星划过夜空 || N/A || (美) [https://zh.wikipedia.org/wiki/%E6%9E%97%E9%81%94_%28%E4%BD%9C%E5%AE%B6%29 林达] (原名：丁鸿富 & 李晓琳) || 简体PDF(扫描版)<br>简体MOBI || 2017-02-18<br>2018-09-06 || [https://docs.google.com/document/d/1vHNM8Y0Cj6joZosdlK1DG6JoSuRlCPw1i28lsKb6z4s/ 简介]
+| 近距离看美国<br><br>''包括如下：''<br>历史深处的忧虑<br>总统是靠不住的<br>我也有一个梦想<br>如彗星划过夜空 || N/A || (美) [https://zh.wikipedia.org/wiki/%E6%9E%97%E9%81%94_%28%E4%BD%9C%E5%AE%B6%29 林达] (原名：丁鸿富 & 李晓琳) || 简体PDF(扫描版)<br>简体MOBI || 2017-02-18<br>2018-09-06 || [https://docs.google.com/document/d/1vHNM8Y0Cj6joZosdlK1DG6JoSuRlCPw1i28lsKb6z4s/ 简介]
 |}
 
 == 1.5 苏联 ==
@@ -1124,7 +1124,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 我的生平<br>——托洛茨基自传 || My Life<br>——An Attempt at an Autobiography || (苏) [https://zh.wikipedia.org/wiki/%E5%88%97%E5%A4%AB%C2%B7%E8%BE%BE%E7%BB%B4%E5%A4%9A%E7%BB%B4%E5%A5%87%C2%B7%E6%89%98%E6%B4%9B%E8%8C%A8%E5%9F%BA 列夫·托洛茨基] || 简体PDF(扫描版) || 2015-10-24 || [https://docs.google.com/document/d/1Owb1KJ7WQKOWnIv5WiCyPvwBokVdAALUsJqvJ7BD6Yo/ 简介]
 |-
-| 先知三部曲<br>''包括如下：''<br>第1部 武装的先知——托洛茨基1879~1921<br>第2部 被解除武装的先知——托洛茨基1921~1929<br>第3部 流亡的先知——托洛茨基1929~1940 || The Prophet<br>——The Life of Leon Trotsky || (波兰) [https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E5%A4%9A%E4%BC%8A%E5%BD%BB 伊萨克·多伊彻] || 简体HTML(全3部) || 2019-02-12 || [https://docs.google.com/document/d/1zwf46zNqNuX-W1T2mTQDk753Q86S4hzekvyqjGTSZZc/ 简介]
+| 先知三部曲<br><br>''包括如下：''<br>第1部 武装的先知——托洛茨基1879~1921<br>第2部 被解除武装的先知——托洛茨基1921~1929<br>第3部 流亡的先知——托洛茨基1929~1940 || The Prophet<br>——The Life of Leon Trotsky || (波兰) [https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E5%A4%9A%E4%BC%8A%E5%BD%BB 伊萨克·多伊彻] || 简体HTML(全3部) || 2019-02-12 || [https://docs.google.com/document/d/1zwf46zNqNuX-W1T2mTQDk753Q86S4hzekvyqjGTSZZc/ 简介]
 |}
 
 ==== 1.5.2.4 赫鲁晓夫 ====
@@ -1466,7 +1466,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 大国的兴衰<br>——1500年~2000年的经济变迁与军事冲突 || The Rise and Fall of the Great Powers<br>——Economic Change and Military Conflict from 1500~2000 || (英) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA_%28%E5%8E%86%E5%8F%B2%E5%AD%A6%E5%AE%B6%29 保罗·肯尼迪] || 简体EPUB<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体PDF || 2017-05-06<br>2016-12-16<br>2015-11-18<br>2014-06-22 || [https://docs.google.com/document/d/1GOQNzBNRQEDbKX6IleYoPfyafXKXt5FxhIM1XRhyIw4/ 简介]
 |-
-| 年代四部曲<br>''包括如下：''<br>第1卷 革命的年代 (1789~1848)<br>第2卷 资本的年代 (1848~1875)<br>第3卷 帝国的年代 (1875~1914)<br>第4卷 极端的年代 (1914~1991) || The Age of Revolution (1789~1848)<br>The Age of Capital (1848~1875)<br>The Age of Empire (1875~1914)<br>The Age of Extremes (1914~1991) || (英) [https://zh.wikipedia.org/wiki/%E8%89%BE%E7%91%9E%E5%85%8B%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF%E9%82%A6 埃里克·霍布斯鲍姆] || 简体PDF(扫描版) || 2018-08-07 || [https://docs.google.com/document/d/14iR6SmWIZtU_6ui-VT3_7ihGtP57s4ofKN-PuYR4wUg/ 简介]
+| 年代四部曲<br><br>''包括如下：''<br>第1卷 革命的年代 (1789~1848)<br>第2卷 资本的年代 (1848~1875)<br>第3卷 帝国的年代 (1875~1914)<br>第4卷 极端的年代 (1914~1991) || The Age of Revolution (1789~1848)<br>The Age of Capital (1848~1875)<br>The Age of Empire (1875~1914)<br>The Age of Extremes (1914~1991) || (英) [https://zh.wikipedia.org/wiki/%E8%89%BE%E7%91%9E%E5%85%8B%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF%E9%82%A6 埃里克·霍布斯鲍姆] || 简体PDF(扫描版) || 2018-08-07 || [https://docs.google.com/document/d/14iR6SmWIZtU_6ui-VT3_7ihGtP57s4ofKN-PuYR4wUg/ 简介]
 |}
 
 == 3.2 欧洲史 ==
@@ -1616,7 +1616,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 美国通史<br>''包括如下：''<br>第1卷 美国的奠基时代（1585~1775）<br>第2卷 美国的独立和初步繁荣（1775~1860）<br>第3卷 美国内战与镀金时代（1861~19世纪末）<br>第4卷 崛起和扩张的年代（1898~1929）<br>第5卷 罗斯福时代（1929~1945）<br>第6卷 战后美国史（1945~2000） || A General History of the U.S. 1585-2000 || 刘绪贻、杨生茂 等 || 简体PDF(扫描版) || 2017-02-20 || [https://docs.google.com/document/d/1MLNvLc4bNp1a762hW4tsVL7QRAtRYDroZhdsL7pS0dY/ 简介]
+| 美国通史<br><br>''包括如下：''<br>第1卷 美国的奠基时代（1585~1775）<br>第2卷 美国的独立和初步繁荣（1775~1860）<br>第3卷 美国内战与镀金时代（1861~19世纪末）<br>第4卷 崛起和扩张的年代（1898~1929）<br>第5卷 罗斯福时代（1929~1945）<br>第6卷 战后美国史（1945~2000） || A General History of the U.S. 1585-2000 || 刘绪贻、杨生茂 等 || 简体PDF(扫描版) || 2017-02-20 || [https://docs.google.com/document/d/1MLNvLc4bNp1a762hW4tsVL7QRAtRYDroZhdsL7pS0dY/ 简介]
 |-
 | 光荣与梦想<br>——1932-1972年美国社会实录 || The Glory and the Dream<br>——A Narrative History of America, 1932-1972 || (美) [https://en.wikipedia.org/wiki/William_Manchester 威廉·曼彻斯特] || 简体PDF(大字版)<br>简体PDF<br>简体TXT || 2016-12-16<br>2017-02-17<br>2016-05-01 || [https://docs.google.com/document/d/17OMCMA8CNnwboW49BNDi0-TD5why7_SJx18JlGkUWl0/ 简介]
 |-
@@ -2797,7 +2797,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 自由软件，自由社会<br>——理查德·斯托曼选集 || Free Software, Free Society<br>——Selected Essays of Richard M. Stallman || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC Richard Stallman] || 简体PDF(第3版)<br>简体EPUB(第3版)<br>英文PDF(第3版) || 2019-03-14<br>2019-03-14<br>2019-03-14 || [https://docs.google.com/document/d/1kTL8VE6AoUZCJY2OJ3qv39nJpFn7zj6EacAHXyNXfEY/ 简介]
 |-
-| 大教堂与集市<br>''其它中文名：''<br>黑客五部曲<br>''包括如下：''<br>黑客文化简史<br>大教堂和集市<br>如何成为一名黑客<br>开拓智域<br>魔法大锅炉 || The Cathedral and the Bazaar || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 Eric Raymond] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-10-20<br>2015-12-25<br>2015-12-25 || [https://docs.google.com/document/d/1QAURpCzvbg4Fbjj0Brgu5DD5Rth79O91DLOx6HmNVLA/ 简介]
+| 大教堂与集市<br>''其它中文名：''<br>黑客五部曲<br><br>''包括如下：''<br>黑客文化简史<br>大教堂和集市<br>如何成为一名黑客<br>开拓智域<br>魔法大锅炉 || The Cathedral and the Bazaar || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9B%B7%E8%92%99 Eric Raymond] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-10-20<br>2015-12-25<br>2015-12-25 || [https://docs.google.com/document/d/1QAURpCzvbg4Fbjj0Brgu5DD5Rth79O91DLOx6HmNVLA/ 简介]
 |-
 | 黑客与画家 || Hackers and Painters<br>——Big Ideas from the Computer Age || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 Paul Graham] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF || 2013-04-06<br>2013-10-20<br>2014-02-23<br>2016-04-29<br>2017-08-08 || [https://docs.google.com/document/d/17i49-SpeKz1wRG5S-HPonO-lXJHD99h62gDsQ64NWXo/ 简介]
 |-
@@ -2805,7 +2805,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 若为自由故<br>——自由软件之父理查德·斯托曼传 || Free as in Freedom<br>——Richard Stallman's Crusade for Free Software || (美) [https://en.wikipedia.org/wiki/Sam_Williams_(journalist) Sam Williams] || 简体TXT(第2版)<br>英文PDF(第2版)<br>[https://www.oreilly.com/openbook/freedom/ 英文WEB] || 2019-03-09<br>2016-12-21<br>N/A || [https://docs.google.com/document/d/1J6AfA8Z4uUiMS7-Or9WchCuiDEc-G6Ar5D3600jxYSQ/ 简介]
 |-
-| 乐者为王<br>——自由软件 Linux 之父李纳斯·托沃兹自述<br>''其它中文名：''<br>只是为了好玩<br>——Linux 之父林纳斯自传 || Just for Fun<br>——The Story of an Accidental Revolutionary || (芬兰) [https://en.wikipedia.org/wiki/Linus_Torvalds Linus Torvalds] || 简体EPUB<br>简体PDF(扫描版) || 2015-11-15<br>2016-12-12 || [https://docs.google.com/document/d/1FCfoVjJlBHQJAkUB3Gj7ocSRKhC5bCnM83o-jOqAUgU/ 简介]
+| 乐者为王<br>——自由软件 Linux 之父李纳斯·托沃兹自述<br>''其它中文名：''<br>只是为了好玩<br>——Linux 之父林纳斯自传 || Just for Fun<br>——The Story of an Accidental Revolutionary || (芬兰) [https://en.wikipedia.org/wiki/Linus_Torvalds Linus Torvalds] || 简体EPUB<br>简体PDF(扫描版)<br>英文EPUB || 2015-11-15<br>2016-12-12<br>2019-08-01 || [https://docs.google.com/document/d/1FCfoVjJlBHQJAkUB3Gj7ocSRKhC5bCnM83o-jOqAUgU/ 简介]
 |-
 | 自由文化 || Free Culture<br>——How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity || (美) [https://zh.wikipedia.org/wiki/%E5%8B%9E%E5%80%AB%E6%96%AF%C2%B7%E8%90%8A%E6%96%AF%E6%A0%BC Lawrence Lessig] || 英文PDF || 2015-12-09 || [https://docs.google.com/document/d/1LYJ92vSfRHdEXwgBoR3IjwxIDyBw8BHSyIShHz_XipE/ 简介]
 |-
