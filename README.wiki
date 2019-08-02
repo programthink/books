@@ -2911,7 +2911,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Python 黑帽子<br>——黑客与渗透测试编程之道 || Black Hat Python<br>——Python Programming for Hackers and Pentesters || (加) Justin Seitz || 英文PDF || 2019-03-28 || [https://docs.google.com/document/d/11HV7oJ_xXxII-mNCNc8H4SFe1kNSMu1f_tQEFWipLx8/ 简介]
 |-
-| Python 绝技<br>——运用 Python 成为顶级黑客 || Violent Python<br>——A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers || (美) TJ O'Connor || 简体PDF(第1版)<br>英文EPUB(第1版) || 2018-07-29<br>2015-07-21 || [https://docs.google.com/document/d/1zEkq4Sx7Eq7b75_Y6tiC6LnSyfHPgzxmT7kELtO9eXI/ 简介]
+| Python 绝技<br>——运用 Python 成为顶级黑客 || Violent Python<br>——A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers || (美) TJ O'Connor || 简体PDF(第1版)<br>英文PDF(第1版)<br>英文EPUB(第1版) || 2018-07-29<br>2019-08-02<br>2015-07-21 || [https://docs.google.com/document/d/1zEkq4Sx7Eq7b75_Y6tiC6LnSyfHPgzxmT7kELtO9eXI/ 简介]
 |}
 
 == 10.4 操作系统 ==
