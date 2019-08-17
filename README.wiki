@@ -2999,7 +2999,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 分布式系统<br>——概念与设计 || Distributed Systems<br>——Concepts and Design || (英) [https://en.wikipedia.org/wiki/George_Coulouris_(computer_scientist) George Coulouris]<br>(英) Jean Dollimore<br>(英) Tim Kindberg<br>(英) Gordon Blair || 英文PDF(第5版) || 2018-11-02 || [https://docs.google.com/document/d/159RgYwexuQnL4IwHD6wyiLiek95l0WHKWzhuxvS70k8/ 简介]
+| 分布式系统<br>——概念与设计 || Distributed Systems<br>——Concepts and Design || (英) [https://en.wikipedia.org/wiki/George_Coulouris_(computer_scientist) George Coulouris]<br>(英) Jean Dollimore<br>(英) Tim Kindberg<br>(英) Gordon Blair || 简体PDF(第5版 扫描版)<br>英文PDF(第5版) || 2019-08-17<br>2018-11-02 || [https://docs.google.com/document/d/159RgYwexuQnL4IwHD6wyiLiek95l0WHKWzhuxvS70k8/ 简介]
 |-
 | 分布式系统<br>——原理与范型 || Distributed Systems<br>——Principles and Paradigms || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum]<br>(荷兰) Maarten van Steen || 英文PDF(第2版 扫描版) || 2018-11-06 || [https://docs.google.com/document/d/14dCxeJbGkOGJKXRlbMZAwN7FVv_m-kxHBOw0SP1Yz_M/ 简介]
 |-
