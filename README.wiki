@@ -2773,7 +2773,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 编码<br>——隐匿在计算机软硬件背后的语言 || Code<br>——The Hidden Language of Computer Hardware and Software || (美) [https://en.wikipedia.org/wiki/Charles_Petzold Charles Petzold] || 简体PDF(扫描版) || 2017-08-08 || [https://docs.google.com/document/d/1rGWcr4K-icMUm_SwC_Zq-8pTt08fHwUxnC4DqS3lU40/ 简介]
+| 编码<br>——隐匿在计算机软硬件背后的语言 || Code<br>——The Hidden Language of Computer Hardware and Software || (美) [https://en.wikipedia.org/wiki/Charles_Petzold Charles Petzold] || 简体PDF(扫描版)<br>英文PDF || 2017-08-08<br>2019-08-17 || [https://docs.google.com/document/d/1rGWcr4K-icMUm_SwC_Zq-8pTt08fHwUxnC4DqS3lU40/ 简介]
 |-
 | 每个程序员都应该了解的内存知识 || What Every Programmer Should Know About Memory || (美) [https://de.wikipedia.org/wiki/Ulrich_Drepper Ulrich Drepper] || 英文PDF || 2017-08-10 || [https://docs.google.com/document/d/1GZpQKWRs1dt-VguVC-om1qFi1tkVwvsRIAZQqvDOa7E/ 简介]
 |}
