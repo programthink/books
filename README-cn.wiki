@@ -1,20 +1,20 @@
 - - -
 [English](README.wiki), [Chinese 中文](README-cn.wiki)
 - - -
-<h1>Tree View of all E-Books (Frequent Update)<h1>
+
+<h1>电子书总目录 (频繁更新)</h1>
 
 ----
 
-= Read before download & Format description =
+= 下载须知 及 格式说明 =
 
-<h2>Update</h2>
+<h2>更新通知</h2>
 
-I compiled the various e-books I collected here. They are keep increasing.
+这里汇总了俺收藏的各类电子书（不断增加中）。
 
-Every a few months, I will update everyone on my blog, what books have been updated. My blog address is:  [https://feeds2.feedburner.com/programthink]
+俺每隔几个月会在博客上通知大伙儿，近期更新了哪些书。俺博客的订阅地址是：[https://feeds2.feedburner.com/programthink]
 
-Because my blog is outside the great China Firewall, and subject to blockage for long time, I suggest you use blog reader, such as Feedly to subscribe to my blog, it will get you updates of e-books.
-
+因为俺博客在墙外，并且长期遭到 GFW 封锁，建议用博客阅读器（比如 Feedly）订阅俺博客，以获取电子书更新的通知。
 
 <h2>下载说明</h2>
 
