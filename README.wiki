@@ -1729,7 +1729,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 经济学原理<br>''其它中文名：''<br>国民经济学原理 || Principles of Economics || (奥) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E9%96%80%E6%A0%BC%E7%88%BE 卡尔·门格尔] || 简体PDF(扫描版)<br>英文PDF<br>英文EPUB || 2018-09-15<br>2018-09-15<br>2019-05-02 || [https://docs.google.com/document/d/1AEyTYHEzJVi2o4aZvCbxCeKbep68MXHKjA5NTzCqrMY/ 简介]
 |-
-| 自然价值 || Natural Value || (奥) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E9%A6%AE%C2%B7%E7%B6%AD%E5%A1%9E%E7%88%BE 弗里德里希·冯·维塞尔] || 英文PDF<br>英文HTML || 2018-09-15<br>2019-05-02 || [https://docs.google.com/document/d/1Gpjhx1X6tvsm0qy-BeiFIrnX-wTpUw9IMgx6Hcf1I0I/ 简介]
+| 自然价值 || Natural Value || (奥) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E9%A6%AE%C2%B7%E7%B6%AD%E5%A1%9E%E7%88%BE 弗里德里希·冯·维塞尔] || 简体PDF<br>英文PDF<br>英文HTML || 2019-08-18<br>2018-09-15<br>2019-05-02 || [https://docs.google.com/document/d/1Gpjhx1X6tvsm0qy-BeiFIrnX-wTpUw9IMgx6Hcf1I0I/ 简介]
 |-
 | 资本与利息 || Capital and Interest || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 繁體PDF(第1卷 掃描版)<br>英文EPUB(第1卷) || 2018-09-05<br>2019-05-02 || [https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/ 简介]
 |-
