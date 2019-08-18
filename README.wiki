@@ -182,7 +182,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 自由及其背叛<br>——人类自由的六个敌人 || Freedom and Its Betrayal<br>——Six Enemies of Human Liberty || (英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2014-05-23 || [https://docs.google.com/document/d/1CCqB3BxnsETCtB2psPosGGeZ3g6AD-M17dTRFFcfQQk/ 简介]
 |-
-| 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF<br>简体HTML || 2016-12-23<br>2018-12-04 || [https://docs.google.com/document/d/14IS1AA8XHZEE6zIQcdfXlZOlNUvbhhdYyP-ijP4wwYo/ 简介]
+| 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF<br>简体HTML || 2016-12-23<br>2018-12-04 || [https://docs.google.com/document/d/14IS1AA8XHZEE6zIQcdfXlZOlNUvbhhdYyP-ijP4wwYo/ 简介]
 |-
 | 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体EPUB<br>简体MOBI<br>简体TXT<br>简体PDF(扫描版) || 2013-09-13<br>2018-11-10<br>2016-05-14<br>2013-05-23 || [https://docs.google.com/document/d/1Z0gSPYoZMpdnsZE9mpHkiKuTWATR9w0WlOdiiu-i9Tc/ 简介]
 |-
@@ -244,13 +244,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 通往奴役之路 || The Road to Serfdom || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF(台湾版)<br>简体PDF(大字版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF<br>英文EPUB || 2014-05-18<br>2018-09-10<br>2013-03-24<br>2013-09-13<br>2015-05-11<br>2013-05-30<br>2019-01-04 || [https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/ 简介]
+| 通往奴役之路 || The Road to Serfdom || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF(台湾版)<br>简体PDF(大字版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF<br>英文EPUB || 2014-05-18<br>2018-09-10<br>2013-03-24<br>2013-09-13<br>2015-05-11<br>2013-05-30<br>2019-01-04 || [https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/ 简介]
 |-
-| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14 || [https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/ 简介]
+| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14 || [https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/ 简介]
 |-
-| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/ 简介]
+| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/ 简介]
 |-
-| 社会主义国家的经济计算 || Economic Calculation in the Socialist Commonwealth || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文PDF || 2018-09-22 || [https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/ 简介]
+| 社会主义国家的经济计算 || Economic Calculation in the Socialist Commonwealth || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文PDF || 2018-09-22 || [https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/ 简介]
 |-
 | 牛津通识读本：社会主义 || Socialism || Michael Newman || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
 |}
@@ -1707,13 +1707,13 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 国富论<br>''其它中文名：''<br>国民财富的性质和原因 || The Wealth of Nations || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体CHM<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-04-09<br>2018-12-08<br>2015-02-14<br>2016-05-15 || [https://docs.google.com/document/d/1uRlISjTaReYfoLzMlnQV3dY3ZDE4BF1CWt06A1rQYhU/ 简介]
 |-
-| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/ 简介]
+| 就业、利息和货币通论 || The General Theory of Employment, Interest and Money || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/ 简介]
 |-
-| 人的行为<br>——经济学专论<br>''其它中文名：''<br>人类行为的经济学分析 || Human Action<br>——A Treatise on Economics || (奥) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 繁體PDF(掃描版)<br>英文EPUB || 2019-04-15<br>2018-09-15 || [https://docs.google.com/document/d/1SoD0lCENOGExibp1v7ZcMpAcXREbf4MPGn5c9QGd02g/ 简介]
+| 人的行为<br>——经济学专论<br>''其它中文名：''<br>人类行为的经济学分析 || Human Action<br>——A Treatise on Economics || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 繁體PDF(掃描版)<br>英文EPUB<br>英文PDF(扫描版) || 2019-04-15<br>2018-09-15<br>2019-08-18 || [https://docs.google.com/document/d/1SoD0lCENOGExibp1v7ZcMpAcXREbf4MPGn5c9QGd02g/ 简介]
 |-
-| 个人主义与经济秩序 || Individualism and Economic Order || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-10<br>2013-09-13<br>2015-02-14 || [https://docs.google.com/document/d/1n7pZ8RhkgfqAsNctjBw7Lu0IK_6w_V7MehA_mzcGtk0/ 简介]
+| 个人主义与经济秩序 || Individualism and Economic Order || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-10<br>2013-09-13<br>2015-02-14 || [https://docs.google.com/document/d/1n7pZ8RhkgfqAsNctjBw7Lu0IK_6w_V7MehA_mzcGtk0/ 简介]
 |-
-| 经济发展理论 || The Theory of Economic Development || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/ 简介]
+| 经济发展理论 || The Theory of Economic Development || (奥/美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/ 简介]
 |-
 | 企业的性质<br>''其它中文名：''<br>公司的本质 || The Nature of the Firm || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 简体PDF<br>英文PDF || 2019-04-17<br>2018-09-18 || [https://docs.google.com/document/d/1z589Ha_g1SpmRmp033pSjhfCHzs2PbpnSSZfPHaSdhg/ 简介]
 |-
@@ -1813,7 +1813,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists<br>——from Marx to Keynes || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/1wqzVgyl-J48EAqt2TTer7HQbfQxvCpr8i_9rydo7t_U/ 简介]
+| 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists<br>——from Marx to Keynes || (奥/美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/1wqzVgyl-J48EAqt2TTer7HQbfQxvCpr8i_9rydo7t_U/ 简介]
 |-
 | 经济学大师们 || New Ideas from Dead Economists<br>——An Introduction to Modern Economic Thought || (美) [https://en.wikipedia.org/wiki/Todd_G._Buchholz 托德·布赫霍尔茨] || 简体PDF(扫描版) || 2018-06-24 || [https://docs.google.com/document/d/174V2UIpMrm-ODKm5pOnj_gubJ7m2lpZ_W-1BlIjF1Go/ 简介]
 |-
