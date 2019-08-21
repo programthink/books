@@ -6,11 +6,9 @@
 
 <h2>更新通知</h2>
 
-这里汇总了俺收藏的各类电子书（不断增加中）。
+这里汇总了俺收藏的各类电子书（不断增加中）。俺每隔几个月会在博客上通知大伙儿，近期更新了哪些书。俺博客的网址是：[https://program-think.blogspot.com/]
 
-俺每隔几个月会在博客上通知大伙儿，近期更新了哪些书。俺博客的订阅地址是：[https://feeds2.feedburner.com/programthink]
-
-因为俺博客在墙外，并且长期遭到 GFW 封锁，建议用博客阅读器（比如 Feedly）订阅俺博客，以获取电子书更新的通知。
+因为俺博客在【墙外】，并且长期遭到 GFW 封锁，建议用博客阅读器（比如 Feedly）进行订阅，以获取电子书更新的通知。博客的订阅地址是：[https://feeds2.feedburner.com/programthink]
 
 <h2>下载说明</h2>
 
@@ -1315,7 +1313,17 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
-== 2.1 认知心理学 ==
+== 2.1 通俗读物 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 与众不同的心理学<br>——如何正视心理学<br>''其它中文名：''<br>对“伪心理学”说不 || How to Think Straight about Psychology || (加) [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] || 简体PDF(第8版 扫描版)<br>简体PDF(第7版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版) || 2015-05-11<br>2012-12-29<br>2015-02-16<br>2015-02-16 || [https://docs.google.com/document/d/16-GOAoIar2zpwGwsWq0vl_0wbsnehoWYgz2srYGgzzY/ 简介]
+|-
+| 牛津通识读本：生活中的心理学 || Psychology || (英) 吉莉恩·巴特勒<br>(英) 弗雷达·麦克马纳斯 || 简体EPUB(第1版)<br>简体AZW3(第1版) || 2015-12-14<br>2015-12-14 || [https://docs.google.com/document/d/10YN1eJndOQSLdQtE7pGkwxINbupWEuIu0Gwd2rWhDZU/ 简介]
+|}
+
+== 2.2 认知心理学 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1328,9 +1336,13 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 无从选择<br>——为何多即是少 || The Paradox of Choice<br>——Why More Is Less || (美) [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] || 简体PDF(扫描版)<br>英文PDF || 2012-12-29<br>2012-12-29 || [https://docs.google.com/document/d/1jJA46kpraXr252iQEWXmxGyQpUd4yju8qcHu7kR38z4/ 简介]
 |-
-| 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF<br>简体MOBI || 2015-02-23<br>2015-11-14 || [https://docs.google.com/document/d/1v1ftIUSp6DUvEzTKFn9ICx5FHCtwJAG3gjPKlFq30sI/ 简介]
-|-
 | 清醒思考的艺术（上篇）、明智行动的艺术（下篇） || The Art of Thinking Clearly || (瑞士) [https://en.wikipedia.org/wiki/Rolf_Dobelli 罗尔夫·多贝里] || 简体PDF(上篇 扫描版)<br>简体EPUB (上篇 插图版)<br>简体EPUB (下篇 插图版)<br>简体MOBI (下篇 插图版)<br>英文PDF<br>英文EPUB || 2014-07-15<br>2015-12-01<br>2019-04-20<br>2019-04-20<br>2015-11-13<br>2015-11-13 || [https://docs.google.com/document/d/12t5w1oCrz8ZZSxf276n94AByAiCjfmQGXRooihPkbs4/ 简介]
+|-
+| 怪诞行为学1<br>——可预测的非理性 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体PDF(扫描版)<br>简体EPUB || 2014-07-27<br>2015-01-07 || [https://docs.google.com/document/d/19IYxkitIsghY_CPO0R5OCANOLOVyG4-Kc7CGLfkhStc/ 简介]
+|-
+| 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体EPUB || 2015-01-07 || [https://docs.google.com/document/d/1g5Vzvyr1huLntBjocLjOSwMn7N8cVr8IwIi75uD7y9Y/ 简介]
+|-
+| 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF<br>简体MOBI || 2015-02-23<br>2015-11-14 || [https://docs.google.com/document/d/1v1ftIUSp6DUvEzTKFn9ICx5FHCtwJAG3gjPKlFq30sI/ 简介]
 |-
 | 心流<br>——最优体验心理学 || Flow<br>——The Psychology of Optimal Experience || (意/美) [https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi 米哈里·契克森米哈伊] || 简体EPUB<br>简体MOBI || 2019-08-19<br>2019-08-19 || [https://docs.google.com/document/d/14kE-1g6W_nyRNHMqV2D5wT0QDNvwb0Nh3WBvswOtz9k/ 简介]
 |-
@@ -1341,7 +1353,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 统计陷阱<br>''其它中文名：''<br>统计数字会撒谎 || How to Lie with Statistics || (美) [https://en.wikipedia.org/wiki/Darrell_Huff 达莱尔·哈夫] || 简体PDF<br>简体PDF(大字版) || 2015-02-16<br>2018-11-21 || [https://docs.google.com/document/d/1_hU4SiYELWIaehraIeTe4VHO4fqmJUPYHcvX3gI9VM4/ 简介]
 |}
 
-== 2.2 人格心理学 ==
+== 2.3 人格心理学 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1361,7 +1373,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 身份的焦虑 || Status Anxiety || (瑞士) [https://en.wikipedia.org/wiki/Alain_de_Botton 阿兰·德波顿] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/1liTbpjbXqip4ADsxMUx8tuNBFrlOdGYOTaY6Xp9sI-w/ 简介]
 |}
 
-== 2.3 社会心理学 ==
+== 2.4 社会心理学 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1373,7 +1385,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || (美) [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || 简体PDF(大字版)<br>简体EPUB<br>繁體PDF(掃描版) || 2018-09-10<br>2013-09-13<br>2013-02-05 || [https://docs.google.com/document/d/1thzFhbtzJTJnHst4rQwyUQnV5o3vjL8mr2QbR7zr54s/ 简介]
 |}
 
-== 2.4 性心理学 ==
+== 2.5 性心理学 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1381,7 +1393,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 男人来自火星，女人来自金星 || Men Are from Mars, Women Are from Venus || (美) [https://en.wikipedia.org/wiki/John_Gray_%28U.S._author%29 约翰·格雷] || 简体PDF(扫描版) || 2018-09-09 || [https://docs.google.com/document/d/17uDOlccJ6NmpeRVKvXPNDWUv2h9V_PRrVEZTqlwZy2A/ 简介]
 |}
 
-== 2.5 教育心理学 ==
+== 2.6 教育心理学 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1391,7 +1403,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 家庭会伤人<br>——自我重生的新契机 || The Family<br>——A Revolutionary Way of Self Discovery || (美) [https://en.wikipedia.org/wiki/John_Bradshaw_%28author%29 约翰·布雷萧] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/13o9sJjREEJ-29uBWujsi95gItgqfxoiQJj7O3LesG_w/ 简介]
 |}
 
-== 2.6 进化心理学 ==
+== 2.7 进化心理学 ==
 
 (“进化心理学”是心理学的一个新的研究方向)
 
@@ -1401,7 +1413,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 进化心理学<br>——心理的新科学 || Evolutionary Psychology<br>——The New Science of the Mind || (美) [https://en.wikipedia.org/wiki/David_Buss 大卫·巴斯] || 简体PDF(扫描版)<br>简体MOBI || 2012-12-31<br>2015-11-14 || [https://docs.google.com/document/d/1yB9yKWHyQf_18TR7HfHz-4blMk3QSfk7SFPxDXyf0yk/ 简介]
 |}
 
-== 2.7 洗脑 ==
+== 2.8 洗脑 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1417,7 +1429,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 洗脑的历史 || N/A || 傅志彬 || 简体PDF<br>简体PDF(扫描版) || 2015-02-15<br>2015-05-11 || [https://docs.google.com/document/d/1EBhr7WjholDkf3Aji9azaVmSrIaoPPZiEv25tJmlNlU/ 简介]
 |}
 
-== 2.8 审讯与反审讯 ==
+== 2.9 审讯与反审讯 ==
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1429,20 +1441,12 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 | 审讯与反审讯文章汇集 || (热心读者) || 简体TXT || 2014-07-28 || [https://docs.google.com/document/d/1MgzYbvtTnvdceP6mEUFHYoJCyrLc8ffHlm2KoIDOA9M/ 简介]
 |}
 
-== 2.9 (其它) ==
+== 2.10 (其它) ==
 
 {|
-! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 与众不同的心理学<br>——如何正视心理学<br>''其它中文名：''<br>对“伪心理学”说不 || How to Think Straight about Psychology || (加) [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] || 简体PDF(第8版 扫描版)<br>简体PDF(第7版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版) || 2015-05-11<br>2012-12-29<br>2015-02-16<br>2015-02-16 || [https://docs.google.com/document/d/16-GOAoIar2zpwGwsWq0vl_0wbsnehoWYgz2srYGgzzY/ 简介]
-|-
-| 怪诞行为学<br>——可预测的非理性 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体PDF(扫描版)<br>简体EPUB || 2014-07-27<br>2015-01-07 || [https://docs.google.com/document/d/19IYxkitIsghY_CPO0R5OCANOLOVyG4-Kc7CGLfkhStc/ 简介]
-|-
-| 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体EPUB || 2015-01-07 || [https://docs.google.com/document/d/1g5Vzvyr1huLntBjocLjOSwMn7N8cVr8IwIi75uD7y9Y/ 简介]
-|-
-| 牛津通识读本：生活中的心理学 || Psychology || Gillian Butler<br>Freda McManus || 简体EPUB<br>简体AZW3 || 2015-12-14<br>2015-12-14 || [https://docs.google.com/document/d/10YN1eJndOQSLdQtE7pGkwxINbupWEuIu0Gwd2rWhDZU/ 简介]
-|-
-| 如何变得有思想<br>——阮一峰博文集 || N/A || 阮一峰 || 简体EPUB || 2015-05-12 || [https://docs.google.com/document/d/13ObaY3VcPmHwHE5PmYXlDrvKOlUVYv6JDBpV-_hbiQ8/ 简介]
+| 如何变得有思想<br>——阮一峰博文集 || 阮一峰 || 简体EPUB || 2015-05-12 || [https://docs.google.com/document/d/13ObaY3VcPmHwHE5PmYXlDrvKOlUVYv6JDBpV-_hbiQ8/ 简介]
 |}
 
 ----
