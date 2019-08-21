@@ -1358,17 +1358,17 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love, Traditional Values and Spiritual Growth || (美) [https://en.wikipedia.org/wiki/M._Scott_Peck 斯科特·派克] || 简体PDF(扫描版)<br>简体EPUB (精校版)<br>简体MOBI<br>简体TXT<br>英文PDF || 2012-06-29<br>2015-12-01<br>2014-02-23<br>2012-06-29<br>2013-04-14 || [https://docs.google.com/document/d/1_7nGbugGR_q9np92sNAyZz8HkhaFYv8oxmTcVUlx8tc/ 简介]
+| 动机与人格 || Motivation and Personality || (美) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%C2%B7%E9%A9%AC%E6%96%AF%E6%B4%9B 亚伯拉罕·马斯洛] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版)<br>英文PDF || 2013-09-13<br>2018-11-11<br>2012-12-29<br>2019-08-21 || [https://docs.google.com/document/d/1_1dx0RWO2LToiOq-wiLb-NEibyKEqjVYFkTIa0TotXA/ 简介]
 |-
-| 动机与人格 || Motivation and Personality || (美) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%C2%B7%E9%A9%AC%E6%96%AF%E6%B4%9B 亚伯拉罕·马斯洛] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2013-09-13<br>2018-11-11<br>2012-12-29 || [https://docs.google.com/document/d/1_1dx0RWO2LToiOq-wiLb-NEibyKEqjVYFkTIa0TotXA/ 简介]
+| 少有人走的路<br>——心智成熟的旅程 || The Road Less Traveled<br>——A New Psychology of Love, Traditional Values and Spiritual Growth || (美) [https://en.wikipedia.org/wiki/M._Scott_Peck 斯科特·派克] || 简体PDF(扫描版)<br>简体EPUB (精校版)<br>简体MOBI<br>简体TXT<br>英文PDF || 2012-06-29<br>2015-12-01<br>2014-02-23<br>2012-06-29<br>2013-04-14 || [https://docs.google.com/document/d/1_7nGbugGR_q9np92sNAyZz8HkhaFYv8oxmTcVUlx8tc/ 简介]
 |-
 | 自控力 || The Willpower Instinct || (美) [https://en.wikipedia.org/wiki/Kelly_McGonigal 凯利·麦格尼格尔] || 简体EPUB || 2019-08-19 || [https://docs.google.com/document/d/1yvlW7b3QGjeievN4T18GFPAFJnS2C93g4CA1JN-mgGw/ 简介]
 |-
 | 人的潜能和价值<br>——人本主义心理学译文集 || N/A || (多人) || 简体PDF(扫描版) || 2013-02-05 || [https://docs.google.com/document/d/1sb99Ki-mLGMpAN7Btams8wkgZrEfysHpzC8Ku_I6s3w/ 简介]
 |-
-| 梦的解析<br>''其它中文名：''<br>释梦 || The Interpretation of Dreams || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || 简体PDF<br>英文PDF<br>简体TXT || 2012-12-29<br>2013-04-14<br>2016-05-16 || [https://docs.google.com/document/d/1uLmFeP0iJqHL8CCANEX1Ekc1c35sA0o2h5lTd4RRdm0/ 简介]
+| 梦的解析<br>''其它中文名：''<br>释梦 || The Interpretation of Dreams || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 西格蒙德·弗洛伊德] || 简体PDF<br>简体TXT<br>英文PDF || 2012-12-29<br>2016-05-16<br>2013-04-14 || [https://docs.google.com/document/d/1uLmFeP0iJqHL8CCANEX1Ekc1c35sA0o2h5lTd4RRdm0/ 简介]
 |-
-| 精神分析引论 || A General Introduction to Psychoanalysis || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 弗洛伊德] || 简体PDF<br>简体EPUB<br>简体TXT || 2012-12-29<br>2013-04-16<br>2016-05-02 || [https://docs.google.com/document/d/1MuDmFvH0JEUogX-wqugOA29NTX2QrPlcxxA95gREOg0/ 简介]
+| 精神分析引论 || A General Introduction to Psychoanalysis || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 西格蒙德·弗洛伊德] || 简体PDF<br>简体EPUB<br>简体TXT || 2012-12-29<br>2013-04-16<br>2016-05-02 || [https://docs.google.com/document/d/1MuDmFvH0JEUogX-wqugOA29NTX2QrPlcxxA95gREOg0/ 简介]
 |-
 | 身份的焦虑 || Status Anxiety || (瑞士) [https://en.wikipedia.org/wiki/Alain_de_Botton 阿兰·德波顿] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/1liTbpjbXqip4ADsxMUx8tuNBFrlOdGYOTaY6Xp9sI-w/ 简介]
 |}
@@ -1400,7 +1400,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 正面管教 || Positive Discipline || (美) [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] || 简体PDF || 2014-02-11 || [https://docs.google.com/document/d/1Ntc0DAi-IUFHrJfLuUyFY39MkWLrmsu5dUZzcyLBXs8/ 简介]
 |-
-| 家庭会伤人<br>——自我重生的新契机 || The Family<br>——A Revolutionary Way of Self Discovery || (美) [https://en.wikipedia.org/wiki/John_Bradshaw_%28author%29 约翰·布雷萧] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/13o9sJjREEJ-29uBWujsi95gItgqfxoiQJj7O3LesG_w/ 简介]
+| 家庭会伤人<br>——自我重生的新契机 || Bradshaw on the Family<br>——A Revolutionary Way of Self Discovery || (美) [https://en.wikipedia.org/wiki/John_Bradshaw_%28author%29 约翰·布雷萧] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/13o9sJjREEJ-29uBWujsi95gItgqfxoiQJj7O3LesG_w/ 简介]
 |}
 
 == 2.7 进化心理学 ==
