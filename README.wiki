@@ -1328,7 +1328,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || (美) 尼尔·布朗<br>(美) 斯图尔特·基利 || 简体PDF(第7版)<br>简体EPUB(第7版)<br>简体MOBI(第7版)<br>英文PDF(第8版) || 2012-01-20<br>2013-09-13<br>2015-11-14<br>2012-01-20 || [https://docs.google.com/document/d/14xEG3Uot3-uMML1ZQc7cMbNTxzpllxFQqcwr_n6FgQk/ 简介]
+| 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || (美) 尼尔·布朗<br>(美) 斯图尔特·基利 || 简体PDF(第10版 扫描版)<br>简体PDF(第7版)<br>简体EPUB(第7版)<br>简体MOBI(第7版)<br>英文PDF(第8版) || 2019-08-21<br>2012-01-20<br>2013-09-13<br>2015-11-14<br>2012-01-20 || [https://docs.google.com/document/d/14xEG3Uot3-uMML1ZQc7cMbNTxzpllxFQqcwr_n6FgQk/ 简介]
 |-
 | 影响力 || Influence<br>——The Psychology of Persuasion || (美) [https://en.wikipedia.org/wiki/Robert_Cialdini 罗伯特·西奥迪尼] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文TXT || 2013-02-25<br>2012-12-29<br>2013-09-13<br>2014-02-23<br>2012-12-29 || [https://docs.google.com/document/d/1PmNGkvoqtPWPwV63h5KMiQQWgGU-Mo3Zf4aFzX16om4/ 简介]
 |-
