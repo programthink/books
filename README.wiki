@@ -1368,11 +1368,13 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 人的潜能和价值<br>——人本主义心理学译文集 || N/A || (多人) || 简体PDF(扫描版) || 2013-02-05 || [https://docs.google.com/document/d/1sb99Ki-mLGMpAN7Btams8wkgZrEfysHpzC8Ku_I6s3w/ 简介]
 |-
+| 身份的焦虑 || Status Anxiety || (瑞士) [https://en.wikipedia.org/wiki/Alain_de_Botton 阿兰·德波顿] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/1liTbpjbXqip4ADsxMUx8tuNBFrlOdGYOTaY6Xp9sI-w/ 简介]
+|-
 | 梦的解析<br>''其它中文名：''<br>释梦 || The Interpretation of Dreams || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 西格蒙德·弗洛伊德] || 简体PDF<br>简体TXT<br>英文PDF || 2012-12-29<br>2016-05-16<br>2013-04-14 || [https://docs.google.com/document/d/1uLmFeP0iJqHL8CCANEX1Ekc1c35sA0o2h5lTd4RRdm0/ 简介]
 |-
 | 精神分析引论 || A General Introduction to Psychoanalysis || (奥) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7 西格蒙德·弗洛伊德] || 简体PDF<br>简体EPUB<br>简体TXT || 2012-12-29<br>2013-04-16<br>2016-05-02 || [https://docs.google.com/document/d/1MuDmFvH0JEUogX-wqugOA29NTX2QrPlcxxA95gREOg0/ 简介]
 |-
-| 身份的焦虑 || Status Anxiety || (瑞士) [https://en.wikipedia.org/wiki/Alain_de_Botton 阿兰·德波顿] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/1liTbpjbXqip4ADsxMUx8tuNBFrlOdGYOTaY6Xp9sI-w/ 简介]
+| 心灵的面具<br>——101种心理防御 || 101 Defenses<br>——How the Mind Shields Itself || (美) 杰瑞姆·布莱克曼 || 简体PDF(扫描版) || 2019-08-22 || [https://docs.google.com/document/d/1KhMtgUj6ymRU-R88KfmE0dwyJsi2Ilatcx2YdublIl0/ 简介]
 |}
 
 == 2.4 社会心理学 ==
