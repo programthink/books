@@ -2589,7 +2589,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| Python 学习手册 || Learning Python || (美) Mark Lutz || 英文EPUB (第5版)<br>英文PDF (第4版) || 2013-10-21<br>2017-08-10 || [https://docs.google.com/document/d/16vPfijGfUWDpeUmAT-gtknS0dLbSxFGSfJ8sZJMcvKk/ 简介]
+| Python 学习手册 || Learning Python || (美) Mark Lutz || 英文PDF(第5版)<br>英文EPUB(第5版)<br>英文PDF(第4版) || 2019-08-23<br>2013-10-21<br>2017-08-10 || [https://docs.google.com/document/d/16vPfijGfUWDpeUmAT-gtknS0dLbSxFGSfJ8sZJMcvKk/ 简介]
 |-
 | 深入 Python3 || Dive into Python3 || (美) [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>[https://www.diveinto.org/python3/ 英文WEB]<br>简体PDF || 2013-10-21<br>N/A<br>2013-10-21 || [https://docs.google.com/document/d/1q-Adoq6KJXbQ-0GrLnSEaMJSOuMuhWZyL_Dy-rqFqJI/ 简介]
 |-
