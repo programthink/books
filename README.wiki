@@ -1524,7 +1524,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 兴盛与危机<br>——论中国社会超稳定结构 || N/A || [https://zh.wikipedia.org/wiki/%E9%87%91%E8%A7%80%E6%BF%A4 金观涛]<br>刘青峰 || 简体PDF<br>简体HTML || 2013-02-07<br>2017-08-14 || [https://docs.google.com/document/d/1iO1zpYh2hpCIY1PfWyUBwxYqn7Onbvjjif1YiL1NCgc/ 简介]
 |-
-| 赫逊河畔谈中国历史 || Conversation on Chinese History by the Hudson River || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体HTML<br>简体TXT || 2018-08-08<br>2016-05-20 || [https://docs.google.com/document/d/1IFd0_ayU8TgUwOFVXGQgerJqEWAR8XIHhJiDYVAk_88/ 简介]
+| 赫逊河畔谈中国历史 || Conversation on Chinese History by the Hudson River || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体HTML<br>简体TXT<br>繁體MOBI || 2018-08-08<br>2016-05-20<br>2019-08-23 || [https://docs.google.com/document/d/1IFd0_ayU8TgUwOFVXGQgerJqEWAR8XIHhJiDYVAk_88/ 简介]
 |-
 | 明朝那些事 || N/A || [https://zh.wikipedia.org/wiki/%E5%BD%93%E5%B9%B4%E6%98%8E%E6%9C%88 当年明月] (原名：石悦) || 简体PDF<br>简体PDF(大字版)<br>简体EPUB<br>简体MOBI || 2017-05-06<br>2018-11-11<br>2013-09-14<br>2018-08-08 || [https://docs.google.com/document/d/14UdFb3cqY7pgrtplFPfT5zPjpsFSFzxuNJz0-r_Q4dI/ 简介]
 |}
