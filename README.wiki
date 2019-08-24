@@ -2283,7 +2283,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 第二次世界大战史 || N/A || (德) [https://en.wikipedia.org/wiki/Kurt_von_Tippelskirch 库尔特·冯·蒂佩尔斯基希] || 简体PDF(上下册 扫描版) || 2018-11-11 || [https://docs.google.com/document/d/1LLFyYZqoIkWx3eNMF2F2mSbxk-l2NU5MXqmBYH51W1c/ 简介]
 |-
-| 大海战<br>——第二次世界大战海战史 || N/A || (美) [https://zh.wikipedia.org/wiki/%E5%88%87%E6%96%AF%E7%89%B9%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%B0%BC%E7%B1%B3%E5%85%B9 切斯特·尼米兹]<br>(美) E.B.波特 || 简体PDF(扫描版) || 2016-12-11 || [https://docs.google.com/document/d/1cOFhem10jWTPUagIb9Q1PzDczwvsgMz4JsqhbqN-LHk/ 简介]
+| 大海战<br>——第二次世界大战海战史<br>''其它中文名：''<br>伟大的海战 || The Great Sea War<br>——The Story of Naval Action in World War II || (美) [https://zh.wikipedia.org/wiki/%E5%88%87%E6%96%AF%E7%89%B9%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%B0%BC%E7%B1%B3%E5%85%B9 切斯特·尼米兹]<br>(美) [https://en.wikipedia.org/wiki/E._B._Potter 埃尔默·波特] || 简体PDF(大字版)<br>简体PDF(扫描版) || 2019-08-24<br>2016-12-11 || [https://docs.google.com/document/d/1cOFhem10jWTPUagIb9Q1PzDczwvsgMz4JsqhbqN-LHk/ 简介]
 |-
 | 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || (美) Hans Jacobsen || 简体CHM || 2013-08-22 || [https://docs.google.com/document/d/1kB3hdYUAg8AxPiLn4YU7aXG1GHFTpOYHvkcatq13f9g/ 简介]
 |-
