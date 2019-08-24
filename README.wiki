@@ -1673,6 +1673,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 牛津通识读本：二十世纪的英国 || Twentieth-Century Britain || (英) [https://en.wikipedia.org/wiki/Kenneth_O._Morgan Kenneth Morgan] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1B7GkPDXhLlIe9rIE9-T8GwZbRVIvtPNpHp5BPz2XRxM/ 简介]
 |-
 | 牛津通识读本：诺曼征服 || The Norman Conquest || (英) George Garnett || 英文PDF || 2016-12-16 || [https://docs.google.com/document/d/1ym_MaiOID1XywlSDHdCP6N0lsuzD600fOUu8JRSRI1M/ 简介]
+|-
+| 从旧帝国到新帝国<br>——1783~1815年英帝国史纲要 || N/A || 郭家宏 || 简体PDF(扫描版) || 2019-08-24 || [https://docs.google.com/document/d/1BAHRNmQzlEP68KQREo1pu8ddzFM2DilBmG_VWrRaur8/ 简介]
 |}
 
 == 3.8 法国 ==
