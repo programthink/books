@@ -238,7 +238,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF(扫描版) || 2012-10-06 || [https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/ 简介]
 |-
-| 历史决定论的贫困<br>''其它中文名：''<br>历史主义的贫困 || The Poverty of Historicism || (奥/英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体HTML<br>简体MOBI || 2014-07-27<br>2015-02-15<br>2012-12-11<br>2015-05-11 || [https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/ 简介]
+| 历史决定论的贫困<br>''其它中文名：''<br>历史主义的贫困 || The Poverty of Historicism || (奥/英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体HTML<br>简体MOBI || 2014-07-27<br>2015-02-15<br>2012-12-11<br>2015-05-11 || [https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/ 简介]
 |-
 | 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || (南斯拉夫) [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2012-10-06<br>2018-09-06 || [https://docs.google.com/document/d/1SqZUfHRNp1XyfOLKJ0VrWPOfrroOD6GKfEDzauH9JRs/ 简介]
 |-
@@ -272,13 +272,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 开放社会及其敌人 || The Open Society and Its Enemies || (英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2012-12-11<br>2013-09-14<br>2018-11-10<br>2017-03-24 || [https://docs.google.com/document/d/1W3zcBUg55Mk5Vhzz3ajelXGh1YoOAxX8zzQvd9LniIs/ 简介]
+| 开放社会及其敌人 || The Open Society and Its Enemies || (奥/英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2012-12-11<br>2013-09-14<br>2018-11-10<br>2017-03-24 || [https://docs.google.com/document/d/1W3zcBUg55Mk5Vhzz3ajelXGh1YoOAxX8zzQvd9LniIs/ 简介]
 |-
-| 极权主义的起源 || The Origins of Totalitarianism || (美) [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || 简体PDF<br>简体CHM<br>简体MOBI<br>简体TXT || 2012-10-06<br>2012-10-14<br>2014-02-23<br>2016-04-29 || [https://docs.google.com/document/d/1NcwkcDn9V5ArRC6TUTFvTdKDB6QZYQeFit_kJPog1RA/ 简介]
+| 极权主义的起源 || The Origins of Totalitarianism || (德/美) [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || 简体PDF<br>简体CHM<br>简体MOBI<br>简体TXT<br>英文PDF(扫描版) || 2012-10-06<br>2012-10-14<br>2014-02-23<br>2016-04-29<br>2019-08-29 || [https://docs.google.com/document/d/1NcwkcDn9V5ArRC6TUTFvTdKDB6QZYQeFit_kJPog1RA/ 简介]
 |-
-| 东方专制主义<br>——对于极权力量的比较研究 || Oriental Despotism<br>——A Comparative Study of Total Power || (美) [https://en.wikipedia.org/wiki/Karl_August_Wittfogel 卡尔·魏特夫] (中文名：魏复古) || 简体PDF(扫描版) || 2019-02-25 || [https://docs.google.com/document/d/1huLbyBvVHxXvWS-mChqwLjhU9JUuEY1Lgt1PrcxhJlA/ 简介]
+| 东方专制主义<br>——对于极权力量的比较研究 || Oriental Despotism<br>——A Comparative Study of Total Power || (德/美) [https://en.wikipedia.org/wiki/Karl_August_Wittfogel 卡尔·魏特夫] (中文名：魏复古) || 简体PDF(扫描版) || 2019-02-25 || [https://docs.google.com/document/d/1huLbyBvVHxXvWS-mChqwLjhU9JUuEY1Lgt1PrcxhJlA/ 简介]
 |-
-| 极权主义民主的起源 || The Origins of Totalitarian Democracy || (以色列) [https://en.wikipedia.org/wiki/Jacob_Talmon 雅各布·塔尔蒙] || 简体PDF(扫描版) || 2015-07-14 || [https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/ 简介]
+| 极权主义民主的起源 || The Origins of Totalitarian Democracy || (波兰/以色列) [https://en.wikipedia.org/wiki/Jacob_Talmon 雅各布·塔尔蒙] || 简体PDF(扫描版) || 2015-07-14 || [https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/ 简介]
 |-
 | 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions About Uncertain Democracies || (阿根廷) [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈]<br>(美) [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF(扫描版) || 2013-08-21 || [https://docs.google.com/document/d/1mDbeZ-JwiZ2hMH1KGtZq7w_N6oJlY-PRoKzvCpBYClM/ 简介]
 |-
