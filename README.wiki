@@ -176,11 +176,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 政府论 || Two Treatises of Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-04-14<br>2013-09-13<br>2018-11-10<br>2016-05-14 || [https://docs.google.com/document/d/1y0-LP5oyWdGfXPqWDP5W88rENbYIOFt-6xwoTPbVOwo/ 简介]
 |-
-| 自由论<br>''其它中文名：''<br>《自由四论》扩充版 || Four Essays on Liberty || (英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版)<br>英文PDF || 2013-08-22<br>2013-12-15 || [https://docs.google.com/document/d/1UjpbcOXKFf8PHyRDZRYzD77Tt6fHdm5FJxc2eeYdqRU/ 简介]
+| 自由论<br>''其它中文名：''<br>《自由四论》扩充版 || Four Essays on Liberty || (俄/英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版)<br>英文PDF || 2013-08-22<br>2013-12-15 || [https://docs.google.com/document/d/1UjpbcOXKFf8PHyRDZRYzD77Tt6fHdm5FJxc2eeYdqRU/ 简介]
 |-
-| 自由及其背叛<br>——人类自由的六个敌人 || Freedom and Its Betrayal<br>——Six Enemies of Human Liberty || (英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2014-05-23 || [https://docs.google.com/document/d/1CCqB3BxnsETCtB2psPosGGeZ3g6AD-M17dTRFFcfQQk/ 简介]
+| 自由及其背叛<br>——人类自由的六个敌人 || Freedom and Its Betrayal<br>——Six Enemies of Human Liberty || (俄/英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2014-05-23 || [https://docs.google.com/document/d/1CCqB3BxnsETCtB2psPosGGeZ3g6AD-M17dTRFFcfQQk/ 简介]
 |-
-| 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF<br>简体HTML || 2016-12-23<br>2018-12-04 || [https://docs.google.com/document/d/14IS1AA8XHZEE6zIQcdfXlZOlNUvbhhdYyP-ijP4wwYo/ 简介]
+| 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(大字版)<br>简体PDF<br>简体HTML || 2019-08-29<br>2016-12-23<br>2018-12-04 || [https://docs.google.com/document/d/14IS1AA8XHZEE6zIQcdfXlZOlNUvbhhdYyP-ijP4wwYo/ 简介]
 |-
 | 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体EPUB<br>简体MOBI<br>简体TXT<br>简体PDF(扫描版) || 2013-09-13<br>2018-11-10<br>2016-05-14<br>2013-05-23 || [https://docs.google.com/document/d/1Z0gSPYoZMpdnsZE9mpHkiKuTWATR9w0WlOdiiu-i9Tc/ 简介]
 |-
@@ -1222,7 +1222,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 苏联真相<br>——对101个重要问题的思考 || N/A || 陆南泉<br>等 || 简体PDF(上中下 扫描版) || 2013-01-01 || [https://docs.google.com/document/d/1K54A5nD5MVza4anh1IR66Bx62GMpk5iHKeYSuKZLwWk/ 简介]
 |-
-| 苏联的心灵<br>——共产主义时代的俄国文化 || The Soviet Mind<br>——Russian Culture under Communism || (英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2013-08-21 || [https://docs.google.com/document/d/1XAiAtPnr-HkFh2Rh1NFAWUQZwrUA19wK4QfleOeik_8/ 简介]
+| 苏联的心灵<br>——共产主义时代的俄国文化 || The Soviet Mind<br>——Russian Culture under Communism || (俄/英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版) || 2013-08-21 || [https://docs.google.com/document/d/1XAiAtPnr-HkFh2Rh1NFAWUQZwrUA19wK4QfleOeik_8/ 简介]
 |-
 | 访苏归来<br>''其它中文名：''<br>从苏联归来 || Return From The USSR || (法) [https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E7%B4%80%E5%BE%B7 安德烈·纪德] || 英文PDF(扫描版) || 2019-02-08 || [https://docs.google.com/document/d/10V7nWhWPw08KoQFMhC7z3FZzmAq6aGKXGHh8zJEgNBo/ 简介]
 |-
