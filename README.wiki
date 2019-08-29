@@ -207,7 +207,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 === 1.1.3 保守主义 ===
 
-（“[https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89 保守主义]”与“古典自由主义”存在相当一部分交集；属于两者重叠部分的书，放置到上述“自由主义”分类目录下）{|
+（“[https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89 保守主义]”与“古典自由主义”存在相当一部分交集；属于两者重叠部分的书，放置到上述“自由主义”分类目录下）
+
+{|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 保守主义思想<br>——从伯克到艾略特<br>''其它中文名：''<br>保守主义思想<br>——从伯克到桑塔亚那<br>保守主义的心灵 || The Conservative Mind<br>——From Burke to Eliot || (美) [https://en.wikipedia.org/wiki/Russell_Kirk 拉塞尔·柯克] || 英文PDF(浓缩版) || 2019-08-29 || [https://docs.google.com/document/d/1kpzHnb7HgSI9R-_VR3d9CvZMpwFxyE2tGmtgzZvc2Lk/ 简介]
@@ -229,18 +231,20 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 === 1.1.5 共产主义 ===
 
+（本类别主要放置“[https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%80%9D%E5%88%97%E5%AE%81%E4%B8%BB%E4%B9%89 马列主义]”相关书籍）
+
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || (美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 布热津斯基] || 简体PDF(扫描版) || 2012-10-06 || [https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/ 简介]
+| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF(扫描版) || 2012-10-06 || [https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/ 简介]
 |-
-| 共产主义实录 || Communism<br>——A History || (美) [https://en.wikipedia.org/wiki/Richard_Pipes 理查德·派普斯] || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/ 简介]
-|-
-| 历史决定论的贫困 || The Poverty of Historicism || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体HTML<br>简体MOBI || 2014-07-27<br>2015-02-15<br>2012-12-11<br>2015-05-11 || [https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/ 简介]
+| 历史决定论的贫困<br>''其它中文名：''<br>历史主义的贫困 || The Poverty of Historicism || (奥/英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体HTML<br>简体MOBI || 2014-07-27<br>2015-02-15<br>2012-12-11<br>2015-05-11 || [https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/ 简介]
 |-
 | 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || (南斯拉夫) [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2012-10-06<br>2018-09-06 || [https://docs.google.com/document/d/1SqZUfHRNp1XyfOLKJ0VrWPOfrroOD6GKfEDzauH9JRs/ 简介]
 |-
-| 恐怖主义与共产主义 || Terrorism and Communism || (德) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || 简体PDF || 2013-04-11 || [https://docs.google.com/document/d/16RfckBiSxG5v1mmMxrZ3eLtpEUoWRNN_4g2FsZs4zxk/ 简介]
+| 共产主义实录 || Communism<br>——A History || (美) [https://en.wikipedia.org/wiki/Richard_Pipes 理查德·派普斯] || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/ 简介]
+|-
+| 恐怖主义与共产主义 || Terrorism and Communism<br>——A Contribution to the Natural History of Revolution || (德) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || 简体PDF<br>英文PDF(扫描版) || 2013-04-11<br>2019-08-29 || [https://docs.google.com/document/d/16RfckBiSxG5v1mmMxrZ3eLtpEUoWRNN_4g2FsZs4zxk/ 简介]
 |-
 | 共产主义黑皮书<br>——罪行、恐怖、镇压 || The Black Book of Communism<br>——Crimes, Terror, Repression || (多人) || 英文PDF(扫描版) || 2015-02-17 || [https://docs.google.com/document/d/1S78JoconEDBPdi31EDDgNQppoD9tQ-d93_2iziMIKcs/ 简介]
 |-
