@@ -205,7 +205,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 给你所爱的人以自由 || N/A || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF(大字版)<br>简体EPUB<br>简体MOBI || 2013-10-26<br>2013-11-26<br>2015-11-14<br>2015-11-14 || [https://docs.google.com/document/d/1Lyn3S8DSAzLLQtE11W2RCRdarlTM9XjAiDmTys7mISA/ 简介]
 |}
 
-=== 1.1.3 资本主义 ===
+=== 1.1.3 保守主义 ===
+
+（“[https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89 保守主义]”与“古典自由主义”存在相当一部分交集；属于两者重叠部分的书，放置到上述“自由主义”分类目录下）{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 保守主义思想<br>——从伯克到艾略特<br>''其它中文名：''<br>保守主义思想<br>——从伯克到桑塔亚那<br>保守主义的心灵 || The Conservative Mind<br>——From Burke to Eliot || (美) [https://en.wikipedia.org/wiki/Russell_Kirk 拉塞尔·柯克] || 英文PDF(浓缩版) || 2019-08-29 || [https://docs.google.com/document/d/1kpzHnb7HgSI9R-_VR3d9CvZMpwFxyE2tGmtgzZvc2Lk/ 简介]
+|}
+
+=== 1.1.4 资本主义 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -217,7 +225,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 牛津通识读本：资本主义 || Capitalism || James Fulcher || 简体EPUB<br>简体AZW3 || 2015-12-13<br>2015-12-13 || [https://docs.google.com/document/d/1N0yg3koUOvRhoCT41FXup0sopPDMtCNDwbI4jkV_TlY/ 简介]
 |}
 
-=== 1.1.4 共产主义 ===
+=== 1.1.5 共产主义 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -237,7 +245,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 社会主义体制<br>——共产主义政治经济学 || The Socialist System<br>——The Political Economy of Communism || (匈) 雅诺什·科尔奈 || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/163FI8NOpKSl6Sd-IRhe-phybZd6BAXd8FbnZbN-sM-c/ 简介]
 |}
 
-=== 1.1.5 社会主义 ===
+=== 1.1.6 社会主义 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -253,7 +261,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 牛津通识读本：社会主义 || Socialism || Michael Newman || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
 |}
 
-=== 1.1.6 极权主义与威权主义 ===
+=== 1.1.7 极权主义与威权主义 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -273,7 +281,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 新常识<br>——一党专制的性质与后果 || New Common Sense<br>——The Nature and Consequences of One-Party Dictatorship || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体EPUB(精校版)<br>简体PDF<br>简体MOBI || 2015-11-29<br>2013-10-19<br>2018-11-10 || [https://docs.google.com/document/d/1-K5Qs01xhzhjMheWlznz44xwHjsCGc-mnRk3p9gWlSg/ 简介]
 |}
 
-=== 1.1.7 外交与国际关系 ===
+=== 1.1.8 外交与国际关系 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -293,7 +301,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 牛津通识读本：地缘政治 || Geopolitics || (英) [https://en.wikipedia.org/wiki/Klaus_Dodds Klaus Dodds] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1h47g36TWm4BiWYhVAcvSt1w9-5jRm5pIN682hTsSgIg/ 简介]
 |}
 
-=== 1.1.8 非暴力抗争 ===
+=== 1.1.9 非暴力抗争 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -311,7 +319,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 西方公民不服从的传统 || The Tradition of the Civil Disobedience || 何怀宏 (主编) || 简体PDF(扫描版) || 2016-07-18 || [https://docs.google.com/document/d/1-qyH0KvdPSB8uy1dB0oO5KZJCyXeDVi3OfT4tRVr0sc/ 简介]
 |}
 
-=== 1.1.9 女权运动 ===
+=== 1.1.10 女权运动 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -333,7 +341,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 醒来的女性 || N/A || (未知) || 简体PDF || 2014-07-27 || [https://docs.google.com/document/d/1_5x24icwhGDLyNa7-wiyOCnwgHig-1mjMDd3sDX5n7A/ 简介]
 |}
 
-=== 1.1.10 (其它) ===
+=== 1.1.11 (其它) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
