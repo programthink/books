@@ -1747,9 +1747,9 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 高级宏观经济学 || Advanced Macroeconomics || (美) [https://en.wikipedia.org/wiki/David_Romer 戴维·罗默] || 简体PDF(第2版 扫描版)<br>英文PDF(第1版 扫描版) || 2014-07-15<br>2018-06-23 || [https://docs.google.com/document/d/16GzZseyAoy5zr4zziDYi5ux2dAlBPIaJ8_4cSs6OKPo/ 简介]
 |-
-| 中级微观经济学<br>——现代观点 || Intermediate Microeconomics<br>——A Modern Approach || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第8版)<br>英文PDF(第8版) || 2015-07-12<br>2018-06-23 || [https://docs.google.com/document/d/1aTlOHjB3fnEmazZ6j37_HY4fSLsUpPRaLUbnhCtGPvE/ 简介]
+| 中级微观经济学<br>——现代观点<br>''其它中文名：''<br>范里安微观经济学 || Intermediate Microeconomics<br>——A Modern Approach || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第8版)<br>英文PDF(第8版) || 2015-07-12<br>2018-06-23 || [https://docs.google.com/document/d/1aTlOHjB3fnEmazZ6j37_HY4fSLsUpPRaLUbnhCtGPvE/ 简介]
 |-
-| 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第3版) || 2014-07-15 || [https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/ 简介]
+| 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第3版)<br>英文PDF(第3版 扫描版) || 2014-07-15<br>2019-08-30 || [https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/ 简介]
 |-
 | 经济学原理 || N/A || (中/澳大利亚) [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF(扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/ 简介]
 |}
