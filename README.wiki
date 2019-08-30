@@ -518,7 +518,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 遇罗克之遗作与回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93_(%E4%BD%9C%E5%AE%B6) 徐晓]<br>丁东<br>[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF(扫描版) || 2013-03-16 || [https://docs.google.com/document/d/1HCcLOgDygvtTz5LuogalYJyysH6ZZLnPpmdPzuYS7-g/ 简介]
 |-
-| 牛鬼蛇神录<br>——文革囚禁中的精灵 || The Captive Spirits || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/ 简介]
+| 牛鬼蛇神录<br>——文革囚禁中的精灵 || The Captive Spirits || (中/澳大利亚) [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/ 简介]
 |-
 | 1966<br>——我们那一代的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] (主编) || 简体PDF(扫描版) || 2017-08-13 || [https://docs.google.com/document/d/1-XqmXDsaUBUdSQkB8W-9iZ3Udr9RZdmu3CzOlBq1M3Y/ 简介]
 |-
@@ -1743,13 +1743,15 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 经济学原理 || Principles of Economics || (美) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] || 简体PDF(微观分册 第5版 扫描版)<br>简体PDF(宏观分册 第5版 扫描版)<br>简体EPUB(微观分册 第3版 插图版)<br>简体MOBI(微观分册 第3版 插图版)<br>简体TXT || 2013-02-22<br>2013-02-22<br>2015-02-14<br>2015-02-14<br>2016-05-02 || [https://docs.google.com/document/d/1WerDbX5HjqFI4-rtwiIKSEEdSCM3QxEtwkn3BSLr15k/ 简介]
 |-
-| 宏观经济学 || Macroeconomics || (德) [https://en.wikipedia.org/wiki/Rudiger_Dornbusch 鲁迪格·多恩布什] || 简体PDF(第7版 扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1I83iQ9dclfm4uIMYXnkLfnh35GPW2yWoxbQUY742few/ 简介]
+| 宏观经济学 || Macroeconomics || (德) [https://en.wikipedia.org/wiki/Rudiger_Dornbusch 鲁迪格·多恩布什]<br>(美) [https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E5%88%A9%C2%B7%E8%B2%BB%E5%B8%8C%E7%88%BE 斯坦利·费希尔]<br>(美) 理查德·斯塔兹 || 简体PDF(第7版 扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1I83iQ9dclfm4uIMYXnkLfnh35GPW2yWoxbQUY742few/ 简介]
 |-
 | 高级宏观经济学 || Advanced Macroeconomics || (美) [https://en.wikipedia.org/wiki/David_Romer 戴维·罗默] || 简体PDF(第2版 扫描版)<br>英文PDF(第1版 扫描版) || 2014-07-15<br>2018-06-23 || [https://docs.google.com/document/d/16GzZseyAoy5zr4zziDYi5ux2dAlBPIaJ8_4cSs6OKPo/ 简介]
 |-
 | 中级微观经济学<br>——现代观点 || Intermediate Microeconomics<br>——A Modern Approach || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第8版)<br>英文PDF(第8版) || 2015-07-12<br>2018-06-23 || [https://docs.google.com/document/d/1aTlOHjB3fnEmazZ6j37_HY4fSLsUpPRaLUbnhCtGPvE/ 简介]
 |-
 | 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第3版) || 2014-07-15 || [https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/ 简介]
+|-
+| 经济学原理 || N/A || (中/澳大利亚) [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF(扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/ 简介]
 |}
 
 === 4.1.2 理论 ===
@@ -1776,8 +1778,6 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 | 以自由看待发展 || Development as Freedom || (印度) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/1wADMOFG37vsLWRDca-QSVgOrGrJEh8e4fKHTNgWcbOY/ 简介]
 |-
 | 短缺经济学 || Economics of Shortage || (匈) [https://en.wikipedia.org/wiki/J%C3%A1nos_Kornai 雅诺什·科尔奈] || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/ 简介]
-|-
-| 经济学原理 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF(扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/ 简介]
 |-
 | 货币购买力<br>——其决定因素及其与信贷、利息和危机的关系 || The Purchasing Power of Money<br>——Its Determination and Relation to Credit, Interest and Crises || (美) [https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%96%87%C2%B7%E8%B4%B9%E9%9B%AA 欧文·费雪] || 英文PDF || 2019-08-30 || [https://docs.google.com/document/d/1pdXo0_daBfouBy_Xen14ShF2LSQq_3VaDYF6XB0nMGo/ 简介]
 |-
