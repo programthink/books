@@ -1801,7 +1801,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 自由选择<br>——个人声明<br>''其它中文名：''<br>选择的自由 || Free to Choose<br>——A Personal Statement || (美) [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF<br>简体PDF(大字版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-03-24<br>2019-08-31<br>2013-09-13<br>2015-02-14<br>2013-04-09 || [https://docs.google.com/document/d/1H_BmzwpGMFDAOLxDsdCRcsH0sPQkaoV74dddeFQ3f-k/ 简介]
 |-
-| 资本主义与自由 || Capitalism and Freedom || (美) [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF<br>简体PDF(扫描版)<br>简体MOBI || 2014-02-13<br>2018-09-05<br>2015-02-14 || [https://docs.google.com/document/d/1iuISZPsxgCBjKLB5VYgrDMgYZbSpaFPX_Y8nMdw_d0s/ 简介]
+| 资本主义与自由 || Capitalism and Freedom || (美) [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体MOBI || 2014-02-13<br>2019-08-31<br>2018-09-05<br>2015-02-14 || [https://docs.google.com/document/d/1iuISZPsxgCBjKLB5VYgrDMgYZbSpaFPX_Y8nMdw_d0s/ 简介]
 |-
 | 论经济学和经济学家 || Essays on Economics and Economists || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 简体PDF(扫描版) || 2019-08-31 || [https://docs.google.com/document/d/1CRjV8Ac3lElKlBo9935qcWs2iWBAT81af5xxn_H1XuE/ 简介]
 |-
