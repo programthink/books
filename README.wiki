@@ -1745,6 +1745,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 宏观经济学 || Macroeconomics || (德) [https://en.wikipedia.org/wiki/Rudiger_Dornbusch 鲁迪格·多恩布什]<br>(美) [https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E5%88%A9%C2%B7%E8%B2%BB%E5%B8%8C%E7%88%BE 斯坦利·费希尔]<br>(美) 理查德·斯塔兹 || 简体PDF(第7版 扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1I83iQ9dclfm4uIMYXnkLfnh35GPW2yWoxbQUY742few/ 简介]
 |-
+| 宏观经济学<br>''其它中文名：''<br>威廉森宏观经济学 || Macroeconomics || (加) 斯蒂芬·威廉森 || 简体PDF(第3版 扫描版) || 2019-09-03 || [https://docs.google.com/document/d/1Hzprj4Hh3mDC99_8xmgaOtxqExPF-92QauVk2RrRrws/ 简介]
+|-
 | 高级宏观经济学 || Advanced Macroeconomics || (美) [https://en.wikipedia.org/wiki/David_Romer 戴维·罗默] || 简体PDF(第2版 扫描版)<br>英文PDF(第1版 扫描版) || 2014-07-15<br>2018-06-23 || [https://docs.google.com/document/d/16GzZseyAoy5zr4zziDYi5ux2dAlBPIaJ8_4cSs6OKPo/ 简介]
 |-
 | 中级微观经济学<br>——现代观点<br>''其它中文名：''<br>范里安微观经济学 || Intermediate Microeconomics<br>——A Modern Approach || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第8版)<br>英文PDF(第8版) || 2015-07-12<br>2018-06-23 || [https://docs.google.com/document/d/1aTlOHjB3fnEmazZ6j37_HY4fSLsUpPRaLUbnhCtGPvE/ 简介]
