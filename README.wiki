@@ -132,9 +132,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 民主 || Democracy || (美) [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] || 简体PDF(扫描版) || 2015-02-09 || [https://docs.google.com/document/d/1VHHYAeS2s-X8ZCYH8OXv4of3DmpnRLBL7bl9Lj1D9Ns/ 简介]
 |-
-| 牛津通识读本：民主 || Democracy || (英) [https://en.wikipedia.org/wiki/Bernard_Crick Bernard Crick] || 英文PDF || 2015-12-11 || [https://docs.google.com/document/d/1aOzzp1_w4E2H2Y7l5SMJz1Jo1uNV3ejU-yJ2DqhyVQg/ 简介]
+| 牛津通识读本：民主 || Democracy || (英) [https://en.wikipedia.org/wiki/Bernard_Crick 伯纳德·克里克] || 英文PDF || 2015-12-11 || [https://docs.google.com/document/d/1aOzzp1_w4E2H2Y7l5SMJz1Jo1uNV3ejU-yJ2DqhyVQg/ 简介]
 |-
-| 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF || 2013-08-22 || [https://docs.google.com/document/d/11KFvZs1DHqiPdDvG3V8AjvZKu0HoUR2oRD-35AUwF_4/ 简介]
+| 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体PDF(扫描版) || 2013-08-22<br>2019-10-26 || [https://docs.google.com/document/d/11KFvZs1DHqiPdDvG3V8AjvZKu0HoUR2oRD-35AUwF_4/ 简介]
 |-
 | 社会契约论<br>''其它中文名：''<br>民约论 || The Social Contract || (法) [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 卢梭] || 简体PDF<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2017-05-06<br>2015-05-11 || [https://docs.google.com/document/d/1Sao10yvWHwmjgEpjlLf8fTM3HMlh6Xil00TMmeV5Otw/ 简介]
 |-
@@ -264,7 +264,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 社会主义国家的经济计算 || Economic Calculation in the Socialist Commonwealth || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文PDF || 2018-09-22 || [https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/ 简介]
 |-
-| 牛津通识读本：社会主义 || Socialism || Michael Newman || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
+| 牛津通识读本：社会主义 || Socialism || (英) 迈克尔·纽曼 || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
 |}
 
 === 1.1.7 极权主义与威权主义 ===
