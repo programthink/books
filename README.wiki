@@ -1304,21 +1304,21 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 哈维尔文集 || N/A || (捷克) [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 哈维尔] || 简体PDF || 2013-03-22 || [https://docs.google.com/document/d/1fstblnkMsb0ca8xAq_Gg2FsKiBPFoqREJ3x6wPsNSBQ/ 简介]
+| 哈维尔文集 || N/A || (捷克) [https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%C2%B7%E5%93%88%E7%BB%B4%E5%B0%94 瓦茨拉夫·哈维尔] || 简体PDF<br>简体HTML || 2013-03-22<br>2019-10-29 || [https://docs.google.com/document/d/1fstblnkMsb0ca8xAq_Gg2FsKiBPFoqREJ3x6wPsNSBQ/ 简介]
 |-
-| “布拉格之春”前后 || Czechoslovakia Since World War II || (美) [https://en.wikipedia.org/wiki/Tad_Szulc 塔德·舒尔茨] || 简体PDF(扫描版) || 2018-08-09 || [https://docs.google.com/document/d/1A27FHnBT8_F6SL5Foe9ZNRggWmR3ud2cwpAHIM-QMPI/ 简介]
+| “布拉格之春”前后 || Czechoslovakia Since World War II || (波兰/美) [https://en.wikipedia.org/wiki/Tad_Szulc 塔德·舒尔茨] || 简体PDF(扫描版) || 2018-08-09 || [https://docs.google.com/document/d/1A27FHnBT8_F6SL5Foe9ZNRggWmR3ud2cwpAHIM-QMPI/ 简介]
 |-
-| 杜布切克回忆录 || N/A || (捷克) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%C2%B7%E6%9D%9C%E5%B8%83%E5%88%87%E5%85%8B 杜布切克] || 简体PDF(扫描版) || 2014-07-12 || [https://docs.google.com/document/d/19RGrh6KmEv3RlFGEUHN6ZY1Nd5F5T-0_RUL7Ujw7hB8/ 简介]
+| 杜布切克回忆录 || N/A || (捷克) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%C2%B7%E6%9D%9C%E5%B8%83%E5%88%87%E5%85%8B 亚历山大·杜布切克] || 简体PDF(扫描版) || 2014-07-12 || [https://docs.google.com/document/d/19RGrh6KmEv3RlFGEUHN6ZY1Nd5F5T-0_RUL7Ujw7hB8/ 简介]
 |-
-| 严寒来自克里姆林宫 || Frost comes from Kremlin || (捷克) [https://zh.wikipedia.org/wiki/%E5%85%B9%E5%BE%B7%E6%B6%85%E5%85%8B%C2%B7%E5%A7%86%E6%9E%97%E7%BA%B3%E6%97%A5 姆林纳日] || 简体PDF(扫描版) || 2014-07-12 || [https://docs.google.com/document/d/1fPEn8vp0z7cVE4FXK1YtYlSYxMxX0yduwM3MyOxjBz4/ 简介]
+| 严寒来自克里姆林宫 || Frost comes from Kremlin || (捷克) [https://zh.wikipedia.org/wiki/%E5%85%B9%E5%BE%B7%E6%B6%85%E5%85%8B%C2%B7%E5%A7%86%E6%9E%97%E7%BA%B3%E6%97%A5 兹德涅克·姆林纳日] || 简体PDF(扫描版) || 2014-07-12 || [https://docs.google.com/document/d/1fPEn8vp0z7cVE4FXK1YtYlSYxMxX0yduwM3MyOxjBz4/ 简介]
 |}
 
 === 1.9.5 波兰 ===
 
 {|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 瓦文萨自传 || (波兰) [https://zh.wikipedia.org/wiki/%E8%8E%B1%E8%B5%AB%C2%B7%E7%93%A6%E6%96%87%E8%90%A8 瓦文萨] || 简体PDF(扫描版) || 2016-12-10 || [https://docs.google.com/document/d/11lKFwH1u5uYFXx34bhVN5e5qNmktjCDOeQ36qjCbHwk/ 简介]
+| 瓦文萨自传 || A Way of Hope<br>——An Autobiography || (波兰) [https://zh.wikipedia.org/wiki/%E8%8E%B1%E8%B5%AB%C2%B7%E7%93%A6%E6%96%87%E8%90%A8 莱赫·瓦文萨] || 简体PDF(扫描版) || 2016-12-10 || [https://docs.google.com/document/d/11lKFwH1u5uYFXx34bhVN5e5qNmktjCDOeQ36qjCbHwk/ 简介]
 |}
 
 === 1.9.6 罗马尼亚 ===
