@@ -172,7 +172,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 论自由 || On Liberty || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-14<br>2013-09-13<br>2018-11-10 || [https://docs.google.com/document/d/1tt8VQ063v_CcOqUHB5T_c6YGhfqIiVbZmq9RXe8nEdA/ 简介]
+| 论自由 || On Liberty || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-04-14<br>2013-09-13<br>2018-11-10<br>2019-11-03 || [https://docs.google.com/document/d/1tt8VQ063v_CcOqUHB5T_c6YGhfqIiVbZmq9RXe8nEdA/ 简介]
 |-
 | 政府论 || Two Treatises of Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-04-14<br>2013-09-13<br>2018-11-10<br>2016-05-14 || [https://docs.google.com/document/d/1y0-LP5oyWdGfXPqWDP5W88rENbYIOFt-6xwoTPbVOwo/ 简介]
 |-
