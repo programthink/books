@@ -330,7 +330,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 第二性 || The Second Sex || (法) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] || 简体PDF(扫描版)<br>简体HTML<br>简体TXT || 2013-04-10<br>2018-12-23<br>2016-05-12 || [https://docs.google.com/document/d/1SVINZicJeJHIvM0PoT3l-SZtQ8dvH4Q80Xwrv6-QGAY/ 简介]
+| 第二性 || The Second Sex || (法) [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E5%BE%B7%C2%B7%E6%B3%A2%E5%A8%83 西蒙娜·德·波伏娃] || 简体PDF(扫描版)<br>简体HTML<br>简体TXT<br>英文EPUB || 2013-04-10<br>2018-12-23<br>2016-05-12<br>2019-11-04 || [https://docs.google.com/document/d/1SVINZicJeJHIvM0PoT3l-SZtQ8dvH4Q80Xwrv6-QGAY/ 简介]
 |-
 | 女权主义理论<br>——从边缘到中心 || Feminist Theory<br>——From Margin to Center || (美) [https://en.wikipedia.org/wiki/Bell_hooks 贝尔·胡克斯] || 简体PDF(扫描版) || 2015-05-12 || [https://docs.google.com/document/d/1DGRWhYmuKrhrt17JAo5q6gvcH3hexiot81tNxcYjhv8/ 简介]
 |-
