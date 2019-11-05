@@ -292,7 +292,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 文明的冲突与世界秩序的重建 || The Clash of Civilizations and the Remaking of World Order || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-03-31<br>2017-03-24<br>2018-12-08<br>2018-11-10<br>2016-04-30 || [https://docs.google.com/document/d/1PqGZW-NwWLd8zct24Z2xyn1pevVP8OX4TS-HsVEvQv0/ 简介]
+| 文明的冲突与世界秩序的重建 || The Clash of Civilizations and the Remaking of World Order || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF(扫描版) || 2013-03-31<br>2017-03-24<br>2018-12-08<br>2018-11-10<br>2016-04-30<br>2019-11-05 || [https://docs.google.com/document/d/1PqGZW-NwWLd8zct24Z2xyn1pevVP8OX4TS-HsVEvQv0/ 简介]
 |-
 | 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT<br>简体MOBI<br>英文PDF || 2013-04-14<br>2017-02-17<br>2016-04-29<br>2018-11-10<br>2019-08-29 || [https://docs.google.com/document/d/1Yy4W9NtBHIsz1ulb0kb_QOc8FGylBP3QenUmKicQADo/ 简介]
 |-
@@ -300,11 +300,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 论中国 || On China || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB<br>简体MOBI<br>英文EPUB || 2014-02-05<br>2018-11-10<br>2014-02-05 || [https://docs.google.com/document/d/1mI8wM0PVzTXi4SRFTLUimLAyhvXbJPlG9qkeWtIBTQk/ 简介]
 |-
-| 理解国际冲突<br>——理论与历史<br>''其它中文名：''<br>理解全球冲突与合作<br>——理论与历史 || Understanding International Conflicts<br>——An Introduction to Theory and History || (美) [https://en.wikipedia.org/wiki/Joseph_Nye 小约瑟夫·奈] || 简体PDF(第5版 扫描版) || 2018-12-25 || [https://docs.google.com/document/d/1EfcRhW5VchBc91hjRugsU5WdUGTvtai7qpO0d32Pcn4/ 简介]
+| 理解国际冲突<br>——理论与历史<br>''其它中文名：''<br>理解全球冲突与合作<br>——理论与历史 || Understanding International Conflicts<br>——An Introduction to Theory and History || (美) [https://en.wikipedia.org/wiki/Joseph_Nye 小约瑟夫·奈] || 简体PDF(第3版 扫描版) || 2018-12-25 || [https://docs.google.com/document/d/1EfcRhW5VchBc91hjRugsU5WdUGTvtai7qpO0d32Pcn4/ 简介]
 |-
-| 牛津通识读本：国际关系 || International Relations || (英) [https://en.wikipedia.org/wiki/Paul_Wilkinson_(terrorism_expert) Paul Wilkinson] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1wPNvhsvqGIW56i5W-L5PP3i_ar6aqiQQpepp4pz654Q/ 简介]
+| 牛津通识读本：国际关系 || International Relations || (英) [https://en.wikipedia.org/wiki/Paul_Wilkinson_(terrorism_expert) 保罗·威尔金森] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1wPNvhsvqGIW56i5W-L5PP3i_ar6aqiQQpepp4pz654Q/ 简介]
 |-
-| 牛津通识读本：地缘政治 || Geopolitics || (英) [https://en.wikipedia.org/wiki/Klaus_Dodds Klaus Dodds] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1h47g36TWm4BiWYhVAcvSt1w9-5jRm5pIN682hTsSgIg/ 简介]
+| 牛津通识读本：地缘政治 || Geopolitics || (英) [https://en.wikipedia.org/wiki/Klaus_Dodds 克劳斯·多兹] || 英文PDF(第1版) || 2015-12-13 || [https://docs.google.com/document/d/1h47g36TWm4BiWYhVAcvSt1w9-5jRm5pIN682hTsSgIg/ 简介]
 |}
 
 === 1.1.9 非暴力抗争 ===
