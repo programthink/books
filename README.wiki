@@ -2295,7 +2295,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 战争论 || On War || (普鲁士) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 卡尔·冯·克劳塞维茨] || 简体PDF(共3卷)<br>简体PDF(大字版 共3卷)<br>简体PDF(扫描版 共3卷) || 2013-03-22<br>2019-04-14<br>2017-08-12 || [https://docs.google.com/document/d/1skqTkVfSr45pB3tWY9xk6MZc4b-xCxcxzAocvW7L9k4/ 简介]
 |-
-| 战略论<br>——间接路线 || Strategy<br>——the indirect approach || (英) [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || 简体PDF || 2013-02-05 || [https://docs.google.com/document/d/1i_rSCi-zhlSUT0r4NRV7nq_nPxVFbE6ZG6oplk46lFs/ 简介]
+| 战略论<br>——间接路线 || Strategy<br>——The Indirect Approach || (英) [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || 简体PDF(第2版修订版 扫描版)<br>英文PDF(第2版修订版 扫描版) || 2013-02-05<br>2019-11-12 || [https://docs.google.com/document/d/1i_rSCi-zhlSUT0r4NRV7nq_nPxVFbE6ZG6oplk46lFs/ 简介]
 |-
 | 海权论<br>''其它中文名：''<br>制海权对历史的影响 || The Influence of Sea Power upon History || (美) [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 阿尔弗雷德·马汉] || 简体PDF<br>简体PDF(扫描版) || 2013-03-22<br>2017-08-11 || [https://docs.google.com/document/d/1yD7mX2cGe-Fr7xbGTfub4nqCVJLXuD6cgL0IcEl9QgY/ 简介]
 |-
@@ -2325,7 +2325,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 大海战<br>——第二次世界大战海战史<br>''其它中文名：''<br>伟大的海战 || The Great Sea War<br>——The Story of Naval Action in World War II || (美) [https://zh.wikipedia.org/wiki/%E5%88%87%E6%96%AF%E7%89%B9%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%B0%BC%E7%B1%B3%E5%85%B9 切斯特·尼米兹]<br>(美) [https://en.wikipedia.org/wiki/E._B._Potter 埃尔默·波特] || 简体PDF(大字版)<br>简体PDF(扫描版) || 2019-08-24<br>2016-12-11 || [https://docs.google.com/document/d/1cOFhem10jWTPUagIb9Q1PzDczwvsgMz4JsqhbqN-LHk/ 简介]
 |-
-| 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || (美) Hans Jacobsen || 简体CHM || 2013-08-22 || [https://docs.google.com/document/d/1kB3hdYUAg8AxPiLn4YU7aXG1GHFTpOYHvkcatq13f9g/ 简介]
+| 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || (美) 汉斯·雅各布森 || 简体CHM || 2013-08-22 || [https://docs.google.com/document/d/1kB3hdYUAg8AxPiLn4YU7aXG1GHFTpOYHvkcatq13f9g/ 简介]
 |-
 | 大东亚战争全史 || The Complete History of the Great East Asia War || (日) [https://zh.wikipedia.org/wiki/%E6%9C%8D%E9%83%A8%E5%8D%93%E5%9B%9B%E9%83%8E 服部卓四郎] || 简体PDF(扫描版) || 2015-09-17 || [https://docs.google.com/document/d/1lC96xJD9p7aHKnFCuNf0sDMSRrMfmvRAhkndkOb1Y3I/ 简介]
 |-
@@ -2337,7 +2337,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 失去的胜利<br>''其它中文名：''<br>曼施泰因元帅战争回忆录 || Lost Victories<br>——The War Memoirs of Hitler's Most Brilliant General || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E6%9B%BC%E6%96%BD%E5%9D%A6%E5%9B%A0 曼施泰因] || 简体TXT<br>英文PDF || 2016-05-16<br>2018-08-20 || [https://docs.google.com/document/d/1cA2OzsLKTM3sNVcMqDheF8RmsS5UxmX6G2wvVtRwrY8/ 简介]
+| 失去的胜利<br>''其它中文名：''<br>曼施泰因元帅战争回忆录 || Lost Victories<br>——The War Memoirs of Hitler's Most Brilliant General || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E6%9B%BC%E6%96%BD%E5%9D%A6%E5%9B%A0 埃里希·冯·曼施坦因] || 简体TXT<br>英文PDF || 2016-05-16<br>2018-08-20 || [https://docs.google.com/document/d/1cA2OzsLKTM3sNVcMqDheF8RmsS5UxmX6G2wvVtRwrY8/ 简介]
 |}
 
 ==== 9.2.1.3 西欧与北非战场 ====
@@ -2401,7 +2401,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 朝鲜战争<br>——李奇微回忆录 || The Korean War || (美) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%BE%AE 李奇微] || 简体PDF || 2013-03-17 || [https://docs.google.com/document/d/1DFfK-oYekta-wlnWdp5azHjin8GVwqKQCpswrfVfRg8/ 简介]
+| 朝鲜战争<br>——李奇微回忆录 || The Korean War || (美) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E6%9D%8E%E5%A5%87%E5%A8%81 马修·李奇威] || 简体PDF || 2013-03-17 || [https://docs.google.com/document/d/1DFfK-oYekta-wlnWdp5azHjin8GVwqKQCpswrfVfRg8/ 简介]
 |-
 | 朝鲜战争揭秘 || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] || 繁體PDF(豎排掃描版) || 2013-02-02 || [https://docs.google.com/document/d/1i8k6FvW5yi6ulusq-1ERyK6wL0F3cLRpeA27Bc_TB2w/ 简介]
 |-
@@ -2491,7 +2491,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 火的考验<br>——美国南北战争及重建南部 || Ordeal By Fire<br>——The Civil War and Reconstruction || (美) [https://en.wikipedia.org/wiki/James_M._McPherson 詹姆斯·M·麦克弗森] || 简体PDF(扫描版) || 2017-02-20 || [https://docs.google.com/document/d/1-Ewhu2U2C-fE5ZSTShJMWDpzVQsGE87ER3oOfHbWjo8/ 简介]
+| 火的考验<br>——美国南北战争及重建南部 || Ordeal By Fire<br>——The Civil War and Reconstruction || (美) [https://en.wikipedia.org/wiki/James_M._McPherson 詹姆斯·麦克弗森] || 简体PDF(扫描版) || 2017-02-20 || [https://docs.google.com/document/d/1-Ewhu2U2C-fE5ZSTShJMWDpzVQsGE87ER3oOfHbWjo8/ 简介]
 |-
 | 美国内战 || The Civil War<br>——An Illustrated History || (美) [https://en.wikipedia.org/wiki/Geoffrey_Ward 乔弗里·瓦德] || 简体TXT || 2016-05-15 || [https://docs.google.com/document/d/17K--0kVp9dFd8btN0nXdn-TrJGsgWTjkZCoyCiHdd4Q/ 简介]
 |}
@@ -2519,7 +2519,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 内战记 || Commentaries on the Civil War || (古罗马) [https://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E7%83%8F%E6%96%AF%C2%B7%E5%87%B1%E6%92%92 尤利乌斯·凯撒] || 简体PDF(扫描版)<br>简体HTML || 2015-07-11<br>2014-06-22 || [https://docs.google.com/document/d/1VlKbl264hrgAalMsJRXy2hiZXWwMLH8PRLBWp9DgI8Q/ 简介]
 |-
-| 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || (美) [https://en.wikipedia.org/wiki/Trevor_N._Dupuy Trevor Dupuy] || 简体PDF || 2013-02-05 || [https://docs.google.com/document/d/1zfyqyk7VZ835yXKGzGj-UlcqycSvAGxXpohVdwVA3Qg/ 简介]
+| 战略之父<br>——汉尼拔的军事生涯 || Father of Strategy<br>——The Military Life of Hannibal || (美) [https://en.wikipedia.org/wiki/Trevor_N._Dupuy 特雷弗·杜普伊] || 简体PDF || 2013-02-05 || [https://docs.google.com/document/d/1zfyqyk7VZ835yXKGzGj-UlcqycSvAGxXpohVdwVA3Qg/ 简介]
 |-
 | 汉尼拔战争 || N/A || 王乃新 || 简体PDF(扫描版) || 2013-02-05 || [https://docs.google.com/document/d/1cjwGR7c9825LtY_Uto3ohwRiVwcNqqBsLG1jKnSQnKI/ 简介]
 |}
