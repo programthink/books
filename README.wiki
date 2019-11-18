@@ -2727,7 +2727,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| Rust 程序设计语言 || The Rust Programming Language || Rust 开发团队 || 英文PDF(第2版)<br>英文EPUB(第2版)<br>英文PDF(第1版)<br>英文EPUB(第1版) || 2018-07-20<br>2018-11-09<br>2018-07-20<br>2018-11-09 || [https://docs.google.com/document/d/1rV_ZmiXqjC9QZIH8QpsqFmXrRBWSLhHwtqt_-PYwBXA/ 简介]
+| Rust 程序设计语言 || The Rust Programming Language || Rust 开发团队 || 英文PDF(第2版)<br>英文EPUB(第2版)<br>英文PDF(第1版)<br>英文EPUB(第1版)<br>[https://doc.rust-lang.org/book/ 英文WEB(第2版)]<br>[https://kaisery.github.io/trpl-zh-cn/ 简体WEB(第2版)] || 2018-07-20<br>2018-11-09<br>2018-07-20<br>2018-11-09<br>N/A<br>N/A || [https://docs.google.com/document/d/1rV_ZmiXqjC9QZIH8QpsqFmXrRBWSLhHwtqt_-PYwBXA/ 简介]
 |-
 | Programming Rust || Programming Rust<br>——Fast, Safe Systems Development || (美) Jim Blandy<br>(美) Jason Orendorff || 英文PDF(第1版 不全)<br>英文EPUB(第1版 不全) || 2018-07-20<br>2019-03-30 || [https://docs.google.com/document/d/12wXcRR-BJXkabG6IiHFGf9H2lZevav-zoGi8aMo1uCY/ 简介]
 |}
