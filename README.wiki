@@ -2437,7 +2437,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 苏联行为的根源 || The Sources of Soviet Conduct || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%87%AF%E5%8D%97 乔治·凯南] || 简体TXT<br>英文TXT || 2018-08-14<br>2019-05-28 || [https://docs.google.com/document/d/1VvdoZPblgG8vKcFMclQdCm2XkUWjbdxYCu4xRTJM7w8/ 简介]
 |-
-| 凯南长电 || Long Telegram || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%87%AF%E5%8D%97 乔治·凯南] || 简体TXT || 2018-08-14 || [https://docs.google.com/document/d/1B1QX8RTPVtywba1VFhHD-ohZzSpo3CwrKr0LgZpXZgg/ 简介]
+| 凯南长电 || Long Telegram || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%87%AF%E5%8D%97 乔治·凯南] || 简体TXT<br>英文TXT || 2018-08-14<br>2019-11-23 || [https://docs.google.com/document/d/1B1QX8RTPVtywba1VFhHD-ohZzSpo3CwrKr0LgZpXZgg/ 简介]
 |-
 | 冷战史<br>——遏制与共存备忘录 || A Journey Through the Cold War<br>——A Memoir of Containment and Coexistence || (美) [https://en.wikipedia.org/wiki/Raymond_L._Garthoff 雷蒙德·加特霍夫] || 简体PDF || 2017-02-19 || [https://docs.google.com/document/d/1TOSbCWQMok47aeKFopcdDb6tEkx3rRTcYhYMZKPizrs/ 简介]
 |-
@@ -2461,7 +2461,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 乱七八糟的第一次世界大战 || The Frightful First World War || (英) [https://en.wikipedia.org/wiki/Terry_Deary 泰瑞·狄利] || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/1QadSr3xDJ8b0HDFBAEWtHGvYx4jhZruBCOR9OhTZqZI/ 简介]
 |-
-| 牛津通识读本：第一次世界大战 || The First World War || (英) [https://en.wikipedia.org/wiki/Michael_Howard_(historian) Michael Howard] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1R73zTNIBp1yuPqwGdHKdOws-aNvQcJFCk5lHEWSmHBw/ 简介]
+| 牛津通识读本：第一次世界大战 || The First World War || (英) [https://en.wikipedia.org/wiki/Michael_Howard_(historian) 迈克尔·霍华德] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1R73zTNIBp1yuPqwGdHKdOws-aNvQcJFCk5lHEWSmHBw/ 简介]
 |}
 
 == 9.3 近代军事史 ==
