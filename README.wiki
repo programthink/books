@@ -1382,11 +1382,11 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 清醒思考的艺术（上篇）、明智行动的艺术（下篇） || The Art of Thinking Clearly || (瑞士) [https://en.wikipedia.org/wiki/Rolf_Dobelli 罗尔夫·多贝里] || 简体PDF(上篇 扫描版)<br>简体EPUB (上篇 插图版)<br>简体EPUB (下篇 插图版)<br>简体MOBI (下篇 插图版)<br>英文PDF<br>英文EPUB || 2014-07-15<br>2015-12-01<br>2019-04-20<br>2019-04-20<br>2015-11-13<br>2015-11-13 || [https://docs.google.com/document/d/12t5w1oCrz8ZZSxf276n94AByAiCjfmQGXRooihPkbs4/ 简介]
 |-
+| 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF<br>简体MOBI<br>英文PDF || 2015-02-23<br>2015-11-14<br>2019-12-03 || [https://docs.google.com/document/d/1v1ftIUSp6DUvEzTKFn9ICx5FHCtwJAG3gjPKlFq30sI/ 简介]
+|-
 | 怪诞行为学1<br>——可预测的非理性 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体PDF(扫描版)<br>简体EPUB || 2014-07-27<br>2015-01-07 || [https://docs.google.com/document/d/19IYxkitIsghY_CPO0R5OCANOLOVyG4-Kc7CGLfkhStc/ 简介]
 |-
 | 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体EPUB || 2015-01-07 || [https://docs.google.com/document/d/1g5Vzvyr1huLntBjocLjOSwMn7N8cVr8IwIi75uD7y9Y/ 简介]
-|-
-| 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF<br>简体MOBI || 2015-02-23<br>2015-11-14 || [https://docs.google.com/document/d/1v1ftIUSp6DUvEzTKFn9ICx5FHCtwJAG3gjPKlFq30sI/ 简介]
 |-
 | 心流<br>——最优体验心理学 || Flow<br>——The Psychology of Optimal Experience || (意/美) [https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi 米哈里·契克森米哈伊] || 简体EPUB<br>简体MOBI || 2019-08-19<br>2019-08-19 || [https://docs.google.com/document/d/14kE-1g6W_nyRNHMqV2D5wT0QDNvwb0Nh3WBvswOtz9k/ 简介]
 |-
