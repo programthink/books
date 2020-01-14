@@ -238,13 +238,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF(扫描版) || 2012-10-06 || [https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/ 简介]
+| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and Death of Communism in the Twentieth Century || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF(扫描版) || 2012-10-06 || [https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/ 简介]
 |-
 | 历史决定论的贫困<br>''其它中文名：''<br>历史主义的贫困 || The Poverty of Historicism || (奥/英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体HTML<br>简体MOBI || 2014-07-27<br>2015-02-15<br>2012-12-11<br>2015-05-11 || [https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/ 简介]
 |-
 | 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || (南斯拉夫) [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2012-10-06<br>2018-09-06 || [https://docs.google.com/document/d/1SqZUfHRNp1XyfOLKJ0VrWPOfrroOD6GKfEDzauH9JRs/ 简介]
 |-
-| 共产主义实录 || Communism<br>——A History || (美) [https://en.wikipedia.org/wiki/Richard_Pipes 理查德·派普斯] || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/ 简介]
+| 共产主义实录 || Communism<br>——A History || (美) [https://en.wikipedia.org/wiki/Richard_Pipes 理查德·派普斯] || 简体PDF<br>英文EPUB || 2012-10-05<br>2020-01-14 || [https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/ 简介]
 |-
 | 恐怖主义与共产主义 || Terrorism and Communism<br>——A Contribution to the Natural History of Revolution || (德) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || 简体PDF<br>英文PDF(扫描版) || 2013-04-11<br>2019-08-29 || [https://docs.google.com/document/d/16RfckBiSxG5v1mmMxrZ3eLtpEUoWRNN_4g2FsZs4zxk/ 简介]
 |-
