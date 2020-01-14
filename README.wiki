@@ -380,7 +380,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 动物庄园<br>''其它中文名：''<br>动物农庄 || Animal Farm || (英) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2010-09-23<br>2013-09-13<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2012-01-11 || [https://docs.google.com/document/d/1jeeFYsnlXXTvJllbbDN_75N82VHfFtuweuwf4_Rxx4I/ 简介]
 |-
-| 美丽新世界<br>''其它中文名：''<br>美妙的新世界 || Brave New World || (英) [https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%B0%94%E5%BE%B7%E6%96%AF%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] || 简体EPUB<br>简体HTML<br>简体TXT<br>简体MOBI || 2013-09-15<br>2019-08-23<br>2012-10-05<br>2015-02-17 || [https://docs.google.com/document/d/1QvZGHM7l_pviOkBwu-Eoux5GEK_H1q8lLY8T7e1JPmg/ 简介]
+| 美丽新世界<br>''其它中文名：''<br>美妙的新世界 || Brave New World || (英) [https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%B0%94%E5%BE%B7%E6%96%AF%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] || 简体EPUB<br>简体HTML<br>简体TXT<br>简体MOBI<br>英文PDF || 2013-09-15<br>2019-08-23<br>2012-10-05<br>2015-02-17<br>2020-01-14 || [https://docs.google.com/document/d/1QvZGHM7l_pviOkBwu-Eoux5GEK_H1q8lLY8T7e1JPmg/ 简介]
 |-
 | 我们<br>''其它中文名：''<br>反乌托邦与自由 || We || (苏) [https://zh.wikipedia.org/wiki/%E8%91%89%E5%A4%AB%E6%A0%B9%E5%B0%BC%C2%B7%E4%BC%8A%E8%90%AC%E8%AB%BE%E7%B6%AD%E5%A5%87%C2%B7%E6%89%8E%E7%B1%B3%E4%BA%9E%E4%BA%AC 尤金·扎米亚京] || 简体EPUB<br>简体MOBI || 2013-09-15<br>2015-02-17 || [https://docs.google.com/document/d/1VO76RE3pXB2BTq39EAXUtaFBBgX2VHoygPZN4hJNwSE/ 简介]
 |-
