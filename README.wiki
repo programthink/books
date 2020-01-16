@@ -128,7 +128,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 论民主 || On Democracy || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%C2%B7%E9%81%93%E7%88%BE 罗伯特·道尔] || 简体PDF(扫描版) || 2014-06-22 || [https://docs.google.com/document/d/1XObNi7yZ86vXO193IdGmkBgCIQwHNFamTK6FUbJYZZ4/ 简介]
 |-
-| 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF(修订版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2018-09-06<br>2013-05-30<br>2019-01-04<br>2015-11-14 || [https://docs.google.com/document/d/1RyDwqzxQJMz1j6sCVF9_egnkZIKjnCkNuA_AvgbeTJE/ 简介]
+| 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF(修订版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文EPUB || 2018-09-06<br>2013-05-30<br>2019-01-04<br>2015-11-14<br>2020-01-16 || [https://docs.google.com/document/d/1RyDwqzxQJMz1j6sCVF9_egnkZIKjnCkNuA_AvgbeTJE/ 简介]
 |-
 | 民主 || Democracy || (美) [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] || 简体PDF(扫描版) || 2015-02-09 || [https://docs.google.com/document/d/1VHHYAeS2s-X8ZCYH8OXv4of3DmpnRLBL7bl9Lj1D9Ns/ 简介]
 |-
