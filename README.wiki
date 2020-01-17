@@ -200,7 +200,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 欧洲自由主义史 || The History of European Liberalism || (意) [https://en.wikipedia.org/wiki/Guido_De_Ruggiero 圭多·德·拉吉罗] || 简体PDF(扫描版) || 2015-01-12 || [https://docs.google.com/document/d/17RebblNr8jWWwBjpiP3nzsb48JYCNKXq0k5KUvbz96A/ 简介]
 |-
-| 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] || 简体PDF<br>简体MOBI || 2014-02-03<br>2015-05-11 || [https://docs.google.com/document/d/1yHRDBpShEmXE12FTbqxA_Bt6f7LyVzlA3F0rpnUjdng/ 简介]
+| 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] || 简体PDF<br>简体MOBI<br>英文EPUB || 2014-02-03<br>2015-05-11<br>2020-01-17 || [https://docs.google.com/document/d/1yHRDBpShEmXE12FTbqxA_Bt6f7LyVzlA3F0rpnUjdng/ 简介]
 |-
 | 给你所爱的人以自由 || N/A || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF(大字版)<br>简体EPUB<br>简体MOBI || 2013-10-26<br>2013-11-26<br>2015-11-14<br>2015-11-14 || [https://docs.google.com/document/d/1Lyn3S8DSAzLLQtE11W2RCRdarlTM9XjAiDmTys7mISA/ 简介]
 |}
