@@ -184,7 +184,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体EPUB<br>简体MOBI<br>简体TXT<br>简体PDF(扫描版)<br>英文PDF(修订版) || 2013-09-13<br>2018-11-10<br>2016-05-14<br>2013-05-23<br>2020-01-16 || [https://docs.google.com/document/d/1Z0gSPYoZMpdnsZE9mpHkiKuTWATR9w0WlOdiiu-i9Tc/ 简介]
 |-
-| 政治自由主义 || Political Liberalism || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体HTML<br>简体MOBI<br>简体PDF(扫描版) || 2013-01-17<br>2015-05-11<br>2018-12-04 || [https://docs.google.com/document/d/1npbNsZpyQNssJz-FTDI55me2Z47BEGYds6ic0qHvVhg/ 简介]
+| 政治自由主义 || Political Liberalism || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体HTML<br>简体MOBI<br>简体PDF(扫描版)<br>英文EPUB(扩充版) || 2013-01-17<br>2015-05-11<br>2018-12-04<br>2020-01-17 || [https://docs.google.com/document/d/1npbNsZpyQNssJz-FTDI55me2Z47BEGYds6ic0qHvVhg/ 简介]
 |-
 | 无政府、国家与乌托邦 || Anarchy, State, and Utopia || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 罗伯特·诺齐克] || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [https://docs.google.com/document/d/1uxnAbtQtzvLmhPIqG89HDgcXay5jwjHGiC_925oJjFo/ 简介]
 |-
