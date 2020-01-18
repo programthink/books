@@ -1714,7 +1714,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 纳粹德国<br>——一部新的历史 || Nazi Germany<br>——A New History || (德) 克劳斯·费舍尔 || 简体PDF(扫描版) || 2017-08-17 || [https://docs.google.com/document/d/1XeSMLHauWpiIqjW9Dz1mJCHzWvhwJl-y9LB4agkI86U/ 简介]
 |-
-| 希特勒的民族帝国<br>——劫掠、种族战争和纳粹主义 || Hitler's Beneficiaries<br>——Plunder, Racial War, and the Nazi Welfare State || (德) [https://en.wikipedia.org/wiki/G%C3%B6tz_Aly 格茨·阿利] || 简体PDF(扫描版) || 2013-08-21 || [https://docs.google.com/document/d/1FAPteLhYwkcQHDT_l45rT5QPNhTHETLsogqDLpj9r8I/ 简介]
+| 希特勒的民族帝国<br>——劫掠、种族战争和纳粹主义 || Hitler's Beneficiaries<br>——Plunder, Racial War and the Nazi Welfare State || (德) [https://en.wikipedia.org/wiki/G%C3%B6tz_Aly 格茨·阿利] || 简体PDF(扫描版)<br>英文EPUB || 2013-08-21<br>2020-01-18 || [https://docs.google.com/document/d/1FAPteLhYwkcQHDT_l45rT5QPNhTHETLsogqDLpj9r8I/ 简介]
 |-
 | 希特勒的土地<br>——美国人亲历的纳粹疯狂之路 || Hitlerland<br>——American Eyewitnesses to the Nazi Rise to Power || (美) [https://en.wikipedia.org/wiki/Andrew_Nagorski 安德鲁·纳戈尔斯基] || 英文EPUB<br>英文MOBI || 2015-02-09<br>2015-02-09 || [https://docs.google.com/document/d/1FH1c44Tht3cgoMrp-CtGbH6Xi9rPxSWZYXN5D9H6tH4/ 简介]
 |}
