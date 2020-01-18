@@ -1520,7 +1520,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || (美) [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体EPUB<br>简体PDF(大字版)<br>简体CHM<br>简体MOBI<br>英文PDF || 2013-09-13<br>2013-04-20<br>2013-02-05<br>2015-05-11<br>2013-02-05 || [https://docs.google.com/document/d/1nhGqmj7LQ6_hFZ4ef9dlQyrqtbqh-rR8ecGe5f0dg-s/ 简介]
 |-
-| 人类简史<br>——从动物到上帝 || Sapiens<br>——A Brief History of Humankind || (以色列) [https://en.wikipedia.org/wiki/Yuval_Noah_Harari 尤瓦尔·赫拉利] || 简体EPUB<br>简体MOBI || 2017-08-14<br>2018-08-08 || [https://docs.google.com/document/d/1QZj7FuR4uoIi4VVTWFCJsu2C6JGCtRVI0VNyjDD6ENY/ 简介]
+| 人类简史<br>——从动物到上帝 || Sapiens<br>——A Brief History of Humankind || (以色列) [https://en.wikipedia.org/wiki/Yuval_Noah_Harari 尤瓦尔·赫拉利] || 简体EPUB<br>简体MOBI<br>英文PDF(大字版) || 2017-08-14<br>2018-08-08<br>2020-01-18 || [https://docs.google.com/document/d/1QZj7FuR4uoIi4VVTWFCJsu2C6JGCtRVI0VNyjDD6ENY/ 简介]
 |-
 | 崩溃<br>——社会如何选择成败兴亡 || Collapse<br>——How Societise Choose to Fail or Succeed || (美) [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体PDF(大字版)<br>简体MOBI<br>简体PDF(扫描版) || 2013-04-20<br>2015-05-11<br>2017-03-26 || [https://docs.google.com/document/d/1UCAFKRaezvt8bh1Mgmzt4gbFAUigMXY3ikPkqn_qhkc/ 简介]
 |-
