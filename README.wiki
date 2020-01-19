@@ -1584,7 +1584,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 中国近代史大纲 || Outline of Modern Chinese History || [https://zh.wikipedia.org/wiki/%E8%94%A3%E5%BB%B7%E9%BB%BB 蒋廷黻] || 简体PDF || 2014-01-09 || [https://docs.google.com/document/d/18N0nWRsGWaaO95IJ46-uuV7s3dglnixI_R95qX5rbw0/ 简介]
 |-
-| 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || (法) [https://en.wikipedia.org/wiki/Alain_Peyrefitte 阿兰·佩雷菲特] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2019-07-17<br>2019-07-17<br>2014-05-23 || [https://docs.google.com/document/d/1B4ikBRoHld3tIAW6DUCjd_vOEC8DE-GTUfRlECMgf38/ 简介]
+| 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || (法) [https://en.wikipedia.org/wiki/Alain_Peyrefitte 阿兰·佩雷菲特] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版)<br>英文EPUB || 2019-07-17<br>2019-07-17<br>2014-05-23<br>2020-01-19 || [https://docs.google.com/document/d/1B4ikBRoHld3tIAW6DUCjd_vOEC8DE-GTUfRlECMgf38/ 简介]
 |-
 | 追寻现代中国 || The Search for Modern China || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 繁體PDF<br>简体EPUB<br>简体PDF<br>英文PDF(扫描版) || 2014-06-22<br>2014-06-22<br>2016-12-18<br>2020-01-19 || [https://docs.google.com/document/d/1EqpGGp36MDShzS3O33M6MnCdC9rHuasajK0tpitqw2U/ 简介]
 |-
