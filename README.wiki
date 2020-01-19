@@ -1602,7 +1602,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 重说中国近代史 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || [https://docs.google.com/document/d/1rq77xhsLAm4hi94PP-D-pSF3YcwE6RIZEoKXM8tN7RE/ 简介]
 |-
-| 太平天国 || God's Chinese Son<br>——The Taiping Heavenly Kingdom of Hong Xiuquan || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 简体PDF(扫描版) || 2017-05-03 || [https://docs.google.com/document/d/126eHsUrcV0gT4i5lIKNbmxLCM5sd0xqQbZ1bHbIAJGM/ 简介]
+| 太平天国 || God's Chinese Son<br>——The Taiping Heavenly Kingdom of Hong Xiuquan || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 简体PDF(扫描版)<br>英文EPUB || 2017-05-03<br>2020-01-19 || [https://docs.google.com/document/d/126eHsUrcV0gT4i5lIKNbmxLCM5sd0xqQbZ1bHbIAJGM/ 简介]
 |-
 | 再说戊戌变法 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体MOBI || 2016-12-16 || [https://docs.google.com/document/d/1m31etZlGm9o78p1eRv14SIpxnJJGCarRGXOgpP3ui-w/ 简介]
 |-
