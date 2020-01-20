@@ -160,7 +160,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 各国民权运动史 || N/A || 董之学 || 繁體PDF(竪排掃描版) || 2016-07-15 || [https://docs.google.com/document/d/1uFuOmfaIau_PkdkeRgM4DOBUCOgDmSWAjHlXU3zSHNs/ 简介]
 |-
-| 罗伯特议事规则 || Robert's Rules of Order || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A6%AC%E4%B8%81%C2%B7%E7%BE%85%E4%BC%AF%E7%89%B9 亨利·马丁·罗伯特]<br>等 || 简体MOBI || 2015-05-12 || [https://docs.google.com/document/d/1IcpE6gLKVX1qQqTdFiQfZeS_NSfu27s4EAdrnnYh170/ 简介]
+| 罗伯特议事规则 || Robert's Rules of Order || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A6%AC%E4%B8%81%C2%B7%E7%BE%85%E4%BC%AF%E7%89%B9 亨利·马丁·罗伯特]<br>等 || 简体MOBI(第10版)<br>英文EPUB(第11版) || 2015-05-12<br>2020-01-20 || [https://docs.google.com/document/d/1IcpE6gLKVX1qQqTdFiQfZeS_NSfu27s4EAdrnnYh170/ 简介]
 |-
 | 可操作的民主<br>——罗伯特议事规则下乡全纪录 || N/A || 寇延丁<br>袁天鹏 || 简体PDF(扫描版)<br>简体EPUB || 2015-05-12<br>2015-11-14 || [https://docs.google.com/document/d/14lrDDRRIb9zk0mxOpfP97rEOVgvnDC8cdvF-Jt5dcnE/ 简介]
 |}
