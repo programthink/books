@@ -2349,7 +2349,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 隆美尔战时文件 || The Rommel Papers || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] (主编) || 简体TXT<br>英文PDF(扫描版) || 2019-06-02<br>2019-11-23 || [https://docs.google.com/document/d/18XrbOCxF2KdC6OGqQQHjvD-4VZQqdmW9ZTo0mK3L630/ 简介]
 |-
-| 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版) || 2016-12-11 || [https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/ 简介]
+| 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版)<br>英文EPUB || 2016-12-11<br>2020-01-21 || [https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/ 简介]
 |}
 
 ==== 9.2.1.4 太平洋战场 ====
