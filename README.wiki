@@ -2455,7 +2455,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 第一次世界大战回忆录 || The World Crisis || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体TXT || 2016-05-19 || [https://docs.google.com/document/d/1yQqh1Fb2ibeXd76MRyVb-8n-N-gIGZ6QuJZr6lDUhUo/ 简介]
+| 第一次世界大战回忆录 || The World Crisis || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体TXT<br>英文MOBI(共5卷) || 2016-05-19<br>2020-01-21 || [https://docs.google.com/document/d/1yQqh1Fb2ibeXd76MRyVb-8n-N-gIGZ6QuJZr6lDUhUo/ 简介]
 |-
 | 欧洲的悲剧<br>——第一次世界大战战史 || N/A || (未知) || 繁體PDF(掃描版) || 2017-08-16 || [https://docs.google.com/document/d/17CYops_TzhiHJjrYVgI9gg8ezhGfp_lG2_grCbm613s/ 简介]
 |-
