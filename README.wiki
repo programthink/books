@@ -2433,7 +2433,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 冷战，1945~1991 || The Cold War, 1945~1991 || (英) 约翰·梅森 || 简体PDF(大字版) || 2018-11-11 || [https://docs.google.com/document/d/19027mFVegw_FMxKbXbwUoiilaKmFZRW9rgi-8SlD9b8/ 简介]
+| 冷战，1945~1991 || The Cold War, 1945~1991 || (英) 约翰·梅森 || 简体PDF(大字版)<br>英文PDF || 2018-11-11<br>2020-01-21 || [https://docs.google.com/document/d/19027mFVegw_FMxKbXbwUoiilaKmFZRW9rgi-8SlD9b8/ 简介]
 |-
 | 苏联行为的根源 || The Sources of Soviet Conduct || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%87%AF%E5%8D%97 乔治·凯南] || 简体TXT<br>英文TXT || 2018-08-14<br>2019-05-28 || [https://docs.google.com/document/d/1VvdoZPblgG8vKcFMclQdCm2XkUWjbdxYCu4xRTJM7w8/ 简介]
 |-
@@ -2447,7 +2447,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 冰与火之歌<br>——回首冷战军事对抗史 || N/A || 《现代兵器》杂志社 || 简体PDF(扫描版) || 2015-02-17 || [https://docs.google.com/document/d/10_76aX4h4KUwN03fNZG4Sao2gSEWfOykCTmgxUnkRas/ 简介]
 |-
-| 牛津通识读本：冷战 || The Cold War || (美) [https://en.wikipedia.org/wiki/Robert_J._McMahon_(historian) Robert McMahon] || 英文PDF || 2015-12-14 || [https://docs.google.com/document/d/1KGXlFZvTW5t5C6ZhdeZrK_BounaqOzpoomSN-KsPFyM/ 简介]
+| 牛津通识读本：冷战 || The Cold War || (美) [https://en.wikipedia.org/wiki/Robert_J._McMahon_(historian) 罗伯特·麦克马洪] || 英文PDF || 2015-12-14 || [https://docs.google.com/document/d/1KGXlFZvTW5t5C6ZhdeZrK_BounaqOzpoomSN-KsPFyM/ 简介]
 |}
 
 === 9.2.5 一战 ===
