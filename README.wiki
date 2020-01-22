@@ -1330,7 +1330,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 流氓的归来 || The Hooligan's Return || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版) || 2014-05-04 || [https://docs.google.com/document/d/1u7Fes8AhnuXFyct3gIKZ3hMs0Niktq9mTZwkgSae634/ 简介]
+| 流氓的归来 || The Hooligan's Return || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版)<br>英文MOBI || 2014-05-04<br>2020-01-22 || [https://docs.google.com/document/d/1u7Fes8AhnuXFyct3gIKZ3hMs0Niktq9mTZwkgSae634/ 简介]
 |-
 | 论小丑<br>——独裁者和艺术家 || On Clowns<br>——The Dictator and the Artist || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版) || 2014-05-04 || [https://docs.google.com/document/d/15PKxzcvOOMH_eO0SLcDl3bdqemNY0_fo_Mr7T9Hgtzs/ 简介]
 |-
