@@ -1276,9 +1276,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 我们最幸福<br>——北韩人民的真实生活<br>''其它中文名：''<br>无可羡慕<br>——朝鲜人的普通生活 || Nothing to Envy<br>——Ordinary Lives in North Korea || (美) [https://en.wikipedia.org/wiki/Barbara_Demick Barbara Demick] || 简体PDF<br>简体EPUB || 2013-02-19<br>2013-09-14 || [https://docs.google.com/document/d/1SYQOHUWRT41fZDF3gLGMA6ZxSs1yXmaDrpHDhxYGHsY/ 简介]
 |-
-| 平壤水族馆<br>——我在北韩古拉格的十年 || The Aquariums of Pyongyang || (韩) [https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%93%B2%E7%85%A5 姜哲焕]<br>(法) [https://en.wikipedia.org/wiki/Pierre_Rigoulot Pierre Rigoulot] || 繁體EPUB || 2014-05-04 || [https://docs.google.com/document/d/1LyezT03akymY9rMSwarPJFpgfnHUUKCvw6wP5IXKo6w/ 简介]
+| 平壤水族馆<br>——我在北韩古拉格的十年 || The Aquariums of Pyongyang<br>——Ten Years in the North Korean Gulag || (韩) [https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%93%B2%E7%85%A5 姜哲焕]<br>(法) [https://en.wikipedia.org/wiki/Pierre_Rigoulot 皮耶·李古乐] || 繁體EPUB<br>英文EPUB || 2014-05-04<br>2020-01-22 || [https://docs.google.com/document/d/1LyezT03akymY9rMSwarPJFpgfnHUUKCvw6wP5IXKo6w/ 简介]
 |-
-| 这就是天堂！<br>——我的北韩童年 || This is Paradise!<br>——My North Korean Childhood || (韩) 姜赫<br>Philippe Grangereau || 繁體EPUB || 2014-06-22 || [https://docs.google.com/document/d/1dHONjwEM3WRPxZmr6n8eA7BDdfR_ibK508pMnuP-RBI/ 简介]
+| 这就是天堂！<br>——我的北韩童年 || This is Paradise!<br>——My North Korean Childhood || (韩) 姜赫<br>(法) 菲利普·格兰杰罗 || 繁體EPUB || 2014-06-22 || [https://docs.google.com/document/d/1dHONjwEM3WRPxZmr6n8eA7BDdfR_ibK508pMnuP-RBI/ 简介]
 |-
 | 平壤<br>——朝鲜之旅 || Pyongyang<br>——A Journey in North Korea || (加) [https://en.wikipedia.org/wiki/Guy_Delisle Guy Delisle] || 简体PDF(漫画 扫描版) || 2013-03-30 || [https://docs.google.com/document/d/1J0mrJG8L3JO5Pw4TLAd0Rc00QWJ3ICEknsP8Udquqgc/ 简介]
 |-
