@@ -912,9 +912,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 西藏生与死<br>——雪域的民族主义 || Tibet<br>——Survival in Question || (法) [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet 董尼德] || 繁體PDF(竪排掃描版) || 2012-12-31 || [https://docs.google.com/document/d/1irYHZEUM9j5pD4UcA2zVrMyQTybiaoD7_5o33mtt6Oc/ 简介]
 |-
-| 流亡中的自在<br>——达赖喇嘛自传 || Freedom in Exile<br>——The Autobiography of the Dalai Lama || [https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B 十四世达赖喇嘛] (原名：丹增嘉措) || 简体PDF<br>简体EPUB<br>简体MOBI || 2017-03-26<br>2014-03-29<br>2018-11-10 || [https://docs.google.com/document/d/12wvEDUClMfpVumuFsccu6uH5Z2Kc3baBrEH1e_hZgk0/ 简介]
+| 流亡中的自在<br>——达赖喇嘛自传 || Freedom in Exile<br>——The Autobiography of the Dalai Lama || [https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B 十四世达赖喇嘛] (原名：丹增嘉措) || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF(扫描版) || 2017-03-26<br>2014-03-29<br>2018-11-10<br>2020-01-22 || [https://docs.google.com/document/d/12wvEDUClMfpVumuFsccu6uH5Z2Kc3baBrEH1e_hZgk0/ 简介]
 |-
-| 西藏笔记 || Notes on Tibet || [https://zh.wikipedia.org/wiki/%E5%94%AF%E8%89%B2 唯色] || 简体PDF(扫描版) || 2013-05-19 || [https://docs.google.com/document/d/1iZBiwBFaVZnS2KsR1WL93lXUB_PzT80_PyqP8vP_fMg/ 简介]
+| 西藏笔记<br>''其它中文名：''<br>名为西藏的诗 || Notes on Tibet || [https://zh.wikipedia.org/wiki/%E5%94%AF%E8%89%B2 唯色] (全名：茨仁唯色) || 简体PDF(扫描版) || 2013-05-19 || [https://docs.google.com/document/d/1iZBiwBFaVZnS2KsR1WL93lXUB_PzT80_PyqP8vP_fMg/ 简介]
 |-
 | 东突厥斯坦独立运动<br>——1930年代至1940年代 || N/A || 王柯 || 简体EPUB<br>简体MOBI || 2014-03-28<br>2014-03-28 || [https://docs.google.com/document/d/1rQbcNwUp8LweqE11QeqOzHIJ5KLuUdXrxoW1upeTtB0/ 简介]
 |}
