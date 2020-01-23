@@ -716,7 +716,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 晚年周恩来 || Zhou Enlai<br>——The Last Perfect Revolutionary || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || 简体PDF<br>简体EPUB<br>简体MOBI || 2012-10-05<br>2013-09-14<br>2018-09-06 || [https://docs.google.com/document/d/1FvDaJmY3eNtulGeI6nHw7azr1gkvAPWy3AyLzX0Guno/ 简介]
+| 晚年周恩来 || Zhou Enlai<br>——The Last Perfect Revolutionary || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2012-10-05<br>2013-09-14<br>2018-09-06<br>2020-01-23 || [https://docs.google.com/document/d/1FvDaJmY3eNtulGeI6nHw7azr1gkvAPWy3AyLzX0Guno/ 简介]
 |-
 | 周恩来与上海灭门血案 || N/A || 吴基民 || 简体PDF || 2018-09-06 || [https://docs.google.com/document/d/1PDXoD-IQpieKBUqRTIuIPNhVwCkAfimOwkOzpP6sk8s/ 简介]
 |}
