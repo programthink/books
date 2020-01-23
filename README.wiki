@@ -456,7 +456,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 中国民运反思 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体TXT<br>[http://www.64memo.com/b5/48.htm 繁體WEB] || 2013-05-01<br>2014-05-23<br>N/A || [https://docs.google.com/document/d/15mmH_jERdMEeIS7yXyJtboRcHHfumfgi7qNMOeLVbxU/ 简介]
 |-
-| 天安门的力量<br>——国家-社会关系与1989学生运动 || The Power of Tiananmen<br>——State-Society Relations and the 1989 Beijing Student Movement || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版) || 2012-12-26 || [https://docs.google.com/document/d/1kybdW20dVzw-Yz6HSK3x8IWNTngKtOi5f7FmJkd6Ibc/ 简介]
+| 天安门的力量<br>——国家•社会关系与1989学生运动 || The Power of Tiananmen<br>——State-Society Relations and the 1989 Beijing Student Movement || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版)<br>英文PDF || 2012-12-26<br>2020-01-23 || [https://docs.google.com/document/d/1kybdW20dVzw-Yz6HSK3x8IWNTngKtOi5f7FmJkd6Ibc/ 简介]
 |-
 | 回顾与反思<br>——六四流亡学生17人 || N/A || (多人) || 繁體PDF || 2019-04-03 || [https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/ 简介]
 |-
@@ -468,7 +468,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 逃亡者 || Escape From China<br>——The Long Journey from Tiananmen to Freedom || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%BC%AF%E7%AC%A0 张伯笠] || 简体TXT(缺最后2章) || 2019-05-20 || [https://docs.google.com/document/d/1iQIQaCAtqXSzedbDEjS9oPJB3PaD_rWOv8x8C1TYXzU/ 简介]
 |-
-| 铭记天安门 || Remembering Tiananmen Square || (英) [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF<br>[https://www.thenation.com/article/remembering-tiananmen-square/ 英文WEB] || 2012-05-25<br>N/A || [https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw6yU8nriFCJNVybDccV7c/ 简介]
+| 铭记天安门 || Remembering Tiananmen Square || (英) [https://en.wikipedia.org/wiki/Robin_Munro 罗宾·门罗] || 简体PDF<br>[https://www.thenation.com/article/remembering-tiananmen-square/ 英文WEB] || 2012-05-25<br>N/A || [https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw6yU8nriFCJNVybDccV7c/ 简介]
 |-
 | 黄雀行动 || N/A || 江迅 || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1rZ9WiQ5IzWWY_DLhEZqz7XD_-J0PbmQHEwlCsRj16ik/ 简介]
 |-
