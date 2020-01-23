@@ -750,7 +750,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 改革历程<br>——赵紫阳回忆录<br>''其它中文名：''<br>国家的囚徒<br>——赵紫阳的秘密录音 || Prisoner of the State<br>——The Secret Journal of Premier Zhao Ziyang || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || 简体PDF || 2012-04-05 || [https://docs.google.com/document/d/1zU_HC6bEBQtDNioAMTyj8-5ks3uV2EQ3JgYDWoeg6Wc/ 简介]
+| 改革历程<br>——赵紫阳回忆录<br>''其它中文名：''<br>国家的囚徒<br>——赵紫阳的秘密录音 || Prisoner of the State<br>——The Secret Journal of Premier Zhao Ziyang || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || 简体PDF<br>英文PDF || 2012-04-05<br>2020-01-23 || [https://docs.google.com/document/d/1zU_HC6bEBQtDNioAMTyj8-5ks3uV2EQ3JgYDWoeg6Wc/ 简介]
 |-
 | 赵紫阳还说过什么？<br>——杜导正日记 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1e7uIGIc67lwV6oMh0VSIrq8J4i4-6iB2LNM89O1xmu4/ 简介]
 |}
