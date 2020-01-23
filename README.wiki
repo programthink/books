@@ -700,9 +700,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 红太阳的陨落<br>——千秋功罪毛泽东 || N/A || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] (原名：宋科) || 简体PDF<br>简体DOC || 2012-12-09<br>2012-04-05 || [https://docs.google.com/document/d/14WmFyO32fkqIngGkAvFeQaNoabMMjlHzp3ASTYNGWeM/ 简介]
 |-
-| 毛泽东时代和后毛泽东时代(1949-2009)<br>——另一种历史书写 || N/A || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF(共4冊 掃描版) || 2013-05-07 || [https://docs.google.com/document/d/1DhLbJy-j8sR0GZN4OL51Nh02f6UyLUJqeRZOzqjyZbU/ 简介]
+| 毛泽东时代和后毛泽东时代(1949~2009)<br>——另一种历史书写 || N/A || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF(掃描版) || 2013-05-07 || [https://docs.google.com/document/d/1DhLbJy-j8sR0GZN4OL51Nh02f6UyLUJqeRZOzqjyZbU/ 简介]
 |-
-| 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF<br>繁體PDF(豎排掃描版) || 2013-08-01<br>2015-02-08 || [https://docs.google.com/document/d/1b0IgBIt2fhCVC7VSa-NXHLCissEFBqYNJuRWcOo_fOs/ 简介]
+| 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF<br>繁體PDF(豎排掃描版)<br>英文EPUB || 2013-08-01<br>2015-02-08<br>2020-01-23 || [https://docs.google.com/document/d/1b0IgBIt2fhCVC7VSa-NXHLCissEFBqYNJuRWcOo_fOs/ 简介]
 |-
 | 新发现的毛泽东<br>——仆人眼中的伟人 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || 简体PDF || 2012-04-05 || [https://docs.google.com/document/d/19V8H00UeJtbtwDmXW0beelDKexzag0tktXqTarOXKeA/ 简介]
 |-
