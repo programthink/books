@@ -298,7 +298,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT<br>简体MOBI<br>英文PDF || 2013-04-14<br>2017-02-17<br>2016-04-29<br>2018-11-10<br>2019-08-29 || [https://docs.google.com/document/d/1Yy4W9NtBHIsz1ulb0kb_QOc8FGylBP3QenUmKicQADo/ 简介]
 |-
-| 大外交 || Diplomacy || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2014-02-05<br>2019-05-30 || [https://docs.google.com/document/d/1cEaDdGVNj0r0-g8iOt7f6t8jBZq69hH-weplVQbmUoI/ 简介]
+| 大外交 || Diplomacy || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体PDF(扫描版)<br>英文PDF(扫描版)<br>英文EPUB || 2014-02-05<br>2019-05-30<br>2020-01-25 || [https://docs.google.com/document/d/1cEaDdGVNj0r0-g8iOt7f6t8jBZq69hH-weplVQbmUoI/ 简介]
 |-
 | 论中国 || On China || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB<br>简体MOBI<br>英文EPUB || 2014-02-05<br>2018-11-10<br>2014-02-05 || [https://docs.google.com/document/d/1mI8wM0PVzTXi4SRFTLUimLAyhvXbJPlG9qkeWtIBTQk/ 简介]
 |-
@@ -2421,7 +2421,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 基辛格越战回忆录 || Ending the Vietnam War<br>——A History of America's Involvement in and Extrication from the Vietnam War || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 基辛格] || 简体EPUB || 2015-01-11 || [https://docs.google.com/document/d/1AQrzB0vEsJnvKs6sDLpfLtdzujUoqM9LGcdUG55RaHE/ 简介]
+| 基辛格越战回忆录 || Ending the Vietnam War<br>——A History of America's Involvement in and Extrication from the Vietnam War || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB || 2015-01-11 || [https://docs.google.com/document/d/1AQrzB0vEsJnvKs6sDLpfLtdzujUoqM9LGcdUG55RaHE/ 简介]
 |-
 | 回顾<br>——越战的悲剧与教训 || In Retrospect<br>——The Tragedy and Lessons of Vietnam || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E9%BA%A6%E5%85%8B%E7%BA%B3%E9%A9%AC%E6%8B%89 罗伯特·麦克纳马拉] || 简体PDF<br>简体HTML || 2017-08-12<br>2018-08-20 || [https://docs.google.com/document/d/1S-WWRslS0-b8swiRCLUhOmj5Kq03Dt_nvDxcR23Y3zY/ 简介]
 |-
