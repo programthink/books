@@ -134,7 +134,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 牛津通识读本：民主 || Democracy || (英) [https://en.wikipedia.org/wiki/Bernard_Crick 伯纳德·克里克] || 英文PDF || 2015-12-11 || [https://docs.google.com/document/d/1aOzzp1_w4E2H2Y7l5SMJz1Jo1uNV3ejU-yJ2DqhyVQg/ 简介]
 |-
-| 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体PDF(扫描版) || 2013-08-22<br>2019-10-26 || [https://docs.google.com/document/d/11KFvZs1DHqiPdDvG3V8AjvZKu0HoUR2oRD-35AUwF_4/ 简介]
+| 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体PDF(扫描版)<br>英文PDF || 2013-08-22<br>2019-10-26<br>2020-01-25 || [https://docs.google.com/document/d/11KFvZs1DHqiPdDvG3V8AjvZKu0HoUR2oRD-35AUwF_4/ 简介]
 |-
 | 社会契约论<br>''其它中文名：''<br>民约论 || The Social Contract || (法) [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 让-雅克·卢梭] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2019-10-27<br>2017-05-06<br>2015-05-11 || [https://docs.google.com/document/d/1Sao10yvWHwmjgEpjlLf8fTM3HMlh6Xil00TMmeV5Otw/ 简介]
 |-
@@ -146,7 +146,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 历史的终结及最后之人 || The End of History and the Last Man || (美) [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 弗朗西斯·福山] || 简体PDF<br>简体EPUB<br>英文PDF || 2013-01-01<br>2013-09-13<br>2020-01-20 || [https://docs.google.com/document/d/1aVTuQ5_85pkeLzwRXu_V2lJbDcg8UrWOmDbLIjOr-1Y/ 简介]
 |-
-| 民主的历程<br>——公元前508年-1993年 || Democracy<br>——The unfinished journey 508 BC - 1993 AD || (英) [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 约翰·邓恩] (主编) || 简体PDF(扫描版) || 2014-06-22 || [https://docs.google.com/document/d/1FfmKtjOMRnQ51xLgtGs6-3WuFN97vnv6lGHKj4NawAk/ 简介]
+| 民主的历程<br>——公元前508年~1993年<br>''其它中文名：''<br>民主<br>——未竟之旅，公元前508年至公元1993年 || Democracy<br>——The Unfinished Journey, 508 BC to AD 1993 || (英) [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 约翰·邓恩] (主编) || 简体PDF(扫描版) || 2014-06-22 || [https://docs.google.com/document/d/1FfmKtjOMRnQ51xLgtGs6-3WuFN97vnv6lGHKj4NawAk/ 简介]
 |-
 | 欧洲民主史<br>——从孟德斯鸠到凯尔森 || History of Democracy in Europe from Montesquieu to 1989 || (意) 萨尔沃·马斯泰罗 || 简体PDF(扫描版) || 2014-07-27 || [https://docs.google.com/document/d/1n_GEtA7CSTQ84iJ-U2Bryh6ZPacjrcn7mloh8K3xXrQ/ 简介]
 |-
