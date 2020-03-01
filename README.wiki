@@ -364,7 +364,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 国家为什么失败<br>——权力、富裕与贫困的根源 || Why Nations Fail<br>——The Origins of Power, Prosperity, and Poverty || (土耳其/美) [https://en.wikipedia.org/wiki/Daron_Acemoglu 德隆·阿西莫格鲁]<br>(美) 詹姆斯·罗宾逊 || 简体TXT<br>繁體PDF(豎排掃描版) || 2014-03-20<br>2014-03-20 || [https://docs.google.com/document/d/1wmUKeF8o35ymc7YIQICzxBVcvJF91YE3ExentaqtiJ0/ 简介]
 |-
-| 君主论<br>''其它中文名：''<br>君王论 || The Prince || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E9%9B%85%E7%B6%AD%E5%88%A9 尼可罗·马基亚维利] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT || 2013-08-22<br>2019-10-28<br>2016-05-02 || [https://docs.google.com/document/d/1fB6kMTY5NdEwPSsW6gjWa15tEYkfs1-aONAnl9A_c40/ 简介]
+| 君主论<br>''其它中文名：''<br>君王论 || The Prince || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E9%9B%85%E7%B6%AD%E5%88%A9 尼可罗·马基亚维利] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT<br>英文PDF || 2013-08-22<br>2019-10-28<br>2016-05-02<br>2020-03-01 || [https://docs.google.com/document/d/1fB6kMTY5NdEwPSsW6gjWa15tEYkfs1-aONAnl9A_c40/ 简介]
 |-
 | 理想国<br>''其它中文名：''<br>国家篇<br>共和国 || The Republic || (古希腊) [https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%8B%89%E5%9C%96 柏拉图] || 简体PDF<br>简体EPUB || 2015-07-22<br>2017-04-30 || [https://docs.google.com/document/d/1W3qdnxGCMOLNyCsft6hJa0qEY8wb6nl-DGj7zVy5WkA/ 简介]
 |}
