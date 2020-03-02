@@ -1122,9 +1122,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 大国悲剧<br>——苏联解体的前因后果 || N/A || (苏/俄) [https://en.wikipedia.org/wiki/Nikolai_Ryzhkov 尼古拉·雷日科夫] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1Y0OOhxAdwGWTAve4OH29KxdwEEvkKXJEl5qKyyxgakc/ 简介]
 |-
-| 一个大国的崛起与崩溃<br>——苏联历史专题研究，1917~1991 || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] (主编) || 简体PDF(上中下册 扫描版)<br>简体TXT || 2015-11-03<br>2018-08-09 || [https://docs.google.com/document/d/1f0N3zGNivAeSuVK-6Los9X4x0kipEyO3Wwh0LcSWZmQ/ 简介]
+| 一个大国的崛起与崩溃<br>——苏联历史专题研究，1917~1991 || N/A || [https://zh.wikipedia.org/wiki/%E6%B2%88%E5%BF%97%E5%8D%8E 沈志华] (主编) || 简体PDF(共3册 扫描版)<br>简体TXT || 2015-11-03<br>2018-08-09 || [https://docs.google.com/document/d/1f0N3zGNivAeSuVK-6Los9X4x0kipEyO3Wwh0LcSWZmQ/ 简介]
 |-
-| 帝国<br>——俄罗斯五十年 || Imperium || (波兰) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 雷沙德·卡普钦斯基] || 繁體PDF(豎排掃描版) || 2013-11-26 || [https://docs.google.com/document/d/1LZXoC-PtRh5Wpu64cIprj_k6wYIc7VrtUwpLM2KYa98/ 简介]
+| 帝国<br>——俄罗斯五十年 || Imperium || (波兰) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%B2%99%E5%BE%B7%C2%B7%E5%8D%A1%E6%99%AE%E9%92%A6%E6%96%AF%E5%9F%BA 雷沙德·卡普钦斯基] || 繁體PDF(豎排掃描版)<br>英文EPUB || 2013-11-26<br>2020-03-02 || [https://docs.google.com/document/d/1LZXoC-PtRh5Wpu64cIprj_k6wYIc7VrtUwpLM2KYa98/ 简介]
 |-
 | 苏联兴亡史纲 || N/A || 陈之骅<br>等 || 简体PDF(扫描版) || 2013-01-01 || [https://docs.google.com/document/d/1kaSn2dAMOoDcPHMtZ1gSsEWCbn_G48NtZtYZf12RPso/ 简介]
 |-
