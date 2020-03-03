@@ -1022,7 +1022,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 美国是如何治理的 || To Govern America || (美) [https://en.wikipedia.org/wiki/Roger_Hilsman 罗杰·希尔斯曼] || 简体PDF(扫描版) || 2017-02-17 || [https://docs.google.com/document/d/1LSdH5UTFxR0jBzMTytt1FMMlLkg9nJbJVTFV7HPPB7E/ 简介]
 |-
-| 事关选举<br>——美国国会的政治解读 || Congress<br>——The Electoral Connection || (美) [https://en.wikipedia.org/wiki/David_R._Mayhew 戴维·梅休] || 简体PDF(扫描版) || 2017-02-17 || [https://docs.google.com/document/d/1-SegK0_lIusJhCrdeW6RidQBv1UKfrsZ6D2vG_lwN_w/ 简介]
+| 事关选举<br>——美国国会的政治解读 || Congress<br>——The Electoral Connection || (美) [https://en.wikipedia.org/wiki/David_R._Mayhew 戴维·梅休] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2017-02-17<br>2020-03-03 || [https://docs.google.com/document/d/1-SegK0_lIusJhCrdeW6RidQBv1UKfrsZ6D2vG_lwN_w/ 简介]
 |-
 | 国会政体<br>——美国政治研究 || Congressional Government<br>——A Study in American Politics || (美) [https://zh.wikipedia.org/wiki/%E4%BC%8D%E5%BE%B7%E7%BD%97%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A 伍德罗·威尔逊] || 简体PDF(扫描版) || 2017-02-17 || [https://docs.google.com/document/d/16XPaDD97BAIMzoTEKZgxY8GH0VcW8TWQIzvHNlP_H1o/ 简介]
 |-
