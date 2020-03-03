@@ -1018,7 +1018,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 论美国的民主<br>''其它中文名：''<br>民主在美国 || Democracy in America || (法) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 托克维尔] || 简体PDF(上下卷)<br>简体MOBI || 2012-10-06<br>2013-05-13 || [https://docs.google.com/document/d/1UH6l3kQWdo0Ycg_4vb5Mek765x7PtDhtZ2ehoFe2rKU/ 简介]
+| 论美国的民主<br>''其它中文名：''<br>民主在美国 || Democracy in America || (法) [https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E8%A5%BF%E6%96%AF%C2%B7%E6%89%98%E5%85%8B%E7%B6%AD%E7%88%BE 亚历西斯·德·托克维尔] || 简体PDF(上下卷)<br>简体MOBI<br>英文PDF || 2012-10-06<br>2013-05-13<br>2020-03-03 || [https://docs.google.com/document/d/1UH6l3kQWdo0Ycg_4vb5Mek765x7PtDhtZ2ehoFe2rKU/ 简介]
 |-
 | 美国是如何治理的 || To Govern America || (美) [https://en.wikipedia.org/wiki/Roger_Hilsman 罗杰·希尔斯曼] || 简体PDF(扫描版) || 2017-02-17 || [https://docs.google.com/document/d/1LSdH5UTFxR0jBzMTytt1FMMlLkg9nJbJVTFV7HPPB7E/ 简介]
 |-
@@ -1030,13 +1030,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 美国的陪审团 || In the Hands of the People<br>——The Trial Jury's Origins, Triumphs, Troubles, and Future in American Democracy || (美) [https://en.wikipedia.org/wiki/William_Lee_Dwyer 威廉·德威尔] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1rdjxqyV4cZnsblxocpDERy1fcBdarkcCnioQYhbya0k/ 简介]
 |-
-| 牛津通识读本：美国总统制 || The American Presidency || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones Charles O. Jones] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://docs.google.com/document/d/1TFcoQFM8Htsq-Kku7pIu7-74mO3zmWt356smEooh_Dc/ 简介]
+| 牛津通识读本：美国总统制 || The American Presidency || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones 查尔斯·琼斯] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://docs.google.com/document/d/1TFcoQFM8Htsq-Kku7pIu7-74mO3zmWt356smEooh_Dc/ 简介]
 |-
-| 牛津通识读本：美国国会 || The U.S. Congress || (美) [https://en.wikipedia.org/wiki/Donald_A._Ritchie Donald Ritchie] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1iXTywNedZJNqUcbt3HPZVv8yyGF2pE1WH-mU5sfDl1I/ 简介]
+| 牛津通识读本：美国国会 || The U.S. Congress || (美) [https://en.wikipedia.org/wiki/Donald_A._Ritchie 唐纳德·里奇] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1iXTywNedZJNqUcbt3HPZVv8yyGF2pE1WH-mU5sfDl1I/ 简介]
 |-
-| 牛津通识读本：美国最高法院 || The U.S. Supreme Court || (美) [https://en.wikipedia.org/wiki/Linda_Greenhouse Linda Greenhouse] || 简体EPUB<br>简体AZW3 || 2015-12-05<br>2015-12-05 || [https://docs.google.com/document/d/1L-6STYxRapvr6ABkQen7mR_H1z6DgF77rizv8kjhu4c/ 简介]
+| 牛津通识读本：美国最高法院 || The U.S. Supreme Court || (美) [https://en.wikipedia.org/wiki/Linda_Greenhouse 琳达·格林豪斯] || 简体EPUB<br>简体AZW3 || 2015-12-05<br>2015-12-05 || [https://docs.google.com/document/d/1L-6STYxRapvr6ABkQen7mR_H1z6DgF77rizv8kjhu4c/ 简介]
 |-
-| 牛津通识读本：美国政党和选举 || American Political Parties and Elections || L. Sandy Maisel || 英文PDF || 2015-12-12 || [https://docs.google.com/document/d/1TvAyY9Sgko8T1HkyYwfm_vf647i3XyN9RobuLqlJAaQ/ 简介]
+| 牛津通识读本：美国政党和选举 || American Political Parties and Elections || (美) 桑迪·梅塞尔 || 英文PDF || 2015-12-12 || [https://docs.google.com/document/d/1TvAyY9Sgko8T1HkyYwfm_vf647i3XyN9RobuLqlJAaQ/ 简介]
 |-
 | 言论的边界<br>——美国宪法第一修正案简史 || Freedom for the Thought That We Hate<br>——A Biography of the First Amendment || (美) [https://en.wikipedia.org/wiki/Anthony_Lewis 安东尼·刘易斯] || 简体EPUB<br>简体PDF(扫描版) || 2015-11-20<br>2017-02-17 || [https://docs.google.com/document/d/1JUmJ5ZYajIBa7RSWj_4w8gboc6oUt7MzEI63vS1SkMk/ 简介]
 |-
