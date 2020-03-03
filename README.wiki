@@ -1026,8 +1026,6 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 国会政体<br>——美国政治研究 || Congressional Government<br>——A Study in American Politics || (美) [https://zh.wikipedia.org/wiki/%E4%BC%8D%E5%BE%B7%E7%BD%97%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A 伍德罗·威尔逊] || 简体PDF(扫描版)<br>英文TXT || 2017-02-17<br>2020-03-03 || [https://docs.google.com/document/d/16XPaDD97BAIMzoTEKZgxY8GH0VcW8TWQIzvHNlP_H1o/ 简介]
 |-
-| 九人<br>——美国最高法院风云 || The Nine<br>——Inside the Secret World of the Supreme Court || (美) [https://en.wikipedia.org/wiki/Jeffrey_Toobin 杰弗里·图宾] || 简体PDF(扫描版) || 2017-02-17 || [https://docs.google.com/document/d/1CS_ajBau54MmeitnGksLHDmraiCGSdKuHBhF7uZPKsk/ 简介]
-|-
 | 美国的陪审团 || In the Hands of the People<br>——The Trial Jury's Origins, Triumphs, Troubles, and Future in American Democracy || (美) [https://en.wikipedia.org/wiki/William_Lee_Dwyer 威廉·德威尔] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1rdjxqyV4cZnsblxocpDERy1fcBdarkcCnioQYhbya0k/ 简介]
 |-
 | 牛津通识读本：美国总统制 || The American Presidency || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones 查尔斯·琼斯] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://docs.google.com/document/d/1TFcoQFM8Htsq-Kku7pIu7-74mO3zmWt356smEooh_Dc/ 简介]
@@ -1037,6 +1035,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 牛津通识读本：美国最高法院 || The U.S. Supreme Court || (美) [https://en.wikipedia.org/wiki/Linda_Greenhouse 琳达·格林豪斯] || 简体EPUB<br>简体AZW3 || 2015-12-05<br>2015-12-05 || [https://docs.google.com/document/d/1L-6STYxRapvr6ABkQen7mR_H1z6DgF77rizv8kjhu4c/ 简介]
 |-
 | 牛津通识读本：美国政党和选举 || American Political Parties and Elections || (美) 桑迪·梅塞尔 || 英文PDF || 2015-12-12 || [https://docs.google.com/document/d/1TvAyY9Sgko8T1HkyYwfm_vf647i3XyN9RobuLqlJAaQ/ 简介]
+|-
+| 九人<br>——美国最高法院风云 || The Nine<br>——Inside the Secret World of the Supreme Court || (美) [https://en.wikipedia.org/wiki/Jeffrey_Toobin 杰弗里·图宾] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2017-02-17<br>2020-03-03 || [https://docs.google.com/document/d/1CS_ajBau54MmeitnGksLHDmraiCGSdKuHBhF7uZPKsk/ 简介]
 |-
 | 言论的边界<br>——美国宪法第一修正案简史 || Freedom for the Thought That We Hate<br>——A Biography of the First Amendment || (美) [https://en.wikipedia.org/wiki/Anthony_Lewis 安东尼·刘易斯] || 简体EPUB<br>简体PDF(扫描版)<br>英文PDF || 2015-11-20<br>2017-02-17<br>2020-03-03 || [https://docs.google.com/document/d/1JUmJ5ZYajIBa7RSWj_4w8gboc6oUt7MzEI63vS1SkMk/ 简介]
 |-
