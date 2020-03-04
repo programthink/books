@@ -1076,9 +1076,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 无处可藏<br>——斯诺登、美国国安局与全球监控 || No Place to Hide<br>——Edward Snowden, the NSA, and the U.S. Surveillance State || (美) [https://zh.wikipedia.org/wiki/%E8%91%9B%E5%80%AB%C2%B7%E8%91%9B%E6%9E%97%E8%8F%AF%E5%BE%B7 格伦·格林沃尔德] || 简体EPUB || 2016-12-20 || [https://docs.google.com/document/d/1ihNl7GsLdf8FbeQQHhNPNhZMXpuB-Vk-wpoEspCb34k/ 简介]
+| 无处可藏<br>——斯诺登、美国国安局与全球监控 || No Place to Hide<br>——Edward Snowden, the NSA and the U.S. Surveillance State || (美) [https://zh.wikipedia.org/wiki/%E8%91%9B%E5%80%AB%C2%B7%E8%91%9B%E6%9E%97%E8%8F%AF%E5%BE%B7 格伦·格林沃尔德] || 简体EPUB<br>英文PDF || 2016-12-20<br>2020-03-04 || [https://docs.google.com/document/d/1ihNl7GsLdf8FbeQQHhNPNhZMXpuB-Vk-wpoEspCb34k/ 简介]
 |-
-| 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 繁體EPUB<br>英文PDF || 2019-12-02<br>2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
+| 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 繁體EPUB(台灣版 無刪節)<br>英文PDF || 2019-12-02<br>2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
 |-
 | 帷幕<br>——美国中央情报局的秘密战争，1981~1987 || Veil<br>——The Secret Wars of the CIA, 1981~1987 || (美) [https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E4%BC%8D%E5%BE%B7%E6%B2%83%E5%BE%B7 鲍勃·伍德沃德] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1V1JvrUJRczYlY3boDTg9UPI31E9KYTJLVUDJnTmAOLU/ 简介]
 |-
