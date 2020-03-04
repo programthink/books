@@ -1066,7 +1066,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 战后美国外交史<br>——从杜鲁门到里根 || N/A || [https://zh.wikipedia.org/wiki/%E8%B5%84%E4%B8%AD%E7%AD%A0 资中筠]<br>等 || 简体PDF(扫描版) || 2017-05-05 || [https://docs.google.com/document/d/1jT3WY7qBZfP9gRUQ1U_WBfoMV_oRrp_F2PJa-ufy7oA/ 简介]
 |-
-| 历史的见证<br>——1929-1969年 || Witness to History<br>——1929-1969 || (美) [https://en.wikipedia.org/wiki/Charles_E._Bohlen 查尔斯·波伦] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1XhLHZSnM9qbfsNaBelKG8Tyxhvp78-Ls1uYX-U9rogk/ 简介]
+| 历史的见证，1929~1969年 || Witness to History, 1929~1969 || (美) [https://en.wikipedia.org/wiki/Charles_E._Bohlen 查尔斯·波伦] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1XhLHZSnM9qbfsNaBelKG8Tyxhvp78-Ls1uYX-U9rogk/ 简介]
 |-
 | “美国例外论”与美国外交政策传统 || N/A || 周琪 || 简体PDF || 2017-02-18 || [https://docs.google.com/document/d/1jcjLjTVwJzXfPaostoFurwpMsVMIqesB2TASlNjLkbI/ 简介]
 |}
@@ -1080,7 +1080,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 繁體EPUB(台灣版 無刪節)<br>英文PDF || 2019-12-02<br>2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
 |-
-| 帷幕<br>——美国中央情报局的秘密战争，1981~1987 || Veil<br>——The Secret Wars of the CIA, 1981~1987 || (美) [https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E4%BC%8D%E5%BE%B7%E6%B2%83%E5%BE%B7 鲍勃·伍德沃德] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1V1JvrUJRczYlY3boDTg9UPI31E9KYTJLVUDJnTmAOLU/ 简介]
+| 帷幕<br>——美国中央情报局的秘密战争，1981~1987 || Veil<br>——The Secret Wars of the CIA, 1981~1987 || (美) [https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E4%BC%8D%E5%BE%B7%E6%B2%83%E5%BE%B7 鲍勃·伍德沃德] || 简体PDF(扫描版)<br>英文EPUB || 2017-02-18<br>2020-03-04 || [https://docs.google.com/document/d/1V1JvrUJRczYlY3boDTg9UPI31E9KYTJLVUDJnTmAOLU/ 简介]
 |-
 | 危机<br>——美国国家安全局透视 || N/A || (未知) || 简体PDF || 2013-06-18 || [https://docs.google.com/document/d/1Zp3_rLWAvxeN57DOuiFD9tQiHACbXTt8LziqkloTVSg/ 简介]
 |}
