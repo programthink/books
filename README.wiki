@@ -2315,7 +2315,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 第二次世界大战战史大全 || N/A || (英) [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || [https://docs.google.com/document/d/1g4lK9FonqePgkJMYBlfOTNnVN_cFVvIJKfRjfvquS_E/ 简介]
+| 第二次世界大战战史大全 || N/A || (英) [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] (主编) || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || [https://docs.google.com/document/d/1g4lK9FonqePgkJMYBlfOTNnVN_cFVvIJKfRjfvquS_E/ 简介]
 |-
 | 第二次世界大战战史 || History of the Second World War || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2015-09-17<br>2020-01-21 || [https://docs.google.com/document/d/1vP_KXL_iHnOeUnhw2cLoHPAa9dWwr9TvY7gtQiIaF1M/ 简介]
 |-
@@ -2329,7 +2329,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 大东亚战争全史 || The Complete History of the Great East Asia War || (日) [https://zh.wikipedia.org/wiki/%E6%9C%8D%E9%83%A8%E5%8D%93%E5%9B%9B%E9%83%8E 服部卓四郎] || 简体PDF(共4册 扫描版) || 2015-09-17 || [https://docs.google.com/document/d/1lC96xJD9p7aHKnFCuNf0sDMSRrMfmvRAhkndkOb1Y3I/ 简介]
 |-
-| 山的那一边<br>——被俘德国将领谈二战 || The Other Side of the Hill || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版) || 2017-08-11 || [https://docs.google.com/document/d/1N8NCjRYRzCf-RrfmeqolZrGLu7wBskyagro8dUfciZk/ 简介]
+| 山的那一边<br>——被俘德国将领谈二战 || The Other Side of the Hill || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2017-08-11<br>2020-03-08 || [https://docs.google.com/document/d/1N8NCjRYRzCf-RrfmeqolZrGLu7wBskyagro8dUfciZk/ 简介]
 |}
 
 ==== 9.2.1.2 东欧战场 ====
