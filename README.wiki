@@ -2357,7 +2357,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 联合舰队的覆灭 || The Fate of Japanese United Fleet || (日) [https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E6%AD%A3%E5%BE%B7 伊藤正德] || 简体TXT || 2019-07-27 || [https://docs.google.com/document/d/1Wa-V2zsibZPoFLrTZGHVNcYxsS4MAxQlwhjj-rtsMoI/ 简介]
+| 联合舰队的覆灭<br>''其它中文名：''<br>連合艦隊の最後<br>——太平洋海戦史 || The End of the Imperial Japanese Navy || (日) [https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E6%AD%A3%E5%BE%B7 伊藤正德] || 简体TXT<br>英文PDF || 2019-07-27<br>2020-03-08 || [https://docs.google.com/document/d/1Wa-V2zsibZPoFLrTZGHVNcYxsS4MAxQlwhjj-rtsMoI/ 简介]
 |-
 | 浩瀚大洋是赌场<br>——大日本帝国海军兴亡史 || N/A || 俞天任 (网名：冰冷雨天) || 简体PDF || 2016-12-11 || [https://docs.google.com/document/d/1hQJGxs6wyhpxBL47QphvQXuDGEZnBaTdbGNgZ5hPnX0/ 简介]
 |-
@@ -2393,7 +2393,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 穿越1945<br>——纪念抗战胜利70年访谈纪实 || Journey 1945 || [https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3 美国之音] || 简体PDF(扫描版) || 2016-07-17 || [https://docs.google.com/document/d/1ykSsC4wNnkkbsGeZ32sjzw9Pmy0l0TXyMHEE3m82up8/ 简介]
 |-
-| 中日战争时期的通敌内幕（1937-1945） || China and Japan at War 1937-1945<br>——The Politics of Collaboration || (美) 约翰·亨特·博伊尔 || 简体PDF(大字版) || 2017-08-11 || [https://docs.google.com/document/d/1pWcINJhncJ5wkOi9AtN7QgTZCMcEzWDtFt_XVvPh0ZI/ 简介]
+| 中日战争时期的通敌内幕，1937~1945 || China and Japan at War 1937-1945<br>——The Politics of Collaboration || (美) 约翰·博伊尔 || 简体PDF(大字版) || 2017-08-11 || [https://docs.google.com/document/d/1pWcINJhncJ5wkOi9AtN7QgTZCMcEzWDtFt_XVvPh0ZI/ 简介]
 |}
 
 === 9.2.2 韩战 ===
@@ -2539,11 +2539,11 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 牛津通识读本：核武器 || Nuclear Weapons || 约瑟夫·锡拉库扎 || 英文PDF || 2015-12-14 || [https://docs.google.com/document/d/1ZTwCoTDHRFARSsC9f-fsq-uz0_EZStDSnE66qsvhUC8/ 简介]
+|-
 | 隐形战斗机 || X-Planes<br>——Secret Planes and Secret Missions || (美) 戴维·奥利弗<br>(美) 迈克·瑞安 || 简体PDF(扫描版) || 2017-05-05 || [https://docs.google.com/document/d/13C41cLrV9KfFxIRW7FRkZ122riOT7mtc88CUG30Tw7U/ 简介]
 |-
 | 简氏枪械鉴赏指南典藏版 || Jane's Guns Recognition Guide || 理查德·琼斯<br>安德鲁·怀特 || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/11aR5ShFSnWjVLetc7EmGeAzM00QyIP1DnRH7vTIUnqI/ 简介]
-|-
-| 牛津通识读本：核武器 || Nuclear Weapons || Joseph Siracusa || 英文PDF || 2015-12-14 || [https://docs.google.com/document/d/1ZTwCoTDHRFARSsC9f-fsq-uz0_EZStDSnE66qsvhUC8/ 简介]
 |}
 
 == 9.7 美国 ==
