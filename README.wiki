@@ -1767,7 +1767,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 国富论<br>''其它中文名：''<br>国民财富的性质和原因 || The Wealth of Nations || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体CHM<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-04-09<br>2018-12-08<br>2015-02-14<br>2016-05-15 || [https://docs.google.com/document/d/1uRlISjTaReYfoLzMlnQV3dY3ZDE4BF1CWt06A1rQYhU/ 简介]
+| 国富论<br>——国民财富的性质和原因 || The Wealth of Nations<br>''其它英文名：''<br>An Inquiry into the Nature and Causes of the Wealth of Nations || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体EPUB<br>简体MOBI<br>简体CHM<br>简体TXT<br>英文PDF || 2018-12-08<br>2015-02-14<br>2013-04-09<br>2016-05-15<br>2020-03-10 || [https://docs.google.com/document/d/1uRlISjTaReYfoLzMlnQV3dY3ZDE4BF1CWt06A1rQYhU/ 简介]
 |-
 | 就业、利息和货币通论 || The General Theory of Employment, Interest and Money || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/ 简介]
 |-
