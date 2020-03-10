@@ -1811,9 +1811,9 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 资本主义与自由 || Capitalism and Freedom || (美) [https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%B0%94%E9%A1%BF%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC 米尔顿·弗里德曼] || 简体PDF<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2014-02-13<br>2019-08-31<br>2018-09-05<br>2015-02-14<br>2020-03-10 || [https://docs.google.com/document/d/1iuISZPsxgCBjKLB5VYgrDMgYZbSpaFPX_Y8nMdw_d0s/ 简介]
 |-
-| 论经济学和经济学家 || Essays on Economics and Economists || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 简体PDF(扫描版) || 2019-08-31 || [https://docs.google.com/document/d/1CRjV8Ac3lElKlBo9935qcWs2iWBAT81af5xxn_H1XuE/ 简介]
-|-
 | 对我们生活的误测<br>——为什么 GDP 增长不等于社会进步 || Mismeasuring Our Lives<br>——Why GDP Doesn't Add Up || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E6%96%AF%E8%92%82%E6%A0%BC%E5%88%A9%E8%8C%A8 约瑟夫·斯蒂格利茨]<br>(印度) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF(扫描版)<br>英文EPUB || 2015-07-12<br>2020-03-10 || [https://docs.google.com/document/d/1jsdsQOy-VlZSclDR19i_KvjROhqYN6lacosQzDykCJk/ 简介]
+|-
+| 论经济学和经济学家 || Essays on Economics and Economists || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 简体PDF(扫描版)<br>英文PDF || 2019-08-31<br>2020-03-10 || [https://docs.google.com/document/d/1CRjV8Ac3lElKlBo9935qcWs2iWBAT81af5xxn_H1XuE/ 简介]
 |-
 | 经济学的著名寓言<br>——市场失灵的神话 || Famous Fables of Economics<br>——Myths of Market Failures || (美) [https://en.wikipedia.org/wiki/Daniel_F._Spulber 丹尼尔·史普博] (主编) || 简体PDF(扫描版) || 2015-11-05 || [https://docs.google.com/document/d/1a8GQKJ97IPE7VVVoVZY2kgoLFjfpKG3tgvobgVd60mM/ 简介]
 |-
