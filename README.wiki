@@ -1897,11 +1897,13 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 牛津通识读本：博弈论 || Game Theory<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Kenneth_Binmore 肯尼思·宾默尔] || 英文PDF || 2020-03-11 || [https://docs.google.com/document/d/1lx_-U426093iQYszpUjUfdP8mtjQRd-eRgXFx55rlrM/ 简介]
+|-
 | 策略思维<br>——商界、政界及日常生活中的策略竞争 || Thinking Strategically<br>——The Competitive Edge in Business, Politics, and Everyday Life || (美) [https://en.wikipedia.org/wiki/Avinash_Dixit 阿维纳什·迪克西特]<br>(美) [https://en.wikipedia.org/wiki/Barry_Nalebuff 巴里·奈尔伯夫] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2018-06-23<br>2015-05-10 || [https://docs.google.com/document/d/1JQQgjbzQazzeKic4Rh5OU1O2TwWh9_bGngtmzzdUb2w/ 简介]
 |-
 | 纳什均衡与博弈论<br>——纳什博弈论及对自然法则的研究 || A Beautiful Math<br>——John Nash, Game Theory and the Modern Quest for a Code of Nature || (美) 汤姆·齐格弗里德 || 简体PDF(大字版) || 2019-09-02 || [https://docs.google.com/document/d/1ikoD8EIL7XK8qEAxHG2ZShHVDzPY-E2isMFfOACsh0Y/ 简介]
 |-
-| 剪刀、石头、布<br>——趣味博弈论 || Rock, Paper, Scissors<br>——Game Theory in Everyday Life || (英) Len Fisher || 简体PDF(扫描版) || 2014-04-06 || [https://docs.google.com/document/d/1YiLSigj-2nrdzI4x6hLs6p-JWMhuMXv4AqHJzUizP5w/ 简介]
+| 剪刀、石头、布<br>——趣味博弈论 || Rock, Paper, Scissors<br>——Game Theory in Everyday Life || (英) 兰·费雪 || 简体PDF(扫描版) || 2014-04-06 || [https://docs.google.com/document/d/1YiLSigj-2nrdzI4x6hLs6p-JWMhuMXv4AqHJzUizP5w/ 简介]
 |}
 
 === 4.5.2 理论 ===
