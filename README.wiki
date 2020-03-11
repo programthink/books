@@ -1919,7 +1919,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 定位 || Positioning<br>——The Battle for Your Mind || (美) [https://en.wikipedia.org/wiki/Jack_Trout 杰克·特劳特]<br>(美) [https://en.wikipedia.org/wiki/Al_Ries 阿尔·里斯] || 简体EPUB<br>简体PDF(20周年纪念版 扫描版)<br>简体TXT<br>英文PDF(20周年纪念版) || 2019-04-19<br>2018-08-27<br>2016-05-16<br>2020-03-11 || [https://docs.google.com/document/d/1w0ccxjkmQP8VzR69wOb_Ct_JbP6F05FSPSmfgs0YwkA/ 简介]
 |-
-| 营销战 || Marketing Warfare || (美) [https://en.wikipedia.org/wiki/Jack_Trout 杰克·特劳特]<br>(美) [https://en.wikipedia.org/wiki/Al_Ries 阿尔·里斯] || 简体PDF(扫描版) || 2018-08-27 || [https://docs.google.com/document/d/1B_wBGw-JwND5HQsROHdgmEo8TRXVXxA-a2ndZNt488U/ 简介]
+| 营销战 || Marketing Warfare || (美) [https://en.wikipedia.org/wiki/Jack_Trout 杰克·特劳特]<br>(美) [https://en.wikipedia.org/wiki/Al_Ries 阿尔·里斯] || 简体PDF(扫描版)<br>英文EPUB || 2018-08-27<br>2020-03-11 || [https://docs.google.com/document/d/1B_wBGw-JwND5HQsROHdgmEo8TRXVXxA-a2ndZNt488U/ 简介]
 |}
 
 == 4.7 (其它) ==
