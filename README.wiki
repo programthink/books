@@ -1879,7 +1879,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists<br>——From Marx to Keynes || (奥/美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体PDF(扫描版)<br>英文PDF || 2013-04-09<br>2020-03-11 || [https://docs.google.com/document/d/1wqzVgyl-J48EAqt2TTer7HQbfQxvCpr8i_9rydo7t_U/ 简介]
 |-
-| 经济学大师们 || New Ideas from Dead Economists<br>——An Introduction to Modern Economic Thought || (美) [https://en.wikipedia.org/wiki/Todd_G._Buchholz 托德·布赫霍尔茨] || 简体PDF(扫描版) || 2018-06-24 || [https://docs.google.com/document/d/174V2UIpMrm-ODKm5pOnj_gubJ7m2lpZ_W-1BlIjF1Go/ 简介]
+| 经济学大师们 || New Ideas from Dead Economists<br>——An Introduction to Modern Economic Thought || (美) [https://en.wikipedia.org/wiki/Todd_G._Buchholz 托德·布赫霍尔茨] || 简体PDF(扫描版)<br>英文EPUB || 2018-06-24<br>2020-03-11 || [https://docs.google.com/document/d/174V2UIpMrm-ODKm5pOnj_gubJ7m2lpZ_W-1BlIjF1Go/ 简介]
 |-
 | 思想者的足迹<br>——五十位重要的西方经济学家 || Fifty Major Economists || (美) [https://en.wikipedia.org/wiki/Steven_Pressman_%28economist%29 史蒂文·普雷斯曼] || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/11RcalOAobZ2y8OwbPIwq9TR5SXMxfwA3-Ws-Z4CQoWs/ 简介]
 |-
