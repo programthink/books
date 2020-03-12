@@ -2209,7 +2209,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 未来形而上学导论 || Prolegomena to Any Future Metaphysics || (德) [https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9B%BC%E5%8A%AA%E5%B0%94%C2%B7%E5%BA%B7%E5%BE%B7 伊曼努尔·康德] || 简体CHM<br>简体PDF(扫描版)<br>英文PDF || 2014-06-20<br>2017-03-26<br>2020-03-12 || [https://docs.google.com/document/d/1akO0_y0Tg55RO4jhc8UKOy91CJmeCrjHpxNuajt32cw/ 简介]
 |-
-| 第一哲学沉思集<br>''其它中文名：''<br>形而上学沉思录 || Meditations on First Philosophy || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94 勒内·笛卡尔] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT || 2014-06-20<br>2017-03-24<br>2016-05-10 || [https://docs.google.com/document/d/13hAz2x7GHwZiMIGYPJboUE78cGKV-EXnXCc2Jc7Bgjc/ 简介]
+| 第一哲学沉思集<br>''其它中文名：''<br>形而上学沉思录 || Meditations on First Philosophy || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94 勒内·笛卡尔] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT<br>英文PDF || 2014-06-20<br>2017-03-24<br>2016-05-10<br>2020-03-12 || [https://docs.google.com/document/d/13hAz2x7GHwZiMIGYPJboUE78cGKV-EXnXCc2Jc7Bgjc/ 简介]
 |-
 | 存在与时间 || Being and Time || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94 马丁·海德格尔] || 简体TXT || 2019-01-21 || [https://docs.google.com/document/d/1XWcqCzP6HsCBJM7WCN6OGDdErfUbyJlqyFdjzBi6vwE/ 简介]
 |}
