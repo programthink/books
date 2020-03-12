@@ -2223,7 +2223,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 谈谈方法<br>''其它中文名：''<br>方法论 || Discourse on the Method || (法) [https://zh.wikipedia.org/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94 勒内·笛卡尔] || 简体PDF(扫描版) || 2014-06-20 || [https://docs.google.com/document/d/15-jO3FqQshh5ufklkGRlBrdOBybrsw5dS7eq_uE0HFc/ 简介]
 |-
-| 人类理解研究 || An Enquiry concerning Human Understanding || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 大卫·休谟] || 简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-02-13 || [https://docs.google.com/document/d/137b-SKfpPTdku4edikCisUtJgipfOvPUXLUN3-qitU4/ 简介]
+| 人类理解研究 || An Enquiry Concerning Human Understanding || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F 大卫·休谟] || 简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2014-06-20<br>2015-02-13<br>2020-03-12 || [https://docs.google.com/document/d/137b-SKfpPTdku4edikCisUtJgipfOvPUXLUN3-qitU4/ 简介]
 |-
 | 系统化思维导论 || An Introduction to General Systems Thinking || (美) [https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || 简体PDF(扫描版) || 2015-10-24 || [https://docs.google.com/document/d/1Mq5nIMwFXGgy5g8eOHVmKokl8edImpAOfwBSDZKBfTk/ 简介]
 |}
