@@ -2079,7 +2079,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 你的第一本哲学书<br>''其它中文名：''<br>哲學入門九堂課 || What Does It All Mean?<br>——A very short introduction to philosophy || (美) [https://zh.wikipedia.org/wiki/%E6%B9%AF%E7%91%AA%E6%96%AF%C2%B7%E5%85%A7%E6%A0%BC%E7%88%BE 托马斯·内格尔] || 简体PDF(扫描版)<br>简体MOBI || 2014-06-20<br>2015-02-13 || [https://docs.google.com/document/d/1MZfroovAFPWg0syEy3bdSA2PEkabBinpFDJX-KIVckU/ 简介]
+| 你的第一本哲学书<br>''其它中文名：''<br>哲學入門九堂課 || What Does It All Mean?<br>——A Very Short Introduction to Philosophy || (美) [https://zh.wikipedia.org/wiki/%E6%B9%AF%E7%91%AA%E6%96%AF%C2%B7%E5%85%A7%E6%A0%BC%E7%88%BE 托马斯·内格尔] || 简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2014-06-20<br>2015-02-13<br>2020-03-12 || [https://docs.google.com/document/d/1MZfroovAFPWg0syEy3bdSA2PEkabBinpFDJX-KIVckU/ 简介]
 |-
 | 苏菲的世界 || Sophie's World || (挪威) [https://zh.wikipedia.org/wiki/%E5%96%AC%E6%96%AF%E5%9D%A6%C2%B7%E8%B3%88%E5%BE%B7 乔斯坦·贾德] || 简体PDF(精校版 无删节)<br>简体EPUB(精校版 无删节)<br>简体MOBI(精校版 无删节) || 2015-12-24<br>2015-12-24<br>2015-12-24 || [https://docs.google.com/document/d/1zsbzOCnxp6lcTRSN5VU3Osco16sfjAInSd-tTyiqUaM/ 简介]
 |-
