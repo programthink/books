@@ -2091,7 +2091,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 西方哲学史 || A History of Western Philosophy || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 伯特兰·罗素] || 简体PDF<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2014-06-20<br>2019-01-06<br>2015-01-12<br>2015-02-13<br>2016-05-11 || [https://docs.google.com/document/d/1mUW5RYrenVz_arqGsqO5TvP75bWDMCou_GTt6Lnzci0/ 简介]
+| 西方哲学史 || A History of Western Philosophy || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 伯特兰·罗素] || 简体PDF<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体MOBI<br>简体TXT<br>英文PDF || 2014-06-20<br>2019-01-06<br>2015-01-12<br>2015-02-13<br>2016-05-11<br>2020-03-12 || [https://docs.google.com/document/d/1mUW5RYrenVz_arqGsqO5TvP75bWDMCou_GTt6Lnzci0/ 简介]
 |-
 | 西方哲学史 || A History of Philosophy || (美) 弗兰克·梯利 || 简体PDF(增补修订版 扫描版) || 2018-06-25 || [https://docs.google.com/document/d/1UnyMil6Jd-wIEyNVu4GAc8E-zNtKK_AgBOlqp3JB4s8/ 简介]
 |-
