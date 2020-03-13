@@ -2156,7 +2156,15 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 牛津通识读本：康德 || Kant<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Roger_Scruton 罗杰·斯克鲁顿] || 简体EPUB<br>简体AZW3<br>英文PDF(扫描版) || 2015-12-03<br>2015-12-03<br>2016-12-17 || [https://docs.google.com/document/d/1zXpez0ZyoZ0Q61pwDpWjWbqrFbVP_WLi6tCrqRxjsG8/ 简介]
 |}
 
-=== 8.3.7 叔本华 ===
+=== 8.3.7 黑格尔 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：黑格尔 || Hegel<br>——A Very Short Introduction || (澳大利亚) [https://en.wikipedia.org/wiki/Peter_Singer 彼得·辛格] || 英文EPUB || 2020-03-13 || [https://docs.google.com/document/d/1d5jC_smvkaWnBiS-yMUsWSanOB9o-FjQXMc7nDY6CpE/ 简介]
+|}
+
+=== 8.3.8 叔本华 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2164,7 +2172,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 牛津通识读本：叔本华 || Schopenhauer<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Christopher_Janaway 克里斯托弗·贾纳韦] || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1agkeOViTF4SAYTHxAOeBxX6KNd54L2DJi2MahN96_q0/ 简介]
 |}
 
-=== 8.3.8 尼采 ===
+=== 8.3.9 尼采 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2174,7 +2182,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 尼采 || Nietzsche || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94 马丁·海德格尔] || 简体PDF(扫描版) || 2019-01-20 || [https://docs.google.com/document/d/1E8KbZSiHaD4CAdjGntVatgCQRk91sOuFPM58rfCR73E/ 简介]
 |}
 
-=== 8.3.9 罗素 ===
+=== 8.3.10 罗素 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2184,7 +2192,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 我的哲学发展 || My Philosophical Development || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 伯特兰·罗素] || 简体PDF(扫描版) || 2018-06-25 || [https://docs.google.com/document/d/1kS5IAEWCmbKodjtYXCIUEHBlsH5qj4g5pOR_Fd6Hnxg/ 简介]
 |}
 
-=== 8.3.10 维特根斯坦 ===
+=== 8.3.11 维特根斯坦 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2192,7 +2200,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 牛津通识读本：维特根斯坦 || Wittgenstein<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/A._C._Grayling 安东尼·格雷林] || 简体EPUB<br>简体AZW3<br>英文PDF || 2015-12-04<br>2015-12-04<br>2016-12-17 || [https://docs.google.com/document/d/1PJSSbox14o05NQ9b34vsy8U9Jaqk5ANwhPYlb70Mmlk/ 简介]
 |}
 
-=== 8.3.11 波普尔 ===
+=== 8.3.12 波普尔 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2200,7 +2208,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 | 无尽的探索<br>——卡尔·波普尔自传 || Unended Quest<br>——An Intellectual Autobiography || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体EPUB<br>简体TXT || 2015-02-15<br>2016-05-02 || [https://docs.google.com/document/d/1bYYtfpEYRACN6tNfCUeLe8CDc4kgYu3qxd6-3Eput0U/ 简介]
 |}
 
-=== 8.3.12 (其他哲学家) ===
+=== 8.3.13 (其他哲学家) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
