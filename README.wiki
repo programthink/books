@@ -2245,7 +2245,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 牛津通识读本：伦理学 || Ethics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Simon_Blackburn 西蒙·布莱克本] || 英文PDF || 2020-03-13 || [https://docs.google.com/document/d/1MTuvF9E4FSnf_j4mRYkrNFIAPL6lnGZasHVDynAw1X8/ 简介]
 |-
-| 幸福之路 || The Conquest of Happiness || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 伯特兰·罗素] || 简体EPUB<br>简体MOBI<br>简体TXT || 2014-06-20<br>2018-12-09<br>2016-05-10 || [https://docs.google.com/document/d/1vFAWIOsdwHc60-NWEu0y0idO6UXcELfBMIfdYrGT2ZY/ 简介]
+| 幸福之路 || The Conquest of Happiness || (英) [https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0 伯特兰·罗素] || 简体EPUB<br>简体MOBI<br>简体TXT<br>英文EPUB || 2014-06-20<br>2018-12-09<br>2016-05-10<br>2020-03-13 || [https://docs.google.com/document/d/1vFAWIOsdwHc60-NWEu0y0idO6UXcELfBMIfdYrGT2ZY/ 简介]
 |-
 | 道德情操论 || The Theory of Moral Sentiments || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2014-06-20<br>2015-01-12<br>2015-11-10<br>2015-02-13<br>2020-03-13 || [https://docs.google.com/document/d/1BlG7h_aaYPcWRCFH88rtDCu_XNACoXRFhoZBDCp0RrU/ 简介]
 |-
