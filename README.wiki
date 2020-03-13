@@ -2255,11 +2255,11 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 科学发现的逻辑 || The Logic of Scientific Discovery || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体HTML<br>简体MOBI<br>英文PDF || 2014-06-20<br>2015-02-13<br>2020-03-13 || [https://docs.google.com/document/d/1WRVGU5qcrhhjDMbgnpYiiSiomRmgPm--ZHMYmIAhVeo/ 简介]
-|-
-| 猜想与反驳<br>——科学知识的增长 || Conjectures and Refutations<br>——The Growth of Scientific Knowledge || (英) [https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体EPUB || 2015-02-15 || [https://docs.google.com/document/d/1EkTX-vK8eX4KeqBir4nYL_A5Qe0VWymINXOdZVyq4mw/ 简介]
-|-
 | 牛津通识读本：科学哲学 || Philosophy of Science<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Samir_Okasha 萨米尔·奥卡沙] || 简体EPUB(第1版)<br>简体AZW3(第1版)<br>英文PDF(第1版 扫描版) || 2015-12-02<br>2015-12-02<br>2019-01-22 || [https://docs.google.com/document/d/1b4g4j8C_xhv60l8JUkpQ-ElRWKI2BGQLwoBDxjqLNC8/ 简介]
+|-
+| 科学发现的逻辑 || The Logic of Scientific Discovery || (英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体HTML<br>简体MOBI<br>英文PDF || 2014-06-20<br>2015-02-13<br>2020-03-13 || [https://docs.google.com/document/d/1WRVGU5qcrhhjDMbgnpYiiSiomRmgPm--ZHMYmIAhVeo/ 简介]
+|-
+| 猜想与反驳<br>——科学知识的增长 || Conjectures and Refutations<br>——The Growth of Scientific Knowledge || (英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体EPUB<br>英文PDF || 2015-02-15<br>2020-03-13 || [https://docs.google.com/document/d/1EkTX-vK8eX4KeqBir4nYL_A5Qe0VWymINXOdZVyq4mw/ 简介]
 |}
 
 == 8.9 美学 ==
