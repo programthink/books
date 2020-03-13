@@ -2249,7 +2249,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 |-
 | 道德情操论 || The Theory of Moral Sentiments || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2014-06-20<br>2015-01-12<br>2015-11-10<br>2015-02-13<br>2020-03-13 || [https://docs.google.com/document/d/1BlG7h_aaYPcWRCFH88rtDCu_XNACoXRFhoZBDCp0RrU/ 简介]
 |-
-| 论道德的谱系<br>——一篇论战檄文<br>''其它中文名：''<br>道德谱系学 || On the Genealogy of Morality<br>——A Polemic || (德) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 弗里德里希·尼采] || 简体EPUB(注疏版)<br>简体MOBI(注疏版) || 2018-12-10<br>2018-12-10 || [https://docs.google.com/document/d/1X1Q1TQfQUgskCxpP386bbCoZw0V49m43jU3JOnkTb2k/ 简介]
+| 论道德的谱系<br>——一篇论战檄文<br>''其它中文名：''<br>道德谱系学 || On the Genealogy of Morality<br>——A Polemic || (德) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87 弗里德里希·尼采] || 简体EPUB(注疏版)<br>简体MOBI(注疏版)<br>英文PDF || 2018-12-10<br>2018-12-10<br>2020-03-13 || [https://docs.google.com/document/d/1X1Q1TQfQUgskCxpP386bbCoZw0V49m43jU3JOnkTb2k/ 简介]
 |}
 
 == 8.8 科学哲学 ==
