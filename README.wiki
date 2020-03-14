@@ -1542,9 +1542,11 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 欧洲中世纪史 || Medieval Europe<br>——A Short History || (美) [https://en.wikipedia.org/wiki/Judith_M._Bennett 朱迪斯·本内特]<br>(美) [https://en.wikipedia.org/wiki/C._Warren_Hollister 沃伦·霍利斯特] || 简体PDF(第10版 扫描版) || 2017-05-04 || [https://docs.google.com/document/d/1Z5LP2rrfwPSi4wlw9C4UjEt9xefdzDkFj5DXo3az6YU/ 简介]
 |-
+| 牛津通识读本：启蒙运动 || The Enlightenment<br>——A Very Short Introduction || (英) 约翰·罗伯逊 || 英文EPUB || 2020-03-14 || [https://docs.google.com/document/d/1ZrrZPyQPo9vPbQ2IMtD3BZP0ychdufu4MJu9ye2eHow/ 简介]
+|-
 | 夹缝中的六国<br>——维也纳会议以来的中东欧历史 || The Lands between<br>——A History of East-Central Europe Since the Congress of Vienna || (英) [https://en.wikipedia.org/wiki/Alan_Palmer 艾伦·帕尔默] || 简体PDF(扫描版) || 2017-08-14 || [https://docs.google.com/document/d/1zsWgQOM0rB6K_XI27b2yFb3yaYy3l5gKoblGWGyDf68/ 简介]
 |-
-| 牛津通识读本：十字军 || The Crusades || (英) [https://et.wikipedia.org/wiki/Christopher_Tyerman 克里斯托弗·泰尔曼] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1mRuBNHPEdOobU4Uau2aijmNjDd5GqP75RKsSqApHuyE/ 简介]
+| 牛津通识读本：十字军 || The Crusades<br>——A Very Short Introduction || (英) [https://et.wikipedia.org/wiki/Christopher_Tyerman 克里斯托弗·泰尔曼] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1mRuBNHPEdOobU4Uau2aijmNjDd5GqP75RKsSqApHuyE/ 简介]
 |}
 
 == 3.3 中国 ==
