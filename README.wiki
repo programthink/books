@@ -1672,13 +1672,15 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 牛津通识读本：美国历史 || American History<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Paul_Boyer_(historian) 保罗·博耶] || 英文PDF || 2020-03-14 || [https://docs.google.com/document/d/1-Dia_aujaqFzZdsUeDi7Z088bHTi-PvZm9k7PvmJH9s/ 简介]
+|-
 | 美国通史<br><br>''包括如下：''<br>第1卷 美国的奠基时代（1585~1775）<br>第2卷 美国的独立和初步繁荣（1775~1860）<br>第3卷 美国内战与镀金时代（1861~19世纪末）<br>第4卷 崛起和扩张的年代（1898~1929）<br>第5卷 罗斯福时代（1929~1945）<br>第6卷 战后美国史（1945~2000） || A General History of the U.S. 1585-2000 || 刘绪贻、杨生茂 等 || 简体PDF(扫描版) || 2017-02-20 || [https://docs.google.com/document/d/1MLNvLc4bNp1a762hW4tsVL7QRAtRYDroZhdsL7pS0dY/ 简介]
 |-
 | 光荣与梦想<br>——1932~1972年美国社会实录 || The Glory and the Dream<br>——A Narrative History of America, 1932~1972 || (美) [https://en.wikipedia.org/wiki/William_Manchester 威廉·曼彻斯特] || 简体PDF(大字版)<br>简体PDF<br>简体TXT<br>英文EPUB || 2016-12-16<br>2017-02-17<br>2016-05-01<br>2020-01-18 || [https://docs.google.com/document/d/17OMCMA8CNnwboW49BNDi0-TD5why7_SJx18JlGkUWl0/ 简介]
 |-
-| 美国黑人斗争史<br>——1619年至今的历史、文献与分析 || Black Protest<br>——History, Documents, And Analysis 1619 To The Present || (美) [https://en.wikipedia.org/wiki/Joanne_Grant 乔安妮·格兰特] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1UCJRlWpQ-VTq9h0NEFOCuA8WY9oIoZzplZ1xFoVHgZc/ 简介]
+| 美国黑人斗争史<br>——1619年至今的历史、文献与分析 || Black Protest<br>——History, Documents and Analysis, 1619 to the Present || (美) [https://en.wikipedia.org/wiki/Joanne_Grant 乔安妮·格兰特] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1UCJRlWpQ-VTq9h0NEFOCuA8WY9oIoZzplZ1xFoVHgZc/ 简介]
 |-
-| 牛津通识读本：大萧条与新经济政策 || The Great Depression and New Deal || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway 埃里克·罗威] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1hru2tjET-53dWFNdaf0tvxR3sdWr09PsVI8Uvqur_S4/ 简介]
+| 牛津通识读本：大萧条与新经济政策 || The Great Depression and New Deal<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway 埃里克·罗威] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1hru2tjET-53dWFNdaf0tvxR3sdWr09PsVI8Uvqur_S4/ 简介]
 |}
 
 == 3.7 英国 ==
