@@ -1978,7 +1978,25 @@ BT Sync 密钥：B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ （此密钥的使用方法�
 
 BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
-== 6.1 传媒 ==
+== 6.1 通俗读物 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：社会学 || Sociology<br>——A Very Short Introduction || (英) 史蒂夫·布鲁斯 || 英文PDF(第1版) || 2020-03-14 || [https://docs.google.com/document/d/1-0tzKr940h2ABoUTILnhDluXNIUwbzRrA0WA1qsxAgM/ 简介]
+|}
+
+== 6.2 理论 ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 社会学的基本概念 || Basic Concepts in Sociology || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF 马克斯·韦伯] || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/10T7dfKKxEyLwxyUxiIKTbcQYXJx1H6BUN7aptBydueA/ 简介]
+|-
+| 社会科学方法论 || N/A || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF 马克斯·韦伯] || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/1xMvsZ1fUhqOtB5JYLDy1fYsmTnpumI8mjOF4zruUGi4/ 简介]
+|}
+
+== 6.3 传媒 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1990,7 +2008,7 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 | 引爆点<br>''其它中文名：''<br>引爆流行 || The Tipping Point<br>——How Little Things Can Make a Big Difference || (加) [https://en.wikipedia.org/wiki/Malcolm_Gladwell 马尔科姆·格拉德威尔] || 简体PDF(扫描版) || 2015-11-04 || [https://docs.google.com/document/d/1j_WCU6CTqe7WZBP-pXfCBudsXJxseoFZaG6HXKFYI7M/ 简介]
 |}
 
-== 6.2 (其它) ==
+== 6.4 (其它) ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -1998,10 +2016,6 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 | 反脆弱<br>——从不确定性中获益 || Antifragile<br>——Things That Gain from Disorder || (美) [https://zh.wikipedia.org/wiki/%E7%B4%8D%E8%A5%BF%E5%A7%86%C2%B7%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E5%A1%94%E9%9B%B7%E4%BC%AF 纳西姆·塔勒布] || 简体EPUB<br>简体MOBI || 2018-12-12<br>2019-03-03 || [https://docs.google.com/document/d/1brx872GoHYVqodKoWNet5e_uXGkACeLIORcEAdWsSME/ 简介]
 |-
 | 黑天鹅<br>——如何应对不可预知的未来<br>''其它中文名：''<br>黑天鹅效应 || The Black Swan<br>——The Impact of the Highly Improbable || (美) [https://zh.wikipedia.org/wiki/%E7%B4%8D%E8%A5%BF%E5%A7%86%C2%B7%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E5%A1%94%E9%9B%B7%E4%BC%AF 纳西姆·塔勒布] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2014-01-09<br>2017-08-15<br>2015-02-13<br>2019-05-05 || [https://docs.google.com/document/d/1KXiUCl08DMYrPqS2OhdjchI88-ZjUgl8d2yoctWJkKM/ 简介]
-|-
-| 社会学的基本概念 || Basic Concepts in Sociology || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF 马克斯·韦伯] || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/10T7dfKKxEyLwxyUxiIKTbcQYXJx1H6BUN7aptBydueA/ 简介]
-|-
-| 社会科学方法论 || N/A || (德) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF 马克斯·韦伯] || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/1xMvsZ1fUhqOtB5JYLDy1fYsmTnpumI8mjOF4zruUGi4/ 简介]
 |}
 
 ----
