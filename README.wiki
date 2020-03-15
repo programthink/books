@@ -1394,7 +1394,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 粘住<br>——为什么我们记住了这些，忘掉了那些？ || Made to Stick<br>——Why Some Ideas Survive and Others Die? || (美) [https://en.wikipedia.org/wiki/Chip_Heath 奇普·希思]<br>(美) [https://en.wikipedia.org/wiki/Dan_Heath 丹·希思] || 简体PDF(扫描版) || 2018-11-11 || [https://docs.google.com/document/d/1ASqBoMKG-WNtWGzU6DeiAaK3ngegAw9Ex0URrQI6ouw/ 简介]
 |-
-| 统计陷阱<br>''其它中文名：''<br>统计数字会撒谎 || How to Lie with Statistics || (美) [https://en.wikipedia.org/wiki/Darrell_Huff 达莱尔·哈夫] || 简体PDF<br>简体PDF(大字版) || 2015-02-16<br>2018-11-21 || [https://docs.google.com/document/d/1_hU4SiYELWIaehraIeTe4VHO4fqmJUPYHcvX3gI9VM4/ 简介]
+| 统计陷阱<br>''其它中文名：''<br>统计数字会撒谎 || How to Lie with Statistics || (美) [https://en.wikipedia.org/wiki/Darrell_Huff 达莱尔·哈夫] || 简体PDF<br>简体PDF(大字版)<br>英文PDF || 2015-02-16<br>2018-11-21<br>2020-03-15 || [https://docs.google.com/document/d/1_hU4SiYELWIaehraIeTe4VHO4fqmJUPYHcvX3gI9VM4/ 简介]
 |}
 
 == 2.3 人格心理学 ==
