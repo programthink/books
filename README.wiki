@@ -1460,7 +1460,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 进化心理学<br>——心理的新科学 || Evolutionary Psychology<br>——The New Science of the Mind || (美) [https://en.wikipedia.org/wiki/David_Buss 大卫·巴斯] || 简体PDF(扫描版)<br>简体MOBI || 2012-12-31<br>2015-11-14 || [https://docs.google.com/document/d/1yB9yKWHyQf_18TR7HfHz-4blMk3QSfk7SFPxDXyf0yk/ 简介]
+| 进化心理学<br>——心理的新科学 || Evolutionary Psychology<br>——The New Science of the Mind || (美) [https://en.wikipedia.org/wiki/David_Buss 大卫·巴斯] || 简体PDF(扫描版)<br>简体MOBI<br>英文PDF(第5版) || 2012-12-31<br>2015-11-14<br>2020-03-15 || [https://docs.google.com/document/d/1yB9yKWHyQf_18TR7HfHz-4blMk3QSfk7SFPxDXyf0yk/ 简介]
 |}
 
 == 2.8 洗脑 ==
