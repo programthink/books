@@ -1374,7 +1374,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 影响力 || Influence<br>——The Psychology of Persuasion || (美) [https://en.wikipedia.org/wiki/Robert_Cialdini 罗伯特·西奥迪尼] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文TXT || 2013-02-25<br>2012-12-29<br>2013-09-13<br>2014-02-23<br>2012-12-29 || [https://docs.google.com/document/d/1PmNGkvoqtPWPwV63h5KMiQQWgGU-Mo3Zf4aFzX16om4/ 简介]
 |-
-| 思考，快与慢<br>''其它中文名：''<br>快思慢想 || Thinking, Fast and Slow || (以色列/美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC 丹尼尔·卡尼曼] || 简体EPUB<br>简体MOBI<br>简体TXT || 2015-11-10<br>2014-07-15<br>2016-05-15 || [https://docs.google.com/document/d/1qZ7DGoMepUsoZPPHMgdR2dd2FOLKsvSEYO1vmio0894/ 简介]
+| 思考，快与慢<br>''其它中文名：''<br>快思慢想 || Thinking, Fast and Slow || (以色列/美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC 丹尼尔·卡尼曼] || 简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF(大字版) || 2015-11-10<br>2014-07-15<br>2016-05-15<br>2020-03-15 || [https://docs.google.com/document/d/1qZ7DGoMepUsoZPPHMgdR2dd2FOLKsvSEYO1vmio0894/ 简介]
 |-
 | 超越智商<br>——为什么聪明人也会做蠢事 || What Intelligence Tests Miss<br>——The Psychology of Rational Thought || (加) [https://en.wikipedia.org/wiki/Keith_Stanovich 基思·斯坦诺维奇] || 简体EPUB<br>简体MOBI<br>英文PDF || 2019-09-03<br>2019-09-03<br>2019-12-03 || [https://docs.google.com/document/d/13j-DGxvZY_C083_nF8ZveaE5UDWzeTI9T3CbTpSlAEo/ 简介]
 |-
