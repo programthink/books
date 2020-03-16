@@ -132,7 +132,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 民主 || Democracy || (美) [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] || 简体PDF(扫描版)<br>英文PDF || 2015-02-09<br>2020-01-25 || [https://docs.google.com/document/d/1VHHYAeS2s-X8ZCYH8OXv4of3DmpnRLBL7bl9Lj1D9Ns/ 简介]
 |-
-| 牛津通识读本：民主 || Democracy || (英) [https://en.wikipedia.org/wiki/Bernard_Crick 伯纳德·克里克] || 英文PDF || 2015-12-11 || [https://docs.google.com/document/d/1aOzzp1_w4E2H2Y7l5SMJz1Jo1uNV3ejU-yJ2DqhyVQg/ 简介]
+| 牛津通识读本：民主 || Democracy<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Bernard_Crick 伯纳德·克里克] || 英文PDF || 2015-12-11 || [https://docs.google.com/document/d/1aOzzp1_w4E2H2Y7l5SMJz1Jo1uNV3ejU-yJ2DqhyVQg/ 简介]
+|-
+| 牛津通识读本：公民 || Citizenship<br>——A Very Short Introduction || (英) 理查德·贝拉米 || 英文PDF || 2020-03-16 || [https://docs.google.com/document/d/1A1vhaIPXDWlmHAN_0tMI9d0Bq5fpsBG8_23IuIFf_Dg/ 简介]
 |-
 | 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体PDF(扫描版)<br>英文PDF || 2013-08-22<br>2019-10-26<br>2020-01-25 || [https://docs.google.com/document/d/11KFvZs1DHqiPdDvG3V8AjvZKu0HoUR2oRD-35AUwF_4/ 简介]
 |-
