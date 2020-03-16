@@ -1244,7 +1244,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 牛津通识读本：英国政治 || British Politics || (英) [https://en.wikipedia.org/wiki/Tony_Wright_(Cannock_Chase_MP) Tony Wright] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1xePGPCDqljmGbQbbd6xDTE4nmkNGom19oV-l4XMRRfs/ 简介]
+| 牛津通识读本：英国政治 || British Politics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Tony_Wright_(Cannock_Chase_MP) 托尼·赖特] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1xePGPCDqljmGbQbbd6xDTE4nmkNGom19oV-l4XMRRfs/ 简介]
+|-
+| 牛津通识读本：英国宪法 || The British Constitution<br>——A Very Short Introduction || (英) 马丁·洛克林 || 英文EPUB || 2020-03-16 || [https://docs.google.com/document/d/1iUqm127Rmyj4HsNSq5FKglVlrCPARTIkMDAAvFFZkz8/ 简介]
 |}
 
 == 1.7 法国 ==
@@ -1256,7 +1258,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 法国大革命的起源 || Origins of the French Revolution || (英) [https://en.wikipedia.org/wiki/William_Doyle_(historian) 威廉·多伊尔] || 繁體PDF(掃描版) || 2013-11-26 || [https://docs.google.com/document/d/1GlQ8UI50vQbJUsADHMMs495-eqCQBkXqHUS3v0pFs0g/ 简介]
 |-
-| 牛津通识读本：法国大革命 || The French Revolution || (英) [https://en.wikipedia.org/wiki/William_Doyle_(historian) 威廉·多伊尔] || 英文PDF || 2019-01-03 || [https://docs.google.com/document/d/1EM-ElzcEPZjEtWFLMxelcyQphudjPKOmfb8ZZAV2wQw/ 简介]
+| 牛津通识读本：法国大革命 || The French Revolution<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/William_Doyle_(historian) 威廉·多伊尔] || 英文PDF || 2019-01-03 || [https://docs.google.com/document/d/1EM-ElzcEPZjEtWFLMxelcyQphudjPKOmfb8ZZAV2wQw/ 简介]
 |}
 
 == 1.8 德国 ==
