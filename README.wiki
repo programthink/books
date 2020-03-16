@@ -291,7 +291,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 新常识<br>——一党专制的性质与后果 || New Common Sense<br>——The Nature and Consequences of One-Party Dictatorship || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体EPUB(精校版)<br>简体PDF<br>简体MOBI || 2015-11-29<br>2013-10-19<br>2018-11-10 || [https://docs.google.com/document/d/1-K5Qs01xhzhjMheWlznz44xwHjsCGc-mnRk3p9gWlSg/ 简介]
 |}
 
-=== 1.1.8 外交与国际关系 ===
+=== 1.1.8 无政府主义 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：无政府主义 || Anarchism<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Colin_Ward 科林·瓦德] || 英文PDF || 2020-03-16 || [https://docs.google.com/document/d/1LUK0s7hMJ_-Hsan2YPASvy-K5H91dnFUgaROcQWoTFE/ 简介]
+|}
+
+=== 1.1.9 外交与国际关系 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -306,12 +314,12 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 理解国际冲突<br>——理论与历史<br>''其它中文名：''<br>理解全球冲突与合作<br>——理论与历史 || Understanding International Conflicts<br>——An Introduction to Theory and History<br>''其它英文名：''<br>Understanding Global Conflict and Cooperation<br>——An Introduction to Theory and History || (美) [https://en.wikipedia.org/wiki/Joseph_Nye 小约瑟夫·奈]<br>(加) 戴维·威尔斯 || 简体PDF(第3版 扫描版)<br>英文PDF(第9版) || 2018-12-25<br>2020-01-25 || [https://docs.google.com/document/d/1EfcRhW5VchBc91hjRugsU5WdUGTvtai7qpO0d32Pcn4/ 简介]
 |-
-| 牛津通识读本：国际关系 || International Relations || (英) [https://en.wikipedia.org/wiki/Paul_Wilkinson_(terrorism_expert) 保罗·威尔金森] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1wPNvhsvqGIW56i5W-L5PP3i_ar6aqiQQpepp4pz654Q/ 简介]
+| 牛津通识读本：国际关系 || International Relations<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Paul_Wilkinson_(terrorism_expert) 保罗·威尔金森] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1wPNvhsvqGIW56i5W-L5PP3i_ar6aqiQQpepp4pz654Q/ 简介]
 |-
-| 牛津通识读本：地缘政治 || Geopolitics || (英) [https://en.wikipedia.org/wiki/Klaus_Dodds 克劳斯·多兹] || 英文PDF(第1版) || 2015-12-13 || [https://docs.google.com/document/d/1h47g36TWm4BiWYhVAcvSt1w9-5jRm5pIN682hTsSgIg/ 简介]
+| 牛津通识读本：地缘政治 || Geopolitics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Klaus_Dodds 克劳斯·多兹] || 英文PDF(第1版) || 2015-12-13 || [https://docs.google.com/document/d/1h47g36TWm4BiWYhVAcvSt1w9-5jRm5pIN682hTsSgIg/ 简介]
 |}
 
-=== 1.1.9 非暴力抗争 ===
+=== 1.1.10 非暴力抗争 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -322,14 +330,14 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 一种更强大的力量<br>——非暴力抗争一百年 || A Force More Powerful<br>——A Century of Nonviolent Conflict || (美) [https://en.wikipedia.org/wiki/Peter_Ackerman 彼得·阿克曼]<br>(美) [https://en.wikipedia.org/wiki/Jack_DuVall 杰克·杜瓦尔] || 简体MOBI(上下册)<br>英文EPUB || 2013-05-13<br>2020-01-16 || [https://docs.google.com/document/d/1yUSLshqbtCIRkqwGQl2AhvmGg0hDA4SeMyyvCSfSSQ4/ 简介]
 |-
-| 和平抗议何以有效<br>——非暴力冲突的策略逻辑 || Why Civil Resistance Works<br>——The Strategic Logic of Nonviolent Conflict || (美) 艾丽卡·切诺韦思<br>(美) 玛丽亚·斯蒂芬 || 英文PDF<br>英文EPUB || 2019-07-28<br>2019-07-28 || [https://docs.google.com/document/d/1ZUpDozVWhzJTf9ueTD6ec1nF45POlJBXpEMm_yFrwV8/ 简介]
+| 和平抗议何以有效<br>——非暴力冲突的策略逻辑 || Why Civil Resistance Works<br>——The Strategic Logic of Nonviolent Conflict || (美) [https://en.wikipedia.org/wiki/Erica_Chenoweth 艾丽卡·切诺韦思]<br>(美) 玛丽亚·斯蒂芬 || 英文PDF<br>英文EPUB || 2019-07-28<br>2019-07-28 || [https://docs.google.com/document/d/1ZUpDozVWhzJTf9ueTD6ec1nF45POlJBXpEMm_yFrwV8/ 简介]
 |-
 | 论战略性非暴力冲突<br>——关于基本原则的思考 || On Strategic Nonviolent Conflict<br>——Thinking About the Fundamentals || (美) 罗伯特·赫尔维 || 简体PDF<br>简体EPUB<br>英文PDF || 2019-01-02<br>2019-05-21<br>2019-01-02 || [https://docs.google.com/document/d/1NrCJAiDH3Hw8mQRAfnBz-jL-KPDsjLEjnEGGx9URNSk/ 简介]
 |-
 | 西方公民不服从的传统 || The Tradition of the Civil Disobedience || 何怀宏 (主编) || 简体PDF(扫描版) || 2016-07-18 || [https://docs.google.com/document/d/1-qyH0KvdPSB8uy1dB0oO5KZJCyXeDVi3OfT4tRVr0sc/ 简介]
 |}
 
-=== 1.1.10 女权运动 ===
+=== 1.1.11 女权运动 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -351,7 +359,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 醒来的女性 || N/A || (未知) || 简体PDF || 2014-07-27 || [https://docs.google.com/document/d/1_5x24icwhGDLyNa7-wiyOCnwgHig-1mjMDd3sDX5n7A/ 简介]
 |}
 
-=== 1.1.11 (其它) ===
+=== 1.1.12 (其它) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
