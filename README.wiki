@@ -1304,6 +1304,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 牛津通识读本：西班牙内战 || The Spanish Civil War<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Helen_Graham_(historian) 海伦·格雷汉姆] || 英文PDF || 2020-03-16 || [https://docs.google.com/document/d/1VUuuaBmf8eJOTDEqLztley6bw9XU1f6b9gWDKxEzN4Y/ 简介]
+|-
 | 西班牙的民主和内战，1931~1939 || Democracy and Civil War in Spain 1931~1939 || (英) [https://es.wikipedia.org/wiki/Martin_Blinkhorn 马丁·布林克霍恩] || 简体PDF(大字版) || 2019-02-18 || [https://docs.google.com/document/d/1_I2k0l7XS_r8jWlFZHkHUzm8zN59VZrUMxq4B02E4us/ 简介]
 |}
 
