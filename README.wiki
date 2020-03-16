@@ -226,11 +226,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 牛津通识读本：资本主义 || Capitalism<br>——A Very Short Introduction || (英) 詹姆斯·富尔彻 || 简体EPUB<br>简体AZW3 || 2015-12-13<br>2015-12-13 || [https://docs.google.com/document/d/1N0yg3koUOvRhoCT41FXup0sopPDMtCNDwbI4jkV_TlY/ 简介]
+|-
 | 后资本主义社会 || Post-Capitalist Society || (奥/美) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BE%B7%E9%B2%81%E5%85%8B 彼得·德鲁克] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2018-09-14<br>2020-01-20 || [https://docs.google.com/document/d/1Nxsqf02d5uYu8FGn3K9uNJx_D8Ixh7UCmBvqHnd6LB4/ 简介]
 |-
 | 新教伦理与资本主义精神 || The Protestant Ethic and the Spirit of Capitalism || (德) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%8B%E4%BC%AF 马克斯·韦伯] || 简体HTML<br>简体MOBI<br>英文PDF || 2014-04-14<br>2015-05-11<br>2020-01-20 || [https://docs.google.com/document/d/1x0ZznHlX_TA2yIhK3oL6QvAGaE-T_x92mD59MRHSYlE/ 简介]
-|-
-| 牛津通识读本：资本主义 || Capitalism || (英) 詹姆斯·富尔彻 || 简体EPUB<br>简体AZW3 || 2015-12-13<br>2015-12-13 || [https://docs.google.com/document/d/1N0yg3koUOvRhoCT41FXup0sopPDMtCNDwbI4jkV_TlY/ 简介]
 |}
 
 === 1.1.5 共产主义 ===
@@ -252,13 +252,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 共产主义黑皮书<br>——罪行、恐怖、镇压 || The Black Book of Communism<br>——Crimes, Terror, Repression || (多人) || 英文PDF(扫描版) || 2015-02-17 || [https://docs.google.com/document/d/1S78JoconEDBPdi31EDDgNQppoD9tQ-d93_2iziMIKcs/ 简介]
 |-
-| 社会主义体制<br>——共产主义政治经济学 || The Socialist System<br>——The Political Economy of Communism || (匈) 雅诺什·科尔奈 || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/163FI8NOpKSl6Sd-IRhe-phybZd6BAXd8FbnZbN-sM-c/ 简介]
+| 社会主义体制<br>——共产主义政治经济学 || The Socialist System<br>——The Political Economy of Communism || (匈) [https://en.wikipedia.org/wiki/J%C3%A1nos_Kornai 雅诺什·科尔奈] || 简体PDF(扫描版)<br>英文DJVU(扫描版) || 2015-01-11<br>2020-03-16 || [https://docs.google.com/document/d/163FI8NOpKSl6Sd-IRhe-phybZd6BAXd8FbnZbN-sM-c/ 简介]
 |}
 
 === 1.1.6 社会主义 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：社会主义 || Socialism<br>——A Very Short Introduction || (英) 迈克尔·纽曼 || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
 |-
 | 通往奴役之路 || The Road to Serfdom || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF(台湾版)<br>简体PDF(大字版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF<br>英文EPUB || 2014-05-18<br>2018-09-10<br>2013-03-24<br>2013-09-13<br>2015-05-11<br>2013-05-30<br>2019-01-04 || [https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/ 简介]
 |-
@@ -267,8 +269,6 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文EPUB || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14<br>2020-01-20 || [https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/ 简介]
 |-
 | 社会主义国家的经济计算 || Economic Calculation in the Socialist Commonwealth || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文PDF || 2018-09-22 || [https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/ 简介]
-|-
-| 牛津通识读本：社会主义 || Socialism || (英) 迈克尔·纽曼 || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
 |}
 
 === 1.1.7 极权主义与威权主义 ===
