@@ -2576,6 +2576,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 历史<br>''其它中文名：''<br>希波战争史 || The Histories || (古希腊) [https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%BE%85%E5%A4%9A%E5%BE%B7 希罗多德] || 简体PDF(扫描版)<br>英文EPUB || 2017-08-11<br>2020-01-21 || [https://docs.google.com/document/d/1Ru1gXzS-hiiKX1WHOF5f7IPsG09_YWIuwMHKEBlNKLA/ 简介]
 |-
 | 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版)<br>英文EPUB || 2013-02-07<br>2015-07-18<br>2018-08-08 || [https://docs.google.com/document/d/17nELJ7-eABOYeTtd35lLUJSlHwK5-z89SIIcqW6w2qs/ 简介]
+|-
+| 牛津通识读本：特洛伊战争 || The Trojan War<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Eric_H._Cline 埃里克·克莱因] || 英文EPUB || 2020-03-24 || [https://docs.google.com/document/d/127_o3B7sxb7VD9A0b-_RJuZqK_aAKIhpKdX51OKS0E0/ 简介]
 |}
 
 === 9.4.2 古罗马 ===
