@@ -588,7 +588,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 毛主席是什么时候决定引蛇出洞的 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%85%8E%E4%B9%8B 李慎之] || 简体TXT || 2019-02-24 || [https://docs.google.com/document/d/1CnVe-IcGhSkuFb9Fx06rdx6hu98ul8vT76GLrY195zc/ 简介]
 |-
-| 往事并不如烟<br>''其它中文名：''<br>最後的貴族 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 繁體EPUB(台灣版 無刪節)<br>简体PDF(精校版 无删节)<br>简体PDF(大字版)<br>简体TXT || 2015-11-10<br>2013-02-05<br>2018-09-10<br>2012-12-09 || [https://docs.google.com/document/d/1L8iPaSrmg0acDlPIUgSQoMJnZptg0tO-ULqf56Fe3V4/ 简介]
+| 往事并不如烟<br>''其它中文名：''<br>最後的貴族 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 简体PDF(精校版 标注删节部分)<br>繁體EPUB(台灣版 無刪節)<br>简体PDF(大字版)<br>简体TXT || 2013-02-05<br>2015-11-10<br>2018-09-10<br>2012-12-09 || [https://docs.google.com/document/d/1L8iPaSrmg0acDlPIUgSQoMJnZptg0tO-ULqf56Fe3V4/ 简介]
 |-
 | 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭] (原名：彭令昭) || 简体PDF || 2013-02-01 || [https://docs.google.com/document/d/1vZUym7sLKFGpz1CLRm1f4kEnwaFihTDpLmQeYEHhhQo/ 简介]
 |-
@@ -1092,7 +1092,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 无处可藏<br>——斯诺登、美国国安局与全球监控 || No Place to Hide<br>——Edward Snowden, the NSA and the U.S. Surveillance State || (美) [https://zh.wikipedia.org/wiki/%E8%91%9B%E5%80%AB%C2%B7%E8%91%9B%E6%9E%97%E8%8F%AF%E5%BE%B7 格伦·格林沃尔德] || 简体EPUB<br>英文PDF || 2016-12-20<br>2020-03-04 || [https://docs.google.com/document/d/1ihNl7GsLdf8FbeQQHhNPNhZMXpuB-Vk-wpoEspCb34k/ 简介]
 |-
-| 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 简体EPUB(台湾版 无删节)<br>英文PDF || 2019-12-02<br>2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
+| 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 简体EPUB(精校版 标注删节部分)<br>简体EPUB(台湾版 无删节)<br>英文PDF || 2020-03-24<br>2019-12-02<br>2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
 |-
 | 帷幕<br>——美国中央情报局的秘密战争，1981~1987 || Veil<br>——The Secret Wars of the CIA, 1981~1987 || (美) [https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E4%BC%8D%E5%BE%B7%E6%B2%83%E5%BE%B7 鲍勃·伍德沃德] || 简体PDF(扫描版)<br>英文EPUB || 2017-02-18<br>2020-03-04 || [https://docs.google.com/document/d/1V1JvrUJRczYlY3boDTg9UPI31E9KYTJLVUDJnTmAOLU/ 简介]
 |-
