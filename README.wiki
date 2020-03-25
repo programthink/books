@@ -130,7 +130,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF(修订版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文EPUB || 2018-09-06<br>2013-05-30<br>2019-01-04<br>2015-11-14<br>2020-01-16 || [https://docs.google.com/document/d/1RyDwqzxQJMz1j6sCVF9_egnkZIKjnCkNuA_AvgbeTJE/ 简介]
 |-
-| 民主 || Democracy || (美) [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] || 简体PDF(扫描版)<br>英文PDF || 2015-02-09<br>2020-01-25 || [https://docs.google.com/document/d/1VHHYAeS2s-X8ZCYH8OXv4of3DmpnRLBL7bl9Lj1D9Ns/ 简介]
+| 民主<br>''其它中文名：''<br>民主、民主化、去民主化及其相互依赖关系 || Democracy || (美) [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] || 简体PDF(扫描版)<br>英文PDF || 2015-02-09<br>2020-01-25 || [https://docs.google.com/document/d/1VHHYAeS2s-X8ZCYH8OXv4of3DmpnRLBL7bl9Lj1D9Ns/ 简介]
 |-
 | 牛津通识读本：民主 || Democracy<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Bernard_Crick 伯纳德·克里克] || 英文PDF || 2015-12-11 || [https://docs.google.com/document/d/1aOzzp1_w4E2H2Y7l5SMJz1Jo1uNV3ejU-yJ2DqhyVQg/ 简介]
 |-
@@ -152,7 +152,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 欧洲民主史<br>——从孟德斯鸠到凯尔森 || History of Democracy in Europe from Montesquieu to 1989 || (意) 萨尔沃·马斯泰罗 || 简体PDF(扫描版) || 2014-07-27 || [https://docs.google.com/document/d/1n_GEtA7CSTQ84iJ-U2Bryh6ZPacjrcn7mloh8K3xXrQ/ 简介]
 |-
-| 论李维<br>''其它中文名：''<br>李维史论<br>论李维罗马史 || Discourses on Livy || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 尼可罗·马基亚维利] || 英文PDF(全3卷) || 2018-12-04 || [https://docs.google.com/document/d/1gQX2zJTMeiMgYxsCRrL41ZAYnaLKurwEqaedmEpKZ98/ 简介]
+| 论李维<br>''其它中文名：''<br>李维史论<br>论李维罗马史 || Discourses on Livy || (意) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9F%BA%E7%B6%AD%E5%88%A9 尼可罗·马基亚维利] || 简体PDF(3卷本 扫描版)<br>英文PDF(3卷本) || 2020-03-25<br>2018-12-04 || [https://docs.google.com/document/d/1gQX2zJTMeiMgYxsCRrL41ZAYnaLKurwEqaedmEpKZ98/ 简介]
 |-
 | 平民政治的基本原理 || The Fundamental Principles of Government || (美) [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] || 简体PDF(扫描版) || 2013-01-14 || [https://docs.google.com/document/d/1iBH7-ShrIOhtymZ4qDDAnFaZ0JcnqT6tglmfvt8IwuI/ 简介]
 |-
