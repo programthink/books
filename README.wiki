@@ -1775,6 +1775,16 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 | 日本的近代化<br>——与中国的比较 || N/A || (日) [https://zh.wikipedia.org/wiki/%E4%BE%9D%E7%94%B0%E6%86%99%E5%AE%B6 依田憙家] || 简体PDF(扫描版) || 2020-03-25 || [https://docs.google.com/document/d/17MF_5F1kX7Dqd_8G4l3Qx-tkFkq8Coaet29iSpDrAe8/ 简介]
 |}
 
+== 3.11 (其它国家) ==
+
+=== 3.11.1 葡萄牙 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 征服者<br>——葡萄牙帝国的崛起 || Conquerors<br>——How Portugal Forged the First Global Empire || (英) [https://en.wikipedia.org/wiki/Roger_Crowley 罗杰·克劳利] || 简体EPUB || 2020-03-29 || [https://docs.google.com/document/d/1c4EBX5peEq8Mbc5myn1Cvgyeh7FX9aA6eZQGMuPEJro/ 简介]
+|}
+
 ----
 
 = 4 经济 =
