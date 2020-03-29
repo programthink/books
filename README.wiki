@@ -293,7 +293,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 新常识<br>——一党专制的性质与后果 || New Common Sense<br>——The Nature and Consequences of One-Party Dictatorship || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体EPUB(精校版)<br>简体PDF<br>简体MOBI || 2015-11-29<br>2013-10-19<br>2018-11-10 || [https://docs.google.com/document/d/1-K5Qs01xhzhjMheWlznz44xwHjsCGc-mnRk3p9gWlSg/ 简介]
 |}
 
-=== 1.1.8 无政府主义 ===
+=== 1.1.8 乌托邦主义 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：乌托邦主义 || Utopianism<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Lyman_Tower_Sargent 莱曼·萨金特] || 英文EPUB || 2020-03-29 || [https://docs.google.com/document/d/1lCsJXlU5TDXGX_m3Zvyk8zY4q1hgBudk0TVWvNA1oLo/ 简介]
+|}
+
+=== 1.1.9 无政府主义 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -301,7 +309,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 牛津通识读本：无政府主义 || Anarchism<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Colin_Ward 科林·瓦德] || 英文PDF || 2020-03-16 || [https://docs.google.com/document/d/1LUK0s7hMJ_-Hsan2YPASvy-K5H91dnFUgaROcQWoTFE/ 简介]
 |}
 
-=== 1.1.9 外交与国际关系 ===
+=== 1.1.10 外交与国际关系 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -323,7 +331,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 牛津通识读本：地缘政治 || Geopolitics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Klaus_Dodds 克劳斯·多兹] || 英文PDF(第1版) || 2015-12-13 || [https://docs.google.com/document/d/1h47g36TWm4BiWYhVAcvSt1w9-5jRm5pIN682hTsSgIg/ 简介]
 |}
 
-=== 1.1.10 非暴力抗争 ===
+=== 1.1.11 非暴力抗争 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -341,7 +349,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 西方公民不服从的传统 || The Tradition of the Civil Disobedience || 何怀宏 (主编) || 简体PDF(扫描版) || 2016-07-18 || [https://docs.google.com/document/d/1-qyH0KvdPSB8uy1dB0oO5KZJCyXeDVi3OfT4tRVr0sc/ 简介]
 |}
 
-=== 1.1.11 女权运动 ===
+=== 1.1.12 女权运动 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -363,7 +371,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 醒来的女性 || N/A || (未知) || 简体PDF || 2014-07-27 || [https://docs.google.com/document/d/1_5x24icwhGDLyNa7-wiyOCnwgHig-1mjMDd3sDX5n7A/ 简介]
 |}
 
-=== 1.1.12 (其它) ===
+=== 1.1.13 (其它) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
