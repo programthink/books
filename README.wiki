@@ -192,7 +192,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 自由主义与正义的局限 || Liberalism and the Limits of Justice || (美) [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || 简体PDF(第2版)<br>简体PDF(第2版 扫描版)<br>英文PDF(第2版 扫描版) || 2013-01-01<br>2018-12-05<br>2020-01-16 || [https://docs.google.com/document/d/1MHTG9z71aXwlJ6-ErDwPWoxmz4Pf7yCYRPHMFQ5VJws/ 简介]
 |-
-| 自由史论 || The History of Freedom and Other Essays || (英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] || 简体PDF(扫描版) || 2014-07-27 || [https://docs.google.com/document/d/1H_Q98aR_jRPf9LEWqckCR17KCtUm619djjFsdQXzCD4/ 简介]
+| 自由史论 || The History of Freedom and Other Essays || (英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] || 简体PDF(扫描版)<br>英文PDF || 2014-07-27<br>2020-03-30 || [https://docs.google.com/document/d/1H_Q98aR_jRPf9LEWqckCR17KCtUm619djjFsdQXzCD4/ 简介]
 |-
 | 古典自由主义<br>——入门读物 || Libertarianism<br>——A Primer || (美) [https://en.wikipedia.org/wiki/David_Boaz 大卫·鲍兹] || 英文PDF || 2015-07-19 || [https://docs.google.com/document/d/1jveZnK1-tIjDtL731Wzmq0KZpvu-Laz9T2I1LYAhEzc/ 简介]
 |-
