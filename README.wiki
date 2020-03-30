@@ -1002,7 +1002,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 王小波全集 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2 王小波] || 简体CHM<br>简体EPUB || 2013-08-21<br>2013-09-14 || [https://docs.google.com/document/d/1VIjLAm7hNaGcqSia4A-Aka_QseeB9eQFrCeWA2eQPag/ 简介]
 |-
-| 沉默的大多数 (杂文合集) || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2 王小波] || 简体PDF || 2013-10-20 || [https://docs.google.com/document/d/15XoLk7zcBO3TR5xbuVyBcUQqCi7ihJTPclSfRWz44MM/ 简介]
+| 沉默的大多数 (杂文合集) || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2 王小波] || 简体PDF<br>简体PDF(大字版) || 2013-10-20<br>2020-03-30 || [https://docs.google.com/document/d/15XoLk7zcBO3TR5xbuVyBcUQqCi7ihJTPclSfRWz44MM/ 简介]
 |-
 | 刘晓波文集 || N/A || [https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2 刘晓波] || 简体PDF || 2013-06-19 || [https://docs.google.com/document/d/10oVfi8mBBRbZHAO4W9OtHhz-S8olML59SShqZbIHTWo/ 简介]
 |-
