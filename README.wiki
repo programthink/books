@@ -3170,7 +3170,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 
 == 10.5 网络 ==
 
-=== 10.5.1 网络协议 ===
+=== 10.5.1 (综述) ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 计算机网络 || Computer Networks || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum]<br>(美) David Wetherall || 简体PDF(第5版 扫描版)<br>英文PDF(第5版)<br>英文CHM(第4版) || 2018-08-04<br>2015-01-11<br>2020-04-02 || [https://docs.google.com/document/d/1XQwaAMzuGuvmq5fCiTDMrh_pTUpCHJJ5C17btTv8kdE/ 简介]
+|}
+
+=== 10.5.2 网络协议 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3180,9 +3188,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | HTTP 权威指南 || HTTP<br>——The Definitive Guide || David Gourley<br>Brian Totty<br>Marjorie Sayer<br>Sailu Reddy<br>Anshu Aggarwal || 简体PDF(扫描版)<br>英文PDF || 2018-06-28<br>2018-11-09 || [https://docs.google.com/document/d/1TgujhFUzyVlf1W5e48lSMTIwJuCTElvXw2LgQ_Ng0Cs/ 简介]
 |}
 
-=== 10.5.2 分布式 ===
+=== 10.5.3 分布式 ===
 
-==== 10.5.2.1 (综述) ====
+==== 10.5.3.1 (综述) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3198,7 +3206,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 分布式计算的八大误区 || Fallacies of Distributed Computing || (美) [https://en.wikipedia.org/wiki/L._Peter_Deutsch Laurence Peter Deutsch] || [https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing 英文WEB] || N/A || N/A
 |}
 
-==== 10.5.2.2 一致性 ====
+==== 10.5.3.2 一致性 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3208,7 +3216,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | CAP 理论十二年回顾<br>——“规则”变了 || CAP Twelve Years Later<br>——How the "Rules" Have Changed || (美) [https://en.wikipedia.org/wiki/Eric_Brewer_(scientist) Eric Brewer] || [https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed 英文WEB]<br>[https://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed 简体WEB]<br>英文PDF || N/A<br>N/A<br>2018-11-08 || [https://docs.google.com/document/d/1LTeznQtvYKOa_D3XS34-WScyUnKvUKxp2VxQB4x-oDA/ 简介]
 |}
 
-==== 10.5.2.3 容错性 ====
+==== 10.5.3.3 容错性 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3218,7 +3226,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 拜占庭将军问题 || Byzantine Generals Problem || (美) [https://en.wikipedia.org/wiki/Leslie_Lamport Leslie Lamport] || [https://en.wikipedia.org/wiki/Byzantine_fault_tolerance 英文WEB]<br>英文PDF(扫描版) || N/A<br>2018-11-08 || [https://docs.google.com/document/d/1mLf2jwt5TNl5WIHvuW6K14xu9gIYVVUKkI6dZNQmcMA/ 简介]
 |}
 
-==== 10.5.2.4 DHT(分布式哈希表) ====
+==== 10.5.3.4 DHT(分布式哈希表) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3230,7 +3238,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | DHT 安全技术纵览 || A Survey of DHT Security Techniques || Guido Urdaneta<br>Guillaume Pierre<br>(荷兰) Maarten van Steen || 英文PDF || 2018-11-08 || [https://docs.google.com/document/d/1rl9e22xleFtfoB-FVGbi9gfeo6cg31zvmt_v5inNc6c/ 简介]
 |}
 
-==== 10.5.2.5 区块链 ====
+==== 10.5.3.5 区块链 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3240,7 +3248,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 区块链启示录<br>——中本聪文集 || The Book of Satoshi<br>——The Collected Writings of Bitcoin Creator Satoshi Nakamoto || (美) Phil Champagne || 简体PDF || 2019-03-27 || [https://docs.google.com/document/d/1Gy0iL_3N5HmAdvp3ua54BBn1Q8ThoOPmPIXjiXZsIOA/ 简介]
 |}
 
-==== 10.5.2.6 DFS(分布式文件系统) ====
+==== 10.5.3.6 DFS(分布式文件系统) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3248,14 +3256,6 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Google 文件系统 || The Google File System || (美) [https://en.wikipedia.org/wiki/Sanjay_Ghemawat Sanjay Ghemawat]<br>(美) [https://en.wikipedia.org/wiki/Howard_Gobioff Howard Gobioff]<br>Shun-Tak Leung || 英文PDF || 2018-11-05 || [https://docs.google.com/document/d/1AW_EsDLrxRARwSyueCrU07BTNmB0Py_Rml3TgS4mcIw/ 简介]
 |-
 | IPFS<br>——内容寻址的版本化点对点文件系统<br>''其它中文名：''<br>IPFS 白皮书 || IPFS<br>——Content Addressed, Versioned, P2P File System || (美) [https://en.wikipedia.org/wiki/Juan_Benet_(computer_scientist) Juan Benet] || 英文PDF || 2019-05-08 || [https://docs.google.com/document/d/1XV6AmX-quKDpFkCjH2XU2rk8MsnahCf5OItaRvsIQRs/ 简介]
-|}
-
-=== 10.5.3 (其它) ===
-
-{|
-! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
-|-
-| 计算机网络 || Computer Networks || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum]<br>(美) David Wetherall || 简体PDF(第5版 扫描版)<br>英文PDF(第5版) || 2018-08-04<br>2015-01-11 || [https://docs.google.com/document/d/1XQwaAMzuGuvmq5fCiTDMrh_pTUpCHJJ5C17btTv8kdE/ 简介]
 |}
 
 == 10.6 人工智能 ==
