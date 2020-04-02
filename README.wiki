@@ -2859,7 +2859,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 简体PDF(扫描版) || 2015-05-12 || [https://docs.google.com/document/d/1mgTeV93g1qn59tdktfud11dlubEcaAtRauvOdzXcYkA/ 简介]
+| 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 简体PDF(扫描版)<br>英文PDF || 2015-05-12<br>2020-04-02 || [https://docs.google.com/document/d/1mgTeV93g1qn59tdktfud11dlubEcaAtRauvOdzXcYkA/ 简介]
 |}
 
 === 10.1.3 编程范式 ===
