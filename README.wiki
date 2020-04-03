@@ -3285,7 +3285,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 微软的秘密 || Microsoft Secrets<br>——How the World's Most Powerful Software Company Creates Technology, Shapes Markets and Manages People || (美) [https://en.wikipedia.org/wiki/Michael_A._Cusumano Michael Cusumano] || 简体PDF<br>简体PDF(扫描版) || 2017-04-02<br>2018-07-20 || [https://docs.google.com/document/d/1kLN0RzeNLV1GFRUo7swp9OyR53Jc71BB0835WAK2BJA/ 简介]
 |-
-| 谁说大象不能跳舞？<br>——IBM 董事长郭士纳自传 || Who Says Elephants Can't Dance? || (美) [https://en.wikipedia.org/wiki/Louis_V._Gerstner_Jr. 路易斯·郭士纳] || 简体PDF || 2017-08-08 || [https://docs.google.com/document/d/1OiVqIuPqUHTqxwrs8oAQWhOXjAIumq3VR3zg6twgvJE/ 简介]
+| 谁说大象不能跳舞？<br>——IBM 董事长郭士纳自传 || Who Says Elephants Can't Dance?<br>——Leading a Great Enterprise through Dramatic Change || (美) [https://en.wikipedia.org/wiki/Louis_V._Gerstner_Jr. Louis Gerstner Jr.] || 简体PDF<br>英文PDF || 2017-08-08<br>2020-04-03 || [https://docs.google.com/document/d/1OiVqIuPqUHTqxwrs8oAQWhOXjAIumq3VR3zg6twgvJE/ 简介]
 |-
 | Borland 传奇 || N/A || 李维 || 简体PDF<br>简体EPUB<br>简体CHM || 2015-02-08<br>2015-02-08<br>2013-10-22 || [https://docs.google.com/document/d/1ta5UeYECey5mEAcyomk9b0K5UAWxhsq-WexmZAwSQvc/ 简介]
 |-
