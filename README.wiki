@@ -3277,7 +3277,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| In the Plex<br>——Google 如何思考，运作，以及改变我们的生活方式 || In The Plex<br>——How Google Thinks, Works, and Shapes Our Lives || (美) [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF<br>英文PDF || 2015-05-12<br>2015-07-15 || [https://docs.google.com/document/d/1VzpY1b1uoafDZUJWEQW3y8XR8VdwNSVprzxtkQUPSYk/ 简介]
+| In the Plex<br>——Google 如何思考，运作，以及改变我们的生活方式 || In The Plex<br>——How Google Thinks, Works, and Shapes Our Lives || (美) [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF<br>英文PDF<br>英文EPUB || 2015-05-12<br>2015-07-15<br>2020-04-03 || [https://docs.google.com/document/d/1VzpY1b1uoafDZUJWEQW3y8XR8VdwNSVprzxtkQUPSYk/ 简介]
 |-
 | 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6) 吴军] || 简体PDF(前18章)<br>简体MOBI(前16章) || 2013-10-22<br>2014-02-23 || [https://docs.google.com/document/d/1sYIDP9KUpUdmvBO2H5QJFz7fFPEPY5WeIhOsUsbHx68/ 简介]
 |-
