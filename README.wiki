@@ -3281,7 +3281,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6) 吴军] || 简体PDF(前18章)<br>简体MOBI(前16章) || 2013-10-22<br>2014-02-23 || [https://docs.google.com/document/d/1sYIDP9KUpUdmvBO2H5QJFz7fFPEPY5WeIhOsUsbHx68/ 简介]
 |-
-| Facebook 效应 || The Facebook Effect || (美) [https://en.wikipedia.org/wiki/David_Kirkpatrick_%28author%29 David Kirkpatrick] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2018-07-24<br>2019-01-06<br>2019-01-06 || [https://docs.google.com/document/d/14QDI-GuVemDI97WJ5dJfokNi7Lf4LSWjIHsPvqwxvFg/ 简介]
+| Facebook 效应 || The Facebook Effect || (美) [https://en.wikipedia.org/wiki/David_Kirkpatrick_%28author%29 David Kirkpatrick] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文EPUB || 2018-07-24<br>2019-01-06<br>2019-01-06<br>2020-04-03 || [https://docs.google.com/document/d/14QDI-GuVemDI97WJ5dJfokNi7Lf4LSWjIHsPvqwxvFg/ 简介]
 |-
 | 微软的秘密 || Microsoft Secrets<br>——How the World's Most Powerful Software Company Creates Technology, Shapes Markets and Manages People || (美) [https://en.wikipedia.org/wiki/Michael_A._Cusumano Michael Cusumano] || 简体PDF<br>简体PDF(扫描版) || 2017-04-02<br>2018-07-20 || [https://docs.google.com/document/d/1kLN0RzeNLV1GFRUo7swp9OyR53Jc71BB0835WAK2BJA/ 简介]
 |-
