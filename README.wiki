@@ -3247,7 +3247,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 比特币<br>——一种点对点式的电子现金系统<br>''其它中文名：''<br>比特币白皮书 || Bitcoin<br>——A Peer-to-Peer Electronic Cash System || [https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%9C%AC%E8%81%AA Satoshi Nakamoto] || 英文PDF<br>简体PDF || 2019-03-27<br>2019-03-27 || [https://docs.google.com/document/d/1Pf3uSE5xyN7gMcCtFhNLOFVByewgFBcYubanEr97cr0/ 简介]
 |-
-| 区块链启示录<br>——中本聪文集 || The Book of Satoshi<br>——The Collected Writings of Bitcoin Creator Satoshi Nakamoto || (美) Phil Champagne || 简体PDF || 2019-03-27 || [https://docs.google.com/document/d/1Gy0iL_3N5HmAdvp3ua54BBn1Q8ThoOPmPIXjiXZsIOA/ 简介]
+| 区块链启示录<br>——中本聪文集 || The Book of Satoshi<br>——The Collected Writings of Bitcoin Creator Satoshi Nakamoto || (美) Phil Champagne || 简体PDF<br>英文EPUB || 2019-03-27<br>2020-04-04 || [https://docs.google.com/document/d/1Gy0iL_3N5HmAdvp3ua54BBn1Q8ThoOPmPIXjiXZsIOA/ 简介]
 |}
 
 ==== 10.5.3.6 DFS(分布式文件系统) ====
