@@ -3279,11 +3279,13 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| In the Plex<br>——Google 如何思考，运作，以及改变我们的生活方式 || In The Plex<br>——How Google Thinks, Works, and Shapes Our Lives || (美) [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF<br>英文PDF<br>英文EPUB || 2015-05-12<br>2015-07-15<br>2020-04-03 || [https://docs.google.com/document/d/1VzpY1b1uoafDZUJWEQW3y8XR8VdwNSVprzxtkQUPSYk/ 简介]
+| In the Plex<br>——Google 如何思考，运作，以及改变我们的生活方式 || In The Plex<br>——How Google Thinks, Works and Shapes Our Lives || (美) [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] || 简体PDF<br>英文PDF<br>英文EPUB || 2015-05-12<br>2015-07-15<br>2020-04-03 || [https://docs.google.com/document/d/1VzpY1b1uoafDZUJWEQW3y8XR8VdwNSVprzxtkQUPSYk/ 简介]
 |-
-| 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6) 吴军] || 简体PDF(前18章)<br>简体MOBI(前16章) || 2013-10-22<br>2014-02-23 || [https://docs.google.com/document/d/1sYIDP9KUpUdmvBO2H5QJFz7fFPEPY5WeIhOsUsbHx68/ 简介]
+| 重新定义公司<br>——谷歌是如何运营的 || How Google Works || (美) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E6%96%BD%E5%AF%86%E7%89%B9 Eric Schmidt]<br>(美) [https://en.wikipedia.org/wiki/Jonathan_Rosenberg_(technologist) Jonathan Rosenberg] || 简体EPUB<br>简体MOBI || 2020-04-06<br>2020-04-06 || [https://docs.google.com/document/d/1yZL7hBynZWTD35kx5d_UPhqhSiMqYiLT3P8wlR1DBao/ 简介]
 |-
-| Facebook 效应 || The Facebook Effect || (美) [https://en.wikipedia.org/wiki/David_Kirkpatrick_%28author%29 David Kirkpatrick] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文EPUB || 2018-07-24<br>2019-01-06<br>2019-01-06<br>2020-04-03 || [https://docs.google.com/document/d/14QDI-GuVemDI97WJ5dJfokNi7Lf4LSWjIHsPvqwxvFg/ 简介]
+| 浪潮之巅 || On Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6) 吴军] || 简体PDF(前18章)<br>简体MOBI(前16章) || 2013-10-22<br>2014-02-23 || [https://docs.google.com/document/d/1sYIDP9KUpUdmvBO2H5QJFz7fFPEPY5WeIhOsUsbHx68/ 简介]
+|-
+| Facebook 效应 || The Facebook Effect<br>——The Inside Story of the Company that is Connecting the World || (美) [https://en.wikipedia.org/wiki/David_Kirkpatrick_%28author%29 David Kirkpatrick] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文EPUB || 2018-07-24<br>2019-01-06<br>2019-01-06<br>2020-04-03 || [https://docs.google.com/document/d/14QDI-GuVemDI97WJ5dJfokNi7Lf4LSWjIHsPvqwxvFg/ 简介]
 |-
 | 微软的秘密 || Microsoft Secrets<br>——How the World's Most Powerful Software Company Creates Technology, Shapes Markets and Manages People || (美) [https://en.wikipedia.org/wiki/Michael_A._Cusumano Michael Cusumano] || 简体PDF<br>简体PDF(扫描版) || 2017-04-02<br>2018-07-20 || [https://docs.google.com/document/d/1kLN0RzeNLV1GFRUo7swp9OyR53Jc71BB0835WAK2BJA/ 简介]
 |-
@@ -3291,7 +3293,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Borland 传奇 || N/A || 李维 || 简体PDF<br>简体EPUB<br>简体CHM || 2015-02-08<br>2015-02-08<br>2013-10-22 || [https://docs.google.com/document/d/1ta5UeYECey5mEAcyomk9b0K5UAWxhsq-WexmZAwSQvc/ 简介]
 |-
-| DOOM 启世录 || Masters of Doom<br>——How Two Guys Created an Empire and Transformed Pop Culture || (美) [https://en.wikipedia.org/wiki/David_Kushner David Kushner] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体CHM<br>英文PDF || 2015-02-08<br>2015-02-08<br>2015-02-08<br>2013-11-26<br>2020-04-03 || [https://docs.google.com/document/d/1BwOJZxYSDF-DlnhCuLC16WBqNPKhlzc9I8BTBFIdOlk/ 简介]
+| Doom 启世录 || Masters of Doom<br>——How Two Guys Created an Empire and Transformed Pop Culture || (美) [https://en.wikipedia.org/wiki/David_Kushner David Kushner] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体CHM<br>英文PDF || 2015-02-08<br>2015-02-08<br>2015-02-08<br>2013-11-26<br>2020-04-03 || [https://docs.google.com/document/d/1BwOJZxYSDF-DlnhCuLC16WBqNPKhlzc9I8BTBFIdOlk/ 简介]
 |}
 
 == 10.8 (其它) ==
