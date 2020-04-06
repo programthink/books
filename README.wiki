@@ -2977,9 +2977,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 程序员应该知道的97件事 || 97 Things Every Programmer Should Know<br>——Collective Wisdom from the Experts || [https://en.wikipedia.org/wiki/Kevlin_Henney Kevlin Henney] (主编) || 英文PDF || 2018-07-02 || [https://docs.google.com/document/d/1wY9Tq8eLDX21ao4lRtFrqt88jcr9ok_4POluZzp4j2M/ 简介]
 |-
-| 编程人生<br>——15位软件先驱访谈录 || Coders at work || (美) Peter Seibel || 英文PDF || 2015-11-08 || [https://docs.google.com/document/d/1T0ULutcdaq6S7YDyzl2YI3E5qer8Z-UohVzrI9zqeS4/ 简介]
+| 编程人生<br>——15位软件先驱访谈录 || Coders at Work<br>——Reflections on the Craft of Programming || (美) Peter Seibel || 英文PDF || 2015-11-08 || [https://docs.google.com/document/d/1T0ULutcdaq6S7YDyzl2YI3E5qer8Z-UohVzrI9zqeS4/ 简介]
 |-
-| 代码阅读方法与实践 || Code Reading<br>——The Open Source Perspective || (希腊) [https://en.wikipedia.org/wiki/Diomidis_Spinellis Diomidis Spinellis] || 简体PDF(第1版 扫描版)<br>英文CHM || 2015-11-03<br>2020-04-04 || [https://docs.google.com/document/d/1Ob05-CB5tDeWv6zypGHgMQORI4xCOpcF9PmWQ6qzDnc/ 简介]
+| 软件调试修炼之道 || Debug It<br>——Find, Repair and Prevent Bugs in Your Code || (美) 保罗·布彻 || 英文PDF || 2020-04-06 || [https://docs.google.com/document/d/1B1-Qcn3os_49ypUWnfPT5WaqnOZqsQt3rUwF2N-1810/ 简介]
+|-
+| 代码阅读方法与实践 || Code Reading<br>——The Open Source Perspective || (希腊) [https://en.wikipedia.org/wiki/Diomidis_Spinellis Diomidis Spinellis] || 简体PDF(扫描版)<br>英文CHM || 2015-11-03<br>2020-04-04 || [https://docs.google.com/document/d/1Ob05-CB5tDeWv6zypGHgMQORI4xCOpcF9PmWQ6qzDnc/ 简介]
 |}
 
 == 10.2 黑客文化与开源文化 ==
