@@ -2971,13 +2971,13 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || (美) [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt]<br>(美) [https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 简体PDF(扫描版)<br>简体PDF(扫描版)<br>英文PDF<br>简体TXT || 2017-08-09<br>2013-10-21<br>2013-10-19<br>2016-05-01 || [https://docs.google.com/document/d/14VUNCjMEap9RKSv2mD1zwKu-xCO-ulYISYb9LsWkafg/ 简介]
+| 程序员修炼之道<br>——从小工到专家 || Pragmatic Programmers<br>——From Journeyman to Master || (美) [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt]<br>(美) [https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas] || 简体PDF(扫描版)<br>简体PDF(扫描版)<br>简体TXT<br>英文PDF || 2017-08-09<br>2013-10-21<br>2016-05-01<br>2013-10-19 || [https://docs.google.com/document/d/14VUNCjMEap9RKSv2mD1zwKu-xCO-ulYISYb9LsWkafg/ 简介]
 |-
 | 约耳趣谈软体 || Joel on Software || (美) [https://en.wikipedia.org/wiki/Joel_Spolsky Joel Spolsky] || 英文EPUB<br>英文CHM || 2015-01-11<br>2016-12-22 || [https://docs.google.com/document/d/1pUpkqFoiFiwk8h6yT9BkGDcbye9dDopgEG7v_uIHWz0/ 简介]
 |-
 | 软件随想录 || More Joel on Software || (美) [https://en.wikipedia.org/wiki/Joel_Spolsky Joel Spolsky] || 简体PDF(扫描版)<br>英文PDF || 2015-02-17<br>2015-01-11 || [https://docs.google.com/document/d/1nuT7IweSzAOZXCK9toU2_mOQ4A25N-9eJftrpicXgR8/ 简介]
 |-
-| 程序员应该知道的97件事 || 97 Things Every Programmer Should Know<br>——Collective Wisdom from the Experts || [https://en.wikipedia.org/wiki/Kevlin_Henney Kevlin Henney] (主编) || 英文PDF || 2018-07-02 || [https://docs.google.com/document/d/1wY9Tq8eLDX21ao4lRtFrqt88jcr9ok_4POluZzp4j2M/ 简介]
+| 程序员应该知道的97件事 || 97 Things Every Programmer Should Know<br>——Collective Wisdom from the Experts || (英) [https://en.wikipedia.org/wiki/Kevlin_Henney Kevlin Henney] (主编) || 英文PDF<br>英文EPUB || 2018-07-02<br>2020-04-08 || [https://docs.google.com/document/d/1wY9Tq8eLDX21ao4lRtFrqt88jcr9ok_4POluZzp4j2M/ 简介]
 |-
 | 编程人生<br>——15位软件先驱访谈录 || Coders at Work<br>——Reflections on the Craft of Programming || (美) Peter Seibel || 英文PDF || 2015-11-08 || [https://docs.google.com/document/d/1T0ULutcdaq6S7YDyzl2YI3E5qer8Z-UohVzrI9zqeS4/ 简介]
 |-
