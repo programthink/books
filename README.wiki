@@ -2707,7 +2707,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体PDF<br>英文PDF<br>英文EPUB || 2017-08-08<br>2015-11-07<br>2015-07-21 || [https://docs.google.com/document/d/18ubS_r5REXR8e5MDQDBdN-MWl0wCWBkr7rs-lX3BBDg/ 简介]
+| C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体PDF(第2版)<br>英文PDF(第2版)<br>英文EPUB(第2版) || 2017-08-08<br>2015-11-07<br>2015-07-21 || [https://docs.google.com/document/d/18ubS_r5REXR8e5MDQDBdN-MWl0wCWBkr7rs-lX3BBDg/ 简介]
 |-
 | The GNU C Programming Tutorial || The GNU C Programming Tutorial || (英) [https://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist) Mark Burgess] || 英文PDF<br>[http://crasseux.com/books/ctutorial/ 英文WEB] || 2016-12-21<br>N/A || [https://docs.google.com/document/d/1g7DLsW7MogZeBwd6YkihUFCGNbyyEWRhy4UimHJXrVQ/ 简介]
 |-
@@ -2721,7 +2721,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| C++ 程序设计语言 || The C++ Programming Language<br>''知名缩写：''TCPPPL || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF(特别版)<br>简体PDF(特别版 扫描版) || 2013-10-21<br>2013-10-29 || [https://docs.google.com/document/d/15-B8PhKWCm-IKY2VHcoFqv3ml8vwOzl8LNxGq3yM7TM/ 简介]
+| C++ 程序设计语言 || The C++ Programming Language<br>''知名缩写：''TCPPPL || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF(第4版)<br>英文PDF(特别版)<br>简体PDF(特别版 扫描版) || 2020-04-08<br>2013-10-21<br>2013-10-29 || [https://docs.google.com/document/d/15-B8PhKWCm-IKY2VHcoFqv3ml8vwOzl8LNxGq3yM7TM/ 简介]
 |-
 | Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF(第3版)<br>英文CHM(第3版) || 2018-08-04<br>2013-10-21 || [https://docs.google.com/document/d/1dAfpdaDr2XzfWXEQP6SvvnOGdKHIhlyeqY8h8SZjSlQ/ 简介]
 |-
@@ -2841,7 +2841,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Rust 程序设计语言 || The Rust Programming Language || Rust 开发团队 || 英文PDF(第2版)<br>英文EPUB(第2版)<br>英文PDF(第1版)<br>英文EPUB(第1版)<br>[https://doc.rust-lang.org/book/ 英文WEB(第2版)]<br>[https://kaisery.github.io/trpl-zh-cn/ 简体WEB(第2版)] || 2018-07-20<br>2018-11-09<br>2018-07-20<br>2018-11-09<br>N/A<br>N/A || [https://docs.google.com/document/d/1rV_ZmiXqjC9QZIH8QpsqFmXrRBWSLhHwtqt_-PYwBXA/ 简介]
 |-
-| Programming Rust || Programming Rust<br>——Fast, Safe Systems Development || (美) Jim Blandy<br>(美) Jason Orendorff || 英文PDF(第1版)<br>英文EPUB(第1版 不全) || 2020-04-06<br>2019-03-30 || [https://docs.google.com/document/d/12wXcRR-BJXkabG6IiHFGf9H2lZevav-zoGi8aMo1uCY/ 简介]
+| Rust 程序设计 || Programming Rust<br>——Fast, Safe Systems Development || (美) Jim Blandy<br>(美) Jason Orendorff || 英文PDF(第1版 大字版)<br>英文EPUB(第1版 不全) || 2020-04-06<br>2019-03-30 || [https://docs.google.com/document/d/12wXcRR-BJXkabG6IiHFGf9H2lZevav-zoGi8aMo1uCY/ 简介]
 |}
 
 ==== 10.1.2.9 Prolog ====
