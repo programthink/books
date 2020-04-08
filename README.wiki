@@ -2834,7 +2834,15 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Go 语言程序设计 || Programming in Go<br>——Creating Applications for the 21st Century || (英) Mark Summerfield || 英文PDF(第1版) || 2018-07-20 || [https://docs.google.com/document/d/1g5JgAnTNYYnRXZLaf3alpEZhLNXAHygdlnNMNoUYEzI/ 简介]
 |}
 
-==== 10.1.2.8 Rust ====
+==== 10.1.2.8 Ruby ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| Ruby 程序设计 || Programming Ruby<br>——The Pragmatic Programmer's Guide || (美) [https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas]<br>(美) [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt] || 英文PDF(第4版) || 2020-04-08 || [https://docs.google.com/document/d/1xa8JSMrJle5op-iNwii7ttD5lU0EJ7YVqP6dCMSZcM0/ 简介]
+|}
+
+==== 10.1.2.9 Rust ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2844,7 +2852,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Rust 程序设计 || Programming Rust<br>——Fast, Safe Systems Development || (美) Jim Blandy<br>(美) Jason Orendorff || 英文PDF(第1版 大字版)<br>英文EPUB(第1版 不全) || 2020-04-06<br>2019-03-30 || [https://docs.google.com/document/d/12wXcRR-BJXkabG6IiHFGf9H2lZevav-zoGi8aMo1uCY/ 简介]
 |}
 
-==== 10.1.2.9 Prolog ====
+==== 10.1.2.10 Prolog ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2856,7 +2864,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | An Introduction to Logic Programming through Prolog || An Introduction to Logic Programming through Prolog || (英) [https://en.wikipedia.org/wiki/Michael_Spivey Michael Spivey] || 英文PDF || 2018-07-18 || [https://docs.google.com/document/d/1jaC3AgP2buDbj6jrWGUMzCtrIn-dmXZjNRPeYS8qPJA/ 简介]
 |}
 
-==== 10.1.2.10 (其它) ====
+==== 10.1.2.11 (其它) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
