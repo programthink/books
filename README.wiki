@@ -2961,7 +2961,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| RESTful Web Services || RESTful Web Services || Leonard Richardson<br>(美) [https://en.wikipedia.org/wiki/Sam_Ruby Sam Ruby] || 英文PDF<br>英文EPUB<br>[https://www.crummy.com/writing/RESTful-Web-Services/html/ 英文WEB] || 2016-12-22<br>2017-05-06<br>N/A || [https://docs.google.com/document/d/1Utlkt8CHPJq7t385XkvrGaPvik2jLwxrlQy3r8GM78E/ 简介]
+| RESTful Web Services || RESTful Web Services || (美) Leonard Richardson<br>(美) [https://en.wikipedia.org/wiki/Sam_Ruby Sam Ruby] || 英文PDF<br>英文EPUB<br>[https://www.crummy.com/writing/RESTful-Web-Services/html/ 英文WEB] || 2016-12-22<br>2017-05-06<br>N/A || [https://docs.google.com/document/d/1Utlkt8CHPJq7t385XkvrGaPvik2jLwxrlQy3r8GM78E/ 简介]
 |-
 | RESTful Web Services Cookbook || RESTful Web Services Cookbook || (美) Subbu Allamaraju || 简体PDF<br>英文PDF || 2018-06-28<br>2017-08-09 || [https://docs.google.com/document/d/1heGQmHpTSu5ifY5T3kZZMP4WpZswQedPNiyBiSCukFw/ 简介]
 |}
@@ -2972,6 +2972,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | Ruby on Rails 教程 || Ruby on Rails Tutorial<br>——Learn Web Development with Rails || (美) Michael Hartl || 英文EPUB(第4版) || 2020-04-09 || [https://docs.google.com/document/d/1C9nz8q7f8LY0SeMGd_fOQVDJ2WtVK2JpHN0iuog5RTI/ 简介]
+|-
+| Django 基础教程 || Tango with Django<br>——A Beginner's Guide to Web Development with Django<br>''其它英文名：''<br>Tango with Django<br>——Learn Web Development with Python and Django || Leif Azzopardi<br>David Maxwell || 英文PDF(Django 1.9)<br>[https://tango-with-django.readthedocs.io/ 英文WEB] || 2020-04-09<br>N/A || [https://docs.google.com/document/d/1LMizYkOkdXwH2JxzH27KQeNjMjgphLhiLtuLBJv72RU/ 简介]
 |}
 
 === 10.1.8 硬件相关 ===
