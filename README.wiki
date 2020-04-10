@@ -2902,11 +2902,21 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 数学之美 || Beauty of Mathematics || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_%28Google%29 吴军] || 简体PDF(第1版)<br>简体TXT(第1版) || 2018-10-29<br>2016-05-15 || [https://docs.google.com/document/d/161QsDsZUGSFL4gfw65mUpmnG-XUszzdzOTXVwpFG9jg/ 简介]
 |}
 
-=== 10.1.5 操作系统相关 ===
+=== 10.1.5 调试与测试 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 软件调试修炼之道 || Debug It<br>——Find, Repair and Prevent Bugs in Your Code || (美) Paul Butcher || 英文PDF || 2020-04-06 || [https://docs.google.com/document/d/1B1-Qcn3os_49ypUWnfPT5WaqnOZqsQt3rUwF2N-1810/ 简介]
+|-
+| 软件调试的艺术 || The Art of Debugging with GDB, DDD and Eclipse || (美) [https://en.wikipedia.org/wiki/Norman_Matloff Norman Matloff]<br>(美) [https://en.wikipedia.org/wiki/Peter_J._Salzman Peter Salzman] || 简体PDF(扫描版) || 2020-04-10 || [https://docs.google.com/document/d/1kBVMBAzvdEeVfEjr3iQ4PfMwWe3Kd4vWBq8Fw7sTi0M/ 简介]
+|}
+
+=== 10.1.6 操作系统相关 ===
 
 （本类别放置“具体操作系统相关”的编程类电子书）
 
-==== 10.1.5.1 UNIX 与 Linux ====
+==== 10.1.6.1 UNIX 与 Linux ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2922,7 +2932,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 精通 Linux 设备驱动程序开发 || Essential Linux Device Drivers || (印度) Venkateswaran || 简体PDF(扫描版) || 2015-11-06 || [https://docs.google.com/document/d/1KZuHFCKZkF1cjdLAXVvIq4TJp9XHIcM1WRt5t3I6LR8/ 简介]
 |}
 
-==== 10.1.5.2 Windows ====
+==== 10.1.6.2 Windows ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2930,11 +2940,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Windows 核心编程 || Programming Applications for Windows || (美) [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 简体PDF<br>英文CHM || 2014-05-13<br>2013-10-21 || [https://docs.google.com/document/d/1G86gTTFiNRGlg-SCV0YDc3HSoIX4l8RLL13zF6Xm_V8/ 简介]
 |}
 
-=== 10.1.6 网络相关 ===
+=== 10.1.7 网络相关 ===
 
 （本类别放置“网络相关”的编程类电子书）
 
-==== 10.1.6.1 C & C++ ====
+==== 10.1.7.1 C & C++ ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2946,7 +2956,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | C++ 网络编程 || C++ Network Programming || (美) [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] || 英文CHM(卷1)<br>英文CHM(卷2) || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1-_EWftyk3_hVKNs1_cuKrEnK4QxSO0qPeeemj9I7bsM/ 简介]
 |}
 
-==== 10.1.6.2 Python ====
+==== 10.1.7.2 Python ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2954,9 +2964,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Twisted Network Programming Essentials || Twisted Network Programming Essentials<br>——Developing With Python's Event-driven Framework || Abe Fettig<br>(美) [https://en.wikipedia.org/wiki/Jessica_McKellar Jessica McKellar] || 英文CHM(第1版) || 2016-12-22 || [https://docs.google.com/document/d/10xotkTyITV-OdtjapXwVsyh8UnD9MoZDffZ7mElCLJY/ 简介]
 |}
 
-=== 10.1.7 Web 相关 ===
+=== 10.1.8 Web 相关 ===
 
-==== 10.1.7.1 架构设计 ====
+==== 10.1.8.1 架构设计 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2966,7 +2976,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | RESTful Web Services Cookbook || RESTful Web Services Cookbook || (美) Subbu Allamaraju || 简体PDF<br>英文PDF || 2018-06-28<br>2017-08-09 || [https://docs.google.com/document/d/1heGQmHpTSu5ifY5T3kZZMP4WpZswQedPNiyBiSCukFw/ 简介]
 |}
 
-==== 10.1.7.2 服务端框架 ====
+==== 10.1.8.2 服务端框架 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2976,7 +2986,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Django 基础教程 || Tango with Django<br>——A Beginner's Guide to Web Development with Django<br>''其它英文名：''<br>Tango with Django<br>——Learn Web Development with Python and Django || Leif Azzopardi<br>David Maxwell || 英文PDF(Django 1.9)<br>[https://tango-with-django.readthedocs.io/ 英文WEB] || 2020-04-09<br>N/A || [https://docs.google.com/document/d/1LMizYkOkdXwH2JxzH27KQeNjMjgphLhiLtuLBJv72RU/ 简介]
 |}
 
-=== 10.1.8 硬件相关 ===
+=== 10.1.9 硬件相关 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2986,7 +2996,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 每个程序员都应该了解的内存知识 || What Every Programmer Should Know About Memory || (美) [https://de.wikipedia.org/wiki/Ulrich_Drepper Ulrich Drepper] || 英文PDF || 2017-08-10 || [https://docs.google.com/document/d/1GZpQKWRs1dt-VguVC-om1qFi1tkVwvsRIAZQqvDOa7E/ 简介]
 |}
 
-=== 10.1.9 (其它) ===
+=== 10.1.10 (其它) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3000,8 +3010,6 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 程序员应该知道的97件事 || 97 Things Every Programmer Should Know<br>——Collective Wisdom from the Experts || (英) [https://en.wikipedia.org/wiki/Kevlin_Henney Kevlin Henney] (主编) || 英文PDF<br>英文EPUB || 2018-07-02<br>2020-04-08 || [https://docs.google.com/document/d/1wY9Tq8eLDX21ao4lRtFrqt88jcr9ok_4POluZzp4j2M/ 简介]
 |-
 | 编程人生<br>——15位软件先驱访谈录 || Coders at Work<br>——Reflections on the Craft of Programming || (美) Peter Seibel || 英文PDF || 2015-11-08 || [https://docs.google.com/document/d/1T0ULutcdaq6S7YDyzl2YI3E5qer8Z-UohVzrI9zqeS4/ 简介]
-|-
-| 软件调试修炼之道 || Debug It<br>——Find, Repair and Prevent Bugs in Your Code || (美) 保罗·布彻 || 英文PDF || 2020-04-06 || [https://docs.google.com/document/d/1B1-Qcn3os_49ypUWnfPT5WaqnOZqsQt3rUwF2N-1810/ 简介]
 |-
 | 代码阅读方法与实践 || Code Reading<br>——The Open Source Perspective || (希腊) [https://en.wikipedia.org/wiki/Diomidis_Spinellis Diomidis Spinellis] || 简体PDF(扫描版)<br>英文CHM || 2015-11-03<br>2020-04-04 || [https://docs.google.com/document/d/1Ob05-CB5tDeWv6zypGHgMQORI4xCOpcF9PmWQ6qzDnc/ 简介]
 |}
