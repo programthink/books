@@ -3159,7 +3159,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 高级 Bash 脚本编程指南 || Advanced Bash-Scripting Guide || Mendel Cooper || 简体EPUB(文档版本 10.0)<br>英文PDF(文档版本 10.0)<br>英文PDF(文档版本 6.6)<br>[https://www.tldp.org/LDP/abs/html/ 英文WEB] || 2019-07-15<br>2019-07-15<br>2019-03-25<br>N/A || [https://docs.google.com/document/d/1BYSgrSViVZyDTQcuhWEFAc_uc0YZvkIoQYLmv0yWo_A/ 简介]
 |-
-| Linux 命令行大全 || The Linux Command Line<br>——A Complete Introduction || William Shotts || 英文PDF(文档版本 19.01) || 2019-11-18 || [https://docs.google.com/document/d/1OwK2PeH8zop6XTiiNSuYKIiHi_cTLojx7rdlK0jd34M/ 简介]
+| Linux 命令行大全 || The Linux Command Line<br>——A Complete Introduction || William Shotts || 简体MOBI<br>英文PDF(文档版本 19.01) || 2020-04-10<br>2019-11-18 || [https://docs.google.com/document/d/1OwK2PeH8zop6XTiiNSuYKIiHi_cTLojx7rdlK0jd34M/ 简介]
 |-
 | 鸟哥的 Linux 私房菜 || N/A || 鸟哥 || 简体PDF<br>简体MOBI || 2013-12-06<br>2015-11-08 || [https://docs.google.com/document/d/1GFb61tNC2_O1Vk1e-rtfzgZGvJwsJVa_YBWqDtYDL_U/ 简介]
 |-
