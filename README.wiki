@@ -2939,7 +2939,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| Windows 核心编程 || Programming Applications for Windows || (美) [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 简体PDF<br>英文CHM || 2014-05-13<br>2013-10-21 || [https://docs.google.com/document/d/1G86gTTFiNRGlg-SCV0YDc3HSoIX4l8RLL13zF6Xm_V8/ 简介]
+| Windows 核心编程 || Windows via C & C++<br>''其它英文名：''<br>Programming Applications for Windows || (美) [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM(第5版)<br>简体PDF(第4版)<br>英文CHM(第4版) || 2020-04-10<br>2014-05-13<br>2013-10-21 || [https://docs.google.com/document/d/1G86gTTFiNRGlg-SCV0YDc3HSoIX4l8RLL13zF6Xm_V8/ 简介]
 |}
 
 === 10.1.7 网络相关 ===
