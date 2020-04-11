@@ -3122,11 +3122,19 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 逆向工程权威指南<br>''其它中文名：''<br>逆向工程入门指南 || Reverse Engineering for Beginners<br>——Understanding Assembly Language<br>''知名缩写：''RE4B || (乌克兰) Dennis Yurichev || 简体EPUB<br>英文PDF || 2019-03-28<br>2018-08-04 || [https://docs.google.com/document/d/1wHhEagVYr-lS2YJWurkzGH1oGnl76CprsuqNw7BXBhk/ 简介]
 |}
 
-=== 10.3.6 编程语言相关 ===
+=== 10.3.6 恶意软件 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 恶意代码分析实战 || Practical Malware Analysis<br>——The Hands-On Guide to Dissecting Malicious Software || (美) Michael Sikorski<br>(美) Andrew Honig || 英文PDF || 2020-04-11 || [https://docs.google.com/document/d/1pHWLBwhSTsiJph2amvCm6Uw2aoMqW4n7Y_hyrNg6fE0/ 简介]
+|}
+
+=== 10.3.7 编程语言相关 ===
 
 （本目录下放的是“信息安全”相关的编程书籍，按【语言】归类）
 
-==== 10.3.6.1 C & C++ ====
+==== 10.3.7.1 C & C++ ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3136,7 +3144,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | C++ 语言安全编程规范 || SEI CERT C++ Coding Standard || (美) [https://en.wikipedia.org/wiki/CERT_Coordination_Center CERT/CC] || 英文PDF(2016版) || 2019-04-02 || [https://docs.google.com/document/d/1zi7_dcLXnVCc9ePEgdhnU1xxuYgM5RavsmkEp7gKRnM/ 简介]
 |}
 
-==== 10.3.6.2 Python ====
+==== 10.3.7.2 Python ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
