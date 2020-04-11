@@ -3298,7 +3298,17 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | IPFS<br>——内容寻址的版本化点对点文件系统<br>''其它中文名：''<br>IPFS 白皮书 || IPFS<br>——Content Addressed, Versioned, P2P File System || (美) [https://en.wikipedia.org/wiki/Juan_Benet_(computer_scientist) Juan Benet] || 英文PDF || 2019-05-08 || [https://docs.google.com/document/d/1XV6AmX-quKDpFkCjH2XU2rk8MsnahCf5OItaRvsIQRs/ 简介]
 |}
 
-== 10.6 人工智能 ==
+== 10.6 数据库 ==
+
+=== 10.6.1 (综述) ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 数据库系统概念 || Database System Concepts || (以色列) [https://en.wikipedia.org/wiki/Abraham_Silberschatz Abraham Silberschatz]<br>(美) Hank Korth<br>(印度) S. Sudarshan || 英文PDF(第6版) || 2020-04-11 || [https://docs.google.com/document/d/1VxARejKA6Zq56xJgYPUPEphY5CKxS4ufoMQHBaicv98/ 简介]
+|}
+
+== 10.7 人工智能 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3310,7 +3320,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 奇点临近 || The Singularity Is Near<br>——When Humans Transcend Biology || (美) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E8%92%99%E5%BE%B7%C2%B7%E5%BA%93%E8%8C%A8%E9%AD%8F%E5%B0%94 雷·库兹韦尔] || 简体PDF<br>英文PDF || 2017-03-30<br>2017-05-09 || [https://docs.google.com/document/d/1yCUaGivIjvN2QdyCbg6OAqpgZ-kCZvNpPWURnSeqmyg/ 简介]
 |}
 
-== 10.7 IT 公司 ==
+== 10.8 IT 公司 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3332,7 +3342,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Doom 启世录 || Masters of Doom<br>——How Two Guys Created an Empire and Transformed Pop Culture || (美) [https://en.wikipedia.org/wiki/David_Kushner David Kushner] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体CHM<br>英文PDF || 2015-02-08<br>2015-02-08<br>2015-02-08<br>2013-11-26<br>2020-04-03 || [https://docs.google.com/document/d/1BwOJZxYSDF-DlnhCuLC16WBqNPKhlzc9I8BTBFIdOlk/ 简介]
 |}
 
-== 10.8 (其它) ==
+== 10.9 (其它) ==
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
