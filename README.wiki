@@ -3308,6 +3308,14 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 数据库系统概念 || Database System Concepts || (以色列) [https://en.wikipedia.org/wiki/Abraham_Silberschatz Abraham Silberschatz]<br>(美) Hank Korth<br>(印度) S. Sudarshan || 英文PDF(第6版) || 2020-04-11 || [https://docs.google.com/document/d/1VxARejKA6Zq56xJgYPUPEphY5CKxS4ufoMQHBaicv98/ 简介]
 |}
 
+=== 10.6.2 SQL ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| SQL 学习指南 || Learning SQL || (美) Alan Beaulieu || 英文PDF(第2版)<br>英文CHM(第1版) || 2020-04-11<br>2020-04-11 || [https://docs.google.com/document/d/1hJIObbatfdiOg5H-OTRHgmm0jpBXlKn4svpS906I5HA/ 简介]
+|}
+
 == 10.7 人工智能 ==
 
 {|
