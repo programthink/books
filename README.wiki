@@ -644,7 +644,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || N/A || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || [https://docs.google.com/document/d/1PhdO6NG6NSuBMeIhEKVJK0WEi6yb2WgY88csSbLHtfY/ 简介]
+| 红太阳是怎样升起的<br>——延安整风运动的来龙去脉 || How the Red Sun Rose<br>——The Origin and Development of the Yan'an Rectification Movement, 1930~1945 || [https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E 高华] || 简体PDF<br>简体CHM<br>简体EPUB<br>简体MOBI || 2012-12-09<br>2012-04-06<br>2013-11-26<br>2014-02-03 || [https://docs.google.com/document/d/1PhdO6NG6NSuBMeIhEKVJK0WEi6yb2WgY88csSbLHtfY/ 简介]
 |-
 | 中共壮大之谜<br>——被掩盖的中国抗日战争真相 || N/A || 谢幼田 || 简体CHM<br>简体PDF || 2012-11-17<br>2016-12-14 || [https://docs.google.com/document/d/1Cin_dHFDnDu5RLz5L5fQzSSrbm_UcGnB181gOEkm40U/ 简介]
 |-
@@ -724,7 +724,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 红太阳的陨落<br>——千秋功罪毛泽东 || N/A || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] (原名：宋科) || 简体PDF<br>简体DOC || 2012-12-09<br>2012-04-05 || [https://docs.google.com/document/d/14WmFyO32fkqIngGkAvFeQaNoabMMjlHzp3ASTYNGWeM/ 简介]
+| 红太阳的陨落<br>——千秋功罪毛泽东 || N/A || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] (原名：宋科) || 简体PDF<br>简体MOBI<br>简体DOC || 2012-12-09<br>2020-05-29<br>2012-04-05 || [https://docs.google.com/document/d/14WmFyO32fkqIngGkAvFeQaNoabMMjlHzp3ASTYNGWeM/ 简介]
 |-
 | 毛泽东时代和后毛泽东时代(1949~2009)<br>——另一种历史书写 || N/A || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF(掃描版) || 2013-05-07 || [https://docs.google.com/document/d/1DhLbJy-j8sR0GZN4OL51Nh02f6UyLUJqeRZOzqjyZbU/ 简介]
 |-
