@@ -932,9 +932,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 天葬<br>——西藏的命运 || Sky Burial<br>——The Fate of Tibet || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体PDF<br>简体TXT || 2012-12-31<br>2012-12-31 || [https://docs.google.com/document/d/1DopOnuS6iNZq89joXq5jwWhK1jDON1w3RuWODBvDQ1A/ 简介]
 |-
-| 我的西域，你的东土 || My West China, Your East Turkestan || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体PDF || 2013-03-22 || [https://docs.google.com/document/d/19ATA2Vku9cftnv9j254XZgz4yJ1OMGFOLUtferkfzo8/ 简介]
+| 我的西域，你的东土 || My West China, Your East Turkestan || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B%E9%9B%84 王力雄] || 简体PDF<br>简体MOBI || 2013-03-22<br>2020-05-29 || [https://docs.google.com/document/d/19ATA2Vku9cftnv9j254XZgz4yJ1OMGFOLUtferkfzo8/ 简介]
 |-
-| 1959：拉萨<br>——达赖喇嘛如何出走 || N/A || 李江琳 || 繁體PDF(掃描版) || 2013-07-26 || [https://docs.google.com/document/d/1pJZlkb9oxOIgFghvuTltznfS73TweypckVVGp0WCO0M/ 简介]
+| 1959，拉萨！<br>——达赖喇嘛如何出走 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B1%9F%E7%90%B3 李江琳] || 繁體PDF(掃描版) || 2013-07-26 || [https://docs.google.com/document/d/1pJZlkb9oxOIgFghvuTltznfS73TweypckVVGp0WCO0M/ 简介]
 |-
 | 西藏生与死<br>——雪域的民族主义 || Tibet<br>——Survival in Question || (法) [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet 董尼德] || 繁體PDF(竪排掃描版) || 2012-12-31 || [https://docs.google.com/document/d/1irYHZEUM9j5pD4UcA2zVrMyQTybiaoD7_5o33mtt6Oc/ 简介]
 |-
