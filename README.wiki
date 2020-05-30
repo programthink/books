@@ -592,25 +592,25 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 ==== 1.3.1.5 “反右”运动 ====
 
 {|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 阳谋<br>——反右派运动始末 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体CHM || 2013-01-13<br>2012-11-17 || [https://docs.google.com/document/d/1OHOsNNa_Dqt8ZVj7VKGuTYPFw2meNHkTiN7k3EuWIoE/ 简介]
+| 阳谋<br>——反右派运动始末 || N/A || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体CHM || 2013-01-13<br>2012-11-17 || [https://docs.google.com/document/d/1OHOsNNa_Dqt8ZVj7VKGuTYPFw2meNHkTiN7k3EuWIoE/ 简介]
 |-
-| 还原1957 || 魏紫丹 (原名：魏立言) || 繁體PDF || 2015-02-17 || [https://docs.google.com/document/d/17k9Jq_gyKhdE2ZTXZ00LZR58fO8qNoaswZpbZ5Nwyw0/ 简介]
+| 还原1957 || N/A || 魏紫丹 (原名：魏立言) || 繁體PDF || 2015-02-17 || [https://docs.google.com/document/d/17k9Jq_gyKhdE2ZTXZ00LZR58fO8qNoaswZpbZ5Nwyw0/ 简介]
 |-
-| 1957年的夏季<br>——从百家争鸣到两家争鸣 || 朱正 || 简体PDF<br>简体HTML || 2016-12-14<br>2012-11-17 || [https://docs.google.com/document/d/11Crov-bLRQJFQFna2JFSyl_C5qs1n1HMe_SVTzjarBU/ 简介]
+| 1957年的夏季<br>——从百家争鸣到两家争鸣 || N/A || 朱正 || 简体PDF<br>简体HTML || 2016-12-14<br>2012-11-17 || [https://docs.google.com/document/d/11Crov-bLRQJFQFna2JFSyl_C5qs1n1HMe_SVTzjarBU/ 简介]
 |-
-| 毛主席是什么时候决定引蛇出洞的 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%85%8E%E4%B9%8B 李慎之] || 简体TXT || 2019-02-24 || [https://docs.google.com/document/d/1CnVe-IcGhSkuFb9Fx06rdx6hu98ul8vT76GLrY195zc/ 简介]
+| 毛主席是什么时候决定引蛇出洞的 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%85%8E%E4%B9%8B 李慎之] || 简体TXT || 2019-02-24 || [https://docs.google.com/document/d/1CnVe-IcGhSkuFb9Fx06rdx6hu98ul8vT76GLrY195zc/ 简介]
 |-
-| 往事并不如烟<br>''其它中文名：''<br>最後的貴族 || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 简体PDF(精校版 标注删节部分)<br>繁體EPUB(台灣版 無刪節)<br>简体PDF(大字版)<br>简体TXT || 2013-02-05<br>2015-11-10<br>2018-09-10<br>2012-12-09 || [https://docs.google.com/document/d/1L8iPaSrmg0acDlPIUgSQoMJnZptg0tO-ULqf56Fe3V4/ 简介]
+| 往事并不如烟<br>''其它中文名：''<br>最後的貴族 || The Past is Not Like Smoke || [https://zh.wikipedia.org/wiki/%E7%AB%A0%E8%AF%92%E5%92%8C 章诒和] || 简体PDF(精校版 标注删节部分)<br>繁體EPUB(台灣版 無刪節)<br>简体PDF(大字版)<br>简体MOBI<br>简体TXT || 2013-02-05<br>2015-11-10<br>2018-09-10<br>2020-05-30<br>2012-12-09 || [https://docs.google.com/document/d/1L8iPaSrmg0acDlPIUgSQoMJnZptg0tO-ULqf56Fe3V4/ 简介]
 |-
-| 十四万言书<br>——致人民日报编辑部信 || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭] (原名：彭令昭) || 简体PDF || 2013-02-01 || [https://docs.google.com/document/d/1vZUym7sLKFGpz1CLRm1f4kEnwaFihTDpLmQeYEHhhQo/ 简介]
+| 十四万言书<br>——致人民日报编辑部信 || N/A || [https://zh.wikipedia.org/wiki/%E6%9E%97%E6%98%AD 林昭] (原名：彭令昭) || 简体PDF || 2013-02-01 || [https://docs.google.com/document/d/1vZUym7sLKFGpz1CLRm1f4kEnwaFihTDpLmQeYEHhhQo/ 简介]
 |-
-| 中华民族的自由女神<br>——林昭罹难40年纪念文集 || (多人) || 简体PDF || 2013-02-01 || [https://docs.google.com/document/d/1PkBe9iwUjap-Bw7V4UIoOhrRJLfhWuEo9YohihRASg0/ 简介]
+| 中华民族的自由女神<br>——林昭罹难40年纪念文集 || N/A || (多人) || 简体PDF || 2013-02-01 || [https://docs.google.com/document/d/1PkBe9iwUjap-Bw7V4UIoOhrRJLfhWuEo9YohihRASg0/ 简介]
 |-
-| 林昭，不再被遗忘 || (多人) || 简体PDF(扫描版) || 2013-02-01 || [https://docs.google.com/document/d/1fqNycC-xRfP_SsOgdGECBiyH8oQn67CUHpHQh97Ifzo/ 简介]
+| 林昭，不再被遗忘 || N/A || (多人) || 简体PDF(扫描版) || 2013-02-01 || [https://docs.google.com/document/d/1fqNycC-xRfP_SsOgdGECBiyH8oQn67CUHpHQh97Ifzo/ 简介]
 |-
-| 祭坛上的圣女<br>——林昭传 || 赵锐 || 简体PDF || 2013-06-22 || [https://docs.google.com/document/d/1y_cJ9kZ63zlwF0xYRlryxzAn2L-JkAzTLgZieCk8S8g/ 简介]
+| 祭坛上的圣女<br>——林昭传 || N/A || 赵锐 || 简体PDF || 2013-06-22 || [https://docs.google.com/document/d/1y_cJ9kZ63zlwF0xYRlryxzAn2L-JkAzTLgZieCk8S8g/ 简介]
 |}
 
 ==== 1.3.1.6 “土改”运动 ====
