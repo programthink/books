@@ -542,7 +542,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 周恩来文革讲话集 || N/A || [https://zh.wikipedia.org/wiki/%E5%91%A8%E6%81%A9%E6%9D%A5 周恩来] || 简体TXT<br>简体PDF(拍照版) || 2014-03-20<br>2015-07-14 || [https://docs.google.com/document/d/1aUbLHU383mU3zZinA-tTk8mmwxd0sH_LmgxRA2TKFXU/ 简介]
 |-
-| 随想录 || N/A || [https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91 巴金] (原名：李尧棠) || 简体PDF(扫描版)<br>繁體MOBI || 2014-01-09<br>2014-06-22 || [https://docs.google.com/document/d/1lMKhcaeDXTNxvo97zXEmJzMwyC9isBLW8Yt_HRO3HHU/ 简介]
+| 随想录 || Random Thoughts || [https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91 巴金] (原名：李尧棠) || 简体PDF(扫描版)<br>繁體MOBI || 2014-01-09<br>2014-06-22 || [https://docs.google.com/document/d/1lMKhcaeDXTNxvo97zXEmJzMwyC9isBLW8Yt_HRO3HHU/ 简介]
 |-
 | 遇罗克之遗作与回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93_(%E4%BD%9C%E5%AE%B6) 徐晓]<br>丁东<br>[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF(扫描版) || 2013-03-16 || [https://docs.google.com/document/d/1HCcLOgDygvtTz5LuogalYJyysH6ZZLnPpmdPzuYS7-g/ 简介]
 |-
@@ -550,7 +550,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 1966<br>——我们那一代的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] (主编) || 简体PDF(扫描版) || 2017-08-13 || [https://docs.google.com/document/d/1-XqmXDsaUBUdSQkB8W-9iZ3Udr9RZdmu3CzOlBq1M3Y/ 简介]
 |-
-| 上海生死劫<br>''其它中文名：''<br>上海生与死 || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体EPUB<br>简体PDF(扫描版)<br>英文EPUB<br>英文MOBI || 2017-05-06<br>2013-05-30<br>2019-07-26<br>2019-07-26 || [https://docs.google.com/document/d/1N1A7xvuycblUNxMXsLRpdkY3-uelzDdD8S6jl15L8Go/ 简介]
+| 上海生死劫<br>''其它中文名：''<br>上海生与死 || Life and Death in Shanghai || [https://zh.wikipedia.org/wiki/%E9%83%91%E5%BF%B5 郑念] (原名：姚念媛) || 简体EPUB<br>简体PDF(扫描版)<br>简体MOBI<br>英文EPUB<br>英文MOBI || 2017-05-06<br>2013-05-30<br>2020-05-30<br>2019-07-26<br>2019-07-26 || [https://docs.google.com/document/d/1N1A7xvuycblUNxMXsLRpdkY3-uelzDdD8S6jl15L8Go/ 简介]
 |-
 | 劫后长忆<br>——十年动乱纪事 || N/A || [https://zh.wikipedia.org/wiki/%E7%A9%86%E6%AC%A3 穆欣] (原名：杜蓬莱) || 繁體PDF(豎排掃描版) || 2019-02-04 || [https://docs.google.com/document/d/1kio78z1JUCfwM2Sn-Dx_4iEdIPtthLwel5JlOPepFmw/ 简介]
 |-
