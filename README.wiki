@@ -572,21 +572,21 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 墓碑<br>——中国六十年代大饥荒纪实 || Tombstone<br>——The Great Chinese Famine, 1958~1962<br>''其它英文名：''<br>Tombstone<br>——An Account of Chinese Famine in the 1960s || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF<br>简体EPUB<br>英文EPUB || 2012-04-06<br>2013-10-20<br>2014-06-21<br>2020-01-23 || [https://docs.google.com/document/d/1Aadzuqkf0qypqQ8uWTc05aYRRNNoQRXhUlEBHw2X7YY/ 简介]
+| 墓碑<br>——中国六十年代大饥荒纪实 || Tombstone<br>——The Great Chinese Famine, 1958~1962<br>''其它英文名：''<br>Tombstone<br>——An Account of Chinese Famine in the 1960s || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF<br>简体EPUB<br>简体MOBI<br>英文EPUB || 2012-04-06<br>2013-10-20<br>2014-06-21<br>2020-05-30<br>2020-01-23 || [https://docs.google.com/document/d/1Aadzuqkf0qypqQ8uWTc05aYRRNNoQRXhUlEBHw2X7YY/ 简介]
 |-
 | 人祸<br>——“大跃进”与大饥荒 || N/A || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体HTML || 2013-01-13<br>2012-04-06 || [https://docs.google.com/document/d/1_gO3WkNLjyAZJ2Vs7KJNHZ8Y036z1jBCpdSJqnWCcAM/ 简介]
 |-
 | 大跃进亲历记<br>——毛泽东秘书手记 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF(上下卷 扫描版) || 2013-05-08 || [https://docs.google.com/document/d/1UTHaeYF_hY-wPUYRBtEFNSoqxfVQ2o0edA4WPZQjFyk/ 简介]
 |-
-| 庐山会议实录 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1G_IgNAhZOSHSkZQsGV4qbowD2IQYqXagS_VTqMWFJLc/ 简介]
+| 庐山会议实录 || Mount Lu Meeting Records || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1G_IgNAhZOSHSkZQsGV4qbowD2IQYqXagS_VTqMWFJLc/ 简介]
 |-
 | 农村人民公社史 || N/A || 罗平汉 || 简体PDF(扫描版) || 2016-12-19 || [https://docs.google.com/document/d/10DoebY5a-Ye3G8DecI1MjQtBuHFUIHu07nYVtlXwsoI/ 简介]
 |-
 | 辉煌的幻灭<br>——人民公社警示录 || N/A || 康健 || 简体CHM<br>简体HTML || 2012-10-05<br>2012-10-06 || [https://docs.google.com/document/d/1QDzoAuKcbuM0xYjI2QyillPaCtUaJj-6Em6B0Ay3pFQ/ 简介]
 |-
-| 夹边沟记事 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0 杨显惠] || 简体PDF(扫描版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-22<br>2016-12-14<br>2019-01-04<br>2019-01-04 || [https://docs.google.com/document/d/1u_wPghs6FODnwD3Rmikg9gYu6ZlzAM0HgXK0zgXe3bE/ 简介]
+| 夹边沟记事 || Memory of Jiabiangou || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0 杨显惠] || 简体PDF(扫描版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-22<br>2016-12-14<br>2019-01-04<br>2019-01-04 || [https://docs.google.com/document/d/1u_wPghs6FODnwD3Rmikg9gYu6ZlzAM0HgXK0zgXe3bE/ 简介]
 |-
-| 定西孤儿院纪事<br>——实录饥饿的绝境 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0 杨显惠] || 简体PDF(扫描版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-08<br>2016-12-14<br>2019-01-04<br>2019-01-04 || [https://docs.google.com/document/d/1OCy7Uf_q7suPCpVFE-RfhfJWFvSAdmmVwWqOPLdVti8/ 简介]
+| 定西孤儿院纪事<br>——实录饥饿的绝境 || Records of Dingxi Orphanage || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0 杨显惠] || 简体PDF(扫描版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-08<br>2016-12-14<br>2019-01-04<br>2019-01-04 || [https://docs.google.com/document/d/1OCy7Uf_q7suPCpVFE-RfhfJWFvSAdmmVwWqOPLdVti8/ 简介]
 |}
 
 ==== 1.3.1.5 “反右”运动 ====
