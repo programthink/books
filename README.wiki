@@ -344,6 +344,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 和平抗议何以有效<br>——非暴力冲突的策略逻辑 || Why Civil Resistance Works<br>——The Strategic Logic of Nonviolent Conflict || (美) [https://en.wikipedia.org/wiki/Erica_Chenoweth 艾丽卡·切诺韦思]<br>(美) 玛丽亚·斯蒂芬 || 英文PDF<br>英文EPUB || 2019-07-28<br>2019-07-28 || [https://docs.google.com/document/d/1ZUpDozVWhzJTf9ueTD6ec1nF45POlJBXpEMm_yFrwV8/ 简介]
 |-
+| 非暴力手册<br>——实践指导 || The Nonviolence Handbook<br>——A Guide for Practical Action || (美) [https://en.wikipedia.org/wiki/Michael_N._Nagler 迈克尔·纳格勒] || 简体PDF || 2020-05-30 || [https://docs.google.com/document/d/1m9PstuwkZ9KKRDxwLtV4OCMFOzXCbzn3_5wBqXN2xTs/ 简介]
+|-
 | 论战略性非暴力冲突<br>——关于基本原则的思考 || On Strategic Nonviolent Conflict<br>——Thinking About the Fundamentals || (美) 罗伯特·赫尔维 || 简体PDF<br>简体EPUB<br>英文PDF || 2019-01-02<br>2019-05-21<br>2019-01-02 || [https://docs.google.com/document/d/1NrCJAiDH3Hw8mQRAfnBz-jL-KPDsjLEjnEGGx9URNSk/ 简介]
 |-
 | 西方公民不服从的传统 || The Tradition of the Civil Disobedience || 何怀宏 (主编) || 简体PDF(扫描版) || 2016-07-18 || [https://docs.google.com/document/d/1-qyH0KvdPSB8uy1dB0oO5KZJCyXeDVi3OfT4tRVr0sc/ 简介]
@@ -1106,7 +1108,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 无处可藏<br>——斯诺登、美国国安局与全球监控 || No Place to Hide<br>——Edward Snowden, the NSA and the U.S. Surveillance State || (美) [https://zh.wikipedia.org/wiki/%E8%91%9B%E5%80%AB%C2%B7%E8%91%9B%E6%9E%97%E8%8F%AF%E5%BE%B7 格伦·格林沃尔德] || 简体EPUB<br>英文PDF || 2016-12-20<br>2020-03-04 || [https://docs.google.com/document/d/1ihNl7GsLdf8FbeQQHhNPNhZMXpuB-Vk-wpoEspCb34k/ 简介]
 |-
-| 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 简体EPUB(精校版 标注删节部分)<br>简体EPUB(台湾版 无删节)<br>英文PDF || 2020-03-24<br>2019-12-02<br>2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
+| 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 简体PDF(精校版 标注删节部分)<br>简体EPUB(台湾版 无删节)<br>英文PDF || 2020-03-24<br>2019-12-02<br>2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
 |-
 | 帷幕<br>——美国中央情报局的秘密战争，1981~1987 || Veil<br>——The Secret Wars of the CIA, 1981~1987 || (美) [https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E4%BC%8D%E5%BE%B7%E6%B2%83%E5%BE%B7 鲍勃·伍德沃德] || 简体PDF(扫描版)<br>英文EPUB || 2017-02-18<br>2020-03-04 || [https://docs.google.com/document/d/1V1JvrUJRczYlY3boDTg9UPI31E9KYTJLVUDJnTmAOLU/ 简介]
 |-
