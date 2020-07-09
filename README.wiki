@@ -2755,6 +2755,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ Templates 全览 || C++ Templates<br>——The Complete Guide || (比利时) David Vandevoorde<br>(德) Nicolai Josuttis || 英文EPUB(第2版)<br>英文EPUB(第1版)<br>英文CHM(第1版) || 2018-11-11<br>2018-08-04<br>2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
 |-
+| C++ 模板元编程 || C++ Template Metaprogramming<br>——Concepts, Tools and Techniques from Boost and Beyond || (美) [https://en.wikipedia.org/wiki/David_Abrahams_(computer_programmer) David Abrahams]<br>(美) Aleksey Gurtovoy || 简体PDF(扫描版) || 2020-07-09 || [https://docs.google.com/document/d/1oN0JNogDZiwcsZye-q_HrSAAPYOPuXn2aSrRh7Niaw8/ 简介]
+|-
 | C++ 语言的设计和演化 || The Design and Evolution of C++ || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 简体PDF(扫描版)<br>英文PDF || 2013-10-25<br>2018-08-04 || [https://docs.google.com/document/d/1PjNgmFg7HHtNC_Ha-RH7-ztm6im3KQi_yoMj_Q9N_fM/ 简介]
 |-
 | STL 源码剖析 || The Annotated STL Sources || [https://zh.wikipedia.org/wiki/%E4%BE%AF%E4%BF%8A%E5%82%91_%28%E4%BD%9C%E5%AE%B6%29 侯捷] (原名：侯俊杰) || 简体PDF(扫描版) || 2015-11-05 || [https://docs.google.com/document/d/1psASyz7FdAB4bHrW40jsCmRJczdbmPbLwDI0P1QR_zc/ 简介]
