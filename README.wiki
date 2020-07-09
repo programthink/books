@@ -2909,6 +2909,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 编程珠玑 || Programming Pearls || (美) [https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist) Jon Bentley] || 英文PDF(第2版)<br>简体PDF(第2版 扫描版) || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1i1Z_GkpYMcw6YcHQms7hPVYb06NRpJDqx9tlluPsOjc/ 简介]
 |-
+| 算法心得<br>——高效算法的奥秘 || Hacker's Delight || (美) Henry Warren Jr. || 英文PDF(第1版 大字版) || 2020-07-09 || [https://docs.google.com/document/d/18-DM-W45jHDf4RRJ-BxeTVv64dGuSF8KfTqALna_YHw/ 简介]
+|-
 | 数学之美 || Beauty of Mathematics || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_%28Google%29 吴军] || 简体PDF(第1版)<br>简体TXT(第1版) || 2018-10-29<br>2016-05-15 || [https://docs.google.com/document/d/161QsDsZUGSFL4gfw65mUpmnG-XUszzdzOTXVwpFG9jg/ 简介]
 |}
 
