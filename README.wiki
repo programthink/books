@@ -2711,9 +2711,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体PDF(第2版)<br>英文PDF(第2版)<br>英文EPUB(第2版) || 2017-08-08<br>2015-11-07<br>2015-07-21 || [https://docs.google.com/document/d/18ubS_r5REXR8e5MDQDBdN-MWl0wCWBkr7rs-lX3BBDg/ 简介]
 |-
-| The GNU C Programming Tutorial || The GNU C Programming Tutorial || (英) [https://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist) Mark Burgess] || 英文PDF<br>[http://crasseux.com/books/ctutorial/ 英文WEB] || 2016-12-21<br>N/A || [https://docs.google.com/document/d/1g7DLsW7MogZeBwd6YkihUFCGNbyyEWRhy4UimHJXrVQ/ 简介]
+| C Primer Plus || C Primer Plus || (美) Stephen Prata || 简体EPUB(第6版)<br>英文PDF(第5版) || 2020-07-09<br>2020-07-09 || [https://docs.google.com/document/d/1WV4MGyFpUIgeVxgmLGRf-fa14tzQt5CZLF6GDiVsmUY/ 简介]
 |-
 | C 陷阱与缺陷 || C Traps and Pitfalls || (美) [https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer) Andrew Koenig] || 简体PDF(扫描版)<br>英文PDF || 2015-11-15<br>2015-11-07 || [https://docs.google.com/document/d/1nUcAsOdLiswaG7SRNuLK6exkSxwXTfl0cLnRl2hF4jU/ 简介]
+|-
+| The GNU C Programming Tutorial || The GNU C Programming Tutorial || (英) [https://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist) Mark Burgess] || 英文PDF<br>[http://crasseux.com/books/ctutorial/ 英文WEB] || 2016-12-21<br>N/A || [https://docs.google.com/document/d/1g7DLsW7MogZeBwd6YkihUFCGNbyyEWRhy4UimHJXrVQ/ 简介]
 |-
 | 21世纪 C 语言技巧 || 21st Century C<br>——C Tips from the New School || Ben Klemens || 英文EPUB || 2015-07-21 || [https://docs.google.com/document/d/1pheEFHj257LzVUdHTmOjB-3b6PbvwsPut_4ChPWmdBg/ 简介]
 |}
