@@ -284,11 +284,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 东方专制主义<br>——对于极权力量的比较研究 || Oriental Despotism<br>——A Comparative Study of Total Power || (德/美) [https://en.wikipedia.org/wiki/Karl_August_Wittfogel 卡尔·魏特夫] (中文名：魏复古) || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2019-02-25<br>2020-01-15 || [https://docs.google.com/document/d/1huLbyBvVHxXvWS-mChqwLjhU9JUuEY1Lgt1PrcxhJlA/ 简介]
 |-
+| 独裁者手册<br>——为什么恶劣行为总是政治成功的通行证 || The Dictator's Handbook<br>——Why Bad Behavior is Almost Always Good Politics || (美) [https://en.wikipedia.org/wiki/Bruce_Bueno_de_Mesquita 布鲁诺·德·梅斯奎塔]<br>(美) 阿拉斯泰尔·史密斯 || 简体MOBI(标注删节部分)<br>英文PDF(无删节)<br>简体EPUB(有删节)<br>简体MOBI(有删节) || 2020-11-20<br>2018-11-18<br>2019-03-02<br>2019-03-02 || [https://docs.google.com/document/d/1W0EDnnhCsbOUavwjDPzd2RgGncR97xFv1kO9tc--nBA/ 简介]
+|-
 | 极权主义民主的起源 || The Origins of Totalitarian Democracy || (波兰/以色列) [https://en.wikipedia.org/wiki/Jacob_Talmon 雅各布·塔尔蒙] || 简体PDF(扫描版) || 2015-07-14 || [https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/ 简介]
 |-
 | 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions about Uncertain Democracies || (阿根廷) [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈]<br>(美) [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2013-08-21<br>2020-01-15 || [https://docs.google.com/document/d/1mDbeZ-JwiZ2hMH1KGtZq7w_N6oJlY-PRoKzvCpBYClM/ 简介]
-|-
-| 独裁者手册<br>——为什么恶劣行为总是政治成功的通行证 || The Dictator's Handbook<br>——Why Bad Behavior is Almost Always Good Politics || (美) [https://en.wikipedia.org/wiki/Bruce_Bueno_de_Mesquita 布鲁诺·德·梅斯奎塔]<br>(美) 阿拉斯泰尔·史密斯 || 英文PDF(无删节)<br>简体EPUB(有删节)<br>简体MOBI(有删节) || 2018-11-18<br>2019-03-02<br>2019-03-02 || [https://docs.google.com/document/d/1W0EDnnhCsbOUavwjDPzd2RgGncR97xFv1kO9tc--nBA/ 简介]
 |-
 | 新常识<br>——一党专制的性质与后果 || New Common Sense<br>——The Nature and Consequences of One-Party Dictatorship || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 张雪忠] || 简体EPUB(精校版)<br>简体PDF<br>简体MOBI || 2015-11-29<br>2013-10-19<br>2018-11-10 || [https://docs.google.com/document/d/1-K5Qs01xhzhjMheWlznz44xwHjsCGc-mnRk3p9gWlSg/ 简介]
 |}
