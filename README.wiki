@@ -2697,7 +2697,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 敏捷软件开发<br>——原则、模式与实践 || Agile Software Development<br>——Principles, Patterns and Practices<br>''知名缩写：''PPP || (美) [https://en.wikipedia.org/wiki/Robert_Cecil_Martin Robert Martin] || 简体PDF(扫描版)<br>英文PDF || 2015-11-08<br>2020-04-06 || [https://docs.google.com/document/d/1VHP9DCKVUodV0QZqGJP5jgjWELU-Nq-5OfC1YugLCpM/ 简介]
 |-
-| 代码整洁之道<br>——程序员的职业素养 || Clean Code<br>——A Handbook of Agile Software Craftsmanship || (美) [https://en.wikipedia.org/wiki/Robert_Cecil_Martin Robert Martin] || 英文PDF || 2020-04-08 || [https://docs.google.com/document/d/1YJC4b0kaT4FlBVYVmVdVn--zlwRNROVWe8lqk8D6RB8/ 简介]
+| 代码整洁之道<br>——程序员的职业素养 || Clean Code<br>——A Handbook of Agile Software Craftsmanship || (美) [https://en.wikipedia.org/wiki/Robert_Cecil_Martin Robert Martin] || 简体PDF(扫描版)<br>英文PDF || 2020-11-20<br>2020-04-08 || [https://docs.google.com/document/d/1YJC4b0kaT4FlBVYVmVdVn--zlwRNROVWe8lqk8D6RB8/ 简介]
 |-
 | 最后期限<br>''其它中文名：''<br>最後期限<br>——專案管理101個成功法則 || The Deadline<br>——A Novel about Project Management || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF<br>英文PDF || 2013-10-20<br>2020-04-03 || [https://docs.google.com/document/d/1P3byYio4y8FacLAsgBC5vgJb3MFYN2kAtqmsimOuyqI/ 简介]
 |}
