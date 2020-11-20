@@ -2965,7 +2965,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| UNIX 网络编程<br><br>''包括如下：''<br>第1卷 套接字联网 API<br>第2卷 进程间通讯 || UNIX Network Programming<br>''知名缩写：''UNP<br><br>''包括如下：''<br>Volume 1 The Sockets Networking API<br>Volume 2 Interprocess Communications || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF Richard Stevens] || 英文PDF(共2卷)<br>英文CHM(共2卷 缺第2卷)<br>英文DJVU(共2卷 扫描版) || 2019-08-17<br>2013-10-20<br>2020-07-09 || [https://docs.google.com/document/d/1eB4BLE9PDXDfrb-ioXNfrHlOthMqUe0MXs8PmRsm3Os/ 简介]
+| UNIX 网络编程<br><br>''包括如下：''<br>第1卷 套接字联网 API<br>第2卷 进程间通讯 || UNIX Network Programming<br>''知名缩写：''UNP<br><br>''包括如下：''<br>Volume 1 The Sockets Networking API<br>Volume 2 Interprocess Communications || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF Richard Stevens] || 简体PDF(共2卷 扫描版)<br>英文PDF(共2卷)<br>英文CHM(共2卷 缺第2卷)<br>英文DJVU(共2卷 扫描版) || 2020-11-20<br>2019-08-17<br>2013-10-20<br>2020-07-09 || [https://docs.google.com/document/d/1eB4BLE9PDXDfrb-ioXNfrHlOthMqUe0MXs8PmRsm3Os/ 简介]
 |-
 | ZeroMQ || ZeroMQ<br>——Use ZeroMQ and Learn How to Apply Different Message Patterns || Faruk Akgul || 英文PDF || 2018-07-02 || [https://docs.google.com/document/d/1cKZuh8U-mdrGNqMLVsgmIq1El-qoN_hj79GqfB-B9kE/ 简介]
 |-
