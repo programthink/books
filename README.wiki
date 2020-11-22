@@ -1474,7 +1474,7 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 性心理学 || Psychology of Sex<br>——A Manual for Students || (英) [https://zh.wikipedia.org/wiki/%E5%93%88%E7%BB%B4%E6%B4%9B%E5%85%8B%C2%B7%E8%89%BE%E5%88%A9%E6%96%AF 哈维洛克·艾利斯] (旧译名：霭理士) || 简体TXT || 2019-08-22 || [https://docs.google.com/document/d/1Xqt95V3jIZ-EkpxK-ZrlK3TBOPXmlpxHP5rY_oFqJVw/ 简介]
+| 性心理学 || Psychology of Sex<br>——A Manual for Students || (英) [https://zh.wikipedia.org/wiki/%E5%93%88%E7%BB%B4%E6%B4%9B%E5%85%8B%C2%B7%E8%89%BE%E5%88%A9%E6%96%AF 哈维洛克·艾利斯] (旧译名：霭理士) || 简体PDF(扫描版)<br>简体TXT || 2020-11-22<br>2019-08-22 || [https://docs.google.com/document/d/1Xqt95V3jIZ-EkpxK-ZrlK3TBOPXmlpxHP5rY_oFqJVw/ 简介]
 |-
 | 男人来自火星，女人来自金星 || Men Are from Mars, Women Are from Venus || (美) [https://en.wikipedia.org/wiki/John_Gray_%28U.S._author%29 约翰·格雷] || 简体PDF(扫描版) || 2018-09-09 || [https://docs.google.com/document/d/17uDOlccJ6NmpeRVKvXPNDWUv2h9V_PRrVEZTqlwZy2A/ 简介]
 |}
