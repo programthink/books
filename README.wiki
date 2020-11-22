@@ -1598,7 +1598,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 中国大历史 || China<br>——A Macro History || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF<br>简体PDF(大字版)<br>简体MOBI<br>英文EPUB || 2013-02-05<br>2019-05-23<br>2019-05-23<br>2020-01-22 || [https://docs.google.com/document/d/1Btw6HQ1bQBCtlM2-6mNgZY2WZcGtU1FoNT5k3EyGLDI/ 简介]
 |-
-| 万历十五年 || 1587, a Year of No Significance<br>——The Ming Dynasty in Decline || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF<br>简体PDF(大字版)<br>简体TXT || 2014-01-08<br>2019-05-23<br>2016-05-17 || [https://docs.google.com/document/d/1QZqXBv7vh1LkB7DCJ5BgSFKAH9xW1uM4Hyqle2CugRI/ 简介]
+| 万历十五年 || 1587, a Year of No Significance<br>——The Ming Dynasty in Decline || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF(增订纪念本 扫描版)<br>简体PDF<br>简体PDF(大字版)<br>简体TXT || 2020-11-22<br>2014-01-08<br>2019-05-23<br>2016-05-17 || [https://docs.google.com/document/d/1QZqXBv7vh1LkB7DCJ5BgSFKAH9xW1uM4Hyqle2CugRI/ 简介]
 |-
 | 潜规则<br>——中国历史中的真实游戏 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || 简体PDF<br>简体EPUB<br>简体CHM<br>简体MOBI<br>简体TXT || 2013-02-27<br>2013-09-13<br>2013-02-07<br>2014-02-23<br>2016-04-30 || [https://docs.google.com/document/d/10QfjrLS2z5UItGzDP-U1z1u2WtW5igYTZMRg8UWoTrc/ 简介]
 |-
