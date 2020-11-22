@@ -1638,7 +1638,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 袁氏当国 || N/A || (中/美) [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(大字版)<br>繁體MOBI<br>简体TXT || 2015-02-09<br>2015-02-09<br>2016-04-30 || [https://docs.google.com/document/d/1KhCM1Y2CeWQRrDkAsISwrWjDkktbv74_aHHaQ2cGTx4/ 简介]
 |-
-| 重说中国近代史 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || [https://docs.google.com/document/d/1rq77xhsLAm4hi94PP-D-pSF3YcwE6RIZEoKXM8tN7RE/ 简介]
+| 重说中国近代史 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB<br>简体PDF(扫描版) || 2013-09-14<br>2020-11-22 || [https://docs.google.com/document/d/1rq77xhsLAm4hi94PP-D-pSF3YcwE6RIZEoKXM8tN7RE/ 简介]
 |-
 | 太平天国 || God's Chinese Son<br>——The Taiping Heavenly Kingdom of Hong Xiuquan || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 简体PDF(扫描版)<br>英文EPUB || 2017-05-03<br>2020-01-19 || [https://docs.google.com/document/d/126eHsUrcV0gT4i5lIKNbmxLCM5sd0xqQbZ1bHbIAJGM/ 简介]
 |-
