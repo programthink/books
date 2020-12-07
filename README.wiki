@@ -326,7 +326,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 理解国际冲突<br>——理论与历史<br>''其它中文名：''<br>理解全球冲突与合作<br>——理论与历史 || Understanding International Conflicts<br>——An Introduction to Theory and History<br>''其它英文名：''<br>Understanding Global Conflict and Cooperation<br>——An Introduction to Theory and History || (美) [https://en.wikipedia.org/wiki/Joseph_Nye 小约瑟夫·奈]<br>(加) [https://en.wikipedia.org/wiki/David_A._Welch 戴维·韦尔奇] || 简体PDF(第3版 扫描版)<br>英文PDF(第9版) || 2018-12-25<br>2020-01-25 || [https://docs.google.com/document/d/1EfcRhW5VchBc91hjRugsU5WdUGTvtai7qpO0d32Pcn4/ 简介]
 |-
-| 牛津通识读本：国际关系 || International Relations<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Paul_Wilkinson_(terrorism_expert) 保罗·威尔金森] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1wPNvhsvqGIW56i5W-L5PP3i_ar6aqiQQpepp4pz654Q/ 简介]
+| 牛津通识读本：国际关系 || International Relations<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Paul_Wilkinson_(terrorism_expert) 保罗·威尔金森] || 英文PDF<br>英文MOBI || 2015-12-13<br>2020-12-07 || [https://docs.google.com/document/d/1wPNvhsvqGIW56i5W-L5PP3i_ar6aqiQQpepp4pz654Q/ 简介]
 |-
 | 牛津通识读本：地缘政治 || Geopolitics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Klaus_Dodds 克劳斯·多兹] || 英文PDF(第1版) || 2015-12-13 || [https://docs.google.com/document/d/1h47g36TWm4BiWYhVAcvSt1w9-5jRm5pIN682hTsSgIg/ 简介]
 |}
