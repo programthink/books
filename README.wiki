@@ -1140,7 +1140,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 牛津通识读本：俄国革命 || The Russian Revolution<br>——A Very Short Introduction || (英) 斯蒂芬·史密斯 || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1fmul4fy7hvWg9EUo9EZDhYxHt7irgh3S5IRED2i183s/ 简介]
+| 牛津通识读本：俄国革命 || The Russian Revolution<br>——A Very Short Introduction || (英) 斯蒂芬·史密斯 || 英文PDF<br>英文MOBI || 2015-12-13<br>2020-12-07 || [https://docs.google.com/document/d/1fmul4fy7hvWg9EUo9EZDhYxHt7irgh3S5IRED2i183s/ 简介]
 |-
 | 苏共野史<br>——党治制的由来 || The Communist Party Apparatus || (俄/苏) [https://en.wikipedia.org/wiki/Abdurakhman_Avtorkhanov 阿卜杜拉赫曼·阿夫托尔汉诺夫] || 简体PDF(扫描版)<br>英文DJVU(扫描版) || 2014-01-09<br>2020-03-02 || [https://docs.google.com/document/d/13Z-89kprEvsiydS7dwsZIS5Qkq2D_yzJcbnULCYfDd4/ 简介]
 |-
