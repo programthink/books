@@ -1086,7 +1086,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 打造美国<br>——杰斐逊总统与马歇尔大法官的角逐 || What Kind of Nation<br>——Thomas Jefferson, John Marshall, and the Epic Struggle to Create a United States || (美) 詹姆斯·西蒙 || 简体PDF(扫描版) || 2017-05-05 || [https://docs.google.com/document/d/147bmjla_BoJw5tg-rc8Yc1YdCwLQsZPAKQtJdPeHF-k/ 简介]
 |-
-| 牛津通识读本：林肯 || Lincoln<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Allen_C._Guelzo 艾伦·古尔佐] || 英文PDF || 2015-12-12 || [https://docs.google.com/document/d/181VntxzFMDPPQrB4woetK-qvIwi6oXHVLH3kKmpX7vg/ 简介]
+| 牛津通识读本：林肯 || Lincoln<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Allen_C._Guelzo 艾伦·古尔佐] || 英文PDF<br>英文MOBI || 2015-12-12<br>2020-12-07 || [https://docs.google.com/document/d/181VntxzFMDPPQrB4woetK-qvIwi6oXHVLH3kKmpX7vg/ 简介]
 |}
 
 === 1.4.3 外交 ===
