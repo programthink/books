@@ -1062,7 +1062,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 牛津通识读本：美国总统制 || The American Presidency<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones 查尔斯·琼斯] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://docs.google.com/document/d/1TFcoQFM8Htsq-Kku7pIu7-74mO3zmWt356smEooh_Dc/ 简介]
 |-
-| 牛津通识读本：美国国会 || The U.S. Congress<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Donald_A._Ritchie 唐纳德·里奇] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1iXTywNedZJNqUcbt3HPZVv8yyGF2pE1WH-mU5sfDl1I/ 简介]
+| 牛津通识读本：美国国会 || The U.S. Congress<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Donald_A._Ritchie 唐纳德·里奇] || 英文PDF<br>英文MOBI || 2015-12-13<br>2020-12-07 || [https://docs.google.com/document/d/1iXTywNedZJNqUcbt3HPZVv8yyGF2pE1WH-mU5sfDl1I/ 简介]
 |-
 | 牛津通识读本：美国最高法院 || The U.S. Supreme Court<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Linda_Greenhouse 琳达·格林豪斯] || 简体EPUB<br>简体AZW3 || 2015-12-05<br>2015-12-05 || [https://docs.google.com/document/d/1L-6STYxRapvr6ABkQen7mR_H1z6DgF77rizv8kjhu4c/ 简介]
 |-
