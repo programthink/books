@@ -262,7 +262,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 牛津通识读本：社会主义 || Socialism<br>——A Very Short Introduction || (英) 迈克尔·纽曼 || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
+| 牛津通识读本：社会主义 || Socialism<br>——A Very Short Introduction || (英) 迈克尔·纽曼 || 英文PDF<br>英文MOBI || 2015-12-13<br>2020-12-07 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
 |-
 | 通往奴役之路 || The Road to Serfdom || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF(台湾版)<br>简体PDF(大字版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF<br>英文EPUB || 2014-05-18<br>2018-09-10<br>2013-03-24<br>2013-09-13<br>2015-05-11<br>2013-05-30<br>2019-01-04 || [https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/ 简介]
 |-
