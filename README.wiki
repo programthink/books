@@ -1742,7 +1742,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 牛津通识读本：十九世纪的英国 || Nineteenth-Century Britain<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Chris_Harvie 克里斯托弗·哈维]<br>(英) [https://en.wikipedia.org/wiki/Colin_Matthew 科林·马修] || 英文PDF<br>英文MOBI || 2015-12-15<br>2020-12-08 || [https://docs.google.com/document/d/1eAolgNZIm9Mq8ZZygzwEab5dE7cQ1wVxhmwGWfTW5b8/ 简介]
 |-
-| 牛津通识读本：二十世纪的英国 || Twentieth-Century Britain<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Kenneth_O._Morgan 肯尼思·摩根] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1B7GkPDXhLlIe9rIE9-T8GwZbRVIvtPNpHp5BPz2XRxM/ 简介]
+| 牛津通识读本：二十世纪的英国 || Twentieth-Century Britain<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Kenneth_O._Morgan 肯尼思·摩根] || 英文PDF<br>英文MOBI || 2015-12-15<br>2020-12-08 || [https://docs.google.com/document/d/1B7GkPDXhLlIe9rIE9-T8GwZbRVIvtPNpHp5BPz2XRxM/ 简介]
 |-
 | 从旧帝国到新帝国<br>——1783~1815年英帝国史纲要 || N/A || 郭家宏 || 简体PDF(扫描版) || 2019-08-24 || [https://docs.google.com/document/d/1BAHRNmQzlEP68KQREo1pu8ddzFM2DilBmG_VWrRaur8/ 简介]
 |}
