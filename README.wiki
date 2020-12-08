@@ -1698,7 +1698,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 牛津通识读本：罗马共和国 || The Roman Republic<br>——A Very Short Introduction || (英) 戴维·格温 || 英文EPUB || 2020-03-24 || [https://docs.google.com/document/d/1c-qlC9FyfF8Z-Mu5pR058tqGS7GGzYtCSdhnNEfDJAo/ 简介]
 |-
-| 牛津通识读本：罗马帝国简史 || The Roman Empire<br>——A Very Short Introduction || (澳大利亚) [https://en.wikipedia.org/wiki/Christopher_Kelly_(historian) 克里斯托弗·凯利] || 简体EPUB<br>英文PDF || 2020-03-29<br>2015-12-15 || [https://docs.google.com/document/d/1oh1b-3NP6SvS8bNHi79T62ui3XeU2KpqkceS-lIPv7w/ 简介]
+| 牛津通识读本：罗马帝国简史 || The Roman Empire<br>——A Very Short Introduction || (澳大利亚) [https://en.wikipedia.org/wiki/Christopher_Kelly_(historian) 克里斯托弗·凯利] || 简体EPUB<br>英文PDF<br>英文MOBI || 2020-03-29<br>2015-12-15<br>2020-12-08 || [https://docs.google.com/document/d/1oh1b-3NP6SvS8bNHi79T62ui3XeU2KpqkceS-lIPv7w/ 简介]
 |-
 | 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || (英) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 爱德华·吉本] || 简体PDF(共6卷 全译本 扫描版)<br>简体EPUB(节译本)<br>简体MOBI(节译本)<br>简体PDF(上下册 节译本)<br>简体CHM(节译本)<br>英文PDF(6卷本 节选版) || 2013-11-26<br>2013-09-14<br>2015-02-13<br>2013-02-07<br>2013-02-07<br>2020-01-19 || [https://docs.google.com/document/d/1rOKR225tuh_BhrYMnXDuuJL4Zk8D6tysElfplzSss1s/ 简介]
 |-
