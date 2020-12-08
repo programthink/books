@@ -1582,7 +1582,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 夹缝中的六国<br>——维也纳会议以来的中东欧历史 || The Lands between<br>——A History of East-Central Europe Since the Congress of Vienna || (英) [https://en.wikipedia.org/wiki/Alan_Palmer 艾伦·帕尔默] || 简体PDF(扫描版) || 2017-08-14 || [https://docs.google.com/document/d/1zsWgQOM0rB6K_XI27b2yFb3yaYy3l5gKoblGWGyDf68/ 简介]
 |-
-| 牛津通识读本：十字军 || The Crusades<br>——A Very Short Introduction || (英) [https://et.wikipedia.org/wiki/Christopher_Tyerman 克里斯托弗·泰尔曼] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1mRuBNHPEdOobU4Uau2aijmNjDd5GqP75RKsSqApHuyE/ 简介]
+| 牛津通识读本：十字军 || The Crusades<br>——A Very Short Introduction || (英) [https://et.wikipedia.org/wiki/Christopher_Tyerman 克里斯托弗·泰尔曼] || 英文PDF<br>英文MOBI || 2015-12-15<br>2020-12-08 || [https://docs.google.com/document/d/1mRuBNHPEdOobU4Uau2aijmNjDd5GqP75RKsSqApHuyE/ 简介]
 |}
 
 == 3.3 中国 ==
