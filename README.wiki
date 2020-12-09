@@ -2027,7 +2027,7 @@ BT Sync 密钥：B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ （此密钥的使用方法�
 |-
 | 格鲁夫给经理人的第一课 || High Output Management || (美) [https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E8%91%9B%E6%B4%9B%E5%A4%AB 安迪·格鲁夫] || 简体PDF(扫描版) || 2016-04-24 || [https://docs.google.com/document/d/1rwGma8QRrV6Ojql_Fj4Himr1ZtwCTmrqNMcZvbv-4IY/ 简介]
 |-
-| 成为技术领导者<br>——解决问题的有机方法 || Becoming A Technical Leader<br>——An Organic Problem-Solving Approach || (美) [https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || 简体PDF(扫描版 不全) || 2020-11-30 || [https://docs.google.com/document/d/1cm3v2QT8wvT1WFKq_IjzwAHN0_1QuMpEQOVzVYQcIw4/ 简介]
+| 成为技术领导者<br>——解决问题的有机方法 || Becoming a Technical Leader<br>——An Organic Problem-Solving Approach || (美) [https://en.wikipedia.org/wiki/Gerald_Weinberg 杰拉尔德·温伯格] || 简体PDF(扫描版)<br>英文EPUB || 2020-11-30<br>2020-12-09 || [https://docs.google.com/document/d/1cm3v2QT8wvT1WFKq_IjzwAHN0_1QuMpEQOVzVYQcIw4/ 简介]
 |}
 
 ----
