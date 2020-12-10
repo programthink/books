@@ -66,7 +66,11 @@ BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来�
 
 这种格式主要是面向移动设备（手机、平板），不过也可以在 PC 上阅读。
 
-EPUB 的的阅读软件很多，而且各个平台（Windows、Linux、Mac OS）都有。维基百科的[https://zh.wikipedia.org/wiki/EPUB#.E7.9B.B8.E9.97.9C.E8.BB.9F.E9.AB.94 这个页面]列出了常用的 EPUB 格式阅读软件。
+EPUB 的阅读软件很多，而且各个平台（Windows、Linux、Mac OS）都有。维基百科的[https://zh.wikipedia.org/wiki/EPUB 这个页面]列出了常用的 EPUB 格式阅读软件。
+
+<h3>MOBI ＆ AZW 格式</h3>
+
+这几种格式主要面向亚马逊的 Kindle 平板，不过也可以在 PC 上阅读。前面提到的 Sumatra PDF 支持这些格式。
 
 <h3>CHM 格式</h3>
 
@@ -83,21 +87,25 @@ EPUB 的的阅读软件很多，而且各个平台（Windows、Linux、Mac OS）
 
 <h3>HTML 格式</h3>
 
-HTML 格式的电子书会有多个文件，为了方便下载，用压缩打包成一个 ZIP 文件。下载后请先用压缩软件解开 ZIP 压缩包，即可直接浏览 HTML 文件。
+HTML 格式的电子书会有多个文件，为了方便下载，压缩打包成一个 ZIP 文件。下载后请先用压缩软件解开 ZIP 压缩包，即可直接浏览 HTML 文件。
 
 <h3>TXT 格式</h3>
 
-TXT 格式的电子书使用 '''UTF-8''' 编码保存。用 Windows 自带的记事本（Notepad）可以直接打开。
+网盘上的 TXT 格式电子书均使用 '''UTF-8''' 编码保存。用 Windows 自带的记事本（Notepad）可以直接打开。如果用其它阅读软件打开出现乱码，需要在该软件的界面上切换“字符集”或“编码”，切换为 '''UTF-8'''
 
-<h3>其它和“格式”相关问题</h3>
+<h3>杀毒软件误报</h3>
 
-如果碰到其它跟“格式”有关的问题，你搞不定（比如某本书无法打开），可以使用 GitHub 的 issue 给俺反馈。
+如果你的杀毒软件报告某本书有病毒，很大可能是【误报】。为了判断到底是不是误报，可以把这本书上传到在线查毒引擎 [https://www.virustotal.com/ VirusTotal] 进行扫描。
 
-使用 issue 的规范参见[https://github.com/programthink/books/issues/1 这里]。
+VirusTotal 隶属 Google 旗下，是全球最大的在线查毒引擎，也最权威。俺写过一篇[https://program-think.blogspot.com/2020/03/VirusTotal-Tricks.html 扫盲教程]，介绍该网站的使用。
+
+<h3>其它与“格式”相关问题</h3>
+
+如果碰到其它跟“格式”有关的问题，你搞不定（比如某本书无法打开），可以使用 GitHub 的 issue 给俺反馈。使用 issue 的规范参见[https://github.com/programthink/books/issues/1 这里]。
 
 <h2>如何阅读书籍</h2>
 
-考虑到很多网友不善于阅读书籍， '''俺强烈推荐大伙儿看一下《如何阅读一本书》''' （[https://program-think.blogspot.com/2013/04/how-to-read-book.html 俺的书评]、[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1250 下载地址]）。此书传授了关于阅读书籍的技巧，非常有价值。
+考虑到很多网友不善于阅读书籍， '''俺强烈推荐大伙儿看一下《如何阅读一本书》''' （[https://program-think.blogspot.com/2013/04/how-to-read-book.html 书评＆内容纲要]、[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1250 下载地址]）。此书传授了【阅读书籍的技巧】，非常有价值。
 
 ----
 
@@ -2388,7 +2396,17 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 
 ----
 
-= 9 军事 =
+= 9 科普 =
+
+'''【网盘】'''
+
+[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1002 微软网盘]
+
+BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法，参见页面开头的“网盘下载须知”）
+
+----
+
+= 10 军事 =
 
 '''【网盘】'''
 
@@ -2396,7 +2414,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 
 BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
-== 9.1 军事理论 ==
+== 10.1 军事理论 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2416,11 +2434,11 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 世界上二十次重大战役中的决定因素 || Decisive Factors in Twenty Great Battles of the World || (英) 威廉·西摩 || 简体PDF(大字版) || 2017-08-12 || [https://docs.google.com/document/d/1vF0dLeBtIQndH13X3JHYW3vUxpDwRNHkFXrDtX9Pv8U/ 简介]
 |}
 
-== 9.2 现代军事史 ==
+== 10.2 现代军事史 ==
 
-=== 9.2.1 二战 ===
+=== 10.2.1 二战 ===
 
-==== 9.2.1.1 (综合) ====
+==== 10.2.1.1 (综合) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2442,7 +2460,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 山的那一边<br>——被俘德国将领谈二战 || The Other Side of the Hill || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2017-08-11<br>2020-03-08 || [https://docs.google.com/document/d/1N8NCjRYRzCf-RrfmeqolZrGLu7wBskyagro8dUfciZk/ 简介]
 |}
 
-==== 9.2.1.2 东欧战场 ====
+==== 10.2.1.2 东欧战场 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2452,7 +2470,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 失去的胜利<br>''其它中文名：''<br>曼施泰因元帅战争回忆录 || Lost Victories<br>——The War Memoirs of Hitler's Most Brilliant General || (德) [https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E6%9B%BC%E6%96%BD%E5%9D%A6%E5%9B%A0 埃里希·冯·曼施坦因] || 简体TXT<br>英文PDF || 2016-05-16<br>2018-08-20 || [https://docs.google.com/document/d/1cA2OzsLKTM3sNVcMqDheF8RmsS5UxmX6G2wvVtRwrY8/ 简介]
 |}
 
-==== 9.2.1.3 西欧与北非战场 ====
+==== 10.2.1.3 西欧与北非战场 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2464,7 +2482,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版)<br>英文EPUB || 2016-12-11<br>2020-01-21 || [https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/ 简介]
 |}
 
-==== 9.2.1.4 太平洋战场 ====
+==== 10.2.1.4 太平洋战场 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2476,7 +2494,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 袭击珍珠港 || N/A || (日) [https://zh.wikipedia.org/wiki/%E6%B8%8A%E7%94%B0%E7%BE%8E%E6%B4%A5%E9%9B%84 渊田美津雄] || 简体PDF(扫描版) || 2015-10-25 || [https://docs.google.com/document/d/1RNM7VsUSnj9OH_ymsiLe_nlFPKn-hn_uuRktNfzHkIc/ 简介]
 |}
 
-==== 9.2.1.5 中国战场 ====
+==== 10.2.1.5 中国战场 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2508,7 +2526,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 中日战争时期的通敌内幕，1937~1945 || China and Japan at War 1937-1945<br>——The Politics of Collaboration || (美) 约翰·博伊尔 || 简体PDF(大字版) || 2017-08-11 || [https://docs.google.com/document/d/1pWcINJhncJ5wkOi9AtN7QgTZCMcEzWDtFt_XVvPh0ZI/ 简介]
 |}
 
-=== 9.2.2 韩战 ===
+=== 10.2.2 韩战 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2528,7 +2546,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 杜鲁门与麦克阿瑟的冲突和朝鲜战争 || The Truman-MacArthur Controversy and the Korean War || (美) 约翰·斯帕尼尔 || 简体PDF(扫描版) || 2017-02-19 || [https://docs.google.com/document/d/190wu3oy_Q0aeGdSM64B0G5LFW-xk0n8CqM2s9qtV288/ 简介]
 |}
 
-=== 9.2.3 越战 ===
+=== 10.2.3 越战 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2540,7 +2558,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 中国秘密大发兵<br>——援越抗美实录 || N/A || 王贤根 || 简体PDF(扫描版) || 2013-02-05 || [https://docs.google.com/document/d/1yDT3OW6eHiztJgwxdHB2SBVO79iEg--XNeB6MWQGpWc/ 简介]
 |}
 
-=== 9.2.4 冷战 ===
+=== 10.2.4 冷战 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2562,7 +2580,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 冰与火之歌<br>——回首冷战军事对抗史 || N/A || 《现代兵器》杂志社 || 简体PDF(扫描版) || 2015-02-17 || [https://docs.google.com/document/d/10_76aX4h4KUwN03fNZG4Sao2gSEWfOykCTmgxUnkRas/ 简介]
 |}
 
-=== 9.2.5 一战 ===
+=== 10.2.5 一战 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2576,9 +2594,9 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 乱七八糟的第一次世界大战 || The Frightful First World War || (英) [https://en.wikipedia.org/wiki/Terry_Deary 泰瑞·狄利] || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/1QadSr3xDJ8b0HDFBAEWtHGvYx4jhZruBCOR9OhTZqZI/ 简介]
 |}
 
-== 9.3 近代军事史 ==
+== 10.3 近代军事史 ==
 
-=== 9.3.1 甲午战争 ===
+=== 10.3.1 甲午战争 ===
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2586,7 +2604,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 绝版甲午<br>——从海外史料揭秘中日战争 || (澳大利亚) 雪珥 (原名：蒋文胜) || 简体PDF(扫描版) || 2016-12-10 || [https://docs.google.com/document/d/1IX4mItDDceLw3IZmUff4qASiVkmFl5r2YL33-jIiv1A/ 简介]
 |}
 
-=== 9.3.2 鸦片战争 ===
+=== 10.3.2 鸦片战争 ===
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2598,7 +2616,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 这一次，我们又挨打了<br>——中英第二次鸦片战争始末 || 端木赐香 (原名：李桂枝) || 简体PDF || 2015-07-12 || [https://docs.google.com/document/d/1X_xnunJOqz31YrQcsnjAjHsauUhcWmjZychTQiHkdHQ/ 简介]
 |}
 
-=== 9.3.3 南北战争 ===
+=== 10.3.3 南北战争 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2608,9 +2626,9 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 美国内战 || The Civil War<br>——An Illustrated History || (美) [https://en.wikipedia.org/wiki/Geoffrey_Ward 乔弗里·瓦德] || 简体TXT || 2016-05-15 || [https://docs.google.com/document/d/17K--0kVp9dFd8btN0nXdn-TrJGsgWTjkZCoyCiHdd4Q/ 简介]
 |}
 
-== 9.4 古代军事史 ==
+== 10.4 古代军事史 ==
 
-=== 9.4.1 古希腊 ===
+=== 10.4.1 古希腊 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2624,7 +2642,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 牛津通识读本：特洛伊战争 || The Trojan War<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Eric_H._Cline 埃里克·克莱因] || 英文EPUB || 2020-03-24 || [https://docs.google.com/document/d/127_o3B7sxb7VD9A0b-_RJuZqK_aAKIhpKdX51OKS0E0/ 简介]
 |}
 
-=== 9.4.2 古罗马 ===
+=== 10.4.2 古罗马 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2638,7 +2656,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 汉尼拔战争 || N/A || 王乃新 || 简体PDF(扫描版) || 2013-02-05 || [https://docs.google.com/document/d/1cjwGR7c9825LtY_Uto3ohwRiVwcNqqBsLG1jKnSQnKI/ 简介]
 |}
 
-== 9.5 其它军事史 ==
+== 10.5 其它军事史 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2648,7 +2666,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 影响人类历史进程的100场决定性战役 || 100 Decisive Battles<br>——From Ancient Times to the Present || (美) [https://en.wikipedia.org/wiki/Paul_K._Davis_%28historian%29 保罗·戴维斯] || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/1miVoMp3DsBNFyhAt1pZgLtPcaPKv_-S252aVa4o0x0A/ 简介]
 |}
 
-== 9.6 武器 ==
+== 10.6 武器 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2660,7 +2678,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 | 简氏枪械鉴赏指南典藏版 || Jane's Guns Recognition Guide || 理查德·琼斯<br>安德鲁·怀特 || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/11aR5ShFSnWjVLetc7EmGeAzM00QyIP1DnRH7vTIUnqI/ 简介]
 |}
 
-== 9.7 美国 ==
+== 10.7 美国 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2670,7 +2688,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 
 ----
 
-= 10 IT =
+= 11 IT =
 
 （IT领域的发展太快，导致书籍的生命周期变短。所以俺尽量挑选那些生命周期比较长的电子书。）
 
@@ -2680,9 +2698,9 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 
 BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
-== 10.1 软件开发 ==
+== 11.1 软件开发 ==
 
-=== 10.1.1 软件工程 ===
+=== 11.1.1 软件工程 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2704,11 +2722,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 最后期限<br>''其它中文名：''<br>最後期限<br>——專案管理101個成功法則 || The Deadline<br>——A Novel about Project Management || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco] || 简体PDF<br>英文PDF || 2013-10-20<br>2020-04-03 || [https://docs.google.com/document/d/1P3byYio4y8FacLAsgBC5vgJb3MFYN2kAtqmsimOuyqI/ 简介]
 |}
 
-=== 10.1.2 编程语言 ===
+=== 11.1.2 编程语言 ===
 
 （本类别放置“具体编程语言相关”的编程类电子书）
 
-==== 10.1.2.1 C ====
+==== 11.1.2.1 C ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2724,7 +2742,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 21世纪 C 语言技巧 || 21st Century C<br>——C Tips from the New School || Ben Klemens || 英文EPUB || 2015-07-21 || [https://docs.google.com/document/d/1pheEFHj257LzVUdHTmOjB-3b6PbvwsPut_4ChPWmdBg/ 简介]
 |}
 
-==== 10.1.2.2 C++ ====
+==== 11.1.2.2 C++ ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2768,7 +2786,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 大规模 C++ 程序设计 || Large-Scale C++ Software Design || (美) John Lakos || 简体PDF(扫描版)<br>英文DJVU(扫描版) || 2013-10-30<br>2020-04-04 || [https://docs.google.com/document/d/1leenai6kljTceQoxIL7tGeVvccC0DX6Ca9pUobk6pug/ 简介]
 |}
 
-==== 10.1.2.3 Python ====
+==== 11.1.2.3 Python ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2784,7 +2802,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 深入 Python || Dive into Python || (美) [https://en.wikipedia.org/wiki/Mark_Pilgrim_%28software_developer%29 Mark Pilgrim] || 英文PDF<br>简体PDF || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1iy-q4o_bJl5fww4jwQYPjVJ6ZQWheQ2fi5gr1Mi_yNc/ 简介]
 |}
 
-==== 10.1.2.4 Java ====
+==== 11.1.2.4 Java ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2796,7 +2814,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Java 性能优化权威指南 || Java Performance || Charlie Hunt<br>Binu John || 英文PDF(第1版) || 2015-11-08 || [https://docs.google.com/document/d/14zbukT1-iVGXd_Tf4OBJwr_QXUZxpn8Kya-AO6g5QU0/ 简介]
 |}
 
-==== 10.1.2.5 JavaScript ====
+==== 11.1.2.5 JavaScript ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2808,7 +2826,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | JavaScript 语言精粹 || JavaScript<br>——The Good Parts || (美) [https://en.wikipedia.org/wiki/Douglas_Crockford Douglas Crockford] || 简体PDF(修订版 扫描版)<br>简体PDF(扫描版)<br>英文PDF || 2019-03-29<br>2018-07-19<br>2016-12-21 || [https://docs.google.com/document/d/18RsrrIS1uQCoQXp8zzhIqNypkW31huvh8hGVYm3UtCc/ 简介]
 |}
 
-==== 10.1.2.6 Lisp ====
+==== 11.1.2.6 Lisp ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2834,7 +2852,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Basic Lisp Techniques || Basic Lisp Techniques || David Cooper || 英文PDF || 2015-01-11 || [https://docs.google.com/document/d/175xgao1KtWlMy5OhbvZdM2LvAn1kA6uJ_3OBb7gXF6o/ 简介]
 |}
 
-==== 10.1.2.7 Go ====
+==== 11.1.2.7 Go ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2846,7 +2864,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Go 语言程序设计 || Programming in Go<br>——Creating Applications for the 21st Century || (英) Mark Summerfield || 英文PDF(第1版) || 2018-07-20 || [https://docs.google.com/document/d/1g5JgAnTNYYnRXZLaf3alpEZhLNXAHygdlnNMNoUYEzI/ 简介]
 |}
 
-==== 10.1.2.8 Ruby ====
+==== 11.1.2.8 Ruby ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2854,7 +2872,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Ruby 程序设计 || Programming Ruby<br>——The Pragmatic Programmer's Guide || (美) [https://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29 David Thomas]<br>(美) [https://en.wikipedia.org/wiki/Andy_Hunt_%28author%29 Andrew Hunt] || 英文PDF(第4版) || 2020-04-08 || [https://docs.google.com/document/d/1xa8JSMrJle5op-iNwii7ttD5lU0EJ7YVqP6dCMSZcM0/ 简介]
 |}
 
-==== 10.1.2.9 Rust ====
+==== 11.1.2.9 Rust ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2864,7 +2882,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Rust 程序设计 || Programming Rust<br>——Fast, Safe Systems Development || (美) Jim Blandy<br>(美) Jason Orendorff || 英文PDF(第1版 大字版)<br>英文EPUB(第1版 不全) || 2020-04-06<br>2019-03-30 || [https://docs.google.com/document/d/12wXcRR-BJXkabG6IiHFGf9H2lZevav-zoGi8aMo1uCY/ 简介]
 |}
 
-==== 10.1.2.10 Prolog ====
+==== 11.1.2.10 Prolog ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2876,7 +2894,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | An Introduction to Logic Programming through Prolog || An Introduction to Logic Programming through Prolog || (英) [https://en.wikipedia.org/wiki/Michael_Spivey Michael Spivey] || 英文PDF || 2018-07-18 || [https://docs.google.com/document/d/1jaC3AgP2buDbj6jrWGUMzCtrIn-dmXZjNRPeYS8qPJA/ 简介]
 |}
 
-==== 10.1.2.11 (其它) ====
+==== 11.1.2.11 (其它) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2884,7 +2902,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 简体PDF(扫描版)<br>英文PDF || 2015-05-12<br>2020-04-02 || [https://docs.google.com/document/d/1mgTeV93g1qn59tdktfud11dlubEcaAtRauvOdzXcYkA/ 简介]
 |}
 
-=== 10.1.3 编程范式 ===
+=== 11.1.3 编程范式 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2898,7 +2916,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 七周七并发模型 || Seven Concurrency Models in Seven Weeks<br>——When Threads Unravel || (美) Paul Butcher || 简体PDF(扫描版)<br>英文PDF || 2018-07-25<br>2019-07-31 || [https://docs.google.com/document/d/19vZDj1dZW8ufQmFso3WDj0k5DZg5-IdTiqUSu5VDzt0/ 简介]
 |}
 
-=== 10.1.4 算法与数据结构 ===
+=== 11.1.4 算法与数据结构 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2918,7 +2936,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 数学之美 || Beauty of Mathematics || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_%28Google%29 吴军] || 简体PDF(第1版)<br>简体TXT(第1版) || 2018-10-29<br>2016-05-15 || [https://docs.google.com/document/d/161QsDsZUGSFL4gfw65mUpmnG-XUszzdzOTXVwpFG9jg/ 简介]
 |}
 
-=== 10.1.5 调试与测试 ===
+=== 11.1.5 调试与测试 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2928,11 +2946,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 软件调试的艺术 || The Art of Debugging with GDB, DDD and Eclipse || (美) [https://en.wikipedia.org/wiki/Norman_Matloff Norman Matloff]<br>(美) [https://en.wikipedia.org/wiki/Peter_J._Salzman Peter Salzman] || 简体PDF(扫描版) || 2020-04-10 || [https://docs.google.com/document/d/1kBVMBAzvdEeVfEjr3iQ4PfMwWe3Kd4vWBq8Fw7sTi0M/ 简介]
 |}
 
-=== 10.1.6 操作系统相关 ===
+=== 11.1.6 操作系统相关 ===
 
 （本类别放置“具体操作系统相关”的编程类电子书）
 
-==== 10.1.6.1 UNIX 与 Linux ====
+==== 11.1.6.1 UNIX 与 Linux ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2950,7 +2968,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 精通 Linux 设备驱动程序开发 || Essential Linux Device Drivers || (印度) Venkateswaran || 简体PDF(扫描版) || 2015-11-06 || [https://docs.google.com/document/d/1KZuHFCKZkF1cjdLAXVvIq4TJp9XHIcM1WRt5t3I6LR8/ 简介]
 |}
 
-==== 10.1.6.2 Windows ====
+==== 11.1.6.2 Windows ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2958,11 +2976,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Windows 核心编程 || Windows via C & C++<br>''其它英文名：''<br>Programming Applications for Windows || (美) [https://en.wikipedia.org/wiki/Jeffrey_Richter Jeffrey Richter] || 英文CHM(第5版)<br>简体PDF(第4版)<br>英文CHM(第4版) || 2020-04-10<br>2014-05-13<br>2013-10-21 || [https://docs.google.com/document/d/1G86gTTFiNRGlg-SCV0YDc3HSoIX4l8RLL13zF6Xm_V8/ 简介]
 |}
 
-=== 10.1.7 网络相关 ===
+=== 11.1.7 网络相关 ===
 
 （本类别放置“网络相关”的编程类电子书）
 
-==== 10.1.7.1 C & C++ ====
+==== 11.1.7.1 C & C++ ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2974,7 +2992,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | C++ 网络编程<br><br>''包括如下：''<br>第1卷 运用 ACE 和模式消除复杂性<br>第2卷 基于 ACE 和框架的系统化复用 || C++ Network Programming<br><br>''包括如下：''<br>Volume 1 Mastering Complexity with ACE and Patterns<br>Volume 2 Systematic Reuse with ACE and Frameworks || (美) [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] || 英文CHM(共2卷) || 2013-10-21 || [https://docs.google.com/document/d/1-_EWftyk3_hVKNs1_cuKrEnK4QxSO0qPeeemj9I7bsM/ 简介]
 |}
 
-==== 10.1.7.2 Python ====
+==== 11.1.7.2 Python ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2982,9 +3000,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Twisted Network Programming Essentials || Twisted Network Programming Essentials<br>——Developing With Python's Event-driven Framework || Abe Fettig<br>(美) [https://en.wikipedia.org/wiki/Jessica_McKellar Jessica McKellar] || 英文CHM(第1版) || 2016-12-22 || [https://docs.google.com/document/d/10xotkTyITV-OdtjapXwVsyh8UnD9MoZDffZ7mElCLJY/ 简介]
 |}
 
-=== 10.1.8 Web 相关 ===
+=== 11.1.8 Web 相关 ===
 
-==== 10.1.8.1 架构设计 ====
+==== 11.1.8.1 架构设计 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2994,7 +3012,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | RESTful Web Services Cookbook || RESTful Web Services Cookbook || (美) Subbu Allamaraju || 简体PDF<br>英文PDF || 2018-06-28<br>2017-08-09 || [https://docs.google.com/document/d/1heGQmHpTSu5ifY5T3kZZMP4WpZswQedPNiyBiSCukFw/ 简介]
 |}
 
-==== 10.1.8.2 服务端框架 ====
+==== 11.1.8.2 服务端框架 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3004,7 +3022,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Django 基础教程 || Tango with Django<br>——A Beginner's Guide to Web Development with Django<br>''其它英文名：''<br>Tango with Django<br>——Learn Web Development with Python and Django || Leif Azzopardi<br>David Maxwell || 英文PDF(Django 1.9)<br>[https://tango-with-django.readthedocs.io/ 英文WEB] || 2020-04-09<br>N/A || [https://docs.google.com/document/d/1LMizYkOkdXwH2JxzH27KQeNjMjgphLhiLtuLBJv72RU/ 简介]
 |}
 
-=== 10.1.9 硬件相关 ===
+=== 11.1.9 硬件相关 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3014,7 +3032,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 每个程序员都应该了解的内存知识 || What Every Programmer Should Know About Memory || (美) [https://de.wikipedia.org/wiki/Ulrich_Drepper Ulrich Drepper] || 英文PDF || 2017-08-10 || [https://docs.google.com/document/d/1GZpQKWRs1dt-VguVC-om1qFi1tkVwvsRIAZQqvDOa7E/ 简介]
 |}
 
-=== 10.1.10 (其它) ===
+=== 11.1.10 (其它) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3032,7 +3050,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 代码阅读方法与实践 || Code Reading<br>——The Open Source Perspective || (希腊) [https://en.wikipedia.org/wiki/Diomidis_Spinellis Diomidis Spinellis] || 简体PDF(扫描版)<br>英文CHM || 2015-11-03<br>2020-04-04 || [https://docs.google.com/document/d/1Ob05-CB5tDeWv6zypGHgMQORI4xCOpcF9PmWQ6qzDnc/ 简介]
 |}
 
-== 10.2 黑客文化与开源文化 ==
+== 11.2 黑客文化与开源文化 ==
 
 （考虑到“黑客”一词已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚：“黑客/Hacker”与“骇客/Cracker”是有天壤之别的）
 
@@ -3058,11 +3076,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 制造开源软件<br>——如何成功运营自由软件项目 || Producing Open Source Software<br>——How to Run a Successful Free Software Project || [https://en.wikipedia.org/wiki/Karl_Fogel Karl Fogel] || 简体EPUB<br>英文EPUB<br>英文PDF<br>[https://producingoss.com/zh/ 简体WEB]<br>[https://producingoss.com/en/ 英文WEB] || 2016-12-21<br>2016-12-21<br>2017-05-06<br>N/A<br>N/A || [https://docs.google.com/document/d/1QsMCFk1zCJ9voQ0DUn6peKE70MYVQ95YicJXbDlcQSc/ 简介]
 |}
 
-== 10.3 信息安全 ==
+== 11.3 信息安全 ==
 
 （俺在博客上写了不少信息安全的扫盲教程，如果不分享几本相关的书，实在说不过去啊）
 
-=== 10.3.1 社会工程学 ===
+=== 11.3.1 社会工程学 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3072,7 +3090,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 社会工程<br>——安全体系中的人性漏洞 || Social Engineering<br>——The Art of Human Hacking<br>''其它英文名：''<br>Social Engineering<br>——The Science of Human Hacking || (美) [https://en.wikipedia.org/wiki/Christopher_J._Hadnagy Christopher Hadnagy] || 英文PDF(第2版)<br>英文PDF(第1版) || 2020-04-02<br>2020-04-02 || [https://docs.google.com/document/d/188NKsl2wukTXlvDkTwJI3OgOpGkziNLi27PlWFbGsEk/ 简介]
 |}
 
-=== 10.3.2 密码学 ===
+=== 11.3.2 密码学 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3084,7 +3102,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 密码编码学与网络安全<br>——原理与实践 || Cryptography and Network Security<br>——Principles and Practice || (美) [https://en.wikipedia.org/wiki/William_Stallings William Stallings] || 英文PDF(第5版)<br>英文PDF(第4版)<br>简体PDF(第3版 扫描版) || 2013-11-18<br>2019-03-25<br>2013-11-18 || [https://docs.google.com/document/d/17j7YU3oVijVxEawynMkKksX0WscdK7LzuM69i3tzVa4/ 简介]
 |}
 
-=== 10.3.3 安全加固 ===
+=== 11.3.3 安全加固 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3108,7 +3126,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Gentoo 官方安全手册 || Gentoo Security Handbook || N/A || [https://wiki.gentoo.org/wiki/Security_Handbook 英文WEB] || N/A || N/A
 |}
 
-=== 10.3.4 入侵与渗透测试 ===
+=== 11.3.4 入侵与渗透测试 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3128,7 +3146,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 内核漏洞的利用与防范 || A Guide to Kernel Exploitation<br>——Attacking the Core || (美) Enrico Perla<br>(美) Massimiliano Oldani || 英文PDF(第1版) || 2018-07-29 || [https://docs.google.com/document/d/15_pQ1TBuvRPy9fVz9JWqLbjW0bOoKcMq20yMZH_vZSo/ 简介]
 |}
 
-=== 10.3.5 破解与逆向工程 ===
+=== 11.3.5 破解与逆向工程 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3136,7 +3154,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 逆向工程权威指南<br>''其它中文名：''<br>逆向工程入门指南 || Reverse Engineering for Beginners<br>——Understanding Assembly Language<br>''知名缩写：''RE4B || (乌克兰) Dennis Yurichev || 简体EPUB<br>英文PDF || 2019-03-28<br>2018-08-04 || [https://docs.google.com/document/d/1wHhEagVYr-lS2YJWurkzGH1oGnl76CprsuqNw7BXBhk/ 简介]
 |}
 
-=== 10.3.6 恶意软件 ===
+=== 11.3.6 恶意软件 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3144,11 +3162,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 恶意代码分析实战 || Practical Malware Analysis<br>——The Hands-On Guide to Dissecting Malicious Software || (美) Michael Sikorski<br>(美) Andrew Honig || 英文PDF || 2020-04-11 || [https://docs.google.com/document/d/1pHWLBwhSTsiJph2amvCm6Uw2aoMqW4n7Y_hyrNg6fE0/ 简介]
 |}
 
-=== 10.3.7 编程语言相关 ===
+=== 11.3.7 编程语言相关 ===
 
 （本目录下放的是“信息安全”相关的编程书籍，按【语言】归类）
 
-==== 10.3.7.1 C & C++ ====
+==== 11.3.7.1 C & C++ ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3158,7 +3176,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | C++ 语言安全编程规范 || SEI CERT C++ Coding Standard || (美) [https://en.wikipedia.org/wiki/CERT_Coordination_Center CERT/CC] || 英文PDF(2016版) || 2019-04-02 || [https://docs.google.com/document/d/1zi7_dcLXnVCc9ePEgdhnU1xxuYgM5RavsmkEp7gKRnM/ 简介]
 |}
 
-==== 10.3.7.2 Python ====
+==== 11.3.7.2 Python ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3170,9 +3188,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Python 绝技<br>——运用 Python 成为顶级黑客 || Violent Python<br>——A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers || (美) TJ O'Connor || 简体PDF(第1版)<br>英文PDF(第1版)<br>英文EPUB(第1版) || 2018-07-29<br>2019-08-02<br>2015-07-21 || [https://docs.google.com/document/d/1zEkq4Sx7Eq7b75_Y6tiC6LnSyfHPgzxmT7kELtO9eXI/ 简介]
 |}
 
-== 10.4 操作系统 ==
+== 11.4 操作系统 ==
 
-=== 10.4.1 使用教程 ===
+=== 11.4.1 使用教程 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3190,9 +3208,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Linux 从入门到精通 || N/A || N/A || 简体PDF(第1版 扫描版) || 2013-12-06 || [https://docs.google.com/document/d/1bYFohD2-j7dOLyggGQVXOOVgTuQhiY2Gp-g0zQoIQRs/ 简介]
 |}
 
-=== 10.4.2 操作系统原理 ===
+=== 11.4.2 操作系统原理 ===
 
-==== 10.4.2.1 (综述) ====
+==== 11.4.2.1 (综述) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3202,7 +3220,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 现代操作系统 || Modern Operating Systems<br>''知名缩写：''MOS || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum] || 英文PDF(第4版)<br>英文PDF(第2版 扫描版) || 2015-11-17<br>2015-11-08 || [https://docs.google.com/document/d/1ZlGkz_qQwEKdk_ry2jq4jVjusN4M9HGiLgjpwkblM5I/ 简介]
 |}
 
-==== 10.4.2.2 UNIX ====
+==== 11.4.2.2 UNIX ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3212,7 +3230,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 莱昂氏 UNIX 源代码分析 || A Commentary on the Sixth Edition UNIX Operating System || (澳大利亚) [https://en.wikipedia.org/wiki/John_Lions John Lions] || 英文PDF || 2018-08-03 || [https://docs.google.com/document/d/1ZJ-cjD0ZoTa3PzY9CCx1uELnsCmxhgIr7cKEkYSd-Fw/ 简介]
 |}
 
-==== 10.4.2.3 Linux ====
+==== 11.4.2.3 Linux ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3222,7 +3240,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF(第3版)<br>英文CHM(第3版) || 2013-12-06<br>2013-10-21 || [https://docs.google.com/document/d/1kzwG7YYLCWTipbaJncwDnVxC8cD8_-B9m9OkkYa4tDs/ 简介]
 |}
 
-==== 10.4.2.4 Windows ====
+==== 11.4.2.4 Windows ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3230,9 +3248,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 深入解析 Windows 操作系统<br>''其它中文名：''<br>Windows 内部揭密 || Windows Internals || (西班牙) [https://en.wikipedia.org/wiki/Mark_Russinovich Mark Russinovich]<br>David Solomon<br>Alex Ionescu || 英文PDF(第6版 上下册)<br>英文PDF(第5版)<br>英文PDF(第4版)<br>简体PDF(第4版 扫描版) || 2019-04-13<br>2018-08-03<br>2018-08-03<br>2018-11-09 || [https://docs.google.com/document/d/1lb_QR-35FqkW-qKFM-DPU-xnFN2Q13-qe-28_AqoOVU/ 简介]
 |}
 
-== 10.5 网络 ==
+== 11.5 网络 ==
 
-=== 10.5.1 (综述) ===
+=== 11.5.1 (综述) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3240,7 +3258,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 计算机网络 || Computer Networks || (美) [https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum Andrew Tanenbaum]<br>(美) David Wetherall || 简体PDF(第5版 扫描版)<br>英文PDF(第5版)<br>英文CHM(第4版) || 2018-08-04<br>2015-01-11<br>2020-04-02 || [https://docs.google.com/document/d/1XQwaAMzuGuvmq5fCiTDMrh_pTUpCHJJ5C17btTv8kdE/ 简介]
 |}
 
-=== 10.5.2 网络协议 ===
+=== 11.5.2 网络协议 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3250,9 +3268,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | HTTP 权威指南 || HTTP<br>——The Definitive Guide || David Gourley<br>Brian Totty<br>Marjorie Sayer<br>Sailu Reddy<br>Anshu Aggarwal || 简体PDF(扫描版)<br>英文PDF || 2018-06-28<br>2018-11-09 || [https://docs.google.com/document/d/1TgujhFUzyVlf1W5e48lSMTIwJuCTElvXw2LgQ_Ng0Cs/ 简介]
 |}
 
-=== 10.5.3 分布式 ===
+=== 11.5.3 分布式 ===
 
-==== 10.5.3.1 (综述) ====
+==== 11.5.3.1 (综述) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3268,7 +3286,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 分布式计算的八大误区 || Fallacies of Distributed Computing || (美) [https://en.wikipedia.org/wiki/L._Peter_Deutsch Laurence Peter Deutsch] || [https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing 英文WEB] || N/A || N/A
 |}
 
-==== 10.5.3.2 一致性 ====
+==== 11.5.3.2 一致性 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3278,7 +3296,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | CAP 理论十二年回顾<br>——“规则”变了 || CAP Twelve Years Later<br>——How the "Rules" Have Changed || (美) [https://en.wikipedia.org/wiki/Eric_Brewer_(scientist) Eric Brewer] || [https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed 英文WEB]<br>[https://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed 简体WEB]<br>英文PDF || N/A<br>N/A<br>2018-11-08 || [https://docs.google.com/document/d/1LTeznQtvYKOa_D3XS34-WScyUnKvUKxp2VxQB4x-oDA/ 简介]
 |}
 
-==== 10.5.3.3 容错性 ====
+==== 11.5.3.3 容错性 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3288,7 +3306,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 拜占庭将军问题 || Byzantine Generals Problem || (美) [https://en.wikipedia.org/wiki/Leslie_Lamport Leslie Lamport] || [https://en.wikipedia.org/wiki/Byzantine_fault_tolerance 英文WEB]<br>英文PDF(扫描版) || N/A<br>2018-11-08 || [https://docs.google.com/document/d/1mLf2jwt5TNl5WIHvuW6K14xu9gIYVVUKkI6dZNQmcMA/ 简介]
 |}
 
-==== 10.5.3.4 DHT(分布式哈希表) ====
+==== 11.5.3.4 DHT(分布式哈希表) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3300,7 +3318,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | DHT 安全技术纵览 || A Survey of DHT Security Techniques || Guido Urdaneta<br>Guillaume Pierre<br>(荷兰) Maarten van Steen || 英文PDF || 2018-11-08 || [https://docs.google.com/document/d/1rl9e22xleFtfoB-FVGbi9gfeo6cg31zvmt_v5inNc6c/ 简介]
 |}
 
-==== 10.5.3.5 区块链 ====
+==== 11.5.3.5 区块链 ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3310,7 +3328,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 区块链启示录<br>——中本聪文集 || The Book of Satoshi<br>——The Collected Writings of Bitcoin Creator Satoshi Nakamoto || (美) Phil Champagne || 简体PDF<br>英文EPUB || 2019-03-27<br>2020-04-04 || [https://docs.google.com/document/d/1Gy0iL_3N5HmAdvp3ua54BBn1Q8ThoOPmPIXjiXZsIOA/ 简介]
 |}
 
-==== 10.5.3.6 DFS(分布式文件系统) ====
+==== 11.5.3.6 DFS(分布式文件系统) ====
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3320,9 +3338,9 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | IPFS<br>——内容寻址的版本化点对点文件系统<br>''其它中文名：''<br>IPFS 白皮书 || IPFS<br>——Content Addressed, Versioned, P2P File System || (美) [https://en.wikipedia.org/wiki/Juan_Benet_(computer_scientist) Juan Benet] || 英文PDF || 2019-05-08 || [https://docs.google.com/document/d/1XV6AmX-quKDpFkCjH2XU2rk8MsnahCf5OItaRvsIQRs/ 简介]
 |}
 
-== 10.6 数据库 ==
+== 11.6 数据库 ==
 
-=== 10.6.1 (综述) ===
+=== 11.6.1 (综述) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3330,7 +3348,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 数据库系统概念 || Database System Concepts || (以色列) [https://en.wikipedia.org/wiki/Abraham_Silberschatz Abraham Silberschatz]<br>(美) Hank Korth<br>(印度) S. Sudarshan || 英文PDF(第6版) || 2020-04-11 || [https://docs.google.com/document/d/1VxARejKA6Zq56xJgYPUPEphY5CKxS4ufoMQHBaicv98/ 简介]
 |}
 
-=== 10.6.2 SQL ===
+=== 11.6.2 SQL ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3338,7 +3356,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | SQL 学习指南 || Learning SQL || (美) Alan Beaulieu || 英文PDF(第2版)<br>英文CHM(第1版) || 2020-04-11<br>2020-04-11 || [https://docs.google.com/document/d/1hJIObbatfdiOg5H-OTRHgmm0jpBXlKn4svpS906I5HA/ 简介]
 |}
 
-== 10.7 人工智能 ==
+== 11.7 人工智能 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3350,7 +3368,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | 奇点临近 || The Singularity Is Near<br>——When Humans Transcend Biology || (美) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E8%92%99%E5%BE%B7%C2%B7%E5%BA%93%E8%8C%A8%E9%AD%8F%E5%B0%94 雷·库兹韦尔] || 简体PDF<br>英文PDF || 2017-03-30<br>2017-05-09 || [https://docs.google.com/document/d/1yCUaGivIjvN2QdyCbg6OAqpgZ-kCZvNpPWURnSeqmyg/ 简介]
 |}
 
-== 10.8 IT 公司 ==
+== 11.8 IT 公司 ==
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -3372,7 +3390,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Doom 启世录 || Masters of Doom<br>——How Two Guys Created an Empire and Transformed Pop Culture || (美) [https://en.wikipedia.org/wiki/David_Kushner David Kushner] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体CHM<br>英文PDF || 2015-02-08<br>2015-02-08<br>2015-02-08<br>2013-11-26<br>2020-04-03 || [https://docs.google.com/document/d/1BwOJZxYSDF-DlnhCuLC16WBqNPKhlzc9I8BTBFIdOlk/ 简介]
 |}
 
-== 10.9 (其它) ==
+== 11.9 (其它) ==
 
 {|
 ! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
