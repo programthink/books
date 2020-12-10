@@ -2423,7 +2423,9 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 数学<br>——确定性的丧失 || Mathematics<br>——The Loss of Certainty || (美) [https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%87%8C%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0 莫里斯·克莱因] || 简体PDF || 2020-12-10 || [https://docs.google.com/document/d/1WzkxqZr7n8XdT5to24fhzbo54KxHbsk6AInDzftUJBI/ 简介]
 |-
-| 西方文化中的数学 || Mathematics in Western Culture || (美) [https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%87%8C%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0 莫里斯·克莱因] || 简体PDF || 2020-12-10 || [https://docs.google.com/document/d/1WQuHx9EAturYG7ogm95aB3EBpxU_rfCCwL4tVU6QS_s/ 简介]
+| 西方文化中的数学 || Mathematics in Western Culture || (美) [https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%87%8C%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0 莫里斯·克莱因] || 简体PDF(扫描版) || 2020-12-10 || [https://docs.google.com/document/d/1WQuHx9EAturYG7ogm95aB3EBpxU_rfCCwL4tVU6QS_s/ 简介]
+|-
+| 费马大定理<br>——一个困惑了世间智者358年的谜 || Fermat's Last Theorem<br>——The Story of a Riddle That Confounded the World's Greatest Minds for 358 Years<br>''其它英文名：''<br>Fermat's Enigma<br>——The Epic Quest to Solve the World's Greatest Mathematical Problem || (英) [https://en.wikipedia.org/wiki/Simon_Singh 西蒙·辛格] || 简体EPUB || 2020-12-10 || [https://docs.google.com/document/d/1wPljOmOuRRuepgsBPkvbd7hXdNnTFeQSZ6UwZL-sOjk/ 简介]
 |}
 
 ----
