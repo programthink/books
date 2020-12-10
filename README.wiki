@@ -2420,6 +2420,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 牛津通识读本：数学史 || The History of Mathematics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Jackie_Stedall 杰基·斯特德尔] || 英文EPUB || 2020-12-10 || [https://docs.google.com/document/d/1WIHfVPqAT31hkRRx3eBHMLABaWsjgGPBei8AaRrVLcA/ 简介]
+|-
+| 数学<br>——确定性的丧失 || Mathematics<br>——The Loss of Certainty || (美) [https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%87%8C%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0 莫里斯·克莱因] || 简体PDF || 2020-12-10 || [https://docs.google.com/document/d/1WzkxqZr7n8XdT5to24fhzbo54KxHbsk6AInDzftUJBI/ 简介]
 |}
 
 ----
