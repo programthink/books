@@ -2412,6 +2412,16 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 魔鬼出没的世界<br>——科学，照亮黑暗的蜡烛<br>''其它中文名：''<br>魔鬼盤據的世界<br>——薩根談 UFO、占星與靈異 || The Demon-Haunted World<br>——Science as a Candle in the Dark || (美) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E8%90%A8%E6%A0%B9 卡尔·萨根] || 简体PDF || 2020-12-10 || [https://docs.google.com/document/d/1fC_ow5CyIC29FxsliSNIwdyDRXlp9_DHjwPi4NB7M1g/ 简介]
 |}
 
+== 9.2 数学 ==
+
+=== 9.2.1 数学史 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：数学史 || The History of Mathematics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Jackie_Stedall 杰基·斯特德尔] || 英文EPUB || 2020-12-10 || [https://docs.google.com/document/d/1WIHfVPqAT31hkRRx3eBHMLABaWsjgGPBei8AaRrVLcA/ 简介]
+|}
+
 ----
 
 = 10 军事 =
