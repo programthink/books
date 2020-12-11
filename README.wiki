@@ -2472,6 +2472,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 牛津通识读本：统计学 || Statistics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/David_Hand_(statistician) 大卫·汉德] || 英文EPUB || 2020-12-11 || [https://docs.google.com/document/d/15eFL2jlqOilNu9vE5fTC_uS_zx0spJ1clrJcMQjkCF0/ 简介]
 |}
 
+=== 9.2.7 (其它) ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 怎样解题<br>——数学思维的新方法 || How to Solve It<br>——A New Aspect of Mathematical Method || (匈/瑞士/美) [https://en.wikipedia.org/wiki/George_P%C3%B3lya 乔治·波利亚] || 英文PDF || 2020-12-11 || [https://docs.google.com/document/d/1c_1XoQVTlQO30YaR6FP36Ry8u_6itzGMaGW7BhGoh-w/ 简介]
+|}
+
 ----
 
 = 10 军事 =
