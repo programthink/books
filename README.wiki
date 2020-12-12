@@ -2480,6 +2480,16 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 怎样解题<br>——数学思维的新方法 || How to Solve It<br>——A New Aspect of Mathematical Method || (匈/瑞士/美) [https://en.wikipedia.org/wiki/George_P%C3%B3lya 乔治·波利亚] || 英文PDF || 2020-12-11 || [https://docs.google.com/document/d/1c_1XoQVTlQO30YaR6FP36Ry8u_6itzGMaGW7BhGoh-w/ 简介]
 |}
 
+== 9.3 物理学 ==
+
+=== 9.3.1 物理学史 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：物理学史 || The History of Physics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/J._L._Heilbron 约翰·海尔布隆] || 英文EPUB || 2020-12-12 || [https://docs.google.com/document/d/1owT_YMqfClTDCcyf7yfAadL2ChcYGnxJAk1Z42UH6EA/ 简介]
+|}
+
 ----
 
 = 10 军事 =
