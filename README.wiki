@@ -2510,6 +2510,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 物理世界奇遇记 || Mr Tompkins in Wonderland<br>''其它英文名：''<br>Mr Tompkins Explores the Atom<br>The New World of Mr Tompkins || (苏/美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E4%BC%BD%E8%8E%AB%E5%A4%AB 乔治·伽莫夫] || 简体PDF(精校版) || 2020-12-12 || [https://docs.google.com/document/d/1lMAjD6jjpmHhvcUCqAM9kSRFLT8sU_LwNgf-krJ7Zb8/ 简介]
 |-
 | 从牛顿定律到爱因斯坦相对论 || N/A || (中/美) [https://zh.wikipedia.org/wiki/%E6%96%B9%E5%8A%B1%E4%B9%8B 方励之]<br>褚耀泉 || 简体PDF(精校版) || 2020-12-12 || [https://docs.google.com/document/d/1_fRFQpcLShswRwozwQX6TUr-oJ5_hQd8TFNUMelRiuA/ 简介]
+|-
+| 量子力学概论 || Introduction to Quantum Mechanics || (美) [https://en.wikipedia.org/wiki/David_J._Griffiths 大卫·格里菲斯] || 简体PDF(第2版) || 2020-12-12 || [https://docs.google.com/document/d/1d_awLVXYJgLoSkviB8ShDaedi9M2Jzagl7cBjBPgFwI/ 简介]
 |}
 
 ----
