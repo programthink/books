@@ -2546,6 +2546,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 最初三分钟<br>——关于宇宙起源的现代观点 || The First Three Minutes<br>——A Modern View of the Origin of the Universe || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E6%96%87%C2%B7%E6%B8%A9%E4%BC%AF%E6%A0%BC 史蒂文·温伯格] || 简体PDF(扫描版) || 2020-12-13 || [https://docs.google.com/document/d/191VR7dD7PjVput20S6mb_HzHzqgu3TBV7csiAAsiofw/ 简介]
 |-
 | 宇宙的最后三分钟<br>——关于宇宙归宿的最新观念 || The Last Three Minutes<br>——Conjectures about the Ultimate Fate of the Universe || (美) [https://en.wikipedia.org/wiki/Paul_Davies 保罗·戴维斯] || 简体PDF || 2020-12-13 || [https://docs.google.com/document/d/13XxlLKwI1QuV5ItE5-IytgvCDdLmDdDlNB-wSJqvAAQ/ 简介]
+|-
+| 超越时空<br>——通过平行宇宙、时间卷曲和第十维度的科学之旅<br>''其它中文名：''<br>穿越超時空<br>——十度空間科學奇航 || Hyperspace<br>——A Scientific Odyssey Through Parallel Universes, Time Warps and the Tenth Dimension || (美) [https://zh.wikipedia.org/wiki/%E5%8A%A0%E4%BE%86%E9%81%93%E9%9B%84 加来道雄] || 简体PDF(扫描版) || 2020-12-13 || [https://docs.google.com/document/d/1M255I_G6ilhJcED6ozVQSGb3ATCsRI06fXxxxEoNaeg/ 简介]
 |}
 
 ----
