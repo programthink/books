@@ -2536,6 +2536,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 牛津通识读本：核物理学 || Nuclear Physics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Frank_Close 弗兰克·克洛斯] || 英文EPUB || 2020-12-13 || [https://docs.google.com/document/d/1mXpxxtgjRu_XHBPXlsKK4Rq6T9SlIlgt8gVBfxwfibc/ 简介]
 |}
 
+=== 9.3.6 天体物理学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 时间简史<br>——从大爆炸到黑洞 || A Brief History of Time<br>——From the Big Bang to Black Holes || (英) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E9%9C%8D%E9%87%91 斯蒂芬·霍金] || 英文EPUB(10周年纪念版) || 2020-12-12 || [https://docs.google.com/document/d/1Oc6yc00-CVy3yM32tC9C0mCuvQ4WnOn8VAYSV_j5KHM/ 简介]
+|}
+
 ----
 
 = 10 军事 =
