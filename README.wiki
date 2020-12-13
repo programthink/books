@@ -2516,6 +2516,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 宇宙的琴弦<br>——超弦、隐藏维度与终极理论探索<br>''其它中文名：''<br>优雅的宇宙 || The Elegant Universe<br>——Superstrings, Hidden Dimensions and the Quest for the Ultimate Theory || (美) [https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E6%81%A9%C2%B7%E8%91%9B%E6%9E%97 布莱恩·格林] || 简体PDF(扫描版) || 2020-12-12 || [https://docs.google.com/document/d/1f3tS2uQp_X8WcmGhYTlYm0cuknP4hDvc4OTkHtNiHGM/ 简介]
 |}
 
+=== 9.3.4 粒子物理学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：粒子物理学 || Particle Physics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Frank_Close 弗兰克·克洛斯] || 英文EPUB || 2020-12-13 || [https://docs.google.com/document/d/1Nv-auVqBdsr_5fijY8KJwz75l_0SIHqddk_KliDxfFU/ 简介]
+|}
+
 ----
 
 = 10 军事 =
