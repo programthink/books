@@ -2550,6 +2550,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 超越时空<br>——通过平行宇宙、时间卷曲和第十维度的科学之旅<br>''其它中文名：''<br>穿越超時空<br>——十度空間科學奇航 || Hyperspace<br>——A Scientific Odyssey Through Parallel Universes, Time Warps and the Tenth Dimension || (美) [https://zh.wikipedia.org/wiki/%E5%8A%A0%E4%BE%86%E9%81%93%E9%9B%84 加来道雄] || 简体PDF(扫描版) || 2020-12-13 || [https://docs.google.com/document/d/1M255I_G6ilhJcED6ozVQSGb3ATCsRI06fXxxxEoNaeg/ 简介]
 |}
 
+=== 9.3.7 (其它) ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 上帝与新物理学 || God and the New Physics || (美) [https://en.wikipedia.org/wiki/Paul_Davies 保罗·戴维斯] || 简体PDF || 2020-12-13 || [https://docs.google.com/document/d/1raQu23YaeL3HDibIVA8C-IpqbtWV2pKN4l3aPoyif4g/ 简介]
+|}
+
 ----
 
 = 10 军事 =
