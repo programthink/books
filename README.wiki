@@ -2523,6 +2523,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 牛津通识读本：粒子物理学 || Particle Physics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Frank_Close 弗兰克·克洛斯] || 英文EPUB || 2020-12-13 || [https://docs.google.com/document/d/1Nv-auVqBdsr_5fijY8KJwz75l_0SIHqddk_KliDxfFU/ 简介]
 |-
+| 上帝粒子<br>——假如宇宙是答案，究竟什么是问题？ || The God Particle<br>——If the Universe Is the Answer, What Is the Question? || (美) [https://en.wikipedia.org/wiki/Leon_M._Lederman 利昂·莱德曼]<br>(美) [https://en.wikipedia.org/wiki/Dick_Teresi 迪克·泰雷西] || 简体PDF(扫描版) || 2020-12-13 || [https://docs.google.com/document/d/1pW5IM2wl_FnyCAhZtww14qiEQtfzDyPYt85yhhyYfNk/ 简介]
+|-
 | 希格斯<br>——“上帝粒子”的发明与发现 || Higgs<br>——The Invention and Discovery of the "God Particle" || (英) [https://en.wikipedia.org/wiki/Jim_Baggott 吉姆·巴戈特] || 简体PDF(扫描版) || 2020-12-13 || [https://docs.google.com/document/d/1m1PYWkCmuasx9txEeqogZ_vfTG6QwFQ0b-udCcQ4Gv8/ 简介]
 |}
 
