@@ -2576,6 +2576,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 化学元素周期王国 || The Periodic Kingdom<br>——A Journey into the Land of the Chemical Elements || (英) [https://en.wikipedia.org/wiki/Peter_Atkins 彼得·阿特金斯] || 简体HTML || 2020-12-14 || [https://docs.google.com/document/d/1MBbfuX_Qr08lrUi9N-ZmkAV9_MTO9hUzYfdg7Sh_JG4/ 简介]
 |-
 | 牛津通识读本：化学元素 || The Elements<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Philip_Ball 菲利普·鲍尔] || 英文EPUB || 2020-12-14 || [https://docs.google.com/document/d/1hFAUaHoAqheUFUwRGL47190bpevbpPTCD370z7qeLz8/ 简介]
+|-
+| 牛津通识读本：分子 || Molecules<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Philip_Ball 菲利普·鲍尔] || 英文EPUB || 2020-12-14 || [https://docs.google.com/document/d/1kTRSYoiMMP8b9b5z2mKM18wAFmqZ0zR1Qj8pgvQbhhM/ 简介]
 |}
 
 ----
