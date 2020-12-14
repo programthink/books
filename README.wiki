@@ -2588,6 +2588,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 牛津通识读本：物理化学 || Physical Chemistry<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Peter_Atkins 彼得·阿特金斯] || 英文EPUB || 2020-12-14 || [https://docs.google.com/document/d/1oXYvaDNHsIkEmFiB8OvAie4UTqXVHHYQb3KtBL_d4Hs/ 简介]
 |}
 
+=== 9.4.4 有机化学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：有机化学 || Organic Chemistry<br>——A Very Short Introduction || (英) 格雷汉姆·帕特里克 || 英文EPUB || 2020-12-14 || [https://docs.google.com/document/d/1qlW_hZc9C_6eM_prPzWKUhSWx7tOHQAA0-RA2sNOmsU/ 简介]
+|}
+
 ----
 
 = 10 军事 =
