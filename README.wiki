@@ -2604,6 +2604,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 牛津通识读本：微生物学 || Microbiology<br>——A Very Short Introduction || (美) 尼古拉斯·曼尼 || 英文EPUB || 2020-12-15 || [https://docs.google.com/document/d/1CoAxhQQ1iRcnSNUQGFISY7PTSOSnG6a-hStEfQihnEk/ 简介]
+|-
+| 牛津通识读本：病毒 || Viruses<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Dorothy_H._Crawford 多萝西·克劳福德] || 英文EPUB || 2020-12-15 || [https://docs.google.com/document/d/11502sEaO29t3csL_ATTmkpsPOwMu5vpLvWtCEuwJf6U/ 简介]
 |}
 
 ----
