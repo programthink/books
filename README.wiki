@@ -2614,6 +2614,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 昆虫记<br>''其它中文名：''<br>昆虫学回忆录<br>昆虫学札记 || Entomological Memories || (法) [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E4%BA%A8%E5%88%A9%C2%B7%E6%B3%95%E5%B8%83%E5%B0%94 让-亨利·法布尔] || 简体PDF(节译本) || 2020-12-15 || [https://docs.google.com/document/d/1-Na2Mx3Oj9F-gLoLlKrj-NVk9Vt95pY54QnGPBBwWbE/ 简介]
 |}
 
+=== 9.5.2 演化生物学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：基因 || Genes<br>——A Very Short Introduction || (美) 乔纳森·斯拉克 || 英文EPUB || 2020-12-16 || [https://docs.google.com/document/d/180p3NHhECN4OXG-Vp_pPF2pxtsie-Mq0AwaAfUehhfE/ 简介]
+|}
+
 ----
 
 = 10 军事 =
