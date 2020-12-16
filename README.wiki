@@ -2620,6 +2620,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 牛津通识读本：基因 || Genes<br>——A Very Short Introduction || (美) 乔纳森·斯拉克 || 英文EPUB || 2020-12-16 || [https://docs.google.com/document/d/180p3NHhECN4OXG-Vp_pPF2pxtsie-Mq0AwaAfUehhfE/ 简介]
+|-
+| 自私的基因 || The Selfish Gene || (英) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E9%81%93%E9%87%91%E6%96%AF 理查德·道金斯] || 简体MOBI(40周年纪念版) || 2020-12-16 || [https://docs.google.com/document/d/1YcvXf-a9EqDxgWAcsjN0NM6fN9af3ztESNprSKfsax4/ 简介]
 |}
 
 ----
