@@ -2630,6 +2630,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 伊甸园的飞龙<br>——人类智力演化的推测 || The Dragons of Eden<br>——Speculations on the Evolution of Human Intelligence || (美) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E8%90%A8%E6%A0%B9 卡尔·萨根] || 简体HTML || 2020-12-16 || [https://docs.google.com/document/d/1KMH2b2-AiUGckPUsYM799r1CXkBvERqjMFTV6Ha69QA/ 简介]
 |}
 
+=== 9.5.3 分子生物学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：分子生物学 || Molecular Biology<br>——A Very Short Introduction || (新西兰) 珍妮丝·罗伊兹<br>(英) 艾莎·迪万 || 英文EPUB || 2020-12-16 || [https://docs.google.com/document/d/1r6kVEbnyZEWfmim3tFTEiPEcPub3VVunEkmvbnUex-4/ 简介]
+|}
+
 ----
 
 = 10 军事 =
