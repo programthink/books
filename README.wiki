@@ -2656,6 +2656,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 牛津通识读本：化石 || Fossils<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Keith_Stewart_Thomson 基思·汤姆森] || 英文EPUB || 2020-12-17 || [https://docs.google.com/document/d/1lFgZ6rS7wcHruiz7XVW4DoOgWeH1PHg3I2CNOE8mPBQ/ 简介]
+|-
+| 人类的起源 || The Origin of Humankind || (肯尼亚) [https://en.wikipedia.org/wiki/Richard_Leakey 理查德·利基] || 简体PDF || 2020-12-17 || [https://docs.google.com/document/d/14ExCkdak4nrI4WGyw8WpEbJNbbSPT1VoiRL2ql1ZRCo/ 简介]
 |}
 
 ----
