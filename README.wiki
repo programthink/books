@@ -2660,6 +2660,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 人类的起源 || The Origin of Humankind || (肯尼亚) [https://en.wikipedia.org/wiki/Richard_Leakey 理查德·利基] || 简体PDF || 2020-12-17 || [https://docs.google.com/document/d/14ExCkdak4nrI4WGyw8WpEbJNbbSPT1VoiRL2ql1ZRCo/ 简介]
 |}
 
+=== 9.5.6 医学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 我们为什么生病<br>——达尔文医学的新科学 || Why We Get Sick<br>——The New Science of Darwinian Medicine || (美) [https://en.wikipedia.org/wiki/Randolph_M._Nesse 伦道夫·尼斯]<br>(美) [https://en.wikipedia.org/wiki/George_C._Williams_(biologist) 乔治·威廉斯] || 简体PDF(扫描版) || 2020-12-17 || [https://docs.google.com/document/d/1jvnDPxOfjBSLblo5Bf93GRqpTru9dkUknrupV3O8zWE/ 简介]
+|}
+
 ----
 
 = 10 军事 =
