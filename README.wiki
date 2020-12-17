@@ -2640,6 +2640,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 生命是什么？<br>——生物细胞的物理学见解<br>''其它中文名：''<br>生命是什么？<br>——活细胞的物理学观 || What Is Life?<br>——The Physical Aspect of the Living Cell || (奥) [https://zh.wikipedia.org/wiki/%E5%9F%83%E5%B0%94%E6%B8%A9%C2%B7%E8%96%9B%E5%AE%9A%E8%B0%94 埃尔温·薛定谔] || 简体PDF(扫描版) || 2020-12-16 || [https://docs.google.com/document/d/1vUM3qCR5-CA-nYnEMk4H8LHg8mE2hNtPr-xzWCGQ1Ow/ 简介]
 |}
 
+=== 9.5.4 神经生物学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：认知神经科学 || Cognitive Neuroscience<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Richard_Passingham 理查德·帕辛厄姆] || 英文EPUB || 2020-12-17 || [https://docs.google.com/document/d/1nz9MNPvtQiSTReZKJk2Ypa6zQqHhJgr-yuibOzAN--M/ 简介]
+|}
+
 ----
 
 = 10 军事 =
