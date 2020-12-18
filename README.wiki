@@ -2688,6 +2688,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 复杂<br>——诞生于秩序与混沌边缘的科学 || Complexity<br>——The Emerging Science at the Edge of Order and Chaos || (美) 米歇尔·沃尔德罗普 || 简体PDF(扫描版) || 2020-12-18 || [https://docs.google.com/document/d/1Hqe9WZ1gfgELz9ubBKJnQoLtE8Q_jR5n-my5w6mBXLs/ 简介]
 |-
 | 夸克与美洲豹<br>——简单性和复杂性的奇遇 || The Quark and the Jaguar<br>——Adventures in the Simple and the Complex || (美) [https://zh.wikipedia.org/wiki/%E9%BB%98%E9%87%8C%C2%B7%E7%9B%96%E5%B0%94%E6%9B%BC 默里·盖尔曼] || 简体PDF || 2020-12-18 || [https://docs.google.com/document/d/1EnmiBlctCRDFKaz54xNPptRVd3anOzluENb9LcLq6x4/ 简介]
+|-
+| 复杂性思维<br>——物质、精神和人类的计算动力学 || Thinking in Complexity<br>——The Computational Dynamics of Matter, Mind and Mankind<br>''其它英文名：''<br>Thinking in Complexity<br>——The Complex Dynamics of Matter, Mind and Mankind || (德) [https://en.wikipedia.org/wiki/Klaus_Mainzer 克劳斯・迈因策尔] || 简体CHM(第2版) || 2020-12-18 || [https://docs.google.com/document/d/1dkMsnGFBFfouUP9bq7U8oZL8t27N0r978KQ7l-rPZb4/ 简介]
 |}
 
 ----
