@@ -2678,6 +2678,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 混沌<br>——开创新科学 || Chaos<br>——Making a New Science || (美) [https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E6%A0%BC%E9%9B%B7%E5%85%8B 詹姆斯·格雷克] || 英文EPUB(修订版) || 2020-12-18 || [https://docs.google.com/document/d/1UVa7x05rkEmuyNe8I-UIAJ37VSPrPKeMg9kUk5A4MII/ 简介]
 |}
 
+=== 9.6.2 复杂系统论 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：复杂 || Complexity<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/John_Henry_Holland 约翰·霍兰德] || 英文EPUB || 2020-12-18 || [https://docs.google.com/document/d/1X5oraHQ_u_aJlb3pvP1aqDSZpD2qrHydaTeYNYKEaAg/ 简介]
+|}
+
 ----
 
 = 10 军事 =
