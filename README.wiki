@@ -2712,6 +2712,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 牛津通识读本：气候变化<br>''其它中文名：''<br>牛津通识读本：全球变暖 || Climate Change<br>——A Very Short Introduction<br>''其它英文名：''<br>Global Warming<br>——A Very Short Introduction || (英) 马克·马斯林 || 英文EPUB || 2020-12-19 || [https://docs.google.com/document/d/1LA8cWyCsvUzfnWBuMg6DKk2UZwjVBabTCuKriAcVw0Y/ 简介]
 |}
 
+=== 9.7.3 生态学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：生态学 || Ecology<br>——A Very Short Introduction || (伊拉克/英) 贾布尔·加祖 || 英文EPUB || 2020-12-19 || [https://docs.google.com/document/d/1DRQ_nsd1w8LYeOkD2-4OXTgGEkQ53mksRGV6qxcptPE/ 简介]
+|}
+
 ----
 
 = 10 军事 =
