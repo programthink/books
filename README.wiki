@@ -2720,6 +2720,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 牛津通识读本：生态学 || Ecology<br>——A Very Short Introduction || (伊拉克/英) 贾布尔·加祖 || 英文EPUB || 2020-12-19 || [https://docs.google.com/document/d/1DRQ_nsd1w8LYeOkD2-4OXTgGEkQ53mksRGV6qxcptPE/ 简介]
 |}
 
+=== 9.7.4 环境科学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 寂静的春天 || Silent Spring || (美) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%88%87%E5%B0%94%C2%B7%E5%8D%A1%E6%A3%AE 蕾切尔·卡森] || 英文PDF(40周年纪念版) || 2020-12-19 || [https://docs.google.com/document/d/1vy3P4KuUaDRF7DlYCOTBcCctUMB8AGJO1X3igGOEcUw/ 简介]
+|}
+
 ----
 
 = 10 军事 =
