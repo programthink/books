@@ -2694,6 +2694,16 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 隐秩序<br>——适应性造就复杂性 || Hidden Order<br>——How Adaptation Builds Complexity || (美) [https://en.wikipedia.org/wiki/John_Henry_Holland 约翰·霍兰德] || 简体PDF(扫描版) || 2020-12-18 || [https://docs.google.com/document/d/1ZedWfUWqj5VYwlvSH3G4W8dWs8Npq6-ou0iAyjdkFG4/ 简介]
 |}
 
+== 9.7 地球科学 ==
+
+=== 9.7.1 地理学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：地理学 || Geography<br>——A Very Short Introduction || (英) 约翰·马修斯<br>(英) 戴维·赫伯特 || 英文EPUB || 2020-12-19 || [https://docs.google.com/document/d/1kX8Ysq4Xa_imeItE2SxFMBCruc7XC_ol7yMT_JPeUYk/ 简介]
+|}
+
 ----
 
 = 10 军事 =
