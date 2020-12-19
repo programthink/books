@@ -2704,6 +2704,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 牛津通识读本：地理学 || Geography<br>——A Very Short Introduction || (英) 约翰·马修斯<br>(英) 戴维·赫伯特 || 英文EPUB || 2020-12-19 || [https://docs.google.com/document/d/1kX8Ysq4Xa_imeItE2SxFMBCruc7XC_ol7yMT_JPeUYk/ 简介]
 |}
 
+=== 9.7.2 气候学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：气候变化<br>''其它中文名：''<br>牛津通识读本：全球变暖 || Climate Change<br>——A Very Short Introduction<br>''其它英文名：''<br>Global Warming<br>——A Very Short Introduction || (英) 马克·马斯林 || 英文EPUB || 2020-12-19 || [https://docs.google.com/document/d/1LA8cWyCsvUzfnWBuMg6DKk2UZwjVBabTCuKriAcVw0Y/ 简介]
+|}
+
 ----
 
 = 10 军事 =
