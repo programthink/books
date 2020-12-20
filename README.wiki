@@ -2746,6 +2746,8 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 牛津通识读本：恒星 || Stars<br>——A Very Short Introduction || (英) 安德鲁·金 || 英文EPUB || 2020-12-20 || [https://docs.google.com/document/d/16p7XmmRfLKGd6RAkk9J_z88jpwC9ctGEuSvcW1q9ljs/ 简介]
+|-
+| 千亿个太阳<br>——恒星的诞生、演变和衰亡 || 100 Billion Suns<br>——The Birth, Life and Death of the Stars || (德) [https://zh.wikipedia.org/wiki/%E9%AD%AF%E9%81%93%E5%A4%AB%C2%B7%E5%9F%BA%E5%BD%AD%E5%93%88%E6%81%A9 鲁道夫·基彭哈恩] || 简体PDF(扫描版) || 2020-12-20 || [https://docs.google.com/document/d/1NFb5haVny5vuR39jGJPkMWBXs8MhmLm9pIyxgUDnAA8/ 简介]
 |}
 
 ----
