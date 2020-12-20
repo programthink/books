@@ -2740,7 +2740,15 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 
 === 9.8.2 宇宙学 ===
 
-（由于现代宇宙学与理论物理的关系很密切，相关的书籍放在【科普类 / 物理学 / 天体物理学】分类目录下）----
+（由于现代宇宙学与理论物理的关系很密切，相关的书籍放在【科普类 / 物理学 / 天体物理学】分类目录下）=== 9.8.3 恒星天文学 ===
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 牛津通识读本：恒星 || Stars<br>——A Very Short Introduction || (英) 安德鲁·金 || 英文EPUB || 2020-12-20 || [https://docs.google.com/document/d/16p7XmmRfLKGd6RAkk9J_z88jpwC9ctGEuSvcW1q9ljs/ 简介]
+|}
+
+----
 
 = 10 军事 =
 
