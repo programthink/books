@@ -2689,7 +2689,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 夸克与美洲豹<br>——简单性和复杂性的奇遇 || The Quark and the Jaguar<br>——Adventures in the Simple and the Complex || (美) [https://zh.wikipedia.org/wiki/%E9%BB%98%E9%87%8C%C2%B7%E7%9B%96%E5%B0%94%E6%9B%BC 默里·盖尔曼] || 简体PDF || 2020-12-18 || [https://docs.google.com/document/d/1EnmiBlctCRDFKaz54xNPptRVd3anOzluENb9LcLq6x4/ 简介]
 |-
-| 复杂性思维<br>——物质、精神和人类的计算动力学 || Thinking in Complexity<br>——The Computational Dynamics of Matter, Mind and Mankind<br>''其它英文名：''<br>Thinking in Complexity<br>——The Complex Dynamics of Matter, Mind and Mankind || (德) [https://en.wikipedia.org/wiki/Klaus_Mainzer 克劳斯・迈因策尔] || 简体CHM(第2版) || 2020-12-18 || [https://docs.google.com/document/d/1dkMsnGFBFfouUP9bq7U8oZL8t27N0r978KQ7l-rPZb4/ 简介]
+| 复杂性思维<br>——物质、精神和人类的计算动力学 || Thinking in Complexity<br>——The Computational Dynamics of Matter, Mind and Mankind<br>''其它英文名：''<br>Thinking in Complexity<br>——The Complex Dynamics of Matter, Mind and Mankind || (德) [https://en.wikipedia.org/wiki/Klaus_Mainzer 克劳斯·迈因策尔] || 简体CHM(第2版) || 2020-12-18 || [https://docs.google.com/document/d/1dkMsnGFBFfouUP9bq7U8oZL8t27N0r978KQ7l-rPZb4/ 简介]
 |-
 | 隐秩序<br>——适应性造就复杂性 || Hidden Order<br>——How Adaptation Builds Complexity || (美) [https://en.wikipedia.org/wiki/John_Henry_Holland 约翰·霍兰德] || 简体PDF(扫描版) || 2020-12-18 || [https://docs.google.com/document/d/1ZedWfUWqj5VYwlvSH3G4W8dWs8Npq6-ou0iAyjdkFG4/ 简介]
 |}
@@ -2740,7 +2740,9 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 
 === 9.8.2 宇宙学 ===
 
-（由于现代宇宙学与理论物理的关系很密切，相关的书籍放在【科普类 / 物理学 / 天体物理学】分类目录下）=== 9.8.3 恒星天文学 ===
+（由于现代宇宙学与理论物理的关系很密切，相关的书籍放在【科普类 / 物理学 / 天体物理学】分类目录下）
+
+=== 9.8.3 恒星天文学 ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
@@ -2758,6 +2760,14 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 | 别闹了，费曼先生<br>——科学玩童的故事 || Surely You're Joking, Mr.Feynman! || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B2%BB%E6%9B%BC 理查德·费曼] || 简体PDF(精校版) || 2020-12-20 || [https://docs.google.com/document/d/1tB9Ih7lQ_pOzLJUhalzrTTH18iE35Mxfk0-8k0Y9mDs/ 简介]
 |-
 | 我的世界线<br>——伽莫夫自传 || My World Line<br>——An Informal Autobiography || (苏/美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E4%BC%BD%E8%8E%AB%E5%A4%AB 乔治·伽莫夫] || 简体PDF(精校版) || 2020-12-20 || [https://docs.google.com/document/d/19WatC3ZS5ZfmjZwj0cokoBpbep4dLRG0N2hbVvYHjkc/ 简介]
+|}
+
+== 9.10 (其它) ==
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 从一到无穷大<br>——科学中的事实和臆测 || One Two Three... Infinity<br>——Facts and Speculations of Science || (苏/美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E4%BC%BD%E8%8E%AB%E5%A4%AB 乔治·伽莫夫] || 简体PDF(精校版) || 2020-12-22 || [https://docs.google.com/document/d/1E0AHcA0Yx4rJBGnNR83unxjS8orHUfZJSUFRGHuWAmI/ 简介]
 |}
 
 ----
