@@ -2433,7 +2433,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 什么是数学<br>——对思想和方法的基本研究 || What Is Mathematics<br>——An Elementary Approach to Ideas and Methods || (德/美) [https://en.wikipedia.org/wiki/Richard_Courant 理查德·柯朗]<br>(美) [https://en.wikipedia.org/wiki/Herbert_Robbins 赫伯特·罗宾斯]<br>(英) [https://en.wikipedia.org/wiki/Ian_Stewart_(mathematician) 伊恩·斯图尔特] || 简体PDF(第3版 扫描版) || 2020-12-10 || [https://docs.google.com/document/d/18gUS8lZBEU1jsj_Hi-de29BDIfZre7TBMhnvFkhkgT0/ 简介]
+| 什么是数学<br>——对思想和方法的基本研究 || What Is Mathematics<br>——An Elementary Approach to Ideas and Methods || (德/美) [https://en.wikipedia.org/wiki/Richard_Courant 理查德·柯朗]<br>(美) [https://en.wikipedia.org/wiki/Herbert_Robbins 赫伯特·罗宾斯]<br>(英) [https://en.wikipedia.org/wiki/Ian_Stewart_(mathematician) 伊恩·斯图尔特] || 简体PDF(第3版 扫描版)<br>英文EPUB(第3版) || 2020-12-10<br>2021-01-18 || [https://docs.google.com/document/d/18gUS8lZBEU1jsj_Hi-de29BDIfZre7TBMhnvFkhkgT0/ 简介]
 |}
 
 === 9.2.3 基础理论 ===
