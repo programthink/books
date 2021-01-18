@@ -2441,7 +2441,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 哥德尔、艾舍尔、巴赫书<br>——集异璧之大成 || Gödel, Escher, Bach<br>——An Eternal Golden Braid || (美) [https://en.wikipedia.org/wiki/Douglas_Hofstadter 道格拉斯·霍夫施塔特] (中文名：侯世达) || 英文PDF || 2020-12-11 || [https://docs.google.com/document/d/18BvrSrTSJUfQ525jiNB7u0g1Kxi_KMGgsMN97-BBIks/ 简介]
+| 哥德尔、艾舍尔、巴赫书<br>——集异璧之大成 || Gödel, Escher, Bach<br>——An Eternal Golden Braid || (美) [https://en.wikipedia.org/wiki/Douglas_Hofstadter 道格拉斯·霍夫施塔特] (中文名：侯世达) || 简体PDF(扫描版)<br>英文PDF || 2021-01-18<br>2020-12-11 || [https://docs.google.com/document/d/18BvrSrTSJUfQ525jiNB7u0g1Kxi_KMGgsMN97-BBIks/ 简介]
 |-
 | 哥德尔证明 || Gödel's Proof || (奥/美) [https://en.wikipedia.org/wiki/Ernest_Nagel 欧内斯特·内格尔]<br>(美) [https://en.wikipedia.org/wiki/James_R._Newman 詹姆斯·纽曼] || 简体PDF || 2020-12-11 || [https://docs.google.com/document/d/1cWRINAxYlJWsty3PDrKt-s6Zw5MioYVehdsX_E2_v-Y/ 简介]
 |}
