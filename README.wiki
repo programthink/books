@@ -2691,7 +2691,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 复杂性思维<br>——物质、精神和人类的计算动力学 || Thinking in Complexity<br>——The Computational Dynamics of Matter, Mind and Mankind<br>''其它英文名：''<br>Thinking in Complexity<br>——The Complex Dynamics of Matter, Mind and Mankind || (德) [https://en.wikipedia.org/wiki/Klaus_Mainzer 克劳斯·迈因策尔] || 简体CHM(第2版) || 2020-12-18 || [https://docs.google.com/document/d/1dkMsnGFBFfouUP9bq7U8oZL8t27N0r978KQ7l-rPZb4/ 简介]
 |-
-| 隐秩序<br>——适应性造就复杂性 || Hidden Order<br>——How Adaptation Builds Complexity || (美) [https://en.wikipedia.org/wiki/John_Henry_Holland 约翰·霍兰德] || 简体PDF(扫描版) || 2020-12-18 || [https://docs.google.com/document/d/1ZedWfUWqj5VYwlvSH3G4W8dWs8Npq6-ou0iAyjdkFG4/ 简介]
+| 隐秩序<br>——适应性造就复杂性 || Hidden Order<br>——How Adaptation Builds Complexity || (美) [https://en.wikipedia.org/wiki/John_Henry_Holland 约翰·霍兰德] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2020-12-18<br>2021-01-18 || [https://docs.google.com/document/d/1ZedWfUWqj5VYwlvSH3G4W8dWs8Npq6-ou0iAyjdkFG4/ 简介]
 |}
 
 == 9.7 地球科学 ==
