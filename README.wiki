@@ -2511,7 +2511,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 从牛顿定律到爱因斯坦相对论 || N/A || (中/美) [https://zh.wikipedia.org/wiki/%E6%96%B9%E5%8A%B1%E4%B9%8B 方励之]<br>褚耀泉 || 简体PDF(精校版) || 2020-12-12 || [https://docs.google.com/document/d/1_fRFQpcLShswRwozwQX6TUr-oJ5_hQd8TFNUMelRiuA/ 简介]
 |-
-| 量子力学概论 || Introduction to Quantum Mechanics || (美) [https://en.wikipedia.org/wiki/David_J._Griffiths 大卫·格里菲斯] || 简体PDF(第2版) || 2020-12-12 || [https://docs.google.com/document/d/1d_awLVXYJgLoSkviB8ShDaedi9M2Jzagl7cBjBPgFwI/ 简介]
+| 量子力学概论 || Introduction to Quantum Mechanics || (美) [https://en.wikipedia.org/wiki/David_J._Griffiths 大卫·格里菲斯] || 简体PDF(第2版)<br>英文EPUB(第3版) || 2020-12-12<br>2021-01-18 || [https://docs.google.com/document/d/1d_awLVXYJgLoSkviB8ShDaedi9M2Jzagl7cBjBPgFwI/ 简介]
 |-
 | 宇宙的琴弦<br>——超弦、隐藏维度与终极理论探索<br>''其它中文名：''<br>优雅的宇宙 || The Elegant Universe<br>——Superstrings, Hidden Dimensions and the Quest for the Ultimate Theory || (美) [https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E6%81%A9%C2%B7%E8%91%9B%E6%9E%97 布莱恩·格林] || 简体PDF(扫描版) || 2020-12-12 || [https://docs.google.com/document/d/1f3tS2uQp_X8WcmGhYTlYm0cuknP4hDvc4OTkHtNiHGM/ 简介]
 |}
