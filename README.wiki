@@ -2725,7 +2725,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 寂静的春天 || Silent Spring || (美) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%88%87%E5%B0%94%C2%B7%E5%8D%A1%E6%A3%AE 蕾切尔·卡森] || 英文PDF(40周年纪念版) || 2020-12-19 || [https://docs.google.com/document/d/1vy3P4KuUaDRF7DlYCOTBcCctUMB8AGJO1X3igGOEcUw/ 简介]
+| 寂静的春天 || Silent Spring || (美) [https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%88%87%E5%B0%94%C2%B7%E5%8D%A1%E6%A3%AE 蕾切尔·卡森] || 简体PDF(扫描版)<br>英文PDF(40周年纪念版) || 2021-01-20<br>2020-12-19 || [https://docs.google.com/document/d/1vy3P4KuUaDRF7DlYCOTBcCctUMB8AGJO1X3igGOEcUw/ 简介]
 |}
 
 == 9.8 空间科学 ==
