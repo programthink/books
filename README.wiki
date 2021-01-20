@@ -2623,7 +2623,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 自私的基因 || The Selfish Gene || (英) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E9%81%93%E9%87%91%E6%96%AF 理查德·道金斯] || 简体MOBI(40周年纪念版) || 2020-12-16 || [https://docs.google.com/document/d/1YcvXf-a9EqDxgWAcsjN0NM6fN9af3ztESNprSKfsax4/ 简介]
 |-
-| 社会生物学<br>——新的综合 || Sociobiology<br>——The New Synthesis || (美) [https://en.wikipedia.org/wiki/Edward_O._Wilson 爱德华·威尔逊] || 简体HTML(节译本) || 2020-12-16 || [https://docs.google.com/document/d/1ZbJsotCWy9lHQ7KVCARn7AIDevzGQ65OB8opV02yEpI/ 简介]
+| 社会生物学<br>——新的综合 || Sociobiology<br>——The New Synthesis || (美) [https://en.wikipedia.org/wiki/Edward_O._Wilson 爱德华·威尔逊] || 简体HTML(节译本)<br>英文EPUB(25周年纪念版) || 2020-12-16<br>2021-01-20 || [https://docs.google.com/document/d/1ZbJsotCWy9lHQ7KVCARn7AIDevzGQ65OB8opV02yEpI/ 简介]
 |-
 | 第三种黑猩猩<br>——人类的身世与未来 || The Third Chimpanzee<br>——The Evolution and Future of the Human Animal || (美) [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体PDF(扫描版) || 2020-12-16 || [https://docs.google.com/document/d/1gKt8h-r5orRdf64jRGLmsQbBqmUQjGbXMxcXaAAVe-c/ 简介]
 |-
