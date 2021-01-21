@@ -3719,7 +3719,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| SQL 学习指南 || Learning SQL || (美) Alan Beaulieu || 英文PDF(第2版)<br>英文CHM(第1版) || 2020-04-11<br>2020-04-11 || [https://docs.google.com/document/d/1hJIObbatfdiOg5H-OTRHgmm0jpBXlKn4svpS906I5HA/ 简介]
+| SQL 学习指南 || Learning SQL || (美) Alan Beaulieu || 简体PDF(第2版 扫描版)<br>英文PDF(第2版)<br>英文CHM(第1版) || 2021-01-21<br>2020-04-11<br>2020-04-11 || [https://docs.google.com/document/d/1hJIObbatfdiOg5H-OTRHgmm0jpBXlKn4svpS906I5HA/ 简介]
 |}
 
 == 11.7 人工智能 ==
