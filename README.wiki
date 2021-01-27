@@ -1492,6 +1492,8 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 牛津通识读本：儿童心理学 || Child Psychology<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Usha_Goswami 乌莎·戈斯瓦米] || 简体EPUB<br>简体AZW3 || 2021-01-27<br>2021-01-27 || [https://docs.google.com/document/d/1jWuOYu-XaeMuO_N3vxdkv4g6DqgdKflW3ZE-sABDUDQ/ 简介]
+|-
 | 正面管教 || Positive Discipline || (美) [https://en.wikipedia.org/wiki/Jane_Nelsen 简·尼尔森] || 简体PDF || 2014-02-11 || [https://docs.google.com/document/d/1Ntc0DAi-IUFHrJfLuUyFY39MkWLrmsu5dUZzcyLBXs8/ 简介]
 |-
 | 家庭会伤人<br>——自我重生的新契机 || Bradshaw on the Family<br>——A Revolutionary Way of Self Discovery || (美) [https://en.wikipedia.org/wiki/John_Bradshaw_%28author%29 约翰·布雷萧] || 简体PDF(扫描版) || 2014-07-15 || [https://docs.google.com/document/d/13o9sJjREEJ-29uBWujsi95gItgqfxoiQJj7O3LesG_w/ 简介]
