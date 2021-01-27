@@ -1422,9 +1422,9 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 |-
 | 超越智商<br>——为什么聪明人也会做蠢事 || What Intelligence Tests Miss<br>——The Psychology of Rational Thought || (加) [https://en.wikipedia.org/wiki/Keith_Stanovich 基思·斯坦诺维奇] || 简体EPUB<br>简体MOBI<br>英文PDF || 2019-09-03<br>2019-09-03<br>2019-12-03 || [https://docs.google.com/document/d/13j-DGxvZY_C083_nF8ZveaE5UDWzeTI9T3CbTpSlAEo/ 简介]
 |-
-| 无从选择<br>——为何多即是少<br>''其它中文名：''<br>选择的悖论<br>——用心理学解读人的经济行为 || The Paradox of Choice<br>——Why More Is Less || (美) [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] || 简体PDF(大字版)<br>简体PDF(扫描版)<br>英文PDF || 2019-09-03<br>2012-12-29<br>2012-12-29 || [https://docs.google.com/document/d/1jJA46kpraXr252iQEWXmxGyQpUd4yju8qcHu7kR38z4/ 简介]
+| 无从选择<br>——为何多即是少<br>''其它中文名：''<br>选择的悖论<br>——用心理学解读人的经济行为 || The Paradox of Choice<br>——Why More Is Less || (美) [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] || 简体PDF(大字版)<br>简体PDF(扫描版)<br>简体EPUB<br>英文PDF || 2019-09-03<br>2012-12-29<br>2021-01-27<br>2012-12-29 || [https://docs.google.com/document/d/1jJA46kpraXr252iQEWXmxGyQpUd4yju8qcHu7kR38z4/ 简介]
 |-
-| 清醒思考的艺术（上篇）、明智行动的艺术（下篇） || The Art of Thinking Clearly || (瑞士) [https://en.wikipedia.org/wiki/Rolf_Dobelli 罗尔夫·多贝里] || 简体PDF(上篇 扫描版)<br>简体EPUB (上篇 插图版)<br>简体EPUB (下篇 插图版)<br>简体MOBI (下篇 插图版)<br>英文PDF<br>英文EPUB || 2014-07-15<br>2015-12-01<br>2019-04-20<br>2019-04-20<br>2015-11-13<br>2015-11-13 || [https://docs.google.com/document/d/12t5w1oCrz8ZZSxf276n94AByAiCjfmQGXRooihPkbs4/ 简介]
+| 清醒思考的艺术（上篇）、明智行动的艺术（下篇） || The Art of Thinking Clearly || (瑞士) [https://en.wikipedia.org/wiki/Rolf_Dobelli 罗尔夫·多贝里] || 简体PDF(上篇 扫描版)<br>简体EPUB(上篇 插图版)<br>简体EPUB(下篇 插图版)<br>简体MOBI(下篇 插图版)<br>英文PDF<br>英文EPUB || 2014-07-15<br>2015-12-01<br>2019-04-20<br>2019-04-20<br>2015-11-13<br>2015-11-13 || [https://docs.google.com/document/d/12t5w1oCrz8ZZSxf276n94AByAiCjfmQGXRooihPkbs4/ 简介]
 |-
 | 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF<br>简体MOBI<br>英文PDF || 2015-02-23<br>2015-11-14<br>2019-12-03 || [https://docs.google.com/document/d/1v1ftIUSp6DUvEzTKFn9ICx5FHCtwJAG3gjPKlFq30sI/ 简介]
 |-
