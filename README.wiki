@@ -3137,13 +3137,13 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 超越 C++ 标准库<br>——Boost 库导论 || Beyond the C++ Standard Library<br>——An Introduction to Boost || Björn Karlsson || 英文CHM || 2018-08-04 || [https://docs.google.com/document/d/1n4ZLjOHl420PIjWo4GVlr5x8dcswNLx23Gg7ZEDfsLs/ 简介]
 |-
-| C++ 编程思想 || Thinking in C++ || (美) [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 英文PDF(第2版 卷1)<br>英文PDF(第2版 卷2)<br>简体PDF(第1版) || 2019-03-29<br>2019-03-29<br>2018-07-20 || [https://docs.google.com/document/d/1HOhVvDd2So2L-KUBBjF_VOAHbg5RfiWh2laDpuVWRps/ 简介]
+| C++ 编程思想 || Thinking in C++ || (美) [https://en.wikipedia.org/wiki/Bruce_Eckel Bruce Eckel] || 简体PDF(第2版 2卷本)<br>英文PDF(第2版 共2卷)<br>简体PDF(第1版) || 2021-02-06<br>2019-03-29<br>2018-07-20 || [https://docs.google.com/document/d/1HOhVvDd2So2L-KUBBjF_VOAHbg5RfiWh2laDpuVWRps/ 简介]
 |-
 | 深度探索 C++ 对象模型 || Inside the C++ Object Model || (美) [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>简体PDF(扫描版) || 2013-10-20<br>2018-08-04 || [https://docs.google.com/document/d/12pjutyt_FHS6Ep9C_q5msT4Jb4B-1WDe0di77HRNuJI/ 简介]
 |-
 | C++ 设计新思维<br>——泛型编程与设计模式之应用 || Modern C++ Design<br>——Generic Programming and Design Patterns Applied || (美) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 简体PDF(扫描版)<br>英文PDF<br>英文CHM<br>英文MOBI || 2015-11-08<br>2018-08-04<br>2016-12-21<br>2018-08-04 || [https://docs.google.com/document/d/1gzE7F5InN-QNRQKMZEoiPV6nD6ZevmJdtd-iVjc4sQM/ 简介]
 |-
-| C++ Templates 全览 || C++ Templates<br>——The Complete Guide || (比利时) David Vandevoorde<br>(德) Nicolai Josuttis || 简体PDF(第1版 扫描版)<br>英文EPUB(第2版)<br>英文EPUB(第1版)<br>英文CHM(第1版) || 2020-07-09<br>2018-11-11<br>2018-08-04<br>2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
+| C++ Templates 全览 || C++ Templates<br>——The Complete Guide || (比利时) David Vandevoorde<br>(德) Nicolai Josuttis || 英文EPUB(第2版)<br>简体PDF(第1版 扫描版)<br>英文EPUB(第1版)<br>英文CHM(第1版) || 2018-11-11<br>2020-07-09<br>2018-08-04<br>2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
 |-
 | C++ 模板元编程 || C++ Template Metaprogramming<br>——Concepts, Tools and Techniques from Boost and Beyond || (美) [https://en.wikipedia.org/wiki/David_Abrahams_(computer_programmer) David Abrahams]<br>(美) Aleksey Gurtovoy || 简体PDF(扫描版) || 2020-07-09 || [https://docs.google.com/document/d/1oN0JNogDZiwcsZye-q_HrSAAPYOPuXn2aSrRh7Niaw8/ 简介]
 |-
