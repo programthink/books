@@ -3077,7 +3077,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 人件 || Peopleware<br>——Productive Projects and Teams || (美) [https://en.wikipedia.org/wiki/Tom_DeMarco Tom Demarco]<br>(美) [https://en.wikipedia.org/wiki/Tim_Lister Timothy Lister] || 简体PDF(第3版 扫描版)<br>简体PDF(第2版)<br>简体PDF(第2版 扫描版)<br>英文PDF(第2版) || 2020-11-20<br>2015-11-07<br>2013-10-20<br>2013-10-20 || [https://docs.google.com/document/d/14aMOdS3PTx5gr_MRIjxLXBqTR-tFYfoY4VNplNX0fQU/ 简介]
 |-
-| 软件工程<br>——实践者的研究方法 || Software Engineering<br>——A Practitioner's Approach || (美) [https://en.wikipedia.org/wiki/Roger_S._Pressman Roger Pressman] || 英文PDF(第8版) || 2018-07-29 || [https://docs.google.com/document/d/15VfDw640994smusvcS2kpK47S4NRBmjfKnA-LcZJJZI/ 简介]
+| 软件工程<br>——实践者的研究方法 || Software Engineering<br>——A Practitioner's Approach || (美) [https://en.wikipedia.org/wiki/Roger_S._Pressman Roger Pressman] || 英文PDF(第8版)<br>简体PDF(第7版 扫描版) || 2018-07-29<br>2021-02-06 || [https://docs.google.com/document/d/15VfDw640994smusvcS2kpK47S4NRBmjfKnA-LcZJJZI/ 简介]
 |-
 | 代码大全<br>''其它中文名：''<br>軟體建構之道 || Code Complete<br>——A Practical Handbook of Software Construction || (美) [https://en.wikipedia.org/wiki/Steve_McConnell Steve McConnell] || 简体PDF(第2版 扫描版)<br>英文CHM(第2版)<br>简体PDF(第1版) || 2017-08-08<br>2013-10-20<br>2013-10-20 || [https://docs.google.com/document/d/16cpmh4ZNT7biV1CWg2sxOPtearFs6obm1UyNSYWwuzI/ 简介]
 |-
