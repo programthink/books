@@ -1404,9 +1404,9 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 这才是心理学<br>——看穿伪心理学的本质<br>''其它中文名：''<br>与众不同的心理学<br>——如何正视心理学<br>对“伪心理学”说不 || How to Think Straight about Psychology || (加) [https://en.wikipedia.org/wiki/Keith_Stanovich 基思·斯坦诺维奇] || 简体PDF(第10版 大字版)<br>简体PDF(第8版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版)<br>简体PDF(第7版 扫描版)<br>英文PDF(第10版)<br>英文EPUB(第10版)<br>英文MOBI(第10版)<br>英文PDF(第9版) || 2019-09-03<br>2015-05-11<br>2015-02-16<br>2015-02-16<br>2012-12-29<br>2020-03-15<br>2020-11-22<br>2020-11-22<br>2020-03-15 || [https://docs.google.com/document/d/16-GOAoIar2zpwGwsWq0vl_0wbsnehoWYgz2srYGgzzY/ 简介]
+| 这才是心理学<br>——看穿伪心理学的本质<br>''其它中文名：''<br>与众不同的心理学<br>——如何正视心理学<br>对“伪心理学”说不 || How to Think Straight about Psychology || (加) [https://en.wikipedia.org/wiki/Keith_Stanovich 基思·斯坦诺维奇] || 简体PDF(第10版 大字版)<br>简体EPUB(第10版)<br>简体MOBI(第10版)<br>英文PDF(第10版)<br>英文EPUB(第10版)<br>英文MOBI(第10版)<br>英文PDF(第9版)<br>简体PDF(第8版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版)<br>简体PDF(第7版 扫描版) || 2019-09-03<br>2021-02-07<br>2021-02-07<br>2020-03-15<br>2020-11-22<br>2020-11-22<br>2020-03-15<br>2015-05-11<br>2015-02-16<br>2015-02-16<br>2012-12-29 || [https://docs.google.com/document/d/16-GOAoIar2zpwGwsWq0vl_0wbsnehoWYgz2srYGgzzY/ 简介]
 |-
-| 牛津通识读本：生活中的心理学 || Psychology<br>——A Very Short Introduction || (英) 吉莉恩·巴特勒<br>(英) 弗雷达·麦克马纳斯 || 简体EPUB(第1版)<br>简体AZW3(第1版)<br>英文EPUB(第2版) || 2015-12-14<br>2015-12-14<br>2020-03-15 || [https://docs.google.com/document/d/10YN1eJndOQSLdQtE7pGkwxINbupWEuIu0Gwd2rWhDZU/ 简介]
+| 牛津通识读本：生活中的心理学 || Psychology<br>——A Very Short Introduction || (英) 吉莉恩·巴特勒<br>(英) 弗雷达·麦克马纳斯 || 英文EPUB(第2版)<br>简体EPUB(第1版)<br>简体AZW3(第1版) || 2020-03-15<br>2015-12-14<br>2015-12-14 || [https://docs.google.com/document/d/10YN1eJndOQSLdQtE7pGkwxINbupWEuIu0Gwd2rWhDZU/ 简介]
 |}
 
 == 2.2 认知心理学 ==
