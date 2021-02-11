@@ -2651,7 +2651,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 牛津通识读本：认知神经科学 || Cognitive Neuroscience<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Richard_Passingham 理查德·帕辛厄姆] || 英文EPUB || 2020-12-17 || [https://docs.google.com/document/d/1nz9MNPvtQiSTReZKJk2Ypa6zQqHhJgr-yuibOzAN--M/ 简介]
 |-
-| 意识探秘<br>——意识的神经生物学研究 || The Quest for Consciousness<br>——A Neurobiological Approach || (美) [https://en.wikipedia.org/wiki/Christof_Koch 克里斯托夫·科赫] || 简体PDF(扫描版) || 2020-12-17 || [https://docs.google.com/document/d/1ro2FyL4KjCmtgupT2vfL7nxN_n_iEYo_qd3WxWoa6Bk/ 简介]
+| 意识探秘<br>——意识的神经生物学研究 || The Quest for Consciousness<br>——A Neurobiological Approach || (美) [https://en.wikipedia.org/wiki/Christof_Koch 克里斯托夫·科赫] || 简体PDF(扫描版)<br>英文EPUB || 2020-12-17<br>2021-02-11 || [https://docs.google.com/document/d/1ro2FyL4KjCmtgupT2vfL7nxN_n_iEYo_qd3WxWoa6Bk/ 简介]
 |}
 
 === 9.5.5 古生物学 ===
