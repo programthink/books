@@ -2493,7 +2493,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 牛津通识读本：物理学史 || The History of Physics<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/J._L._Heilbron 约翰·海尔布隆] || 英文EPUB || 2020-12-12 || [https://docs.google.com/document/d/1owT_YMqfClTDCcyf7yfAadL2ChcYGnxJAk1Z42UH6EA/ 简介]
 |-
-| 物理学的进化 || The Evolution of Physics<br>——From Early Concepts to Relativity and Quanta || (德/美) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%C2%B7%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6 阿尔伯特·爱因斯坦]<br>(波兰) [https://en.wikipedia.org/wiki/Leopold_Infeld 利奥波德·英费尔德] || 简体PDF(扫描版) || 2020-12-12 || [https://docs.google.com/document/d/1NdqhfgU3HVRo2k8DfSGhbT5E9kMR7xzRHgs0LRf5OYg/ 简介]
+| 物理学的进化 || The Evolution of Physics<br>——From Early Concepts to Relativity and Quanta || (德/美) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%C2%B7%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6 阿尔伯特·爱因斯坦]<br>(波兰) [https://en.wikipedia.org/wiki/Leopold_Infeld 利奥波德·英费尔德] || 简体PDF(扫描版)<br>英文PDF || 2020-12-12<br>2021-02-11 || [https://docs.google.com/document/d/1NdqhfgU3HVRo2k8DfSGhbT5E9kMR7xzRHgs0LRf5OYg/ 简介]
 |-
 | 上帝掷骰子吗？<br>——量子物理史话 || History of Quantum Physics || 曹天元 || 简体EPUB || 2020-12-12 || [https://docs.google.com/document/d/1iJNV3K-8nC2KSn1daMFlAPvQ1ro_f2eamCHaQshIJYM/ 简介]
 |}
