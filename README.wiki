@@ -3516,6 +3516,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Shellcoder 手册<br>——发现和利用安全漏洞 || The Shellcoder's Handbook<br>——Discovering and Exploiting Security Holes || (多人) || 英文PDF(第2版)<br>英文CHM(第1版) || 2019-03-18<br>2019-03-18 || [https://docs.google.com/document/d/1gxt1-o6c6PfPnQ8705tQIfZrdaTAmw5By6Me6_OqWKw/ 简介]
 |-
 | 内核漏洞的利用与防范 || A Guide to Kernel Exploitation<br>——Attacking the Core || (美) Enrico Perla<br>(美) Massimiliano Oldani || 英文PDF(第1版) || 2018-07-29 || [https://docs.google.com/document/d/15_pQ1TBuvRPy9fVz9JWqLbjW0bOoKcMq20yMZH_vZSo/ 简介]
+|-
+| Metasploit 渗透测试指南 || Metasploit<br>——The Penetration Tester's Guide || David Kennedy<br>Jim O'Gorman<br>Devon Kearns<br>Mati Aharoni || 简体PDF(扫描版) || 2021-02-11 || [https://docs.google.com/document/d/1gQgR9-71ZMnojBP1ppKW1r8fewt9D-zGEjB7pOTG_N0/ 简介]
 |}
 
 === 11.3.5 破解与逆向工程 ===
