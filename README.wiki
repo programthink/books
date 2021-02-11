@@ -2503,7 +2503,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 费曼物理学讲义 || The Feynman Lectures on Physics || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B2%BB%E6%9B%BC 理查德·费曼] || 英文PDF(共3卷 扫描版) || 2020-12-12 || [https://docs.google.com/document/d/1-A-xrWTmI6ouVE9etTqAVGJZjbOEKNxIYjN7T9P4snA/ 简介]
+| 费曼物理学讲义 || The Feynman Lectures on Physics || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B2%BB%E6%9B%BC 理查德·费曼] || 简体PDF(共3卷 扫描版)<br>英文PDF(共3卷 扫描版) || 2021-02-11<br>2020-12-12 || [https://docs.google.com/document/d/1-A-xrWTmI6ouVE9etTqAVGJZjbOEKNxIYjN7T9P4snA/ 简介]
 |}
 
 === 9.3.3 基础理论 ===
