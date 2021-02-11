@@ -3509,7 +3509,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 灰帽攻击安全手册<br>——渗透测试与漏洞分析技术 || Gray Hat Hacking<br>——The Ethical Hacker's Handbook || Allen Harper<br>等 || 英文PDF(第3版)<br>英文PDF(第2版)<br>简体PDF(第1版) || 2018-07-25<br>2019-03-24<br>2018-11-09 || [https://docs.google.com/document/d/1zid6lw6kVYkCbRSd-Jw8sBOXjXVXIC3_TyitTok-ei0/ 简介]
 |-
-| 黑客攻防技术宝典<br>——Web 实战篇 || The Web Application Hacker's Handbook<br>——Finding and Exploiting Security Flaws || (英) Dafydd Stuttard (网名：PortSwigger)<br>(英) Marcus Pinto || 英文PDF(第2版) || 2019-03-24 || [https://docs.google.com/document/d/1qmNBoGEVwI3WFy_y1C0aqphQ6V-rU7ubGJQA2TA_nF4/ 简介]
+| 黑客攻防技术宝典<br>——Web 实战篇 || The Web Application Hacker's Handbook<br>——Finding and Exploiting Security Flaws || (英) Dafydd Stuttard (网名：PortSwigger)<br>(英) Marcus Pinto || 简体EPUB(第2版)<br>英文PDF(第2版) || 2021-02-11<br>2019-03-24 || [https://docs.google.com/document/d/1qmNBoGEVwI3WFy_y1C0aqphQ6V-rU7ubGJQA2TA_nF4/ 简介]
 |-
 | Shellcoder 编程揭秘 || Shellcoder's Programming Uncovered || (俄) [https://en.wikipedia.org/wiki/Kris_Kaspersky Kris Kaspersky] || 简体PDF(扫描版) || 2018-07-25 || [https://docs.google.com/document/d/1wBJQBF3OQNvsOaQBd6v3JLjRI-rIboI40eLXvdlPmeY/ 简介]
 |-
