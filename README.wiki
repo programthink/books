@@ -1722,6 +1722,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 罗马史 || Roman History || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%BA%87%E5%AE%89 阿庇安] || 简体TXT || 2016-05-01 || [https://docs.google.com/document/d/1GVroBptLKVrTqTf8CtZxDapZZ3Zj4JFWD1OaIAnVpmI/ 简介]
 |-
+| 编年史<br>''其它中文名：''<br>罗马编年史<br>罗马帝国编年史 || Annals || (古罗马) [https://zh.wikipedia.org/wiki/%E5%A1%94%E8%A5%BF%E9%99%80 塔西佗] || 简体PDF(上下册) || 2021-02-12 || [https://docs.google.com/document/d/1X_DQGdzZp1lhJyGdXwm6Ox-tXC6yG54C76HcBLLwDh0/ 简介]
+|-
 | 罗马十二帝王传<br>''其它中文名：''<br>十二凯撒传 || The Twelve Caesars || (古罗马) [https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%9F%83%E6%89%98%E5%B0%BC%E4%B9%8C%E6%96%AF 苏维托尼乌斯] || 简体PDF(扫描版)<br>英文EPUB || 2020-03-29<br>2021-02-12 || [https://docs.google.com/document/d/1fK6WWwBrK1E1UWBX729E1HGps6kVS3li2B8udk8-yj4/ 简介]
 |}
 
