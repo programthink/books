@@ -1588,7 +1588,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 欧洲文明史<br>——自罗马帝国败落起到法国革命 || The History of Civilization in Europe || (法) [https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E7%B4%A2%E7%93%A6%C2%B7%E5%9F%BA%E4%BD%90 弗朗索瓦·基佐] || 简体PDF(扫描版) || 2018-08-08 || [https://docs.google.com/document/d/1Zlf4Ell_ctf4Wlh0s9ZPWgQbyLSglZ7qslDR7IL_57Y/ 简介]
 |-
-| 欧洲中世纪史 || Medieval Europe<br>——A Short History || (美) [https://en.wikipedia.org/wiki/Judith_M._Bennett 朱迪斯·本内特]<br>(美) [https://en.wikipedia.org/wiki/C._Warren_Hollister 沃伦·霍利斯特] || 简体PDF(第10版 扫描版) || 2017-05-04 || [https://docs.google.com/document/d/1Z5LP2rrfwPSi4wlw9C4UjEt9xefdzDkFj5DXo3az6YU/ 简介]
+| 欧洲中世纪史 || Medieval Europe<br>——A Short History || (美) [https://en.wikipedia.org/wiki/Judith_M._Bennett 朱迪斯·本内特]<br>(美) [https://en.wikipedia.org/wiki/C._Warren_Hollister 沃伦·霍利斯特] || 简体EPUB(第10版)<br>简体PDF(第10版 扫描版) || 2021-02-12<br>2017-05-04 || [https://docs.google.com/document/d/1Z5LP2rrfwPSi4wlw9C4UjEt9xefdzDkFj5DXo3az6YU/ 简介]
 |-
 | 牛津通识读本：启蒙运动 || The Enlightenment<br>——A Very Short Introduction || (英) 约翰·罗伯逊 || 英文EPUB || 2020-03-14 || [https://docs.google.com/document/d/1ZrrZPyQPo9vPbQ2IMtD3BZP0ychdufu4MJu9ye2eHow/ 简介]
 |-
