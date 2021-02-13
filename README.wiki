@@ -1256,7 +1256,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 历届克格勃主席的命运 || Chairmen of the KGB<br>——Declassified fates || (俄) [https://en.wikipedia.org/wiki/Leonid_Mlechin 列昂尼德·姆列钦] || 简体PDF || 2019-02-07 || [https://docs.google.com/document/d/1chwsKlI2WbWOzm-X8-u5hmEHe0BhKT1kA-JBh9LNJQw/ 简介]
 |-
-| 正午的黑暗<br>''其它中文名：''<br>中午的黑暗 || Darkness at Noon || (匈/英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%91%9F%C2%B7%E5%BA%93%E6%96%AF%E5%8B%92 阿瑟·库斯勒] || 英文PDF<br>英文EPUB || 2015-02-09<br>2014-07-28 || [https://docs.google.com/document/d/1poDDwknFCDnMpKvtINbiUVV2bacQcBIDn0kiV5-z1fc/ 简介]
+| 正午的黑暗<br>''其它中文名：''<br>中午的黑暗 || Darkness at Noon || (匈/英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%91%9F%C2%B7%E5%BA%93%E6%96%AF%E5%8B%92 阿瑟·库斯勒] || 简体PDF(扫描版)<br>英文PDF<br>英文EPUB || 2021-02-13<br>2015-02-09<br>2014-07-28 || [https://docs.google.com/document/d/1poDDwknFCDnMpKvtINbiUVV2bacQcBIDn0kiV5-z1fc/ 简介]
 |}
 
 === 1.5.4 (其它) ===
