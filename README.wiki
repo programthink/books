@@ -1266,13 +1266,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 牛津通识读本：苏联 || The Soviet Union<br>——A Very Short Introduction || (英) [https://en.wikipedia.org/wiki/Stephen_Lovell 斯蒂芬·洛弗尔] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/131UGqunGt0xPmEK3Yg92Wsw3UVY22WDiSopplYyPFko/ 简介]
 |-
-| 俄国人 || The Russians || (美) [https://en.wikipedia.org/wiki/Hedrick_Smith 赫德里克·史密斯] || 简体PDF(扫描版) || 2014-02-21 || [https://docs.google.com/document/d/1nScKyimclxq6c4LtLzAwmkA2rA7IpMZRz_-WNesSZGU/ 简介]
+| 俄国人 || The Russians || (美) [https://en.wikipedia.org/wiki/Hedrick_Smith 赫德里克·史密斯] || 简体PDF(上下册 扫描版) || 2014-02-21 || [https://docs.google.com/document/d/1nScKyimclxq6c4LtLzAwmkA2rA7IpMZRz_-WNesSZGU/ 简介]
 |-
-| 苏联真相<br>——对101个重要问题的思考 || N/A || 陆南泉<br>等 || 简体PDF(共3册 扫描版) || 2013-01-01 || [https://docs.google.com/document/d/1K54A5nD5MVza4anh1IR66Bx62GMpk5iHKeYSuKZLwWk/ 简介]
+| 苏联真相<br>——对101个重要问题的思考 || N/A || 陆南泉<br>等 || 简体PDF(上中下册 扫描版) || 2013-01-01 || [https://docs.google.com/document/d/1K54A5nD5MVza4anh1IR66Bx62GMpk5iHKeYSuKZLwWk/ 简介]
 |-
 | 苏联的心灵<br>——共产主义时代的俄国文化 || The Soviet Mind<br>——Russian Culture under Communism || (俄/英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版)<br>英文PDF || 2013-08-21<br>2020-03-02 || [https://docs.google.com/document/d/1XAiAtPnr-HkFh2Rh1NFAWUQZwrUA19wK4QfleOeik_8/ 简介]
 |-
-| 访苏归来<br>''其它中文名：''<br>从苏联归来 || Return From The USSR || (法) [https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E7%B4%80%E5%BE%B7 安德烈·纪德] || 英文PDF(扫描版) || 2019-02-08 || [https://docs.google.com/document/d/10V7nWhWPw08KoQFMhC7z3FZzmAq6aGKXGHh8zJEgNBo/ 简介]
+| 访苏归来<br>''其它中文名：''<br>从苏联归来 || Return From The USSR || (法) [https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E7%B4%80%E5%BE%B7 安德烈·纪德] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2021-02-13<br>2019-02-08 || [https://docs.google.com/document/d/10V7nWhWPw08KoQFMhC7z3FZzmAq6aGKXGHh8zJEgNBo/ 简介]
 |-
 | 莫斯科日记<br>''其它中文名：''<br>我和妻子的苏联之行 || N/A || (法) [https://zh.wikipedia.org/wiki/%E7%BD%97%E6%9B%BC%C2%B7%E7%BD%97%E5%85%B0 罗曼·罗兰] || 简体PDF(扫描版) || 2019-05-18 || [https://docs.google.com/document/d/1FUagwwWR_kF2hfM_VFZlDHuoqjEhsWuJnLD-u-srtAM/ 简介]
 |}
