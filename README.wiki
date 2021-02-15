@@ -860,6 +860,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 我之历史<br>——宋教仁日记 || N/A || [https://zh.wikipedia.org/wiki/%E5%AE%8B%E6%95%99%E4%BB%81 宋教仁] || 简体PDF(扫描版) || 2021-02-15 || [https://docs.google.com/document/d/1_44vdjcRYtDg--YOFbTsewEhpi3hZBsvTtf1DZXcy5Q/ 简介]
+|-
 | 胡汉民自传 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E6%BC%A2%E6%B0%91 胡汉民] || 繁體DJVU(竪排掃描版) || 2015-07-16 || [https://docs.google.com/document/d/1Qwj6kbAo2KknFR-IrGhZ1N1wXNCNjGSpKjpcViCaYIw/ 简介]
 |-
 | 李宗仁回忆录 || Memoirs of Li Zongren || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AE%97%E4%BB%81 李宗仁] (口述)<br>(中/美) [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] (整理) || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2019-08-23<br>2019-08-23<br>2020-03-28 || [https://docs.google.com/document/d/1rzkS83xuJNc1mHBuUg9DE095ZRYZVxWYF2HlsrLv6bk/ 简介]
