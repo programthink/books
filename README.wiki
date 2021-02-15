@@ -1074,13 +1074,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 牛津通识读本：美国政治 || American Politics<br>——A Very Short Introduction || (美) 理查德·瓦雷利 || 英文PDF || 2020-03-16 || [https://docs.google.com/document/d/106g2CvDBVl71uMjnKikIhtl8EGTKXybBwRSAcHsuHPE/ 简介]
 |-
-| 牛津通识读本：美国总统制 || The American Presidency<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones 查尔斯·琼斯] || 简体EPUB<br>简体AZW3 || 2015-12-04<br>2015-12-04 || [https://docs.google.com/document/d/1TFcoQFM8Htsq-Kku7pIu7-74mO3zmWt356smEooh_Dc/ 简介]
+| 牛津通识读本：美国总统制 || The American Presidency<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Charles_O._Jones 查尔斯·琼斯] || 简体EPUB(第1版)<br>简体AZW3(第1版) || 2015-12-04<br>2015-12-04 || [https://docs.google.com/document/d/1TFcoQFM8Htsq-Kku7pIu7-74mO3zmWt356smEooh_Dc/ 简介]
 |-
 | 牛津通识读本：美国国会 || The U.S. Congress<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Donald_A._Ritchie 唐纳德·里奇] || 简体EPUB(第2版)<br>简体MOBI(第2版)<br>英文PDF(第1版)<br>英文MOBI(第1版) || 2021-02-15<br>2021-02-15<br>2015-12-13<br>2020-12-07 || [https://docs.google.com/document/d/1iXTywNedZJNqUcbt3HPZVv8yyGF2pE1WH-mU5sfDl1I/ 简介]
 |-
 | 牛津通识读本：美国最高法院 || The U.S. Supreme Court<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Linda_Greenhouse 琳达·格林豪斯] || 简体EPUB<br>简体AZW3 || 2015-12-05<br>2015-12-05 || [https://docs.google.com/document/d/1L-6STYxRapvr6ABkQen7mR_H1z6DgF77rizv8kjhu4c/ 简介]
 |-
-| 牛津通识读本：美国政党和选举 || American Political Parties and Elections<br>——A Very Short Introduction || (美) 桑迪·梅塞尔 || 英文PDF || 2015-12-12 || [https://docs.google.com/document/d/1TvAyY9Sgko8T1HkyYwfm_vf647i3XyN9RobuLqlJAaQ/ 简介]
+| 牛津通识读本：美国政党和选举 || American Political Parties and Elections<br>——A Very Short Introduction || (美) 桑迪·梅塞尔 || 简体EPUB(第2版)<br>简体AZW3(第2版)<br>英文PDF(第1版) || 2021-02-15<br>2021-02-15<br>2015-12-12 || [https://docs.google.com/document/d/1TvAyY9Sgko8T1HkyYwfm_vf647i3XyN9RobuLqlJAaQ/ 简介]
 |-
 | 九人<br>——美国最高法院风云 || The Nine<br>——Inside the Secret World of the Supreme Court || (美) [https://en.wikipedia.org/wiki/Jeffrey_Toobin 杰弗里·图宾] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2017-02-17<br>2020-03-03 || [https://docs.google.com/document/d/1CS_ajBau54MmeitnGksLHDmraiCGSdKuHBhF7uZPKsk/ 简介]
 |-
