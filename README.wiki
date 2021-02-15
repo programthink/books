@@ -838,7 +838,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 蒋中正思想言论总集 || N/A || [https://zh.wikipedia.org/wiki/%E8%94%A3%E4%B8%AD%E6%AD%A3 蒋中正] || 繁體CHM || 2015-02-08 || [https://docs.google.com/document/d/186_5s7cGfLSBDXFqni3K9IgRSJ8SSURFuenNgpUgRdk/ 简介]
 |-
-| 蒋介石传 || The Man Who Lost China<br>——The First Full Biography of Chiang Kai-shek || (美) [https://en.wikipedia.org/wiki/Brian_Crozier 布赖恩·克罗泽] || 简体EPUB || 2019-08-23 || [https://docs.google.com/document/d/1TuZUsT-vbwow1n7i-MzGBirjB6L5KSO2dqsiWb30M0U/ 简介]
+| 蒋介石传 || The Man Who Lost China<br>——The First Full Biography of Chiang Kai-shek || (美) [https://en.wikipedia.org/wiki/Brian_Crozier 布赖恩·克罗泽] || 简体EPUB<br>简体PDF(扫描版) || 2019-08-23<br>2021-02-15 || [https://docs.google.com/document/d/1TuZUsT-vbwow1n7i-MzGBirjB6L5KSO2dqsiWb30M0U/ 简介]
 |-
 | 从大历史的角度读蒋介石日记 || From a Macrohistory Perspective in Reading Jiang Jieshi's Diary || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 繁體PDF(竪排掃描版) || 2021-02-15 || [https://docs.google.com/document/d/10AewWJU-tS4-EH78hjsIYVm5askTIpvADg94eTf9oo0/ 简介]
 |}
