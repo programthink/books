@@ -1746,7 +1746,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 美国黑人斗争史<br>——1619年至今的历史、文献与分析 || Black Protest<br>——History, Documents and Analysis, 1619 to the Present || (美) [https://en.wikipedia.org/wiki/Joanne_Grant 乔安妮·格兰特] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1UCJRlWpQ-VTq9h0NEFOCuA8WY9oIoZzplZ1xFoVHgZc/ 简介]
 |-
-| 牛津通识读本：大萧条与新经济政策 || The Great Depression and The New Deal<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway 埃里克·罗威] || 英文PDF<br>英文MOBI || 2015-12-15<br>2020-12-08 || [https://docs.google.com/document/d/1hru2tjET-53dWFNdaf0tvxR3sdWr09PsVI8Uvqur_S4/ 简介]
+| 牛津通识读本：大萧条与罗斯福新政 || The Great Depression and The New Deal<br>——A Very Short Introduction || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway 埃里克·罗威] || 简体EPUB<br>简体MOBI<br>英文PDF<br>英文MOBI || 2021-02-16<br>2021-02-16<br>2015-12-15<br>2020-12-08 || [https://docs.google.com/document/d/1hru2tjET-53dWFNdaf0tvxR3sdWr09PsVI8Uvqur_S4/ 简介]
 |}
 
 == 3.7 英国 ==
