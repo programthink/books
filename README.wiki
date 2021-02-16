@@ -3015,7 +3015,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 伯罗奔尼撒战争史 || History of the Peloponnesian War || (古希腊) [https://zh.wikipedia.org/wiki/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7 修昔底德] || 简体PDF(2册本 扫描版)<br>简体EPUB<br>简体TXT<br>英文PDF(精装版)<br>英文PDF(共3卷 扫描版) || 2014-07-27<br>2015-02-13<br>2016-05-01<br>2018-08-08<br>2020-01-21 || [https://docs.google.com/document/d/1U0VOIk64b-mKriKcAUiNBZSOOo0Y4q_RMV187Prgt4Q/ 简介]
 |-
-| 历史<br>''其它中文名：''<br>希波战争史 || The Histories || (古希腊) [https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%BE%85%E5%A4%9A%E5%BE%B7 希罗多德] || 简体PDF(扫描版)<br>英文EPUB || 2017-08-11<br>2020-01-21 || [https://docs.google.com/document/d/1Ru1gXzS-hiiKX1WHOF5f7IPsG09_YWIuwMHKEBlNKLA/ 简介]
+| 希波战争史<br>''其它中文名：''<br>历史 || The Histories || (古希腊) [https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%BE%85%E5%A4%9A%E5%BE%B7 希罗多德] || 简体PDF(上下册)<br>简体PDF(扫描版)<br>英文EPUB || 2021-02-16<br>2017-08-11<br>2020-01-21 || [https://docs.google.com/document/d/1Ru1gXzS-hiiKX1WHOF5f7IPsG09_YWIuwMHKEBlNKLA/ 简介]
 |-
 | 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版)<br>英文EPUB || 2013-02-07<br>2015-07-18<br>2018-08-08 || [https://docs.google.com/document/d/17nELJ7-eABOYeTtd35lLUJSlHwK5-z89SIIcqW6w2qs/ 简介]
 |-
