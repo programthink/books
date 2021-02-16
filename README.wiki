@@ -1703,7 +1703,9 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 希腊城邦制度<br>——读希腊史笔记 || N/A || [https://zh.wikipedia.org/wiki/%E9%A1%A7%E5%87%86 顾准] || 简体PDF<br>简体PDF(扫描版)<br>简体MOBI || 2013-02-07<br>2019-08-18<br>2015-02-13 || [https://docs.google.com/document/d/15Rc3KZKlgewwGrzkR-Ig3E1KCuMGL-tClQKVM1j3jMo/ 简介]
 |-
-| 爱琴海沿岸的奇异王国 || Wondrous Realms of the Aegean || (美) 戴尔·布朗 || 简体PDF(扫描版) || 2015-11-03 || [https://docs.google.com/document/d/1Pv3n0D9aand8LU3-2bjjiAxYd3Plt9e2uoRKODOE3z8/ 简介]
+| 爱琴海沿岸的奇异王国 || Wondrous Realms of the Aegean || (美) 戴尔·布朗 (主编) || 简体PDF(扫描版) || 2015-11-03 || [https://docs.google.com/document/d/1Pv3n0D9aand8LU3-2bjjiAxYd3Plt9e2uoRKODOE3z8/ 简介]
+|-
+| 牛津通识读本：亚历山大大帝 || Alexander the Great<br>——A Very Short Introduction || (英) 休·鲍登 || 英文EPUB || 2021-02-16 || [https://docs.google.com/document/d/1lVH-9pnjYVOaKfPDkTz11AHfzp6NF5piqEt_FD2vtjA/ 简介]
 |-
 | 牛津通识读本：希罗多德 || Herodotus<br>——A Very Short Introduction || (美) 詹尼弗·罗伯茨 || 英文EPUB || 2020-03-14 || [https://docs.google.com/document/d/18pBraPmAeY2AnNLyIJbJWANwfR3wlo8QOZ7Y_50i5wQ/ 简介]
 |}
