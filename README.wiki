@@ -3325,7 +3325,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 软件调试修炼之道 || Debug It<br>——Find, Repair and Prevent Bugs in Your Code || (美) Paul Butcher || 英文PDF || 2020-04-06 || [https://docs.google.com/document/d/1B1-Qcn3os_49ypUWnfPT5WaqnOZqsQt3rUwF2N-1810/ 简介]
 |-
-| 软件调试的艺术 || The Art of Debugging with GDB, DDD and Eclipse || (美) [https://en.wikipedia.org/wiki/Norman_Matloff Norman Matloff]<br>(美) [https://en.wikipedia.org/wiki/Peter_J._Salzman Peter Salzman] || 简体PDF(扫描版) || 2020-04-10 || [https://docs.google.com/document/d/1kBVMBAzvdEeVfEjr3iQ4PfMwWe3Kd4vWBq8Fw7sTi0M/ 简介]
+| 软件调试的艺术 || The Art of Debugging with GDB, DDD and Eclipse || (美) [https://en.wikipedia.org/wiki/Norman_Matloff Norman Matloff]<br>(美) [https://en.wikipedia.org/wiki/Peter_J._Salzman Peter Salzman] || 简体PDF(扫描版)<br>英文PDF || 2020-04-10<br>2021-03-12 || [https://docs.google.com/document/d/1kBVMBAzvdEeVfEjr3iQ4PfMwWe3Kd4vWBq8Fw7sTi0M/ 简介]
 |}
 
 === 11.1.6 操作系统相关 ===
