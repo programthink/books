@@ -2495,7 +2495,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 怎样解题<br>——数学思维的新方法 || How to Solve It<br>——A New Aspect of Mathematical Method || (匈/瑞士/美) [https://en.wikipedia.org/wiki/George_P%C3%B3lya 乔治·波利亚] || 简体PDF(第2版) || 2020-12-11 || [https://docs.google.com/document/d/1c_1XoQVTlQO30YaR6FP36Ry8u_6itzGMaGW7BhGoh-w/ 简介]
+| 怎样解题<br>——数学思维的新方法 || How to Solve It<br>——A New Aspect of Mathematical Method || (匈/瑞士/美) [https://en.wikipedia.org/wiki/George_P%C3%B3lya 乔治·波利亚] || 简体PDF(第2版)<br>英文PDF(第2版 扫描版) || 2020-12-11<br>2021-03-23 || [https://docs.google.com/document/d/1c_1XoQVTlQO30YaR6FP36Ry8u_6itzGMaGW7BhGoh-w/ 简介]
 |}
 
 == 9.3 物理学 ==
