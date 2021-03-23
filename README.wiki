@@ -2573,7 +2573,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 上帝与新物理学 || God and the New Physics || (美) [https://en.wikipedia.org/wiki/Paul_Davies 保罗·戴维斯] || 简体PDF || 2020-12-13 || [https://docs.google.com/document/d/1raQu23YaeL3HDibIVA8C-IpqbtWV2pKN4l3aPoyif4g/ 简介]
+| 上帝与新物理学 || God and the New Physics || (美) [https://en.wikipedia.org/wiki/Paul_Davies 保罗·戴维斯] || 简体PDF<br>英文EPUB || 2020-12-13<br>2021-03-23 || [https://docs.google.com/document/d/1raQu23YaeL3HDibIVA8C-IpqbtWV2pKN4l3aPoyif4g/ 简介]
 |}
 
 == 9.4 化学 ==
