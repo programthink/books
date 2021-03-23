@@ -2561,7 +2561,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 |-
 | 时间简史<br>——从大爆炸到黑洞 || A Brief History of Time<br>——From the Big Bang to Black Holes || (英) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E9%9C%8D%E9%87%91 斯蒂芬·霍金] || 简体PDF(插图本 扫描版)<br>英文EPUB(10周年纪念版) || 2021-01-20<br>2020-12-13 || [https://docs.google.com/document/d/1Oc6yc00-CVy3yM32tC9C0mCuvQ4WnOn8VAYSV_j5KHM/ 简介]
 |-
-| 最初三分钟<br>——关于宇宙起源的现代观点 || The First Three Minutes<br>——A Modern View of the Origin of the Universe || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E6%96%87%C2%B7%E6%B8%A9%E4%BC%AF%E6%A0%BC 史蒂文·温伯格] || 简体PDF(扫描版) || 2020-12-13 || [https://docs.google.com/document/d/191VR7dD7PjVput20S6mb_HzHzqgu3TBV7csiAAsiofw/ 简介]
+| 最初三分钟<br>——关于宇宙起源的现代观点 || The First Three Minutes<br>——A Modern View of the Origin of the Universe || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E6%96%87%C2%B7%E6%B8%A9%E4%BC%AF%E6%A0%BC 史蒂文·温伯格] || 简体PDF(扫描版)<br>英文PDF || 2020-12-13<br>2021-03-23 || [https://docs.google.com/document/d/191VR7dD7PjVput20S6mb_HzHzqgu3TBV7csiAAsiofw/ 简介]
 |-
 | 宇宙的最后三分钟<br>——关于宇宙归宿的最新观念 || The Last Three Minutes<br>——Conjectures about the Ultimate Fate of the Universe || (美) [https://en.wikipedia.org/wiki/Paul_Davies 保罗·戴维斯] || 简体PDF || 2020-12-13 || [https://docs.google.com/document/d/13XxlLKwI1QuV5ItE5-IytgvCDdLmDdDlNB-wSJqvAAQ/ 简介]
 |-
