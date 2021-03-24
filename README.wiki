@@ -2785,7 +2785,7 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 从一到无穷大<br>——科学中的事实和臆测 || One Two Three... Infinity<br>——Facts and Speculations of Science || (苏/美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E4%BC%BD%E8%8E%AB%E5%A4%AB 乔治·伽莫夫] || 简体PDF(精校版) || 2020-12-22 || [https://docs.google.com/document/d/1E0AHcA0Yx4rJBGnNR83unxjS8orHUfZJSUFRGHuWAmI/ 简介]
+| 从一到无穷大<br>——科学中的事实和臆测 || One Two Three... Infinity<br>——Facts and Speculations of Science || (苏/美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E4%BC%BD%E8%8E%AB%E5%A4%AB 乔治·伽莫夫] || 简体PDF(精校版)<br>英文EPUB || 2020-12-22<br>2021-03-24 || [https://docs.google.com/document/d/1E0AHcA0Yx4rJBGnNR83unxjS8orHUfZJSUFRGHuWAmI/ 简介]
 |}
 
 ----
