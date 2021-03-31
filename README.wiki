@@ -3481,11 +3481,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 密码学原理与实践 || Cryptography<br>——Theory and Practice || (加) [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF(第2版 扫描版)<br>英文CHM || 2013-10-21<br>2013-10-30 || [https://docs.google.com/document/d/1uKHHs7F2rmX7mnPGsOAeLhYUTFtj4vMoZPAkEs6U7PQ/ 简介]
+| 密码编码学与网络安全<br>——原理与实践 || Cryptography and Network Security<br>——Principles and Practice || (美) [https://en.wikipedia.org/wiki/William_Stallings William Stallings] || 英文PDF(第7版)<br>英文PDF(第6版)<br>英文PDF(第5版)<br>英文PDF(第4版)<br>简体PDF(第3版 扫描版) || 2021-03-31<br>2021-03-31<br>2013-11-18<br>2019-03-25<br>2013-11-18 || [https://docs.google.com/document/d/17j7YU3oVijVxEawynMkKksX0WscdK7LzuM69i3tzVa4/ 简介]
+|-
+| 密码学原理与实践 || Cryptography<br>——Theory and Practice || (加) [https://en.wikipedia.org/wiki/Doug_Stinson Douglas Stinson] || 简体PDF(第2版 扫描版)<br>英文CHM(第1版) || 2013-10-21<br>2013-10-30 || [https://docs.google.com/document/d/1uKHHs7F2rmX7mnPGsOAeLhYUTFtj4vMoZPAkEs6U7PQ/ 简介]
 |-
 | 应用密码学<br>——协议、算法与 C 源程序 || Applied Cryptography<br>——Protocols, Algorithms, and Source Code in C || (美) [https://en.wikipedia.org/wiki/Bruce_Schneier Bruce Schneier] || 简体PDF(第2版 扫描版)<br>英文EPUB(第2版)<br>英文PDF(第2版) || 2013-11-26<br>2015-07-21<br>2013-10-21 || [https://docs.google.com/document/d/1-Y1fvHcM-UcWl5Ich-Dy1-Q36r4L0jXZO-i2PdI_2YQ/ 简介]
-|-
-| 密码编码学与网络安全<br>——原理与实践 || Cryptography and Network Security<br>——Principles and Practice || (美) [https://en.wikipedia.org/wiki/William_Stallings William Stallings] || 英文PDF(第5版)<br>英文PDF(第4版)<br>简体PDF(第3版 扫描版) || 2013-11-18<br>2019-03-25<br>2013-11-18 || [https://docs.google.com/document/d/17j7YU3oVijVxEawynMkKksX0WscdK7LzuM69i3tzVa4/ 简介]
 |}
 
 === 11.3.3 安全加固 ===
