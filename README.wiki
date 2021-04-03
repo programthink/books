@@ -3647,7 +3647,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 深入解析 Windows 操作系统<br>''其它中文名：''<br>Windows 内部揭密 || Windows Internals || (西班牙) [https://en.wikipedia.org/wiki/Mark_Russinovich Mark Russinovich]<br>David Solomon<br>Alex Ionescu || 英文PDF(第6版 上下册)<br>英文PDF(第5版)<br>英文PDF(第4版)<br>简体PDF(第4版 扫描版) || 2019-04-13<br>2018-08-03<br>2018-08-03<br>2018-11-09 || [https://docs.google.com/document/d/1lb_QR-35FqkW-qKFM-DPU-xnFN2Q13-qe-28_AqoOVU/ 简介]
+| 深入解析 Windows 操作系统<br>''其它中文名：''<br>Windows 内部揭密 || Windows Internals<br>''其它英文名：''<br>Inside Microsoft Windows 2000<br>Inside Microsoft Windows NT || (西班牙/美) [https://en.wikipedia.org/wiki/Mark_Russinovich Mark Russinovich]<br>(美) David Solomon<br>(罗马尼亚/加) Alex Ionescu<br>(以色列) Pavel Yosifovich || 英文PDF(第6版 上下册)<br>英文EPUB(第6版 上下册)<br>英文PDF(第5版)<br>英文PDF(第4版)<br>简体PDF(第4版 扫描版) || 2019-04-13<br>2021-04-03<br>2018-08-03<br>2018-08-03<br>2018-11-09 || [https://docs.google.com/document/d/1lb_QR-35FqkW-qKFM-DPU-xnFN2Q13-qe-28_AqoOVU/ 简介]
 |}
 
 == 11.5 网络 ==
