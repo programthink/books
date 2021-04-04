@@ -3351,7 +3351,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 如何编写动态库 || How to Write Shared Libraries || (美) [https://de.wikipedia.org/wiki/Ulrich_Drepper Ulrich Drepper] || 英文PDF || 2019-03-17 || [https://docs.google.com/document/d/1UpwXITuBP4cIiKZSg6gl89tjV58BDr6uussqIAaozps/ 简介]
 |-
-| 精通 Linux 设备驱动程序开发 || Essential Linux Device Drivers || (印度) Venkateswaran || 简体PDF(扫描版) || 2015-11-06 || [https://docs.google.com/document/d/1KZuHFCKZkF1cjdLAXVvIq4TJp9XHIcM1WRt5t3I6LR8/ 简介]
+| 精通 Linux 设备驱动程序开发 || Essential Linux Device Drivers || (印度) Sreekrishnan Venkateswaran || 简体PDF(扫描版)<br>英文PDF || 2015-11-06<br>2021-04-04 || [https://docs.google.com/document/d/1KZuHFCKZkF1cjdLAXVvIq4TJp9XHIcM1WRt5t3I6LR8/ 简介]
 |}
 
 ==== 11.1.6.2 Windows ====
