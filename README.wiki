@@ -3641,7 +3641,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Linux 内核设计与实现<br>''其它中文名：''<br>精通 Linux 核心開發<br>——設計與實作 Linux 核心的權威指南 || Linux Kernel Development<br>——A Thorough Guide to the Design and Implementation of the Linux Kernel || (美) [https://en.wikipedia.org/wiki/Robert_Love Robert Love] || 简体PDF(第3版 扫描版)<br>英文PDF(第3版) || 2021-02-06<br>2020-04-10 || [https://docs.google.com/document/d/1Ko1xEJEFRJmCgaS8-FlAEWXPeOioB3LyuDSAdYiAQZs/ 简介]
 |-
-| 深入理解 Linux 内核 || Understanding the Linux Kernel || Daniel Bovet<br>Marco Cesati || 英文PDF(第3版)<br>英文CHM(第3版) || 2013-12-06<br>2013-10-21 || [https://docs.google.com/document/d/1kzwG7YYLCWTipbaJncwDnVxC8cD8_-B9m9OkkYa4tDs/ 简介]
+| 深入理解 Linux 内核 || Understanding the Linux Kernel || (意) Daniel Bovet<br>(意) Marco Cesati || 简体PDF(第3版 扫描版)<br>英文PDF(第3版)<br>英文CHM(第3版) || 2021-04-04<br>2013-12-06<br>2013-10-21 || [https://docs.google.com/document/d/1kzwG7YYLCWTipbaJncwDnVxC8cD8_-B9m9OkkYa4tDs/ 简介]
 |}
 
 ==== 11.4.2.4 Windows ====
