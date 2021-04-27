@@ -3383,7 +3383,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| Twisted Network Programming Essentials || Twisted Network Programming Essentials<br>——Event-driven Network Programming with Python<br>''其它英文名：''<br>Twisted Network Programming Essentials<br>——Developing with Python's Event-driven Framework || (美) Abe Fettig<br>(美) [https://en.wikipedia.org/wiki/Jessica_McKellar Jessica McKellar] || 英文EPUB(第2版)<br>英文CHM(第1版) || 2021-04-01<br>2016-12-22 || [https://docs.google.com/document/d/10xotkTyITV-OdtjapXwVsyh8UnD9MoZDffZ7mElCLJY/ 简介]
+| Twisted 网络编程精髓 || Twisted Network Programming Essentials<br>——Event-driven Network Programming with Python<br>''其它英文名：''<br>Twisted Network Programming Essentials<br>——Developing with Python's Event-driven Framework || (美) Abe Fettig<br>(美) [https://en.wikipedia.org/wiki/Jessica_McKellar Jessica McKellar] || 英文EPUB(第2版)<br>英文CHM(第1版) || 2021-04-01<br>2016-12-22 || [https://docs.google.com/document/d/10xotkTyITV-OdtjapXwVsyh8UnD9MoZDffZ7mElCLJY/ 简介]
 |}
 
 ==== 11.1.7.3 Java ====
@@ -3556,6 +3556,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
 | 逆向工程权威指南<br>''其它中文名：''<br>逆向工程入门指南 || Reverse Engineering for Beginners<br>——Understanding Assembly Language<br>''知名缩写：''RE4B || (乌克兰) Dennis Yurichev || 简体EPUB<br>英文PDF || 2019-03-28<br>2018-08-04 || [https://docs.google.com/document/d/1wHhEagVYr-lS2YJWurkzGH1oGnl76CprsuqNw7BXBhk/ 简介]
+|-
+| IDA Pro 权威指南 || IDA Pro Book<br>——The Unofficial Guide to the World's Most Popular Disassembler || (美) Chris Eagle || 英文PDF(第2版)<br>英文CHM(第1版) || 2021-04-27<br>2021-04-27 || [https://docs.google.com/document/d/1THbGf2UoOtLtVlSnWc4AKqxjdDmai9lAqhN6KQJqurY/ 简介]
 |}
 
 === 11.3.6 恶意软件 ===
@@ -3643,7 +3645,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Linux 内核设计与实现<br>''其它中文名：''<br>精通 Linux 核心開發<br>——設計與實作 Linux 核心的權威指南 || Linux Kernel Development<br>——A Thorough Guide to the Design and Implementation of the Linux Kernel || (美) [https://en.wikipedia.org/wiki/Robert_Love Robert Love] || 简体PDF(第3版 扫描版)<br>英文PDF(第3版) || 2021-02-06<br>2020-04-10 || [https://docs.google.com/document/d/1Ko1xEJEFRJmCgaS8-FlAEWXPeOioB3LyuDSAdYiAQZs/ 简介]
 |-
-| 深入理解 Linux 内核 || Understanding the Linux Kernel || (意) Daniel Bovet<br>(意) Marco Cesati || 简体PDF(第3版 扫描版)<br>英文PDF(第3版)<br>英文CHM(第3版) || 2021-04-04<br>2013-12-06<br>2013-10-21 || [https://docs.google.com/document/d/1kzwG7YYLCWTipbaJncwDnVxC8cD8_-B9m9OkkYa4tDs/ 简介]
+| 深入理解 Linux 内核 || Understanding the Linux Kernel || (意) Daniel Bovet<br>(意) Marco Cesati || 英文PDF(第3版)<br>英文CHM(第3版)<br>简体PDF(第1版 扫描版) || 2013-12-06<br>2013-10-21<br>2021-04-04 || [https://docs.google.com/document/d/1kzwG7YYLCWTipbaJncwDnVxC8cD8_-B9m9OkkYa4tDs/ 简介]
 |}
 
 ==== 11.4.2.4 Windows ====
