@@ -827,6 +827,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 | 李作鹏回忆录 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%BD%9C%E9%B9%8F 李作鹏] || 简体EPUB || 2014-03-29 || [https://docs.google.com/document/d/1g0p5OFNZQY5O9pabSFWOwJe1wgQzj6gzJHM7u3zISFU/ 简介]
 |-
 | 邱会作回忆录 || N/A || [https://zh.wikipedia.org/wiki/%E9%82%B1%E4%BC%9A%E4%BD%9C 邱会作] || 简体EPUB || 2014-03-29 || [https://docs.google.com/document/d/1VNpf8W0bPsWXtHiFiBpXXiBptlkegLitPnXOYxM2YFU/ 简介]
+|-
+| 习近平和他的情人们 || N/A || 常博洋 || 简体网页 || 2022-08-15 || [https://xijinping0.github.io/lovers 链接]
 |}
 
 ==== 1.3.2.2 国民党 ====
